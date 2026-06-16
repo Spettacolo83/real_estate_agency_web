@@ -2280,6 +2280,10 @@ Expected: every commit from Tasks 1-20 appears.
 
 ---
 
+## QA log
+
+- **2026-06-16, Task 20:** verifica visiva ai breakpoint 375/768/1440 NON eseguita in sessione (CLI senza browser). Build production verificata: tutte le route compilano, OG dinamica restituisce PNG 1200×630, metadata `og:*`/`twitter:*`/`alternates` corretti. Stefano deve aprire `http://localhost:3000` dopo `npm run dev` e validare visivamente i 3 breakpoint prima di considerare la homepage "demo-ready". Eventuali fix responsive identificati post-QA vanno aggiunti come Task 20.x.
+
 ## Execution Handoff
 
 Plan complete and saved to `docs/superpowers/plans/2026-06-16-foundation-and-homepage.md`. Two execution options:
