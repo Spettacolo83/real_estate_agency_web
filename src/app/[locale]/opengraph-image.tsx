@@ -4,7 +4,7 @@ import { hasLocale } from "next-intl";
 import { routing } from "@/i18n/routing";
 import { notFound } from "next/navigation";
 
-export const alt = "CasAI — Curated estates. AI concierge.";
+export const alt = "CasAI — Curated estates. Intelligent service.";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 

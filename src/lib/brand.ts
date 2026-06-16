@@ -5,9 +5,9 @@ export const BRAND_NAME = "CasAI" as const;
 export const FTFAI_URL = "https://www.followtheflowai.com" as const;
 
 export const TAGLINE_BY_LOCALE: Record<Locale, string> = {
-  en: "Curated estates. AI concierge.",
-  it: "Dimore selezionate. Concierge AI.",
-  es: "Propiedades selectas. Concierge AI.",
+  en: "Curated estates. Intelligent service.",
+  it: "Dimore selezionate. Servizio intelligente.",
+  es: "Propiedades selectas. Servicio inteligente.",
 };
 
 export function getFtfaiUrl(locale: Locale): string {

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "CasAI — Curated estates. AI concierge.",
-    "description": "Boutique homes in Milan, Mallorca, and London — discovered, toured, and booked with an AI concierge that never sleeps."
+    "title": "CasAI — Curated estates. Intelligent service.",
+    "description": "Boutique homes in Milan, Mallorca, and London — discovered, toured, and booked with an AI assistant that never sleeps."
   },
   "nav": {
     "listings": "Listings",
@@ -12,26 +12,26 @@
   },
   "home": {
     "heroEyebrow": "Boutique real estate · Powered by AI",
-    "heroTitle": "Curated estates. AI concierge.",
+    "heroTitle": "Curated estates. Intelligent service.",
     "heroSubtitle": "From a Brera attic to a Mallorcan finca to a Mayfair townhouse — discover homes worth the journey, and book a viewing in seconds.",
     "heroPrimaryCta": "Browse the collection",
-    "heroSecondaryCta": "Speak to the concierge",
+    "heroSecondaryCta": "Ask our AI assistant",
     "featuredEyebrow": "This week's selection",
     "featuredTitle": "Three cities, one private selection",
-    "featuredSubtitle": "Each property in our portfolio is personally previewed by our team and verified by our AI concierge.",
+    "featuredSubtitle": "Each property in our portfolio is personally previewed by our team and verified by our AI assistant.",
     "neighborhoodEyebrow": "Editorial",
     "neighborhoodTitle": "Where the world lives well",
-    "neighborhoodBody": "Milan, Mallorca, and Prime Central London — three places we know street by street. Read what our concierge knows about your future address.",
+    "neighborhoodBody": "Milan, Mallorca, and Prime Central London — three places we know street by street. Ask our AI assistant about your future address.",
     "neighborhoodMilanTag": "Milan",
     "neighborhoodMallorcaTag": "Mallorca",
     "neighborhoodLondonTag": "London",
     "conciergeEyebrow": "Always on",
-    "conciergeTitle": "A concierge that answers at 3 a.m.",
-    "conciergeBody": "Ask about square meters, sun exposure, or whether the lift reaches the cellar — our AI concierge knows every detail of every listing, in your language.",
+    "conciergeTitle": "Answers that don't sleep.",
+    "conciergeBody": "Ask about square meters, sun exposure, or whether the lift reaches the cellar — our AI assistant knows every detail of every listing, in your language, around the clock.",
     "conciergeCta": "Start a conversation"
   },
   "footer": {
-    "tagline": "Boutique homes, AI concierge.",
+    "tagline": "Boutique homes, intelligent service.",
     "navHeading": "Browse",
     "legalHeading": "Legal",
     "legalImprint": "Imprint",
@@ -39,5 +39,37 @@
     "legalTerms": "Terms",
     "credit": "A Follow The Flow AI showcase.",
     "creditLinkLabel": "Discover the technology"
+  },
+  "listings": {
+    "eyebrow": "The collection",
+    "title": "Thirty homes worth the journey",
+    "subtitle": "From €700K to £12M across Milan, Mallorca, and Prime Central London — each property visited, verified, and ready for your AI-assisted tour.",
+    "filterAll": "All cities",
+    "viewSource": "View original listing",
+    "bedLabel": "bed",
+    "bathLabel": "bath",
+    "propertySingular": "property",
+    "propertyPlural": "properties"
+  },
+  "neighborhoods": {
+    "eyebrow": "Editorial",
+    "title": "Three places we know by heart",
+    "body": "Brera and Quadrilatero in Milan, Palma Old Town and Son Vida in Mallorca, Mayfair and Notting Hill in London. Long-form essays on each neighborhood are in production — meanwhile, our AI assistant has the inside scoop in three languages."
+  },
+  "story": {
+    "eyebrow": "About",
+    "title": "Boutique scale, intelligent service",
+    "body": "CasAI is a showcase project by Follow The Flow AI, demonstrating what happens when a luxury real estate agency runs on conversational AI. The full agency story is coming soon."
+  },
+  "contact": {
+    "eyebrow": "Get in touch",
+    "title": "Speak with our team",
+    "body": "For agency partnerships, technology demonstrations, or to schedule a property viewing, the fastest way is our AI assistant — or write directly.",
+    "emailLabel": "Email",
+    "email": "hello@casa.followtheflowai.com"
+  },
+  "comingSoon": {
+    "badge": "Coming soon",
+    "ctaHome": "Back to homepage"
   }
 }

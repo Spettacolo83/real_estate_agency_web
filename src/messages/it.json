@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "CasAI — Dimore selezionate. Concierge AI.",
-    "description": "Case boutique a Milano, Maiorca e Londra — scoperte, visitate e prenotate con un concierge AI che non dorme mai."
+    "title": "CasAI — Dimore selezionate. Servizio intelligente.",
+    "description": "Case boutique a Milano, Maiorca e Londra — scoperte, visitate e prenotate con un assistente AI sempre attivo."
   },
   "nav": {
     "listings": "Immobili",
@@ -12,26 +12,26 @@
   },
   "home": {
     "heroEyebrow": "Immobiliare boutique · Powered by AI",
-    "heroTitle": "Dimore selezionate. Concierge AI.",
+    "heroTitle": "Dimore selezionate. Servizio intelligente.",
     "heroSubtitle": "Da un attico in Brera a una finca maiorchina a una townhouse di Mayfair — scopri case che valgono il viaggio e prenota una visita in pochi secondi.",
     "heroPrimaryCta": "Esplora la collezione",
-    "heroSecondaryCta": "Parla con il concierge",
+    "heroSecondaryCta": "Chiedi all'assistente AI",
     "featuredEyebrow": "Selezione della settimana",
     "featuredTitle": "Tre città, una selezione privata",
-    "featuredSubtitle": "Ogni immobile del nostro portfolio è visionato di persona dal nostro team e verificato dal concierge AI.",
+    "featuredSubtitle": "Ogni immobile del nostro portfolio è visionato di persona dal nostro team e verificato dal nostro assistente AI.",
     "neighborhoodEyebrow": "Editoriale",
     "neighborhoodTitle": "Dove si vive bene nel mondo",
-    "neighborhoodBody": "Milano, Maiorca, Londra Prime Central — tre luoghi che conosciamo strada per strada. Leggi cosa sa il nostro concierge del tuo futuro indirizzo.",
+    "neighborhoodBody": "Milano, Maiorca, Londra Prime Central — tre luoghi che conosciamo strada per strada. Chiedi al nostro assistente AI del tuo futuro indirizzo.",
     "neighborhoodMilanTag": "Milano",
     "neighborhoodMallorcaTag": "Maiorca",
     "neighborhoodLondonTag": "Londra",
     "conciergeEyebrow": "Sempre attivo",
-    "conciergeTitle": "Un concierge che risponde alle 3 di notte",
-    "conciergeBody": "Chiedi metri quadri, esposizione al sole, se l'ascensore arriva in cantina — il nostro concierge AI conosce ogni dettaglio di ogni immobile, nella tua lingua.",
+    "conciergeTitle": "Risposte che non dormono.",
+    "conciergeBody": "Chiedi metri quadri, esposizione al sole, se l'ascensore arriva in cantina — il nostro assistente AI conosce ogni dettaglio di ogni immobile, nella tua lingua, 24 ore su 24.",
     "conciergeCta": "Inizia una conversazione"
   },
   "footer": {
-    "tagline": "Case boutique, concierge AI.",
+    "tagline": "Case boutique, servizio intelligente.",
     "navHeading": "Esplora",
     "legalHeading": "Legale",
     "legalImprint": "Note legali",
@@ -39,5 +39,37 @@
     "legalTerms": "Termini",
     "credit": "Una vetrina di Follow The Flow AI.",
     "creditLinkLabel": "Scopri la tecnologia"
+  },
+  "listings": {
+    "eyebrow": "La collezione",
+    "title": "Trenta case che valgono il viaggio",
+    "subtitle": "Da €700K a £12M tra Milano, Maiorca e Londra Prime Central — ogni immobile visitato, verificato e pronto per il tuo tour assistito dall'AI.",
+    "filterAll": "Tutte le città",
+    "viewSource": "Vedi annuncio originale",
+    "bedLabel": "letti",
+    "bathLabel": "bagni",
+    "propertySingular": "immobile",
+    "propertyPlural": "immobili"
+  },
+  "neighborhoods": {
+    "eyebrow": "Editoriale",
+    "title": "Tre luoghi che conosciamo a memoria",
+    "body": "Brera e Quadrilatero a Milano, Palma vecchia e Son Vida a Maiorca, Mayfair e Notting Hill a Londra. Gli approfondimenti editoriali su ogni quartiere arriveranno presto — nel frattempo il nostro assistente AI ne sa già tutto, in tre lingue."
+  },
+  "story": {
+    "eyebrow": "Chi siamo",
+    "title": "Scala boutique, servizio intelligente",
+    "body": "CasAI è un progetto vetrina di Follow The Flow AI, dimostra cosa succede quando un'agenzia immobiliare di lusso opera con AI conversazionale. La storia completa arriva presto."
+  },
+  "contact": {
+    "eyebrow": "Contattaci",
+    "title": "Parla con il nostro team",
+    "body": "Per partnership con agenzie, demo della tecnologia o prenotare una visita, il modo più veloce è il nostro assistente AI — oppure scrivici direttamente.",
+    "emailLabel": "Email",
+    "email": "hello@casa.followtheflowai.com"
+  },
+  "comingSoon": {
+    "badge": "In arrivo",
+    "ctaHome": "Torna alla homepage"
   }
 }
