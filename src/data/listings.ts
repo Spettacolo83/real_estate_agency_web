@@ -1,4 +1,4 @@
-import type { Listing, ListingCity, ListingsDataset } from "@/types/listing";
+import type { Listing, ListingCity, ListingsDataset, ListingTranslation } from "@/types/listing";
 import raw from "./listings_research.json";
 
 const dataset = raw as unknown as ListingsDataset;
@@ -44,4 +44,18 @@ export function getListingBySlug(
 
 export function getAllSlugs(): ReadonlyArray<{ slug: string; cityKey: ListingCity }> {
   return getAllListings().map((l) => ({ slug: l.id_suggested, cityKey: l.cityKey }));
+}
+
+export function getLocalizedListing(listing: Listing, locale: string): ListingTranslation {
+  const supportedLocales = ["en", "it", "es"] as const;
+  const requested = supportedLocales.find((l) => l === locale) ?? "en";
+  const fromI18n = listing.i18n?.[requested];
+  if (fromI18n) return fromI18n;
+  const fromEn = listing.i18n?.en;
+  if (fromEn) return fromEn;
+  return {
+    title: listing.title,
+    description_short: listing.description_short,
+    description_long: listing.description_long,
+  };
 }

@@ -7,7 +7,7 @@ import { useTranslations, useLocale } from "next-intl";
 import { Container } from "@/components/ui/Container";
 import { Eyebrow } from "@/components/ui/Eyebrow";
 import { Button } from "@/components/ui/Button";
-import { getListingBySlug, getAllSlugs, formatPrice } from "@/data/listings";
+import { getListingBySlug, getAllSlugs, formatPrice, getLocalizedListing } from "@/data/listings";
 import { routing } from "@/i18n/routing";
 import type { ListingCity } from "@/types/listing";
 
@@ -25,12 +25,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const listing = getListingBySlug(slug);
   if (!listing) return { title: "Not found · CasAI" };
   const t = await getTranslations({ locale, namespace: "listingDetail" });
+  const loc = getLocalizedListing(listing, locale);
   return {
-    title: listing.title,
-    description: listing.description_short,
+    title: loc.title,
+    description: loc.description_short,
     openGraph: {
-      title: `${listing.title} · CasAI`,
-      description: listing.description_short,
+      title: `${loc.title} · CasAI`,
+      description: loc.description_short,
       images: listing.photo_urls[0] ? [{ url: listing.photo_urls[0] }] : undefined,
     },
     alternates: {
@@ -68,7 +69,8 @@ function Content({ slug }: { slug: string }) {
   const hero = listing.photo_urls[0];
   const grid = listing.photo_urls.slice(1, 5);
   const rest = listing.photo_urls.slice(5);
-  const paragraphs = listing.description_long
+  const localized = getLocalizedListing(listing, locale);
+  const paragraphs = localized.description_long
     .split(/\n{2,}/)
     .map((p) => p.trim())
     .filter(Boolean);
@@ -93,7 +95,7 @@ function Content({ slug }: { slug: string }) {
               {hero ? (
                 <Image
                   src={hero}
-                  alt={listing.title}
+                  alt={localized.title}
                   fill
                   sizes="(min-width: 768px) 66vw, 100vw"
                   className="object-cover"
@@ -110,7 +112,7 @@ function Content({ slug }: { slug: string }) {
                 >
                   <Image
                     src={url}
-                    alt={`${listing.title} — ${i + 2}`}
+                    alt={`${localized.title} — ${i + 2}`}
                     fill
                     sizes="(min-width: 768px) 16vw, 50vw"
                     className="object-cover"
@@ -134,10 +136,10 @@ function Content({ slug }: { slug: string }) {
                 className="mt-4 text-4xl leading-tight text-[color:var(--color-ink)] md:text-6xl"
                 style={{ fontFamily: "var(--font-cormorant)" }}
               >
-                {listing.title}
+                {localized.title}
               </h1>
               <p className="mt-4 text-base text-[color:var(--color-muted)] md:text-lg">
-                {listing.description_short}
+                {localized.description_short}
               </p>
             </div>
             <aside className="md:col-span-5">
@@ -225,7 +227,7 @@ function Content({ slug }: { slug: string }) {
                 >
                   <Image
                     src={url}
-                    alt={`${listing.title} — ${i + 6}`}
+                    alt={`${localized.title} — ${i + 6}`}
                     fill
                     sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
                     className="object-cover"

@@ -2,6 +2,12 @@ export type ListingCity = "milano" | "mallorca" | "london";
 
 export type ListingCurrency = "EUR" | "GBP";
 
+export type ListingTranslation = {
+  title: string;
+  description_short: string;
+  description_long: string;
+};
+
 export type Listing = {
   id_suggested: string;
   source_url: string;
@@ -22,6 +28,11 @@ export type Listing = {
   coordinates: { lat: number; lng: number };
   photo_urls: ReadonlyArray<string>;
   photos_source_note?: string;
+  i18n?: {
+    en?: ListingTranslation;
+    it?: ListingTranslation;
+    es?: ListingTranslation;
+  };
 };
 
 export type ListingsDataset = {
