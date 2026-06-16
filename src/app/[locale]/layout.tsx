@@ -5,6 +5,7 @@ import { NextIntlClientProvider, hasLocale } from "next-intl";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
+import { NavBar } from "@/components/layout/NavBar";
 
 const cormorant = Cormorant_Garamond({
   subsets: ["latin"],
@@ -46,8 +47,11 @@ export default async function LocaleLayout({ children, params }: Props) {
 
   return (
     <html lang={locale} className={`${cormorant.variable} ${inter.variable}`}>
-      <body>
-        <NextIntlClientProvider>{children}</NextIntlClientProvider>
+      <body className="min-h-screen flex flex-col">
+        <NextIntlClientProvider>
+          <NavBar />
+          <div className="flex-1">{children}</div>
+        </NextIntlClientProvider>
       </body>
     </html>
   );
