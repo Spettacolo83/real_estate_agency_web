@@ -71,5 +71,20 @@
   "comingSoon": {
     "badge": "Coming soon",
     "ctaHome": "Back to homepage"
+  },
+  "imprint": {
+    "eyebrow": "Legal",
+    "title": "Imprint",
+    "body": "CasAI is a showcase project operated by Follow The Flow AI LLC, a Delaware limited liability company. Full legal information will be published with the production launch."
+  },
+  "privacy": {
+    "eyebrow": "Legal",
+    "title": "Privacy notice",
+    "body": "Because CasAI is a public demo, no visitor data is collected, stored, or shared. The full privacy policy will be published with the production launch."
+  },
+  "terms": {
+    "eyebrow": "Legal",
+    "title": "Terms of use",
+    "body": "All property listings, descriptions, and photos on this site are presented for demonstration purposes only and are not commercial offers. Full terms will be published with the production launch."
   }
 }

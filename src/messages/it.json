@@ -71,5 +71,20 @@
   "comingSoon": {
     "badge": "In arrivo",
     "ctaHome": "Torna alla homepage"
+  },
+  "imprint": {
+    "eyebrow": "Legale",
+    "title": "Note legali",
+    "body": "CasAI è un progetto vetrina gestito da Follow The Flow AI LLC, società americana del Delaware. Le informazioni legali complete saranno pubblicate al lancio in produzione."
+  },
+  "privacy": {
+    "eyebrow": "Legale",
+    "title": "Informativa privacy",
+    "body": "Trattandosi di una demo pubblica, CasAI non raccoglie, conserva o condivide dati dei visitatori. L'informativa privacy completa sarà pubblicata al lancio in produzione."
+  },
+  "terms": {
+    "eyebrow": "Legale",
+    "title": "Termini d'uso",
+    "body": "Tutti gli annunci, le descrizioni e le foto presenti sul sito sono mostrati a scopo dimostrativo e non costituiscono offerte commerciali. I termini completi saranno pubblicati al lancio in produzione."
   }
 }
