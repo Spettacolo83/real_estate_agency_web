@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "CasAI — Curated estates. AI concierge.",
+    "description": "Boutique homes in Milan, Mallorca, and London — discovered, toured, and booked with an AI concierge that never sleeps."
+  },
+  "nav": {
+    "listings": "Listings",
+    "neighborhoods": "Neighborhoods",
+    "story": "Our story",
+    "contact": "Contact",
+    "switchLocale": "Language"
+  },
+  "home": {
+    "heroEyebrow": "Boutique real estate · Powered by AI",
+    "heroTitle": "Curated estates. AI concierge.",
+    "heroSubtitle": "From a Brera attic to a Mallorcan finca to a Mayfair townhouse — discover homes worth the journey, and book a viewing in seconds.",
+    "heroPrimaryCta": "Browse the collection",
+    "heroSecondaryCta": "Speak to the concierge",
+    "featuredEyebrow": "This week's selection",
+    "featuredTitle": "Three cities, one private selection",
+    "featuredSubtitle": "Each property in our portfolio is personally previewed by our team and verified by our AI concierge.",
+    "neighborhoodEyebrow": "Editorial",
+    "neighborhoodTitle": "Where the world lives well",
+    "neighborhoodBody": "Milan, Mallorca, and Prime Central London — three places we know street by street. Read what our concierge knows about your future address.",
+    "neighborhoodMilanTag": "Milan",
+    "neighborhoodMallorcaTag": "Mallorca",
+    "neighborhoodLondonTag": "London",
+    "conciergeEyebrow": "Always on",
+    "conciergeTitle": "A concierge that answers at 3 a.m.",
+    "conciergeBody": "Ask about square meters, sun exposure, or whether the lift reaches the cellar — our AI concierge knows every detail of every listing, in your language.",
+    "conciergeCta": "Start a conversation"
+  },
+  "footer": {
+    "tagline": "Boutique homes, AI concierge.",
+    "navHeading": "Browse",
+    "legalHeading": "Legal",
+    "legalImprint": "Imprint",
+    "legalPrivacy": "Privacy",
+    "legalTerms": "Terms",
+    "credit": "A Follow The Flow AI showcase.",
+    "creditLinkLabel": "Discover the technology"
+  }
+}
