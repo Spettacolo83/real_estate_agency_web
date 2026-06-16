@@ -15,7 +15,7 @@ export function Hero() {
           aria-hidden="true"
         />
         <div
-          className="absolute inset-0 bg-gradient-to-b from-[color:var(--color-deep)]/40 via-[color:var(--color-deep)]/30 to-[color:var(--color-canvas)]"
+          className="absolute inset-0 bg-gradient-to-b from-[color:var(--color-deep)]/55 via-[color:var(--color-deep)]/70 to-[color:var(--color-canvas)]"
           aria-hidden="true"
         />
       </div>

@@ -2283,6 +2283,10 @@ Expected: every commit from Tasks 1-20 appears.
 ## QA log
 
 - **2026-06-16, Task 20:** verifica visiva ai breakpoint 375/768/1440 NON eseguita in sessione (CLI senza browser). Build production verificata: tutte le route compilano, OG dinamica restituisce PNG 1200×630, metadata `og:*`/`twitter:*`/`alternates` corretti. Stefano deve aprire `http://localhost:3000` dopo `npm run dev` e validare visivamente i 3 breakpoint prima di considerare la homepage "demo-ready". Eventuali fix responsive identificati post-QA vanno aggiunti come Task 20.x.
+- **2026-06-16, Task 20.1:** QA desktop completata via Chrome MCP a viewport 1453px su tutte e 3 le locale (EN/IT/ES). Issues trovate e fixate:
+  - **Bug Button polimorfico**: `{...rest}` su `<Link>` riportava `className` originale sovrascrivendo `cls`, risultato `border-width: 0px` e nessun padding/colors. Fix: estrarre esplicitamente `className/variant/size/children/href` da `rest` prima dello spread.
+  - **Hero eyebrow contrast**: oro accent washed-out su parti chiare del poster. Fix: gradient overlay da `from-deep/40 via-deep/30` a `from-deep/55 via-deep/70` (più profondo dove sta il testo) — eyebrow ora pienamente leggibile.
+  - **Resize_window MCP non penetra il viewport interno** (resta a 1453px regardless). Test mobile/tablet (375/768px) demandato a Stefano via browser devtools.
 
 ## Execution Handoff
 

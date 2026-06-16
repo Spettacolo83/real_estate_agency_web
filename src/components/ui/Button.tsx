@@ -40,23 +40,35 @@ type ButtonAsButton = CommonProps & { href?: undefined } & Omit<
 
 type ButtonProps = ButtonAsLink | ButtonAsButton;
 
+const FONT_STYLE = { fontFamily: "var(--font-inter)" } as const;
+
 export function Button(props: ButtonProps) {
-  const { children, variant = "primary", size = "md", className } = props;
-  const cls = clsx(base, variantClass[variant], sizeClass[size], className);
-  const fontStyle = { fontFamily: "var(--font-inter)" };
+  const cls = clsx(
+    base,
+    variantClass[props.variant ?? "primary"],
+    sizeClass[props.size ?? "md"],
+    props.className,
+  );
 
   if ("href" in props && props.href !== undefined) {
-    const { href, ...rest } = props as ButtonAsLink;
+    const { children, href, variant: _v, size: _s, className: _c, ...rest } = props;
+    void _v;
+    void _s;
+    void _c;
     return (
-      <Link href={href} className={cls} style={fontStyle} {...rest}>
+      <Link href={href} className={cls} style={FONT_STYLE} {...rest}>
         {children}
       </Link>
     );
   }
 
-  const { href: _ignored, ...rest } = props as ButtonAsButton & { href?: undefined };
+  const { children, href: _h, variant: _v, size: _s, className: _c, ...rest } = props;
+  void _h;
+  void _v;
+  void _s;
+  void _c;
   return (
-    <button className={cls} style={fontStyle} {...rest}>
+    <button className={cls} style={FONT_STYLE} {...rest}>
       {children}
     </button>
   );
