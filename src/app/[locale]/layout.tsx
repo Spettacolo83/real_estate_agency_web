@@ -36,8 +36,29 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!hasLocale(routing.locales, locale)) notFound();
   const t = await getTranslations({ locale, namespace: "meta" });
   return {
-    title: t("title"),
+    title: { default: t("title"), template: "%s · CasAI" },
     description: t("description"),
+    metadataBase: new URL("https://casa.followtheflowai.com"),
+    openGraph: {
+      type: "website",
+      locale,
+      siteName: "CasAI",
+      title: t("title"),
+      description: t("description"),
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: t("title"),
+      description: t("description"),
+    },
+    robots: { index: true, follow: true },
+    alternates: {
+      languages: {
+        en: "/",
+        it: "/it",
+        es: "/es",
+      },
+    },
   };
 }
 
