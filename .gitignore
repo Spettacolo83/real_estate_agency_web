@@ -1,3 +1,5 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
 # dependencies
 /node_modules
 /.pnp
@@ -28,19 +30,16 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files
+# env files (can opt-in for committing if needed)
 .env*
-!.env.example
 
-# secrets (chiavi API ElevenLabs, Cal.com, ecc.)
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# project-specific
 .secrets/
-
-# claude code state
 .claude/
-
-# IDE
-.vscode/
-.idea/
-
-# OS
-Thumbs.db
