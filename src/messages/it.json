@@ -51,6 +51,24 @@
     "propertySingular": "immobile",
     "propertyPlural": "immobili"
   },
+  "listingDetail": {
+    "priceLabel": "Prezzo",
+    "sizeLabel": "Superficie",
+    "bedroomsLabel": "Camere",
+    "bathroomsLabel": "Bagni",
+    "typeLabel": "Tipologia",
+    "bookCta": "Prenota una visita",
+    "askCta": "Chiedi all'assistente AI",
+    "descriptionHeading": "L'immobile",
+    "featuresHeading": "Caratteristiche",
+    "featuresTitle": "Cosa lo rende speciale",
+    "galleryHeading": "Galleria",
+    "galleryTitle": "Altre viste della casa",
+    "ctaEyebrow": "Pronti a visitarla",
+    "ctaTitle": "Prenota questa casa in 30 secondi.",
+    "ctaBody": "Il nostro assistente AI conferma la disponibilità, risponde a qualsiasi domanda sull'immobile e fissa la visita — nella tua lingua, a qualsiasi ora.",
+    "originalLabel": "Annuncio originale su"
+  },
   "neighborhoods": {
     "eyebrow": "Editoriale",
     "title": "Tre luoghi che conosciamo a memoria",

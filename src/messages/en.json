@@ -51,6 +51,24 @@
     "propertySingular": "property",
     "propertyPlural": "properties"
   },
+  "listingDetail": {
+    "priceLabel": "Price",
+    "sizeLabel": "Size",
+    "bedroomsLabel": "Bedrooms",
+    "bathroomsLabel": "Bathrooms",
+    "typeLabel": "Type",
+    "bookCta": "Book a viewing",
+    "askCta": "Ask the AI assistant",
+    "descriptionHeading": "The home",
+    "featuresHeading": "Features",
+    "featuresTitle": "What sets it apart",
+    "galleryHeading": "Gallery",
+    "galleryTitle": "More from this home",
+    "ctaEyebrow": "Ready to visit",
+    "ctaTitle": "Book this property in 30 seconds.",
+    "ctaBody": "Our AI assistant confirms availability, answers any question about the home, and schedules a viewing — in your language, at any hour.",
+    "originalLabel": "Originally listed on"
+  },
   "neighborhoods": {
     "eyebrow": "Editorial",
     "title": "Three places we know by heart",

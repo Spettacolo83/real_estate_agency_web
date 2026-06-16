@@ -51,6 +51,24 @@
     "propertySingular": "propiedad",
     "propertyPlural": "propiedades"
   },
+  "listingDetail": {
+    "priceLabel": "Precio",
+    "sizeLabel": "Superficie",
+    "bedroomsLabel": "Habitaciones",
+    "bathroomsLabel": "Baños",
+    "typeLabel": "Tipo",
+    "bookCta": "Reservar una visita",
+    "askCta": "Pregunta al asistente AI",
+    "descriptionHeading": "La propiedad",
+    "featuresHeading": "Características",
+    "featuresTitle": "Qué la distingue",
+    "galleryHeading": "Galería",
+    "galleryTitle": "Más vistas de la casa",
+    "ctaEyebrow": "Lista para visitarla",
+    "ctaTitle": "Reserva esta propiedad en 30 segundos.",
+    "ctaBody": "Nuestro asistente AI confirma la disponibilidad, responde a cualquier pregunta sobre la propiedad y agenda la visita — en tu idioma, a cualquier hora.",
+    "originalLabel": "Anuncio original en"
+  },
   "neighborhoods": {
     "eyebrow": "Editorial",
     "title": "Tres lugares que conocemos de memoria",

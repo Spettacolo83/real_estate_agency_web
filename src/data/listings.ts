@@ -35,3 +35,13 @@ export function formatPrice(price: number, currency: "EUR" | "GBP", locale: stri
     maximumFractionDigits: 0,
   }).format(price);
 }
+
+export function getListingBySlug(
+  slug: string,
+): (Listing & { cityKey: ListingCity }) | undefined {
+  return getAllListings().find((l) => l.id_suggested === slug);
+}
+
+export function getAllSlugs(): ReadonlyArray<{ slug: string; cityKey: ListingCity }> {
+  return getAllListings().map((l) => ({ slug: l.id_suggested, cityKey: l.cityKey }));
+}

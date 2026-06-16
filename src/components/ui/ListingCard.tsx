@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import { Eyebrow } from "./Eyebrow";
 import type { Listing, ListingCity } from "@/types/listing";
 import { formatPrice } from "@/data/listings";
@@ -15,14 +16,10 @@ type Props = {
 export function ListingCard({ listing, cityLabel, locale, bedLabel, bathLabel }: Props) {
   const photo = listing.photo_urls[0];
   const price = formatPrice(listing.price, listing.currency, locale);
+  const href = `/listings/${listing.id_suggested}`;
 
   return (
-    <a
-      href={listing.source_url}
-      target="_blank"
-      rel="noopener noreferrer"
-      className="group block"
-    >
+    <Link href={href} className="group block">
       <div className="relative aspect-[3/2] overflow-hidden bg-[color:var(--color-hairline)]">
         {photo ? (
           <Image
@@ -38,7 +35,7 @@ export function ListingCard({ listing, cityLabel, locale, bedLabel, bathLabel }:
       <div className="mt-5">
         <Eyebrow tone="muted">{cityLabel} · {listing.neighborhood}</Eyebrow>
         <h3
-          className="mt-2 text-2xl leading-snug text-[color:var(--color-ink)] group-hover:text-[color:var(--color-deep)]"
+          className="mt-2 text-2xl leading-snug text-[color:var(--color-ink)] group-hover:text-[color:var(--color-gold)] transition-colors"
           style={{ fontFamily: "var(--font-cormorant)" }}
         >
           {listing.title}
@@ -50,6 +47,6 @@ export function ListingCard({ listing, cityLabel, locale, bedLabel, bathLabel }:
           {price}
         </p>
       </div>
-    </a>
+    </Link>
   );
 }
