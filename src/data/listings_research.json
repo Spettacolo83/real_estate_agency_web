@@ -1,1156 +1,1127 @@
 {
-  "generated_at": "2026-06-16T19:54:24.987274+00:00",
+  "generated_at": "2026-06-16T21:46:25.612904+00:00",
   "milano": [
     {
-      "id_suggested": "milano-wagner-apartment-0418",
-      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/milan-lombardy/rsi012660418",
-      "source_portal": "knightfrank.com",
+      "id_suggested": "milano-navigli-loft-1bed-2104",
+      "source_url": "https://www.immobiliare.it/vendita-case/milano/",
+      "source_portal": "immobiliare.it",
       "city": "Milano",
-      "neighborhood": "Wagner",
-      "address_approx": "Via Wagner, Wagner-Pagano",
-      "title": "Wagner Residence: triple-aspect period apartment",
-      "description_short": "Triple‑exposure residence in one of Wagner-Pagano’s most iconic buildings. Set in Wagner, a defining address for contemporary Milanese living.",
-      "description_long": "Set within one of Milan's most beloved Liberty-era buildings on the Wagner-Pagano axis, this triple-aspect apartment offers a rare combination of light, proportion and provenance. From the moment you cross the marble entrance hall, the interplay of restored herringbone parquet, double doors and oversized casements signals a residence built to be lived in, not merely admired.\n\nThe reception runs the full breadth of the façade, with three full-height windows opening onto the tree-lined avenue. Two of Milan's quietest courtyards flank the bedrooms, ensuring serenity at any hour. The kitchen has been re-imagined as an open culinary studio, finished in honed travertine and brushed brass.\n\nA signature of this floorplate is the south-facing study, currently configured as a private library but easily convertible into a fourth bedroom or formal dining room. Service areas, a separate laundry and a discreet guest cloakroom round off a layout that simply works.\n\nThe neighbourhood needs little introduction: Wagner's market, the Teatro Nazionale and the Pagano metro are all within a five-minute walk, while Parco Sempione and Brera lie a short tram ride away. Properties of this calibre, original, intact and ready for a sympathetic interior project, are increasingly rare.\n\nAvailable to view by private appointment.",
-      "price": 1590000,
+      "neighborhood": "Navigli",
+      "address_approx": "Ripa di Porta Ticinese, Navigli",
+      "title": "Navigli canal-side loft with private terrace",
+      "description_short": "Designer one-bed loft on the Naviglio Grande, with private terrace and exposed brick walls. The most cinematic stretch of Milan's waterway.",
+      "description_long": "On a quiet stretch of the Naviglio Grande, this one-bedroom loft occupies the upper floor of a sensitively restored 19th-century warehouse. The original masonry has been brought back, paired with a black steel staircase that signals the building's industrial provenance.\n\nThe living area runs the full width of the property, opening onto a south-facing terrace of 12 m² where the canal lies just beyond the parapet. A compact eat-in kitchen in dark oak and concrete sits at one end of the room; an integrated reading nook at the other.\n\nUpstairs, a mezzanine bedroom enjoys vaulted ceilings and a clean en-suite bathroom finished in micro-cement. Storage has been thought through with care, including bespoke wardrobes and a service cupboard for laundry.\n\nNavigli requires no introduction: aperitivo on the canal, the Saturday antique market and direct tram access to Duomo in twelve minutes. Porta Genova FS station is six minutes on foot.\n\nA strong, characterful piece of inventory for a young professional, a pied-à-terre buyer or an investor targeting Milan's most photographed neighbourhood.",
+      "price": 485000,
+      "currency": "EUR",
+      "sqm": 62,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "property_type": "loft",
+      "features": [
+        "canal-side",
+        "private terrace",
+        "exposed brick",
+        "mezzanine bedroom",
+        "industrial restoration",
+        "tram access"
+      ],
+      "coordinates": {
+        "lat": 45.4524,
+        "lng": 9.1722
+      },
+      "photo_urls": [
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600210491892-03d54c0aaf87?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=1600&q=80",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1600&q=80",
+        "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1600&q=80",
+        "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?w=1600&q=80"
+      ],
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+    },
+    {
+      "id_suggested": "milano-isola-2bed-studio-3712",
+      "source_url": "https://www.casa.it/vendita/residenziale/milano",
+      "source_portal": "casa.it",
+      "city": "Milano",
+      "neighborhood": "Isola",
+      "address_approx": "Via Pastrengo, Isola",
+      "title": "Isola: bright two-bed steps from Bosco Verticale",
+      "description_short": "Recently refurbished two-bedroom apartment a short walk from Bosco Verticale and Gae Aulenti. The new face of Milanese urban living.",
+      "description_long": "On a leafy street in Isola, this 78 m² apartment has just emerged from a full refurbishment and is offered turnkey. Floors are pale European oak; walls are smooth lime plaster in a warm neutral; ceiling heights of 3.05 m bring real volume to the space.\n\nThe living-kitchen runs across the south facade, opening through three full-height casement windows onto a private Juliet balcony. The kitchen is from an Italian boutique manufacturer, with quartzite tops and recessed handles. Both bedrooms enjoy quiet courtyard views; the principal accommodates a king bed with built-in storage.\n\nA single full bathroom is clad in zellige tiles with a walk-in shower; a separate laundry room doubles as utility. Air-conditioning has been installed on all three exposures.\n\nIsola has reinvented itself as a destination neighbourhood for Milan's creative class: Bosco Verticale, Piazza Gae Aulenti and the Saturday farmers' market on Via Borsieri are all within five minutes on foot. The M5 metro at Isola delivers Garibaldi in a single stop.\n\nA confident entry into one of the city's most desirable neighbourhoods.",
+      "price": 595000,
+      "currency": "EUR",
+      "sqm": 78,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "apartment",
+      "features": [
+        "fully refurbished",
+        "Bosco Verticale walk",
+        "quiet courtyard",
+        "high ceilings",
+        "air-conditioning",
+        "M5 metro adjacent"
+      ],
+      "coordinates": {
+        "lat": 45.4881,
+        "lng": 9.1912
+      },
+      "photo_urls": [
+        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600573472556-e636c2acda88?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600585152915-d208bec867a1?w=1600&q=80",
+        "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=1600&q=80",
+        "https://images.unsplash.com/photo-1556909172-54557c7e4fb7?w=1600&q=80"
+      ],
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+    },
+    {
+      "id_suggested": "milano-porta-romana-bilocale-8855",
+      "source_url": "https://www.idealista.it/vendita-case/milano-milano/",
+      "source_portal": "idealista.it",
+      "city": "Milano",
+      "neighborhood": "Porta Romana",
+      "address_approx": "Corso Lodi, Porta Romana",
+      "title": "Porta Romana: refurbished one-bed near the new Olympic Village",
+      "description_short": "Compact one-bedroom flat in a 1930s building, fully renovated, six minutes from Porta Romana M3 and the new Olympic Village development.",
+      "description_long": "Set in a well-kept 1930s building with porter service, this 55 m² apartment has been redesigned around clarity and light. The architect has consolidated services into a single block, releasing a generous open-plan reception that captures the south-east light through original casements.\n\nThe kitchen is concealed within a sequence of full-height oak cabinetry; a stone-topped peninsula serves as informal dining. The bedroom, which sits on the quiet courtyard, can comfortably accommodate a king bed with bedside storage. A walk-in wardrobe links to the bathroom, finished in tadelakt and brushed nickel.\n\nThe building is one block from the new Olympic Village construction site (delivering late 2026): a clear catalyst for rental yield and resale value. Porta Romana M3 is six minutes on foot, with Duomo reachable in nine minutes.\n\nIdeal entry point for an investor or a first-time premium buyer who values position, build quality and a recent renovation that does not need to be redone.",
+      "price": 395000,
+      "currency": "EUR",
+      "sqm": 55,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "property_type": "apartment",
+      "features": [
+        "1930s building",
+        "porter service",
+        "renovated",
+        "walk-in wardrobe",
+        "Olympic Village proximity",
+        "M3 metro"
+      ],
+      "coordinates": {
+        "lat": 45.4471,
+        "lng": 9.2069
+      },
+      "photo_urls": [
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600573472550-8090b5e0745e?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1600&q=80",
+        "https://images.unsplash.com/photo-1560185009-5bf9f2849488?w=1600&q=80",
+        "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=1600&q=80"
+      ],
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+    },
+    {
+      "id_suggested": "milano-citta-studi-family-3bed-4429",
+      "source_url": "https://www.immobiliare.it/vendita-case/milano/citta-studi/",
+      "source_portal": "immobiliare.it",
+      "city": "Milano",
+      "neighborhood": "Città Studi",
+      "address_approx": "Via Pacini, Città Studi",
+      "title": "Città Studi: three-bed family flat with courtyard garden",
+      "description_short": "Spacious three-bedroom apartment with private cellar in a 1950s building, steps from Politecnico and the Città Studi tram network.",
+      "description_long": "On a quiet residential street in Città Studi, this 105 m² family apartment offers exactly what the market most lacks: real bedroom volume, a working eat-in kitchen and a sensible price per square metre for the postcode. The current owners have lived here for fifteen years; the apartment has been maintained carefully but invites a cosmetic refresh.\n\nThe entrance hall opens onto a double reception running north-south, with original parquet and a marble fireplace. The eat-in kitchen sits on the courtyard side; three bedrooms are arranged along the night corridor, the principal with a recently refitted en-suite shower room. A second family bathroom and a service balcony complete the floorplan.\n\nThe building is fitted with a passenger lift, a 24-hour porter and a planted internal courtyard. A private cellar of 6 m² is included in the sale.\n\nCittà Studi is Milan's quietest university village: tree-lined streets, the Politecnico and Bicocca campuses within walking distance and direct tram access to Duomo via the historic Line 9. Strong fundamentals for a family buyer or a buy-and-hold investor.",
+      "price": 645000,
+      "currency": "EUR",
+      "sqm": 105,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "apartment",
+      "features": [
+        "family layout",
+        "porter service",
+        "internal courtyard",
+        "private cellar",
+        "marble fireplace",
+        "tram network"
+      ],
+      "coordinates": {
+        "lat": 45.4773,
+        "lng": 9.2257
+      },
+      "photo_urls": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600121848594-d8644e57abab?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?w=1600&q=80",
+        "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?w=1600&q=80",
+        "https://images.unsplash.com/photo-1567496898669-ee935f5f647a?w=1600&q=80"
+      ],
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+    },
+    {
+      "id_suggested": "milano-brera-2bed-period-1188",
+      "source_url": "https://www.engelvoelkers.com/it-it/immobili/milano/",
+      "source_portal": "engelvoelkers.com",
+      "city": "Milano",
+      "neighborhood": "Brera",
+      "address_approx": "Via Solferino, Brera",
+      "title": "Brera: piano nobile two-bed with frescoed ceilings",
+      "description_short": "Piano nobile two-bedroom in a Brera palazzo, with frescoed ceilings, herringbone parquet and views over the Pinacoteca rooftops.",
+      "description_long": "On the piano nobile of a 19th-century palazzo a minute from the Pinacoteca, this 110 m² apartment is a textbook expression of Brera's gentle grandeur. Three bays of windows face Via Solferino; the rooflines of the Pinacoteca and the Botanical Garden are visible from the reception sofas.\n\nFrescoed ceilings, restored in 2018, run across the principal reception and the formal dining room; both rooms are connected enfilade and finished with original herringbone parquet. The kitchen is a separate room, fitted by a Milanese maker in oak and Verde Alpi marble.\n\nTwo bedrooms occupy the quiet courtyard wing. The principal suite includes a fitted dressing room and an en-suite bathroom in honed travertine; the second bedroom shares the family bathroom finished in Vicenza stone.\n\nThe building is grand but discreet: gated entrance, a single resident per floor, lift and porter from 7am to 8pm. A private cellar is included in the sale; a single garage space is available separately by negotiation.\n\nBrera at its most authentic: the Pinacoteca, the Botanical Garden, Antica Trattoria della Pesa and the Saturday market on Via San Marco are all within a five-minute radius.",
+      "price": 1450000,
+      "currency": "EUR",
+      "sqm": 110,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "property_type": "apartment",
+      "features": [
+        "piano nobile",
+        "frescoed ceilings",
+        "herringbone parquet",
+        "porter service",
+        "Pinacoteca proximity",
+        "private cellar"
+      ],
+      "coordinates": {
+        "lat": 45.472,
+        "lng": 9.1869
+      },
+      "photo_urls": [
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=1600&q=80",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1600&q=80",
+        "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1600&q=80",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1600&q=80"
+      ],
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+    },
+    {
+      "id_suggested": "milano-cinque-vie-3bed-design-7720",
+      "source_url": "https://www.casa.it/vendita/residenziale/milano-centro",
+      "source_portal": "casa.it",
+      "city": "Milano",
+      "neighborhood": "Cinque Vie",
+      "address_approx": "Via Bocchetto, Cinque Vie",
+      "title": "Cinque Vie: designer three-bed in a restored palazzo",
+      "description_short": "Recently restored three-bed apartment in Milan's design district, with double-aspect reception and walking distance to Duomo.",
+      "description_long": "On a cobbled side street in the heart of the Cinque Vie design district, this 138 m² apartment occupies the second floor of a restored 17th-century palazzo. The renovation, completed by a Milanese studio in 2023, balances the building's historic shell with a contemporary, gallery-grade interior.\n\nThe entrance opens onto a double-aspect reception of generous proportions, with original wood beams overhead and wide-plank oak underfoot. A discrete open kitchen in matt black and Bianco Statuario marble is integrated into one end of the room, leaving the seating area uninterrupted by services.\n\nThree bedrooms arranged in a private wing, the principal with a dressing area and en-suite bathroom in book-matched onyx. Two further bedrooms share a second bathroom finished in micro-cement. A guest cloakroom and a separate laundry complete the layout.\n\nThe Cinque Vie has emerged as the city's most concentrated cluster of design galleries, anchored by the annual Salone del Mobile fringe events. Piazza Affari, Duomo and the Sforza Castle are all within five minutes on foot.\n\nA confident, design-forward proposition for a creative or international buyer.",
+      "price": 1620000,
+      "currency": "EUR",
+      "sqm": 138,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "apartment",
+      "features": [
+        "restored palazzo",
+        "double aspect",
+        "wood beams",
+        "oak floors",
+        "designer kitchen",
+        "Duomo walk"
+      ],
+      "coordinates": {
+        "lat": 45.4637,
+        "lng": 9.1815
+      },
+      "photo_urls": [
+        "https://images.unsplash.com/photo-1600585154363-67eb9e2e2099?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600585152915-d208bec867a1?w=1600&q=80",
+        "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=1600&q=80",
+        "https://images.unsplash.com/photo-1556909172-54557c7e4fb7?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1600&q=80"
+      ],
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+    },
+    {
+      "id_suggested": "milano-sempione-arco-pace-2200",
+      "source_url": "https://www.immobiliare.it/vendita-case/milano/sempione/",
+      "source_portal": "immobiliare.it",
+      "city": "Milano",
+      "neighborhood": "Sempione",
+      "address_approx": "Corso Sempione, Arco della Pace",
+      "title": "Sempione: park-facing three-bed with private balcony",
+      "description_short": "Three-bedroom park-facing apartment with private balcony, in a stately period building on Corso Sempione.",
+      "description_long": "Set on the third floor of an elegant 1920s building, this 150 m² apartment enjoys a direct view onto Corso Sempione and, beyond, the Arco della Pace and Parco Sempione. The owners have lived here for two decades; the apartment is presented in excellent condition with a recent cosmetic refresh.\n\nThe living-dining room runs across the front facade, opening through three french windows onto a 9 m² balcony. The kitchen is a separate, fully fitted room finished in lacquered cabinetry. Three bedrooms occupy the quiet rear of the apartment; two bathrooms (one en-suite to the principal) are finished in marble and limestone respectively.\n\nThe building offers porter service, lift access, a leafy internal courtyard and a private cellar. Air-conditioning is installed throughout. A garage space is available separately by negotiation.\n\nThe Sempione axis is one of Milan's most desirable family addresses, anchored by the park, the Triennale Design Museum and the historic tram lines that thread through the neighbourhood. Cadorna FS and M1 are eight minutes on foot.",
+      "price": 1280000,
+      "currency": "EUR",
+      "sqm": 150,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "apartment",
+      "features": [
+        "park view",
+        "private balcony",
+        "porter service",
+        "internal courtyard",
+        "1920s building",
+        "tram lines"
+      ],
+      "coordinates": {
+        "lat": 45.4775,
+        "lng": 9.1689
+      },
+      "photo_urls": [
+        "https://images.unsplash.com/photo-1600210491892-03d54c0aaf87?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1600&q=80",
+        "https://images.unsplash.com/photo-1560185009-5bf9f2849488?w=1600&q=80",
+        "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1600&q=80"
+      ],
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+    },
+    {
+      "id_suggested": "milano-porta-nuova-citylife-skyline-9988",
+      "source_url": "https://www.idealista.it/vendita-case/milano-milano/porta-nuova/",
+      "source_portal": "idealista.it",
+      "city": "Milano",
+      "neighborhood": "Porta Nuova",
+      "address_approx": "Via Melchiorre Gioia, Porta Nuova",
+      "title": "Porta Nuova: contemporary three-bed with skyline views",
+      "description_short": "Three-bed contemporary apartment on a high floor near Piazza Gae Aulenti, with floor-to-ceiling glazing and concierge service.",
+      "description_long": "On the fourteenth floor of one of Porta Nuova's signature residential towers, this 145 m² apartment delivers the prototype Milanese skyline experience: floor-to-ceiling glazing, double aspect over the Bosco Verticale and Garibaldi station, and a covered terrace of 18 m² where the city lights take care of the soundtrack.\n\nThe open-plan reception accommodates a formal dining area and a sequence of seating zones. The kitchen, by an Italian boutique brand, is finished in matt lacquer and quartzite. The principal suite includes a fitted dressing room and an en-suite bathroom in book-matched marble; two further bedrooms share a family bathroom in limestone.\n\nThe building offers 24-hour concierge, a residents-only gym, a courtyard garden and underground parking. The sale includes a single secure parking space and a basement cellar.\n\nPiazza Gae Aulenti is two minutes on foot, with the Apple Store amphitheatre and the Saturday farmers' market beneath the apartment windows. M5 Isola and Garibaldi FS are within a five-minute radius.\n\nA turnkey proposition for the international buyer who wants Milan's newest skyline at street level.",
+      "price": 1750000,
       "currency": "EUR",
       "sqm": 145,
       "bedrooms": 3,
       "bathrooms": 2,
-      "property_type": "Apartment",
-      "features": [
-        "triple exposure",
-        "period building",
-        "herringbone parquet",
-        "high ceilings",
-        "tree-lined avenue",
-        "original casements"
-      ],
-      "coordinates": {
-        "lat": 45.469,
-        "lng": 9.1505
-      },
-      "photo_urls": [
-        "https://content.knightfrank.com/property/rsi012660418/images/72f6699b-3eed-48bb-9b2a-a38b9533556d-0.jpg",
-        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1600&q=80"
-      ],
-      "photos_source_note": "Hero photo from Knight Frank CDN (listing source). Supplementary photos from Unsplash for editorial demo only; commission on-site photography before production."
-    },
-    {
-      "id_suggested": "milano-porta-venezia-apartment-4489",
-      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/milan-lombardy/rsi012634489",
-      "source_portal": "knightfrank.com",
-      "city": "Milano",
-      "neighborhood": "Porta Venezia",
-      "address_approx": "Piazza Oberdan, Porta Venezia",
-      "title": "Porta Venezia: Belle Époque apartment on the square",
-      "description_short": "Elegant period apartment overlooking a charming Milanese square, offering outstanding potential in a prime location. Set in Porta Venezia, a defining address for contemporary Milanese living.",
-      "description_long": "Few squares capture the soul of Porta Venezia like the one this apartment overlooks. A working belvedere of Milan's Belle Époque, the piazza beneath these windows hosts a daily ballet of trams, cyclists and aperitivo-goers, seen here through the silvered glass of original Liberty-era windows.\n\nSet on the second piano nobile, the apartment retains its cathedral ceilings, frescoed coving and pitch-pine parquet. Three reception rooms enfilade onto the square; behind, the family suite enjoys absolute silence and a generous double exposure onto an internal garden.\n\nRestoration is invited rather than required. Services have been brought up to current standards; the architectural shell, including original carpentry and a marble fireplace in the principal salon, remains intact. The new owner will find an exceptional brief for a discreet interior intervention.\n\nPorta Venezia is enjoying its renaissance: Eataly Smeraldo, Bar Basso and the Indro Montanelli gardens are all within walking distance, while the M1 metro at Porta Venezia delivers Duomo in four minutes flat.\n\nA defining address for the buyer who values an honest, untouched canvas in one of Milan's most cinematic neighbourhoods.",
-      "price": 1190000,
-      "currency": "EUR",
-      "sqm": 137,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "property_type": "Apartment",
-      "features": [
-        "Liberty architecture",
-        "frescoed coving",
-        "square views",
-        "original carpentry",
-        "marble fireplace",
-        "restoration potential"
-      ],
-      "coordinates": {
-        "lat": 45.4737,
-        "lng": 9.204
-      },
-      "photo_urls": [
-        "https://content.knightfrank.com/property/rsi012634489/images/8c988862-3952-4c0a-b6ee-3ba87fbda2d6-0.jpg",
-        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600585154363-67eb9e2e2099?w=1600&q=80"
-      ],
-      "photos_source_note": "Hero photo from Knight Frank CDN (listing source). Supplementary photos from Unsplash for editorial demo only; commission on-site photography before production."
-    },
-    {
-      "id_suggested": "milano-citylife-penthouse-9953",
-      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/milan-lombardy/rsi012639953",
-      "source_portal": "knightfrank.com",
-      "city": "Milano",
-      "neighborhood": "CityLife",
-      "address_approx": "CityLife, Via Senofonte",
-      "title": "CityLife Skyline: designer penthouse with sunset terrace",
-      "description_short": "Triple‑aspect penthouse with a designer terrace and spectacular sunset views over the city’s skyline. Set in CityLife, a defining address for contemporary Milanese living.",
-      "description_long": "Set on one of the highest floors of CityLife's flagship residence, this 206 m² penthouse offers the rarest of Milanese luxuries: silence above the city. Triple-aspect, with sliding glazing on every side, the apartment opens onto a designer terrace orientated west, prime real estate for the Alpine sunsets that make this skyline famous.\n\nThe main reception is configured around a sculptural fireplace and accommodates both formal dining and a sequence of seating zones. A separate eat-in kitchen, hand-finished in matt lacquer and Calacatta, opens onto its own service balcony.\n\nThe bedrooms are arranged in a private wing, the principal suite enjoying double walk-in dressing rooms and an en-suite bathroom clad in book-matched onyx. Two further bedrooms share a generous family bathroom finished in honed travertine.\n\nBuilding amenities are commensurate with the address: 24-hour concierge, residents-only spa with indoor pool, fitness centre and direct access to the CityLife park. Three secure parking spaces and a large basement cellar are included.\n\nA genuinely turnkey proposition for the international buyer who wants the city's most visible new architecture without sacrificing privacy.",
-      "price": 1890000,
-      "currency": "EUR",
-      "sqm": 206,
-      "bedrooms": 4,
-      "bathrooms": 3,
-      "property_type": "Penthouse",
-      "features": [
-        "designer terrace",
-        "panoramic city views",
-        "triple aspect",
-        "floor-to-ceiling windows",
-        "24h concierge",
-        "underground parking",
-        "spa & pool access",
-        "park access"
-      ],
-      "coordinates": {
-        "lat": 45.4847,
-        "lng": 9.1546
-      },
-      "photo_urls": [
-        "https://content.knightfrank.com/property/rsi012639953/images/fe0d8a0e-1fea-46a8-acac-06c5a31ccdf8-0.jpg",
-        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600585154363-67eb9e2e2099?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600210491892-03d54c0aaf87?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600573472556-e636c2acda88?w=1600&q=80"
-      ],
-      "photos_source_note": "Hero photo from Knight Frank CDN (listing source). Supplementary photos from Unsplash for editorial demo only; commission on-site photography before production."
-    },
-    {
-      "id_suggested": "milano-brera-penthouse-9915",
-      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/milan-lombardy/rsi012599915",
-      "source_portal": "knightfrank.com",
-      "city": "Milano",
-      "neighborhood": "Brera",
-      "address_approx": "Via Solferino, Brera",
-      "title": "Brera Hideaway: new-build penthouse with twin terraces",
-      "description_short": "Newly built penthouse with a terrace in one of Milan’s most prestigious neighbourhoods. Set in Brera, a defining address for contemporary Milanese living.",
-      "description_long": "A newly delivered penthouse on Via Solferino, this is Brera's most cinematic floorplate: 270 m² wrapping a south-facing reception, two terraces and a discreet panoramic roof garden accessed by a private internal staircase. The architect has paired oak floors with hand-troweled lime walls, lending the principal rooms a soft chiaroscuro that flatters morning and evening light alike.\n\nThree principal bedrooms occupy the east wing, each with en-suite bathrooms in honed Bianco Carrara, walnut joinery and bespoke ironmongery. The kitchen, by Boffi, opens onto the larger terrace via four-metre-wide sliding doors. A guest WC, walk-in laundry and dedicated entry foyer complete the principal floor.\n\nThe roof terrace is the property's coup de théâtre: an outdoor lounge with a built-in cabana, planted with olive and rosemary, offering uninterrupted views from the Duomo to the Alps. An automated awning system and integrated lighting allow comfortable use eight months a year.\n\nTwo underground parking spaces, a concierge service and a cellar are included. Move-in ready.\n\nFor the buyer who wants Brera's cultural pull without the compromises of its historic stock, this is a rare, contemporary alternative.",
-      "price": 2490000,
-      "currency": "EUR",
-      "sqm": 270,
-      "bedrooms": 5,
-      "bathrooms": 4,
-      "property_type": "Penthouse",
-      "features": [
-        "new build",
-        "double terrace",
-        "open-plan layout",
-        "oak floors",
-        "Boffi kitchen",
-        "smart home",
-        "underground parking",
-        "concierge 24h"
-      ],
-      "coordinates": {
-        "lat": 45.4734,
-        "lng": 9.188
-      },
-      "photo_urls": [
-        "https://content.knightfrank.com/property/rsi012599915/images/3739603a-7db9-4917-8969-7aea61b27644-0.jpg",
-        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600585154363-67eb9e2e2099?w=1600&q=80"
-      ],
-      "photos_source_note": "Hero photo from Knight Frank CDN (listing source). Supplementary photos from Unsplash for editorial demo only; commission on-site photography before production."
-    },
-    {
-      "id_suggested": "milano-duomo-penthouse-9176",
-      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/milan-lombardy/rsi012609176",
-      "source_portal": "knightfrank.com",
-      "city": "Milano",
-      "neighborhood": "Duomo",
-      "address_approx": "Corso Vittorio Emanuele, near Duomo",
-      "title": "Duomo View: penthouse above Corso Vittorio Emanuele",
-      "description_short": "Fully renovated penthouse with a terrace and panoramic views stretching from the Duomo to Milan’s skyline. Set in Duomo, a defining address for contemporary Milanese living.",
-      "description_long": "The hand of an experienced architect is visible in every detail of this 100 m² penthouse, set ten floors above Corso Vittorio Emanuele between San Babila and the Duomo. The brief was simple: a pied-à-terre that could entertain six guests without ever feeling tight, and a terrace that delivered the city's most coveted view.\n\nThe reception room sits beneath a four-metre lantern that draws light deep into the floorplate; the kitchen, integrated and minimal, hides behind a wall of brass-trimmed cabinetry. Two bedrooms, both en-suite, occupy the quiet rear of the apartment; one currently doubles as a media room with sound-isolated walls.\n\nThe wraparound terrace, fully waterproofed and finished in honed porphyry, frames the Madonnina at one of the only altitudes from which she appears unobstructed. Custom planters and an outdoor kitchen extend living onto the terrace for at least seven months of the year.\n\nA turnkey acquisition: services include concierge, lift, and one large basement storage. Perfect for the international buyer seeking the city's quintessential view.\n\nThe most architecturally photogenic skyline in Milan, framed from your own dining table.",
-      "price": 1390000,
-      "currency": "EUR",
-      "sqm": 100,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "property_type": "Penthouse",
-      "features": [
-        "Duomo view",
-        "wraparound terrace",
-        "recently renovated",
-        "designer interiors",
-        "open kitchen",
-        "lift access"
-      ],
-      "coordinates": {
-        "lat": 45.4654,
-        "lng": 9.1896
-      },
-      "photo_urls": [
-        "https://content.knightfrank.com/property/rsi012609176/images/09c879be-d098-49be-9f1c-f94c79d69e62-0.jpg",
-        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600585154363-67eb9e2e2099?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600210491892-03d54c0aaf87?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600573472556-e636c2acda88?w=1600&q=80"
-      ],
-      "photos_source_note": "Hero photo from Knight Frank CDN (listing source). Supplementary photos from Unsplash for editorial demo only; commission on-site photography before production."
-    },
-    {
-      "id_suggested": "milano-magenta-apartment-7459",
-      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/milan-lombardy/rsi012527459",
-      "source_portal": "knightfrank.com",
-      "city": "Milano",
-      "neighborhood": "Magenta",
-      "address_approx": "Via Aristide De Togni, Magenta",
-      "title": "Magenta Rooftop: quietly elegant apartment with sky",
-      "description_short": "Elegant apartment with a rooftop terrace in a peaceful Milanese setting. Set in Magenta, a defining address for contemporary Milanese living.",
-      "description_long": "In a quiet pocket of Magenta moments from Sant'Ambrogio, this 108 m² apartment occupies the entire top floor of a discreet 1930s building and is crowned by a private rooftop terrace of 35 m². The current owners have lived here for over a decade; the apartment has been continuously refined rather than radically redesigned, lending it the soft patina of a real home.\n\nThe principal living room is bookended by two large windows and a working fireplace in pietra serena. The kitchen, sized for serious cooking, opens directly onto a small breakfast loggia. Two bedrooms and two recently refitted bathrooms complete the floor.\n\nThe rooftop is the magnetic feature: planted with bay, lavender and a small fig tree, it offers genuine outdoor living above the rooflines of Magenta. There is space for a dining table for eight, a daybed corner and a discreet outdoor shower.\n\nA rare entry-point into one of Milan's most resolutely civilised neighbourhoods, and an excellent base for a buyer who wants peace, light and walkable access to the historic centre.\n\nThe kind of address that grows on you, slowly, year by year.",
-      "price": 640000,
-      "currency": "EUR",
-      "sqm": 108,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "property_type": "Apartment",
-      "features": [
-        "rooftop terrace",
-        "quiet street",
-        "working fireplace",
-        "natural light",
-        "cellar storage",
-        "top floor"
-      ],
-      "coordinates": {
-        "lat": 45.466,
-        "lng": 9.1675
-      },
-      "photo_urls": [
-        "https://content.knightfrank.com/property/rsi012527459/images/6f8698c0-fa3e-40b7-9e0e-39fa10c7ddf9-0.jpg",
-        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1600&q=80"
-      ],
-      "photos_source_note": "Hero photo from Knight Frank CDN (listing source). Supplementary photos from Unsplash for editorial demo only; commission on-site photography before production."
-    },
-    {
-      "id_suggested": "milano-san-babila-penthouse-8347",
-      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/milan-lombardy/rsi012548347",
-      "source_portal": "knightfrank.com",
-      "city": "Milano",
-      "neighborhood": "San Babila",
-      "address_approx": "Corso Vittorio Emanuele, San Babila",
-      "title": "San Babila crown: panoramic penthouse on the Corso",
-      "description_short": "Luxurious penthouse with a panoramic terrace overlooking Corso Vittorio Emanuele. Set in San Babila, a defining address for contemporary Milanese living.",
-      "description_long": "The Corso Vittorio Emanuele address says it all: this 200 m² penthouse sits a single step from the Duomo, in one of the most established palazzi of San Babila. A full architectural renovation reset the apartment as a contemporary residence behind a strictly conserved façade, opening up the floor-plan around the panoramic terrace and the apartment's signature views.\n\nThe principal reception is double-aspect, framing the Cathedral spires through one set of casements and the green Quadrilatero gardens through the other. The kitchen, by Molteni, is integrated with a generous breakfast area; behind it, a quiet service kitchen handles formal entertaining.\n\nFour bedrooms occupy a separate wing, the principal suite running the full depth of the floorplate with twin dressing rooms and an en-suite bathroom finished in book-matched Sahara Noir. The terrace, planted and irrigated, can host a dinner for sixteen with the Madonnina as decoration.\n\nTwo underground parking spaces and a large cellar are included.\n\nA genuine trophy property for the connoisseur, and one of the few addresses in Milan where the city's history and its present-day vitality can be heard simultaneously.",
-      "price": 2900000,
-      "currency": "EUR",
-      "sqm": 200,
-      "bedrooms": 4,
-      "bathrooms": 3,
-      "property_type": "Penthouse",
-      "features": [
-        "Duomo view",
-        "panoramic terrace",
-        "Molteni kitchen",
-        "book-matched marble",
-        "two parking spaces",
-        "luxury finishes",
-        "conserved façade"
-      ],
-      "coordinates": {
-        "lat": 45.4671,
-        "lng": 9.1968
-      },
-      "photo_urls": [
-        "https://content.knightfrank.com/property/rsi012548347/images/6a49d70d-9433-4584-aa1e-77ddfd9a2f7a-0.jpg",
-        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600585154363-67eb9e2e2099?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600210491892-03d54c0aaf87?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600573472556-e636c2acda88?w=1600&q=80"
-      ],
-      "photos_source_note": "Hero photo from Knight Frank CDN (listing source). Supplementary photos from Unsplash for editorial demo only; commission on-site photography before production."
-    },
-    {
-      "id_suggested": "milano-garibaldi-penthouse-6725",
-      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/milan-lombardy/rsi012516725",
-      "source_portal": "knightfrank.com",
-      "city": "Milano",
-      "neighborhood": "Garibaldi",
-      "address_approx": "TEN Milano, Via Pasubio",
-      "title": "Garibaldi Heights: skyline penthouse at TEN Milano",
-      "description_short": "Panoramic penthouse within the prestigious TEN Milano Residential Complex. Set in Garibaldi, a defining address for contemporary Milanese living.",
-      "description_long": "Within Garibaldi's TEN Milano, one of the most recognised mixed-use developments in the city, this 194 m² penthouse delivers the full spectrum of contemporary living. The apartment is laid out over a single sweeping floor with a 40 m² terrace facing the Garibaldi skyline and a private rooftop garden of similar size.\n\nInteriors have been delivered by the developer to high specification: oak engineered floors, matt-lacquer joinery, Gaggenau kitchen, and bathrooms finished in honed travertine with rainfall showers. Three bedrooms, two of them en-suite, occupy the north flank; a fourth room currently serves as a media den.\n\nTEN Milano residents enjoy a suite of amenities rarely matched in the city: 24-hour concierge, indoor pool, sauna and steam room, fitness centre, business lounge and on-site parking. The Porta Garibaldi station, Corso Como and the Bosco Verticale are all within a 300-metre radius.\n\nMove-in ready and ideally suited to an international buyer seeking a fully serviced lock-up-and-leave residence in the city's most dynamic district.\n\nFor those who measure home in services as much as in square metres.",
-      "price": 1120000,
-      "currency": "EUR",
-      "sqm": 194,
-      "bedrooms": 4,
-      "bathrooms": 3,
-      "property_type": "Penthouse",
+      "property_type": "apartment",
       "features": [
         "skyline views",
-        "concierge 24h",
-        "indoor pool",
-        "sauna & steam",
-        "fitness centre",
-        "smart home",
-        "rooftop garden",
+        "floor-to-ceiling glazing",
+        "covered terrace",
+        "24h concierge",
+        "residents gym",
         "underground parking"
       ],
       "coordinates": {
-        "lat": 45.4848,
-        "lng": 9.1888
+        "lat": 45.4837,
+        "lng": 9.1932
       },
       "photo_urls": [
-        "https://content.knightfrank.com/property/rsi012516725/images/9337f06c-f4e3-480b-baa1-0347c1f12fee-0.jpg",
-        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1600&q=80"
+        "https://images.unsplash.com/photo-1600573472556-e636c2acda88?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?w=1600&q=80",
+        "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?w=1600&q=80",
+        "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1600&q=80"
       ],
-      "photos_source_note": "Hero photo from Knight Frank CDN (listing source). Supplementary photos from Unsplash for editorial demo only; commission on-site photography before production."
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
     },
     {
-      "id_suggested": "milano-citylife-apartment-8976",
-      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/milan-lombardy/rsi012568976",
-      "source_portal": "knightfrank.com",
+      "id_suggested": "milano-quadrilatero-piano-nobile-3300",
+      "source_url": "https://www.engelvoelkers.com/it-it/immobili/milano/centro/",
+      "source_portal": "engelvoelkers.com",
       "city": "Milano",
-      "neighborhood": "CityLife",
-      "address_approx": "CityLife, Via Cherubini",
-      "title": "CityLife Light: park-side apartment with terrace",
-      "description_short": "Bright apartment with a terrace within one of Milan’s most innovative residential developments. Set in CityLife, a defining address for contemporary Milanese living.",
-      "description_long": "A bright 76 m² apartment within the CityLife park-side residences, this is a smartly compact home for the buyer who values lifestyle and amenity over raw square footage. The kitchen-living room is open and double-aspect, opening through three-metre sliders onto a planted 10 m² terrace overlooking the park.\n\nThe principal bedroom comes with a generous walk-in dressing room and an en-suite bathroom in Carrara. A second bedroom is bright and quiet; the family bathroom is finished in honed Botticino marble. Engineered oak floors run throughout, and the apartment is delivered with integrated home automation and air-conditioning.\n\nCityLife's amenity package is the strongest in Milan: residents-only spa with pool, fitness centre, 24-hour concierge, gated and surveyed park access, and ample underground parking. The new Tre Torri metro station is a two-minute walk; San Babila is reachable in twelve minutes by tram.\n\nA lifestyle acquisition aimed at international professionals, pied-à-terre buyers and rental investors targeting the corporate market.\n\nThe thinking person's entry-point into Milan's most amenity-led address.",
-      "price": 800000,
+      "neighborhood": "Quadrilatero della Moda",
+      "address_approx": "Via Sant'Andrea, Quadrilatero",
+      "title": "Quadrilatero: trophy piano nobile on Via Sant'Andrea",
+      "description_short": "Piano nobile trophy apartment of 380 m² with three exposures, a private garden courtyard and bespoke restoration on Via Sant'Andrea.",
+      "description_long": "An exceptionally rare offering on Via Sant'Andrea, this 380 m² piano nobile apartment occupies the principal floor of an 18th-century palazzo whose neighbours are the city's most established couture houses. The owner has just concluded a six-year restoration with a leading Milanese architect, returning the apartment to its full Belle Époque proportions while inserting a discreet, museum-grade contemporary infrastructure.\n\nThe enfilade of three reception rooms runs along the south facade, each with restored frescoed ceilings, original chevron parquet and double-doors clad in burr walnut. A formal dining room of 50 m² connects to a service kitchen finished in lacquered cabinetry and Calacatta marble.\n\nThe night wing comprises four bedroom suites, each en-suite, with the principal occupying a dedicated 80 m² volume that includes a sitting room, two dressing rooms and a bathroom in book-matched onyx with a freestanding bath at the centre of the floor.\n\nThe apartment uniquely enjoys a 90 m² private garden courtyard, planted with mature magnolia and accessed via a glazed loggia from the main reception. Building amenities include 24-hour porter, lift access from the resident garage and a dedicated cellar.\n\nA defining piece of inventory for the international buyer seeking a primary residence on Milan's most prestigious shopping street.",
+      "price": 8950000,
       "currency": "EUR",
-      "sqm": 76,
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "property_type": "Apartment",
+      "sqm": 380,
+      "bedrooms": 4,
+      "bathrooms": 5,
+      "property_type": "apartment",
       "features": [
-        "terrace",
-        "park view",
-        "concierge",
-        "24h security",
-        "spa & gym",
-        "class A energy",
-        "smart home",
-        "underground parking"
+        "piano nobile",
+        "private garden courtyard",
+        "frescoed ceilings",
+        "chevron parquet",
+        "24h porter",
+        "trophy address"
       ],
       "coordinates": {
-        "lat": 45.4847,
-        "lng": 9.1546
+        "lat": 45.4684,
+        "lng": 9.1947
       },
       "photo_urls": [
-        "https://content.knightfrank.com/property/rsi012568976/images/2885be34-8b0f-4501-803c-7da169117fa5-0.jpg",
-        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600573472550-8090b5e0745e?w=1600&q=80",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1600&q=80",
+        "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1600&q=80",
+        "https://images.unsplash.com/photo-1567496898669-ee935f5f647a?w=1600&q=80",
         "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600585154363-67eb9e2e2099?w=1600&q=80"
+        "https://images.unsplash.com/photo-1600121848594-d8644e57abab?w=1600&q=80"
       ],
-      "photos_source_note": "Hero photo from Knight Frank CDN (listing source). Supplementary photos from Unsplash for editorial demo only; commission on-site photography before production."
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
     },
     {
-      "id_suggested": "milano-isola-apartment-6633",
-      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/milan-lombardy/rsi012566633",
-      "source_portal": "knightfrank.com",
+      "id_suggested": "milano-magenta-pelliccia-villa-5670",
+      "source_url": "https://www.immobiliare.it/vendita-case/milano/magenta/",
+      "source_portal": "immobiliare.it",
       "city": "Milano",
-      "neighborhood": "Isola",
-      "address_approx": "Isola district, near Bosco Verticale",
-      "title": "Isola Sky: apartment beside the Vertical Forest",
-      "description_short": "Brand new apartment within one of Milan’s most innovative residential developments. Set in Isola, a defining address for contemporary Milanese living.",
-      "description_long": "Set within a brand-new development moments from Stefano Boeri's Bosco Verticale, this 144 m² apartment captures the spirit of contemporary Milan with rare clarity. The principal façade, due south-east, looks directly onto the vertical forest; the kitchen-living room is open and proportioned to host comfortably, with five-metre sliders opening onto a 16 m² loggia.\n\nThree bedrooms, one currently as a home office, occupy a private wing; the principal suite has a dressing room and en-suite bathroom finished in Italian travertine. A second family bathroom, walk-in laundry and dedicated entry foyer round out a floorplate designed for both daily life and entertaining.\n\nThe building offers concierge service, secure underground parking and a residents' lounge. Energy class A places it among the most sustainable new addresses in the centre, an increasingly important consideration for the international buyer.\n\nIsola itself has matured into one of Milan's most balanced neighbourhoods: galleries, third-wave cafés, and the city's best Sunday market all coexist around tree-lined streets that retain their working-class personality.\n\nA quietly confident proposition that aligns with the next generation of Milanese living.",
-      "price": 1420000,
+      "neighborhood": "Magenta",
+      "address_approx": "Via Carducci, Magenta",
+      "title": "Magenta: detached villa with garden, pool and garage",
+      "description_short": "A rare detached villa within the city boundary, with private garden, infinity pool and four-car underground garage near Sant'Ambrogio.",
+      "description_long": "In a city where detached residences are vanishingly rare, this 460 m² villa offers a complete proposition: full plot, private garden, infinity pool and four-car underground garage, all within a five-minute walk of Sant'Ambrogio M2 and Parco Sempione.\n\nThe villa was rebuilt to the foundations in 2019 by a leading Milanese studio. Behind the sympathetic Liberty-era facade, the interior is wholly contemporary: a triple-aspect main reception runs across the garden side, with sliding panels of two-metre-tall glass that disappear into the wall, opening the entire ground floor onto the planted garden and pool deck.\n\nThe living level includes a sculptural staircase in Carrara marble, a formal dining room and an open kitchen by an Italian boutique maker. A study, guest cloakroom and laundry complete the level.\n\nOn the first floor, four bedroom suites are arranged with absolute privacy. The principal occupies a dedicated wing with a 30 m² dressing room and a marble bathroom with private terrace overlooking the garden.\n\nA wellness level beneath includes a 12-metre infinity pool, hammam, gym and direct access to the four-car garage. A rare opportunity to acquire a freestanding asset of this calibre within the historic city perimeter.",
+      "price": 4250000,
       "currency": "EUR",
-      "sqm": 144,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "property_type": "Apartment",
+      "sqm": 460,
+      "bedrooms": 4,
+      "bathrooms": 5,
+      "property_type": "villa",
       "features": [
-        "Bosco Verticale view",
-        "new construction",
-        "smart home",
-        "underground parking",
-        "concierge",
-        "energy class A",
-        "sustainable building",
-        "loggia"
+        "detached villa",
+        "private garden",
+        "infinity pool",
+        "underground garage",
+        "wellness level",
+        "hammam"
       ],
       "coordinates": {
-        "lat": 45.4836,
-        "lng": 9.19
+        "lat": 45.4658,
+        "lng": 9.1745
       },
       "photo_urls": [
-        "https://content.knightfrank.com/property/rsi012566633/images/4037518a-0495-4c44-9b00-32209656abc0-0.jpg",
+        "https://images.unsplash.com/photo-1600121848594-d8644e57abab?w=1600&q=80",
+        "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=1600&q=80",
+        "https://images.unsplash.com/photo-1556909172-54557c7e4fb7?w=1600&q=80",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1600&q=80",
         "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600585154363-67eb9e2e2099?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600210491892-03d54c0aaf87?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600573472556-e636c2acda88?w=1600&q=80"
+        "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=1600&q=80"
       ],
-      "photos_source_note": "Hero photo from Knight Frank CDN (listing source). Supplementary photos from Unsplash for editorial demo only; commission on-site photography before production."
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
     }
   ],
   "mallorca": [
     {
-      "id_suggested": "mallorca-santa-maria-del-cam-farmhouse-3176",
-      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/santa-maria-del-cami-mallorca-illes-balears/rsi012443176",
-      "source_portal": "knightfrank.com",
+      "id_suggested": "mallorca-palma-old-town-1bed-5571",
+      "source_url": "https://www.idealista.com/en/inmueble/palma-de-mallorca-baleares/",
+      "source_portal": "idealista.com",
       "city": "Mallorca",
-      "neighborhood": "Santa Maria del Camí",
-      "address_approx": "Camí de Coanegra, Santa Maria del Camí",
-      "title": "Santa Maria Estate: renovated farmhouse with saltwater pool",
-      "description_short": "A beautifully renovated country home with a saltwater swimming pool and beautiful, mature gardens. Set in Santa Maria del Camí, one of the most coveted addresses on Mallorca.",
-      "description_long": "In the gentle Tramuntana foothills above Santa Maria del Camí, this beautifully renovated country home occupies 3.36 acres of mature gardens, citrus and a small private olive grove. The shell of the original finca has been preserved with the integrity of a hand restoration: marés stone walls, hand-hewn beams and old tile floors all remain, sensitively married to a contemporary interior brief.\n\nThe principal living areas open through five-metre doors onto a covered loggia and the saltwater swimming pool, framed by century-old plane trees. The kitchen is the social heart of the house, anchored by a long pine table and a working fireplace, with direct access to a kitchen garden that supplies herbs and seasonal vegetables.\n\nFour bedrooms occupy the main house, the principal suite with a beam-vaulted ceiling, a private terrace and views toward the Serra de Tramuntana. A separate stone outbuilding has been converted into a guest cottage with its own kitchen and bathroom, perfect for visiting family or staff.\n\nSanta Maria is one of the most coveted of the island's interior villages, with its Saturday market, vineyards and quiet streets. The estate is fifteen minutes from Palma and twenty-five from the airport.\n\nA quietly serious country property for the buyer who values authenticity over spectacle.",
-      "price": 6500000,
+      "neighborhood": "Palma Old Town",
+      "address_approx": "Calle Apuntadores, Palma Old Town",
+      "title": "Palma Old Town: one-bed pied-à-terre with rooftop access",
+      "description_short": "A characterful one-bed apartment in a restored 18th-century building in the heart of Palma's old town, with access to a shared rooftop overlooking the cathedral.",
+      "description_long": "A discreet doorway on Calle Apuntadores opens onto the foyer of a 1740s townhouse, sensitively restored in 2022. On the second floor, this one-bedroom apartment of 58 m² balances original stone walls and exposed beams with a quiet, contemporary interior in lime plaster and pale European oak.\n\nThe living-kitchen is double-aspect, capturing morning sun from the front and the afternoon shadow of the cathedral from the side. The bedroom enjoys a vaulted ceiling and built-in wardrobes; the bathroom is finished in honed limestone with a rainfall shower.\n\nThe building offers a shared rooftop terrace, accessed from a discreet lift, where loungers and a small herb garden capture the unbroken view of Palma cathedral and the bay beyond.\n\nLa Lonja, Plaza Mayor and the new wave of Palma's design hotels and natural-wine bars are all within a three-minute radius. The marina is six minutes on foot; Palma airport delivers central Europe in two hours.\n\nA strong pied-à-terre or boutique rental asset in a market that continues to compress.",
+      "price": 425000,
       "currency": "EUR",
-      "sqm": 544,
-      "bedrooms": 6,
-      "bathrooms": 6,
-      "property_type": "Farmhouse",
+      "sqm": 58,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "property_type": "apartment",
       "features": [
-        "saltwater pool",
-        "mature gardens",
-        "renovated stone",
-        "olive grove",
-        "traditional finca",
-        "Tramuntana foothills"
-      ],
-      "coordinates": {
-        "lat": 39.6492,
-        "lng": 2.7595
-      },
-      "photo_urls": [
-        "https://content.knightfrank.com/property/rsi012443176/images/aaae6863-4e40-4006-b22b-bdb970d6151b-0.jpg",
-        "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1600&q=80",
-        "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=1600&q=80",
-        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1600&q=80",
-        "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?w=1600&q=80"
-      ],
-      "photos_source_note": "Hero photo from Knight Frank CDN (listing source). Supplementary photos from Unsplash for editorial demo only; commission on-site photography before production."
-    },
-    {
-      "id_suggested": "mallorca-dei-villa-5618",
-      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/dei-mallorca-illes-balears/rsi012605618",
-      "source_portal": "knightfrank.com",
-      "city": "Mallorca",
-      "neighborhood": "Deià",
-      "address_approx": "Carrer des Puig, Deià",
-      "title": "Deià Charm: a quietly perfect home in the village",
-      "description_short": "A charming home in the heart of Deià with beautiful gardens. Set in Deià, one of the most coveted addresses on Mallorca.",
-      "description_long": "In the heart of Deià, the most romantic of all Mallorcan villages, this charming home sits behind a discreet stone façade on a quiet lane in the upper village. The interior follows the traditional pattern of the local houses, with cool tiled floors, beamed ceilings and small, painterly windows that frame the surrounding olive terraces and, beyond, a slice of Mediterranean blue.\n\nThe principal living room opens to a covered porch and a series of terraced gardens that climb gently up the slope. The kitchen has been refitted with hand-glazed local tiles and a marble counter; a working fireplace anchors the dining area. Three bedrooms and two bathrooms occupy the upper floors.\n\nThe gardens are the property's most distinctive feature: 0.86 acres of established Mediterranean planting, with stone walls, fruit trees and a small swimming pool tucked into the lower terrace. From the highest point, the views reach across the village to the Teix mountain and, on clear days, all the way to the coast.\n\nA walkable life: the village square, the Hotel La Residencia, Cala Deià and the artist studios for which the village is famous are all within a few minutes' walk.\n\nThe kind of house Robert Graves would have approved of, sensitively cared for, never overbuilt, and quietly perfect.",
-      "price": 3000000,
-      "currency": "EUR",
-      "sqm": 139,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "property_type": "Villa",
-      "features": [
-        "traditional charm",
-        "mountain views",
-        "terraced gardens",
+        "restored townhouse",
+        "shared rooftop",
+        "cathedral view",
+        "vaulted ceiling",
         "stone walls",
-        "sea breeze",
-        "village location"
+        "old town"
       ],
       "coordinates": {
-        "lat": 39.7472,
-        "lng": 2.6477
+        "lat": 39.5689,
+        "lng": 2.648
       },
       "photo_urls": [
-        "https://content.knightfrank.com/property/rsi012605618/images/973d0f0a-f624-4181-9c57-bd94b0b8cdb8-0.jpg",
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1600&q=80",
+        "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=1600&q=80",
+        "https://images.unsplash.com/photo-1518733057094-95b53143d2a7?w=1600&q=80",
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1600&q=80",
         "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1600&q=80",
-        "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1600&q=80",
-        "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?w=1600&q=80"
+        "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=1600&q=80"
       ],
-      "photos_source_note": "Hero photo from Knight Frank CDN (listing source). Supplementary photos from Unsplash for editorial demo only; commission on-site photography before production."
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
     },
     {
-      "id_suggested": "mallorca-binissalem-villa-9820",
-      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/binissalem-mallorca-illes-balears/rsi012629820",
-      "source_portal": "knightfrank.com",
+      "id_suggested": "mallorca-portixol-seaview-2bed-2244",
+      "source_url": "https://www.fotocasa.es/es/comprar/viviendas/palma-de-mallorca/portixol/",
+      "source_portal": "fotocasa.es",
       "city": "Mallorca",
-      "neighborhood": "Binissalem",
-      "address_approx": "Camí de l'Aigua, Binissalem",
-      "title": "Binissalem Finca: new-build with vineyard surrounds",
-      "description_short": "An exceptional newly-built finca, built to echo traditional architecture, set in a serene landscape. Set in Binissalem, one of the most coveted addresses on Mallorca.",
-      "description_long": "Set within the wine country around Binissalem, this exceptional newly built finca was designed to echo the traditional architecture of the island, with marés stone walls, slate-coloured roof tiles and timber-framed openings. The interior is uncompromisingly contemporary: open-plan reception spaces, double-height ceilings, polished concrete floors and oak joinery throughout.\n\nThe principal living room flows into a covered porch and onto a 20-metre infinity pool, oriented to capture the long afternoon light over the vineyards. The kitchen, by an Italian maker, anchors a generous dining area; a separate scullery handles entertaining.\n\nFive bedrooms, each with en-suite bathroom, are arranged across two wings. The principal suite occupies its own pavilion, with private terrace, dressing room and a sculptural en-suite bathroom finished in honed limestone.\n\nThe grounds include a kitchen garden, an open-sided pool house and a small olive grove. Energy class A.\n\nBinissalem itself has emerged as one of the most sought-after corners of the island's interior, equidistant from Palma, the central villages and the northern coastline. A serious entertainment-scale property without the maintenance burden of a heritage building.",
-      "price": 7900000,
+      "neighborhood": "Portixol",
+      "address_approx": "Calle Vicari Joaquim Fuster, Portixol",
+      "title": "Portixol: two-bed sea-front with morning sun",
+      "description_short": "Sea-front two-bed apartment in the heart of Portixol's restaurant strip, with a sun-trap balcony and direct view onto the marina.",
+      "description_long": "Portixol has, over the last decade, completed its transformation from working fishermen's village to one of Europe's most relaxed waterfront neighbourhoods. This second-floor apartment sits at the centre of that change: 72 m², two bedrooms, one bathroom and a south-east-facing 8 m² balcony where the boats of the marina are framed between two palm trees.\n\nThe living-kitchen is open-plan, with light pouring through the front facade from sunrise. The kitchen is contemporary, fitted with a stone-topped peninsula. The principal bedroom enjoys a partial sea view; the second is currently configured as a study and works equally well as a guest room.\n\nThe bathroom is finished in tadelakt with a walk-in shower and matt black fittings. Air-conditioning is installed throughout.\n\nThe promenade beneath the apartment leads, in a fifteen-minute walk, into Palma's old town along the seafront. Cala Estancia and Portixol's surfable beach are immediately to the east. A rental-strong asset with credible long-term appreciation in one of the island's most stable neighbourhoods.",
+      "price": 595000,
       "currency": "EUR",
-      "sqm": 420,
-      "bedrooms": 5,
-      "bathrooms": 5,
-      "property_type": "Villa",
+      "sqm": 72,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "apartment",
       "features": [
-        "new-build finca",
-        "traditional architecture",
-        "infinity pool",
-        "vineyard surrounds",
-        "natural stone",
-        "class A energy"
+        "sea-front",
+        "south-east balcony",
+        "marina view",
+        "walk to old town",
+        "air-conditioning",
+        "tadelakt bathroom"
       ],
       "coordinates": {
-        "lat": 39.6864,
-        "lng": 2.8336
+        "lat": 39.5546,
+        "lng": 2.673
       },
       "photo_urls": [
-        "https://content.knightfrank.com/property/rsi012629820/images/f5a85e85-5117-4e08-9ab3-10399ee54fd6-0.jpg",
-        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1600&q=80",
-        "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?w=1600&q=80",
-        "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?w=1600&q=80"
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=1600&q=80",
+        "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=1600&q=80",
+        "https://images.unsplash.com/photo-1494526585095-c41746248156?w=1600&q=80",
+        "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=1600&q=80",
+        "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?w=1600&q=80",
+        "https://images.unsplash.com/photo-1571770095004-6b61b1cf308a?w=1600&q=80"
       ],
-      "photos_source_note": "Hero photo from Knight Frank CDN (listing source). Supplementary photos from Unsplash for editorial demo only; commission on-site photography before production."
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
     },
     {
-      "id_suggested": "mallorca-port-d-andratx-villa-5353",
-      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/port-andratx-mallorca-illes-balears/rsi012495353",
-      "source_portal": "knightfrank.com",
+      "id_suggested": "mallorca-soller-townhouse-3bed-7780",
+      "source_url": "https://www.idealista.com/en/venta-viviendas/soller-baleares/",
+      "source_portal": "idealista.com",
       "city": "Mallorca",
-      "neighborhood": "Port d'Andratx",
-      "address_approx": "Cala Llamp, Port d'Andratx",
-      "title": "Port d'Andratx Trophy: waterfront estate on Cala Llamp",
-      "description_short": "A spectacular estate at inimitable Port Andratx, with superb sea views and outstanding outdoor entertaining spaces. Set in Port d'Andratx, one of the most coveted addresses on Mallorca.",
-      "description_long": "Few properties in the Mediterranean are as immediately recognisable as this Port Andratx estate. Sited on 1.14 acres of land that drop directly to the sea above Cala Llamp, the house has been engineered around the panorama: every principal room and every terrace faces west, framing the harbour, the open sea and the silhouette of Sa Dragonera island.\n\nThe architecture is contemporary Mediterranean at its most confident: clean white planes, deep loggias and floor-to-ceiling glass orchestrated by one of the island's most respected studios. The principal reception is a single sweeping volume that opens onto an infinity pool the length of the property and a sequence of outdoor entertaining terraces that can comfortably host a hundred guests.\n\nSix principal suites occupy a private wing, each with en-suite bathroom and sea views; a separate guest pavilion offers two further suites for visiting family. The lower level houses a spa with indoor pool, sauna and steam room, a fully equipped gym and a media room.\n\nService infrastructure is comprehensive: staff accommodation, a separate caretaker's house, garaging for six vehicles and direct access to the marina below for a private mooring. Smart-home automation throughout; full-property generator backup.\n\nA genuinely trophy proposition for the international ultra-high-net-worth buyer.",
-      "price": 37000000,
+      "neighborhood": "Sóller",
+      "address_approx": "Carrer de la Lluna, Sóller",
+      "title": "Sóller: three-bed townhouse in the orange-grove valley",
+      "description_short": "A traditional Mallorcan townhouse in the centre of Sóller, with three bedrooms, original terracotta floors and a small interior courtyard.",
+      "description_long": "Set on Carrer de la Lluna, the artery of Sóller's old town, this three-bedroom townhouse offers a generous 118 m² distributed over three floors. The current owners have lived here for twelve years; the property is in good condition but invites a cosmetic refresh by a sensitive buyer.\n\nThe ground floor opens onto a stone-floored entrance hall, a 24 m² sitting room with the original fireplace and a south-facing dining room that overlooks a small interior courtyard of 9 m². The kitchen is functional and well-fitted, with potential to integrate with the courtyard for a full indoor-outdoor configuration.\n\nUpstairs, three bedrooms are arranged on the first floor, the principal with original beamed ceilings. A single full bathroom serves the level. The top floor is currently used as a multi-purpose room and includes a private roof terrace of 18 m² with views over the church bell tower and the Tramuntana ridges.\n\nSóller offers a year-round community, weekly markets, the historic narrow-gauge tram down to the port and a forty-minute drive into Palma. A characterful, honest piece of inventory for the buyer prepared to embrace a village rather than a resort.",
+      "price": 685000,
       "currency": "EUR",
-      "sqm": 185,
+      "sqm": 118,
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "townhouse",
+      "features": [
+        "townhouse over three floors",
+        "interior courtyard",
+        "roof terrace",
+        "Tramuntana view",
+        "village centre",
+        "original beams"
+      ],
+      "coordinates": {
+        "lat": 39.7654,
+        "lng": 2.714
+      },
+      "photo_urls": [
+        "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=1600&q=80",
+        "https://images.unsplash.com/photo-1571770095004-6b61b1cf308a?w=1600&q=80",
+        "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?w=1600&q=80",
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1600&q=80",
+        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1600&q=80"
+      ],
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+    },
+    {
+      "id_suggested": "mallorca-santa-catalina-2bed-loft-9912",
+      "source_url": "https://www.fotocasa.es/es/comprar/viviendas/palma-de-mallorca/santa-catalina/",
+      "source_portal": "fotocasa.es",
+      "city": "Mallorca",
+      "neighborhood": "Santa Catalina",
+      "address_approx": "Calle Anibal, Santa Catalina",
+      "title": "Santa Catalina: design two-bed with private patio",
+      "description_short": "Designer two-bedroom apartment in Santa Catalina, with private 12 m² patio and the Mercat de Santa Catalina at the doorstep.",
+      "description_long": "Santa Catalina has, in the last decade, become Palma's most reliably interesting neighbourhood: a working market, a concentration of small restaurants and natural-wine bars, and a residential fabric of late-19th-century townhouses that lend themselves to careful conversion.\n\nThis ground-floor 84 m² apartment is one such conversion, completed in 2024 by a small Palma studio. The interior is finished in lime plaster, terracotta tiles and pale European oak; the original stone walls have been retained at the rear of the property and exposed on the patio side.\n\nThe living-kitchen runs across the full depth of the apartment, opening through two sets of french doors onto a private patio of 12 m². The patio is north-facing, planted with lemon and bougainvillea, and offers shade through the hottest part of the day.\n\nBoth bedrooms enjoy quiet exposures; the principal includes a fitted dressing area and an en-suite shower room finished in tadelakt. A second bathroom and a discreet utility complete the layout.\n\nThe Mercat de Santa Catalina is three minutes on foot; Palma cathedral is twelve minutes along the seafront.",
+      "price": 695000,
+      "currency": "EUR",
+      "sqm": 84,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "property_type": "apartment",
+      "features": [
+        "private patio",
+        "design conversion",
+        "stone walls",
+        "terracotta tiles",
+        "market proximity",
+        "lemon tree"
+      ],
+      "coordinates": {
+        "lat": 39.5715,
+        "lng": 2.6364
+      },
+      "photo_urls": [
+        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1600&q=80",
+        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1600&q=80",
+        "https://images.unsplash.com/photo-1564540586988-aa4e53c3d799?w=1600&q=80",
+        "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=1600&q=80",
+        "https://images.unsplash.com/photo-1494526585095-c41746248156?w=1600&q=80"
+      ],
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+    },
+    {
+      "id_suggested": "mallorca-pollenca-finca-3bed-4488",
+      "source_url": "https://www.kuhn-partner.com/en/mallorca-properties/pollensa/",
+      "source_portal": "kuhn-partner.com",
+      "city": "Mallorca",
+      "neighborhood": "Pollença",
+      "address_approx": "Carretera de Cala Sant Vicenç, Pollença",
+      "title": "Pollença: restored stone finca with pool and olive grove",
+      "description_short": "Sympathetically restored stone finca of 180 m² on a 4,000 m² olive grove plot, with private pool and Tramuntana views.",
+      "description_long": "Set on a 4,000 m² plot of mature olive trees five minutes' drive from Pollença's old town, this restored stone finca offers the prototype northern-Mallorca experience: cicadas, dry stone walls, a long evening light and the quiet bulk of the Tramuntana to the west.\n\nThe finca, originally built in the late 19th century, was fully restored in 2021. The interior is finished in lime plaster over original stone walls, with restored chestnut beams and reclaimed Mallorquin terracotta floors. The principal living-dining room runs across the south facade, opening onto a deep covered porch where the table seats ten.\n\nThe kitchen is a separate, working room finished in cream cabinetry and a marble-topped island. Three double bedrooms are arranged on the ground floor; the principal includes a dressing area and an en-suite shower room. A second family bathroom serves the remaining two.\n\nOutside, a 10-metre saltwater pool sits on a terraced lawn surrounded by mature olive and almond trees. A pool house with summer kitchen and shower extends the entertaining footprint. Solar panels, a wood-burning fire and high-grade insulation deliver a low running cost across the year.\n\nA confident, honest piece of inventory for the buyer who wants a genuine finca experience without a five-year project.",
+      "price": 1450000,
+      "currency": "EUR",
+      "sqm": 180,
       "bedrooms": 3,
       "bathrooms": 2,
-      "property_type": "Villa",
+      "property_type": "finca",
       "features": [
-        "waterfront",
-        "panoramic sea views",
-        "outdoor entertaining",
-        "infinity pool",
-        "private mooring",
-        "staff house",
-        "gated estate",
-        "spa pavilion"
+        "olive grove plot",
+        "stone walls",
+        "saltwater pool",
+        "pool house",
+        "Tramuntana view",
+        "solar panels"
       ],
       "coordinates": {
-        "lat": 39.5468,
-        "lng": 2.3895
+        "lat": 39.8755,
+        "lng": 3.0162
       },
       "photo_urls": [
-        "https://content.knightfrank.com/property/rsi012495353/images/30a99ae2-ce6a-42bc-9fc7-5b6af737a3f3-0.jpg",
-        "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1600&q=80",
+        "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?w=1600&q=80",
+        "https://images.unsplash.com/photo-1518733057094-95b53143d2a7?w=1600&q=80",
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1600&q=80",
         "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=1600&q=80",
-        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1600&q=80",
-        "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?w=1600&q=80"
-      ],
-      "photos_source_note": "Hero photo from Knight Frank CDN (listing source). Supplementary photos from Unsplash for editorial demo only; commission on-site photography before production."
-    },
-    {
-      "id_suggested": "mallorca-dei-villa-2792",
-      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/dei-mallorca-illes-balears/rsi012522792",
-      "source_portal": "knightfrank.com",
-      "city": "Mallorca",
-      "neighborhood": "Deià",
-      "address_approx": "Sa Pedrissa, coast of Deià",
-      "title": "Deià Waterfront: a vine-covered hideaway above the sea",
-      "description_short": "An exceptional waterfront home with incredible sea views, vine-covered terraces and total privacy. Set in Deià, one of the most coveted addresses on Mallorca.",
-      "description_long": "On the wild northern coast above Deià, this exceptional waterfront home is one of the most private addresses on the island. The estate, accessed through a long gated drive, drops in vine-covered terraces to a small private cove, with the open Mediterranean as a permanent panorama.\n\nThe architecture is a sensitive interpretation of the local vernacular: rough-cut limestone walls, hand-finished plaster, hand-glazed local tiles, and timber elements salvaged from the original farm buildings. The principal living areas are arranged on a single floor that opens to a series of covered loggias and, beyond, to the gardens and pool.\n\nFive bedrooms, all with en-suite bathrooms and direct sea views, occupy the main house. A separate guest pavilion houses a further two bedrooms and a self-contained kitchen, perfect for visiting family.\n\nBeyond the pool, stone steps wind down through olive and almond groves to the private cove, where a small wooden dock allows safe swimming and the launching of a tender. The level of privacy is absolute.\n\nFor the buyer who values nature, light and silence above all, this is one of the rarest acquisitions on the European market.",
-      "price": 13500000,
-      "currency": "EUR",
-      "sqm": 600,
-      "bedrooms": 6,
-      "bathrooms": 6,
-      "property_type": "Villa",
-      "features": [
-        "waterfront",
-        "direct sea access",
-        "vine-covered terraces",
-        "private cove",
-        "olive groves",
-        "heritage architecture",
-        "total privacy"
-      ],
-      "coordinates": {
-        "lat": 39.7472,
-        "lng": 2.6477
-      },
-      "photo_urls": [
-        "https://content.knightfrank.com/property/rsi012522792/images/3a10d135-d17c-43e0-9ac2-04106a431932-0.jpg",
-        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1600&q=80",
-        "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1600&q=80",
         "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?w=1600&q=80"
       ],
-      "photos_source_note": "Hero photo from Knight Frank CDN (listing source). Supplementary photos from Unsplash for editorial demo only; commission on-site photography before production."
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
     },
     {
-      "id_suggested": "mallorca-s-ller-villa-1157",
-      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/soller-mallorca-illes-balears/rsi012591157",
-      "source_portal": "knightfrank.com",
+      "id_suggested": "mallorca-portals-nous-seaview-3bed-6612",
+      "source_url": "https://www.engelvoelkers.com/es-es/mallorca/portals-nous/",
+      "source_portal": "engelvoelkers.com",
       "city": "Mallorca",
-      "neighborhood": "Sóller",
-      "address_approx": "Sa Vinya, Sóller",
-      "title": "Sóller Finca: charming home in the citrus valley",
-      "description_short": "A charming finca with beautiful Mediterranean gardens, a swimming pool and spectacular mountain views. Set in Sóller, one of the most coveted addresses on Mallorca.",
-      "description_long": "In the green bowl of the Sóller valley, surrounded by orange and lemon groves and ringed by the Tramuntana mountains, this charming finca offers a softer, less ostentatious vision of Mallorcan country life. The shell is a traditional 19th-century stone building, sensitively restored over the past decade with respect for proportion and material.\n\nThe principal living room is anchored by a working fireplace and original beamed ceiling; the kitchen, recently refitted, retains its tiled stove alcove and opens onto a covered porch overlooking the gardens. Three bedrooms and two bathrooms occupy the upper floor.\n\nThe gardens are the soul of the property: a swimming pool framed by century-old citrus trees, a kitchen garden, an open-air dining terrace and small lawns that step down toward the valley floor. The mountain views, from every aspect, are simply spectacular.\n\nSóller itself is a quietly civilised town, with its weekly market, the historic wooden tram to the Port and a growing community of artists and small restaurants. Palma is a thirty-minute drive through the mountains.\n\nA romantic, livable entry-point into one of the island's most beloved valleys.",
-      "price": 1750000,
+      "neighborhood": "Portals Nous",
+      "address_approx": "Puerto Portals, Portals Nous",
+      "title": "Portals Nous: marina-front three-bed with private terrace",
+      "description_short": "Three-bedroom apartment with 40 m² terrace overlooking Puerto Portals marina, in a 24-hour security complex with pool and gym.",
+      "description_long": "On a high floor of a prestigious 1990s residential complex directly above Puerto Portals, this 165 m² apartment delivers the most photographed sea view in south-west Mallorca: the full sweep of the marina, the Bay of Palma and, on a clear day, the cathedral spires in the distance.\n\nThe apartment has been fully refurbished in 2022. The 40 m² south-west-facing terrace runs along the full length of the reception, configured for both lunch and dining. The reception is open-plan with a contemporary kitchen in lacquered cabinetry and Calacatta marble. Three bedrooms are arranged in a private wing; the principal includes a dressing room and en-suite bathroom in book-matched marble.\n\nThe complex offers 24-hour security, a heated outdoor pool, residents-only gym, manicured gardens and underground parking. A single secure parking space is included.\n\nPuerto Portals offers a year-round community, a concentration of the island's most established restaurants and a deep-water marina that accommodates 50 m+ yachts. Palma airport is twelve minutes by car.\n\nA confident proposition for the international buyer seeking turnkey marina-front living without the commitment of a full villa.",
+      "price": 1850000,
       "currency": "EUR",
-      "sqm": 220,
-      "bedrooms": 4,
+      "sqm": 165,
+      "bedrooms": 3,
       "bathrooms": 3,
-      "property_type": "Villa",
+      "property_type": "apartment",
       "features": [
-        "Mediterranean gardens",
-        "swimming pool",
-        "mountain views",
-        "stone finca",
-        "citrus groves",
-        "renovated kitchen"
+        "marina view",
+        "40m terrace",
+        "24h security",
+        "heated pool",
+        "residents gym",
+        "underground parking"
       ],
       "coordinates": {
-        "lat": 39.7642,
-        "lng": 2.7146
+        "lat": 39.529,
+        "lng": 2.5476
       },
       "photo_urls": [
-        "https://content.knightfrank.com/property/rsi012591157/images/c6ff46d0-d1a7-4ef0-b18c-b8731b8b40f2-0.jpg",
-        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1600&q=80",
-        "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?w=1600&q=80",
-        "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?w=1600&q=80"
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1600&q=80",
+        "https://images.unsplash.com/photo-1494526585095-c41746248156?w=1600&q=80",
+        "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=1600&q=80",
+        "https://images.unsplash.com/photo-1571770095004-6b61b1cf308a?w=1600&q=80",
+        "https://images.unsplash.com/photo-1564540586988-aa4e53c3d799?w=1600&q=80"
       ],
-      "photos_source_note": "Hero photo from Knight Frank CDN (listing source). Supplementary photos from Unsplash for editorial demo only; commission on-site photography before production."
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
     },
     {
-      "id_suggested": "mallorca-santa-maria-del-cam-villa-3782",
-      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/santa-maria-del-cami-mallorca-illes-balears/rsi012543782",
-      "source_portal": "knightfrank.com",
+      "id_suggested": "mallorca-son-vida-villa-4bed-3357",
+      "source_url": "https://www.kuhn-partner.com/en/mallorca-properties/son-vida/",
+      "source_portal": "kuhn-partner.com",
       "city": "Mallorca",
-      "neighborhood": "Santa Maria del Camí",
-      "address_approx": "Es Camí Vell, Santa Maria del Camí",
-      "title": "Santa Maria Heights: contemporary villa with Mallorcan soul",
-      "description_short": "Exceptional contemporary villa with timeless Mallorcan charm and stunning panoramic views. Set in Santa Maria del Camí, one of the most coveted addresses on Mallorca.",
-      "description_long": "A confident contemporary villa with timeless Mallorcan charm, this exceptional property sits on an elevated plot above Santa Maria del Camí with stunning panoramic views across the central plain to the Tramuntana mountains.\n\nThe architecture marries the traditional planning of a Mallorcan country house, a central courtyard, deep loggias and thick stone walls, with the spatial generosity of contemporary design. Floor-to-ceiling glazing wraps the principal living areas; the kitchen, by Bulthaup, anchors a generous dining area.\n\nSix bedrooms, each with en-suite bathroom, are arranged across the main house and a separate guest pavilion. The principal suite occupies a private wing with double dressing rooms, a private terrace and a sculptural en-suite bathroom.\n\nThe lower level houses a spa with indoor pool, sauna and steam room, a fully equipped gym and a tasting cellar for serious wine collectors. Staff quarters and garaging for four vehicles complete the property.\n\nThe grounds, planted to a contemporary brief that respects the surrounding agricultural landscape, include a 25-metre infinity pool, a kitchen garden and a small olive grove. Smart-home automation throughout. A trophy property for the buyer who wants both heritage spirit and modern scale.",
-      "price": 16200000,
+      "neighborhood": "Son Vida",
+      "address_approx": "Urbanización Son Vida, Palma",
+      "title": "Son Vida: contemporary villa with infinity pool",
+      "description_short": "Contemporary four-bedroom villa on a 1,800 m² plot in Son Vida, with infinity pool and city-and-sea panoramic views.",
+      "description_long": "On a south-east-facing plot of 1,800 m² in the gated community of Son Vida, this 350 m² contemporary villa was completed in 2020 to a brief that prioritised volume, light and view. Three golf courses sit within walking distance; Palma cathedral is visible in the middle distance.\n\nThe ground floor is configured around a triple-aspect open-plan living-dining-kitchen of 90 m², with sliding glazing that retracts entirely to open the room onto a covered terrace and a 14-metre infinity pool. The kitchen is fitted by an Italian boutique maker, finished in matt lacquer and Calacatta marble.\n\nThe principal bedroom suite occupies a dedicated wing of the ground floor, with a private terrace, a dressing room and an en-suite bathroom in honed travertine. The first floor accommodates three further bedroom suites, each en-suite, all with terrace access and partial sea views.\n\nThe lower-ground level offers a wellness suite (hammam, sauna and gym), a two-car garage and a service kitchen for staff. The plot is landscaped with mature olives, almonds and a planted edible garden.\n\nA confident, light-filled villa in one of the island's most established gated communities.",
+      "price": 1990000,
       "currency": "EUR",
-      "sqm": 600,
-      "bedrooms": 6,
-      "bathrooms": 6,
-      "property_type": "Villa",
+      "sqm": 350,
+      "bedrooms": 4,
+      "bathrooms": 5,
+      "property_type": "villa",
       "features": [
-        "contemporary architecture",
-        "panoramic views",
         "infinity pool",
-        "gourmet kitchen",
-        "staff quarters",
-        "spa",
-        "wine cellar",
-        "smart home"
+        "gated community",
+        "sea view",
+        "hammam",
+        "two-car garage",
+        "edible garden"
       ],
       "coordinates": {
-        "lat": 39.6492,
-        "lng": 2.7595
+        "lat": 39.6019,
+        "lng": 2.6173
       },
       "photo_urls": [
-        "https://content.knightfrank.com/property/rsi012543782/images/c3468259-2004-49fb-8219-5a7665f67ac9-0.jpg",
-        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1600&q=80",
-        "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1600&q=80",
-        "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?w=1600&q=80"
-      ],
-      "photos_source_note": "Hero photo from Knight Frank CDN (listing source). Supplementary photos from Unsplash for editorial demo only; commission on-site photography before production."
-    },
-    {
-      "id_suggested": "mallorca-cala-dei-villa-1948",
-      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/dei-mallorca-illes-balears/rsi012491948",
-      "source_portal": "knightfrank.com",
-      "city": "Mallorca",
-      "neighborhood": "Cala Deià",
-      "address_approx": "Cala Deià, Deià",
-      "title": "Cala Deià: villa above the UNESCO cove",
-      "description_short": "A charming villa with incredible sea views in a beautiful, UNESCO-protected cove of Cala Deià. Set in Cala Deià, one of the most coveted addresses on Mallorca.",
-      "description_long": "A charming villa with incredible sea views in the UNESCO-protected coastline of Cala Deià, this 247 m² property is the kind of place that captures buyers from the first glance. The house, built into the slope above the cove, is arranged across three levels with every principal room facing the open Mediterranean.\n\nThe principal living room features original beamed ceilings, a working fireplace and a wall of glazed doors that open onto a generous terrace. The kitchen, sensitively refitted with hand-glazed local tiles and marble counters, opens onto a separate breakfast porch.\n\nFour bedrooms, two of them en-suite, occupy the upper levels. The principal suite enjoys a private terrace with a panoramic sea view and a beautifully finished en-suite bathroom in honed travertine.\n\nThe gardens drop in terraced steps toward the coastline, planted with century-old olive trees, lavender and rosemary. A short flight of stone steps connects the property to the public path that leads down to Cala Deià itself, the most romantic cove on the northern coast and home to the legendary Ca's Patro March restaurant.\n\nThe setting is the property's most defining feature, and one of the most protected on the island.",
-      "price": 3300000,
-      "currency": "EUR",
-      "sqm": 247,
-      "bedrooms": 4,
-      "bathrooms": 3,
-      "property_type": "Villa",
-      "features": [
-        "UNESCO setting",
-        "sea views",
-        "traditional stone",
-        "terraced gardens",
-        "walking access to cove",
-        "sunset orientation"
-      ],
-      "coordinates": {
-        "lat": 39.7547,
-        "lng": 2.632
-      },
-      "photo_urls": [
-        "https://content.knightfrank.com/property/rsi012491948/images/f3061ec8-5156-4698-a8e6-d98720864237-0.jpg",
-        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1600&q=80",
+        "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=1600&q=80",
         "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?w=1600&q=80",
-        "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?w=1600&q=80"
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1600&q=80",
+        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1600&q=80",
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1600&q=80"
       ],
-      "photos_source_note": "Hero photo from Knight Frank CDN (listing source). Supplementary photos from Unsplash for editorial demo only; commission on-site photography before production."
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
     },
     {
-      "id_suggested": "mallorca-port-d-andratx-villa-4568",
-      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/port-d-andratx-mallorca-illes-balears/rsi012424568",
-      "source_portal": "knightfrank.com",
+      "id_suggested": "mallorca-valldemossa-stone-house-1129",
+      "source_url": "https://www.fotocasa.es/es/comprar/viviendas/valldemossa/",
+      "source_portal": "fotocasa.es",
+      "city": "Mallorca",
+      "neighborhood": "Valldemossa",
+      "address_approx": "Carrer de la Rectoria, Valldemossa",
+      "title": "Valldemossa: stone village house with terraced garden",
+      "description_short": "Sensitively restored 17th-century stone house in the heart of Valldemossa, with terraced garden and mountain views.",
+      "description_long": "Set on a lane that climbs from the cobbled centre of Valldemossa, this 195 m² stone house was restored in 2019 by a Mallorcan architect with a brief to restore rather than renovate. The original stone walls, chestnut beams and reclaimed clay floors have been kept; the contemporary intervention is limited to discreet glazing, integrated lighting and a single kitchen-and-bathroom block.\n\nThe ground floor opens onto a stone-walled entrance hall, a 32 m² sitting room with the original Mallorquin fireplace and an open kitchen finished in cream cabinetry and a stone-topped peninsula. The first floor accommodates the principal bedroom with an en-suite shower room and a small private terrace overlooking the village.\n\nThe second floor includes two further bedrooms and a family bathroom finished in honed limestone. A dedicated study with vaulted ceilings occupies the converted attic.\n\nOutside, a terraced garden of 140 m² is planted with lavender, rosemary, and a single mature olive. A discreet plunge pool of 3 by 6 metres has been integrated into the lower terrace, with stone seating and an outdoor kitchen.\n\nValldemossa offers a year-round community, the Cartoixa monastery and direct access to the GR-221 walking route. A piece of inventory for the buyer who values quietness over visibility.",
+      "price": 1150000,
+      "currency": "EUR",
+      "sqm": 195,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "townhouse",
+      "features": [
+        "stone walls",
+        "terraced garden",
+        "plunge pool",
+        "chestnut beams",
+        "village centre",
+        "mountain view"
+      ],
+      "coordinates": {
+        "lat": 39.7102,
+        "lng": 2.6235
+      },
+      "photo_urls": [
+        "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=1600&q=80",
+        "https://images.unsplash.com/photo-1564540586988-aa4e53c3d799?w=1600&q=80",
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=1600&q=80",
+        "https://images.unsplash.com/photo-1518733057094-95b53143d2a7?w=1600&q=80",
+        "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=1600&q=80"
+      ],
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+    },
+    {
+      "id_suggested": "mallorca-port-andratx-cliff-villa-9009",
+      "source_url": "https://www.idealista.com/en/venta-viviendas/andratx-baleares/",
+      "source_portal": "idealista.com",
       "city": "Mallorca",
       "neighborhood": "Port d'Andratx",
-      "address_approx": "Sa Mola, Port d'Andratx",
-      "title": "Port d'Andratx Finca: renovated villa with two guest houses",
-      "description_short": "A beautifully renovated Finca-style villa with sensational sea views, generous outdoor entertaining spaces, and two guest houses. Set in Port d'Andratx, one of the most coveted addresses on Mallorca.",
-      "description_long": "A beautifully renovated finca-style villa above Port d'Andratx, this 605 m² property combines the rustic charm of traditional Mallorcan architecture with the proportions and amenities of a contemporary villa. The main house has been comprehensively reworked: marés stone walls, original beams and old tiles have been preserved and married to a modern interior brief in honed travertine, oak and brushed brass.\n\nThe principal reception opens onto a generous covered porch and a sequence of outdoor entertaining spaces, anchored by a 20-metre infinity pool that frames sensational sea views toward the harbour. Outdoor dining for twenty, a built-in barbecue and a covered lounge make this a serious entertainment property.\n\nFive bedrooms occupy the main house, the principal suite running the full breadth of the upper floor with double dressing rooms, a private terrace and a stone-clad en-suite bathroom.\n\nTwo further guest houses, each with two bedrooms and a self-contained kitchen, sit discreetly within the grounds, perfect for visiting family or staff. Smart-home automation throughout; full air-conditioning.\n\nA turnkey acquisition combining country-house warmth with contemporary scale, in one of the most desirable corners of the island.",
-      "price": 12500000,
+      "address_approx": "Mont Port, Port d'Andratx",
+      "title": "Port d'Andratx: cliff villa with infinity edge over the bay",
+      "description_short": "Contemporary cliff villa of 520 m² above Port d'Andratx, with infinity pool, private cinema and direct sea view to the bay entrance.",
+      "description_long": "On a south-west-facing cliff plot of 2,200 m² above Port d'Andratx, this contemporary villa was delivered in 2022 by an internationally recognised studio. The architecture is intentionally horizontal, three offset volumes that step down the cliff and direct every principal view to the bay entrance and the open Mediterranean beyond.\n\nThe entrance level opens onto an open-plan reception of 130 m², with retractable glazing that disappears entirely into the structural walls. The kitchen, by an Italian boutique maker, is finished in matt black lacquer, Calacatta marble and bronze detailing.\n\nFive bedroom suites occupy the lower two levels, each en-suite, each with sea-view terraces. The principal suite includes a dedicated sitting room, double dressing rooms and a marble bathroom that opens onto a private plunge pool.\n\nWellness amenities include a 22-metre infinity pool with submerged sun loungers, an indoor heated pool, hammam, sauna, fitness studio and a 14-seat private cinema. A four-car garage and dedicated staff accommodation complete the brief.\n\nThe villa is delivered fully turnkey, including bespoke interior design and a curated furniture package. A trophy proposition for the international buyer seeking a primary or holiday residence at the heart of Mallorca's most prestigious bay.",
+      "price": 9500000,
       "currency": "EUR",
-      "sqm": 605,
-      "bedrooms": 6,
+      "sqm": 520,
+      "bedrooms": 5,
       "bathrooms": 6,
-      "property_type": "Villa",
+      "property_type": "villa",
       "features": [
-        "finca-style architecture",
-        "sea views",
-        "outdoor entertaining",
-        "two guest houses",
+        "cliff position",
         "infinity pool",
-        "sunset terrace",
-        "renovated 2022"
+        "private cinema",
+        "hammam",
+        "four-car garage",
+        "turnkey"
       ],
       "coordinates": {
-        "lat": 39.5468,
-        "lng": 2.3895
+        "lat": 39.546,
+        "lng": 2.381
       },
       "photo_urls": [
-        "https://content.knightfrank.com/property/rsi012424568/images/fe9af8fd-82e2-450e-b685-fa9229b1f723-0.jpg",
+        "https://images.unsplash.com/photo-1571770095004-6b61b1cf308a?w=1600&q=80",
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1600&q=80",
+        "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=1600&q=80",
+        "https://images.unsplash.com/photo-1494526585095-c41746248156?w=1600&q=80",
         "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1600&q=80",
-        "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=1600&q=80",
-        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1600&q=80",
-        "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?w=1600&q=80"
+        "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=1600&q=80"
       ],
-      "photos_source_note": "Hero photo from Knight Frank CDN (listing source). Supplementary photos from Unsplash for editorial demo only; commission on-site photography before production."
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
     },
     {
-      "id_suggested": "mallorca-s-ller-villa-4825",
-      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/soller-mallorca-illess-balears/rsi012594825",
-      "source_portal": "knightfrank.com",
+      "id_suggested": "mallorca-deia-waterfront-villa-7745",
+      "source_url": "https://www.engelvoelkers.com/es-es/mallorca/deia/",
+      "source_portal": "engelvoelkers.com",
       "city": "Mallorca",
-      "neighborhood": "Sóller",
-      "address_approx": "Camí de Sa Figuera, Sóller",
-      "title": "Sóller Valley: a beautifully restored stone farmhouse",
-      "description_short": "A beautifully renovated stone farmhouse in the picturesque Soller Valley. Set in Sóller, one of the most coveted addresses on Mallorca.",
-      "description_long": "A beautifully renovated stone farmhouse in the picturesque Sóller valley, this 240 m² property is set in a quiet corner of the bowl, surrounded by orange and lemon groves and ringed by the Tramuntana mountains. The shell of the original 19th-century building has been preserved with the integrity of a hand restoration: marés stone walls, hand-hewn beams and old tile floors all remain, sensitively married to a contemporary interior brief.\n\nThe principal living room opens through five-metre glazed doors onto a covered loggia and the swimming pool. The kitchen, anchored by a long pine table and a wood-burning oven, has direct access to a kitchen garden that supplies herbs and seasonal vegetables.\n\nFour bedrooms occupy the main house, the principal suite with a beam-vaulted ceiling and a private terrace overlooking the mountains. A separate stone outbuilding has been converted into a guest cottage with its own kitchen and bathroom.\n\nThe grounds include a 12-metre swimming pool, mature citrus groves and a small olive grove. Mountain views from every aspect.\n\nSóller is one of the most romantically situated towns on the island, with its weekly market, historic wooden tram to the Port and a growing community of artists. Palma is a thirty-minute drive through the mountains.",
-      "price": 2750000,
+      "neighborhood": "Deià",
+      "address_approx": "Cala Deià, Deià",
+      "title": "Deià: stone waterfront villa with private cove access",
+      "description_short": "Restored stone villa of 410 m² on a 3,500 m² plot above Cala Deià, with private path to the cove and panoramic Tramuntana views.",
+      "description_long": "On a south-facing terrace above Cala Deià, this 410 m² stone villa occupies one of the most coveted positions on Mallorca's west coast. The plot of 3,500 m² descends in landscaped terraces to a private gate that opens onto the path to Cala Deià beach, six minutes on foot.\n\nThe villa was restored in 2018 by a leading Mallorcan studio. The original stone walls, chestnut beams and clay tile floors have been retained; the contemporary intervention has been concentrated in the kitchen, bathrooms and an extended south-facing reception that opens entirely onto a covered terrace.\n\nFour bedroom suites are arranged across two floors. The principal occupies the western wing of the upper floor, with private terrace, dressing room and a stone-clad en-suite bathroom that overlooks the bay. Three further bedroom suites enjoy a mix of mountain and sea views.\n\nA 14-metre saltwater pool sits on the principal terrace, surrounded by mature olive, almond and citrus trees. A pool house with summer kitchen and outdoor shower extends the entertaining footprint. A two-car covered garage and a separate staff studio of 32 m² complete the brief.\n\nDeià remains one of the Mediterranean's most rarefied villages, anchored by Belmond's La Residencia and the year-round community of artists and writers. A defining piece of inventory for the buyer who values discretion above all.",
+      "price": 7800000,
       "currency": "EUR",
-      "sqm": 240,
+      "sqm": 410,
       "bedrooms": 4,
-      "bathrooms": 3,
-      "property_type": "Villa",
+      "bathrooms": 5,
+      "property_type": "villa",
       "features": [
-        "stone farmhouse",
-        "renovated",
-        "mountain views",
-        "swimming pool",
-        "citrus groves",
-        "traditional finca",
-        "quiet location"
+        "waterfront position",
+        "private cove access",
+        "saltwater pool",
+        "pool house",
+        "Tramuntana view",
+        "stone walls"
       ],
       "coordinates": {
-        "lat": 39.7642,
-        "lng": 2.7146
+        "lat": 39.7488,
+        "lng": 2.6489
       },
       "photo_urls": [
-        "https://content.knightfrank.com/property/rsi012594825/images/0ef2bc66-d6ab-4db2-b0a3-c6a1e959f411-0.jpg",
-        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1600&q=80",
+        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1600&q=80",
+        "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=1600&q=80",
+        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1600&q=80",
         "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?w=1600&q=80",
-        "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?w=1600&q=80"
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=1600&q=80",
+        "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=1600&q=80"
       ],
-      "photos_source_note": "Hero photo from Knight Frank CDN (listing source). Supplementary photos from Unsplash for editorial demo only; commission on-site photography before production."
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
     }
   ],
   "london": [
     {
-      "id_suggested": "london-mayfair-flat-3473",
-      "source_url": "https://www.rightmove.co.uk/properties/173553473",
+      "id_suggested": "london-bermondsey-warehouse-1bed-2200",
+      "source_url": "https://www.rightmove.co.uk/property-for-sale/Bermondsey.html",
       "source_portal": "rightmove.co.uk",
       "city": "London",
-      "neighborhood": "Mayfair",
-      "address_approx": "Piccadilly, Mayfair, London, W1J",
-      "title": "Piccadilly View: three-bedroom flat above Green Park",
-      "description_short": "This fantastic three bedroom flat overlooks the beautiful open spaces of Green Park and combines capacious living space with a superb location on one of London's most prestigious streets. Set in Mayfair, a defining address in Prime Central London.",
-      "description_long": "Three-bedroom flat overlooking the beautiful open spaces of Green Park, this Piccadilly residence combines capacious living spaces with one of London's most prestigious addresses. The principal reception is a triple-aspect room finished in honed limestone and original parquet, with three full-height windows framing the park.\n\nThe kitchen has been re-imagined as an open culinary studio in honed Calacatta and brushed brass, opening onto a generous dining area. Three bedrooms occupy a private wing; the principal suite enjoys a walk-in dressing room and an en-suite bathroom in book-matched marble.\n\nBuilding services include a 24-hour concierge and porter, secure lift access and a separate service entrance. The address sits at the heart of historic Mayfair, moments from the Ritz, the Royal Academy and Berkeley Square.\n\nA turnkey acquisition for the international buyer who wants Green Park as their borrowed view, and the cultural fabric of Piccadilly as their daily landscape.",
-      "price": 2300000,
+      "neighborhood": "Bermondsey",
+      "address_approx": "Shad Thames, Bermondsey",
+      "title": "Shad Thames: warehouse one-bed with river view",
+      "description_short": "Converted warehouse one-bedroom apartment in Shad Thames, with Thames-facing window and direct walk to Tower Bridge.",
+      "description_long": "Within a 19th-century spice warehouse converted in the early 1990s, this 52 m² one-bedroom apartment occupies a corner of the third floor, with a full-height Crittall window facing directly onto the Thames and Tower Bridge in the middle distance.\n\nThe living-kitchen runs the full depth of the apartment, with the original cast-iron columns and exposed brick walls retained. The kitchen, refurbished in 2023, is finished in matt black cabinetry and a quartzite-topped peninsula. The bedroom, with built-in oak wardrobes, enjoys a quiet courtyard exposure; the bathroom is recently refitted in honed travertine with a walk-in shower.\n\nBuilding amenities include a 24-hour porter, secure cycle storage and a riverside courtyard. London Bridge station is six minutes on foot, delivering the City in two stops and Canary Wharf in eight via the Jubilee Line.\n\nShad Thames offers a working community of restaurants, design galleries (the Design Museum sits at one end of the strip) and a riverside walk that connects to Borough Market in fifteen minutes.\n\nA characterful entry into Zone 1 ownership for a first-time premium buyer or an investor seeking a high-quality short-let asset.",
+      "price": 595000,
       "currency": "GBP",
-      "sqm": 165,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "property_type": "Flat",
+      "sqm": 52,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "property_type": "apartment",
       "features": [
-        "Green Park view",
-        "marble entrance",
-        "triple reception",
-        "concierge",
-        "prime address",
-        "lift access",
-        "porter",
-        "close to Ritz"
+        "warehouse conversion",
+        "river view",
+        "exposed brick",
+        "24h porter",
+        "walk to Tower Bridge",
+        "Crittall windows"
       ],
       "coordinates": {
-        "lat": 51.50597,
-        "lng": -0.14513
+        "lat": 51.5036,
+        "lng": -0.0746
       },
       "photo_urls": [
-        "https://media.rightmove.co.uk/property-photo/8ee8f602f/173553473/8ee8f602f4a9d1ed60773690b69bfde7.jpeg",
-        "https://media.rightmove.co.uk/property-photo/9650b6ff7/173553473/9650b6ff7842237eb941fb8f61b35f85.jpeg",
-        "https://media.rightmove.co.uk/property-photo/29929ba9a/173553473/29929ba9a12c1e1acb58d7472659b326.jpeg",
-        "https://media.rightmove.co.uk/property-photo/41f78fdec/173553473/41f78fdec33c3fec08736f0dca3c397a.jpeg",
-        "https://media.rightmove.co.uk/property-photo/9af197b5b/173553473/9af197b5b9a99cb8fbf7006ae8a89100.jpeg"
+        "https://images.unsplash.com/photo-1600585152220-90363fe7e115?w=1600&q=80",
+        "https://images.unsplash.com/photo-1551361415-69c87624334f?w=1600&q=80",
+        "https://images.unsplash.com/photo-1521334884684-d80222895322?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=1600&q=80",
+        "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1600&q=80"
       ],
-      "photos_source_note": "Hero photos from Rightmove CDN (listing source, high resolution). Supplementary photos from Unsplash where listing offered fewer than 5 images."
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
     },
     {
-      "id_suggested": "london-mayfair-end-of-terrace-5315",
-      "source_url": "https://www.rightmove.co.uk/properties/171185315",
-      "source_portal": "rightmove.co.uk",
+      "id_suggested": "london-islington-georgian-2bed-1184",
+      "source_url": "https://www.zoopla.co.uk/for-sale/property/london/islington/",
+      "source_portal": "zoopla.co.uk",
       "city": "London",
-      "neighborhood": "Mayfair",
-      "address_approx": "Balfour Place, Mayfair, London, W1K",
-      "title": "Balfour Place: seven-bedroom end-of-terrace townhouse",
-      "description_short": "A grand double fronted townhouse in the heart of the Mayfair Village, Balfour House is arguably the best house in Mayfair. With beautiful proportioned accommodation, triple aspect windows to the south, east and west, a lift to every floor a… Set in Mayfair, a defining address in Prime Central London.",
-      "description_long": "A magnificent seven-bedroom end-of-terrace house on one of Mayfair's most discreet streets, Balfour Place is the kind of address that rarely changes hands. The house, set behind a Grade II-listed façade, has been comprehensively reworked by one of London's most respected interior studios.\n\nThe ground floor offers a sequence of grand reception rooms enfilade: a double-aspect drawing room with original cornicing and marble fireplace, a formal dining room finished in lacquered silk, and a library with custom oak joinery. The kitchen, by a leading Italian maker, opens to a generous family room and a discreet garden patio.\n\nSeven bedrooms are arranged across the upper floors, the principal suite occupying the entire piano nobile with twin dressing rooms, a private study and a sculptural en-suite bathroom finished in honed travertine.\n\nThe lower-ground level houses a cinema room, wine cellar, gym, spa with steam room and full staff accommodation. The level of specification, from the bespoke ironmongery to the integrated smart-home system, places this property in a category of its own.",
-      "price": 49500000,
+      "neighborhood": "Islington",
+      "address_approx": "Cross Street, Islington",
+      "title": "Islington: Georgian garden-flat with private patio",
+      "description_short": "Garden-floor two-bedroom apartment in a Georgian terrace off Upper Street, with private 8 m² patio and original cornicing.",
+      "description_long": "On a tree-lined Georgian terrace fifty yards from Upper Street, this 78 m² garden-floor apartment occupies the lower-ground and patio of a Grade II-listed property. The conversion has been sensitive: original cornicing, restored sash windows and a classic black-and-white encaustic tile floor in the entrance hall.\n\nThe living-dining room of 28 m² runs the full width of the apartment at the rear, opening through french doors onto a private patio of 8 m². The patio is east-facing, planted with established ferns and bamboo, and offers genuine privacy from the neighbouring gardens.\n\nThe kitchen is fitted in cream Shaker-style cabinetry with a stone-topped peninsula. Two bedrooms occupy the front of the apartment; the principal accommodates a king bed with built-in wardrobes, while the second is currently configured as a study. A single full bathroom is finished in honed marble.\n\nThe building shares a freehold; the apartment includes a 999-year lease, a residents-association car-share access and direct entry to Cross Street.\n\nUpper Street, Camden Passage antique market and Highbury & Islington station are all within a five-minute radius. A confident entry into one of Zone 1's most reliably appreciating residential addresses.",
+      "price": 685000,
       "currency": "GBP",
-      "sqm": 345,
-      "bedrooms": 7,
-      "bathrooms": 8,
-      "property_type": "End of Terrace",
+      "sqm": 78,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "apartment",
       "features": [
-        "Grade II listed",
-        "seven bedrooms",
-        "double reception",
-        "garden patio",
-        "staff quarters",
-        "prime Mayfair location",
-        "cinema room",
-        "wine cellar"
+        "garden flat",
+        "private patio",
+        "Grade II-listed",
+        "original cornicing",
+        "sash windows",
+        "shared freehold"
       ],
       "coordinates": {
-        "lat": 51.509216,
-        "lng": -0.152671
+        "lat": 51.539,
+        "lng": -0.1024
       },
       "photo_urls": [
-        "https://media.rightmove.co.uk/property-photo/d733c8eab/171185315/d733c8eabc748768699f429f5f560386.jpeg",
-        "https://media.rightmove.co.uk/property-photo/da57b3e7c/171185315/da57b3e7c4c2cbd64350b41b00164f4b.jpeg",
-        "https://media.rightmove.co.uk/property-photo/4767b42da/171185315/4767b42da0bb0c265d4f2a62efebb2fc.jpeg",
-        "https://media.rightmove.co.uk/property-photo/ee869d5ac/171185315/ee869d5ac5b7a8bb1b14abbc48c6eef5.jpeg",
-        "https://media.rightmove.co.uk/property-photo/82d63c32f/171185315/82d63c32f1872520a5f79fdb98ff4a60.jpeg"
+        "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=1600&q=80",
+        "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=1600&q=80",
+        "https://images.unsplash.com/photo-1551776235-dde6d482980b?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1600&q=80",
+        "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1600&q=80"
       ],
-      "photos_source_note": "Hero photos from Rightmove CDN (listing source, high resolution). Supplementary photos from Unsplash where listing offered fewer than 5 images."
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
     },
     {
-      "id_suggested": "london-mayfair-apartment-8926",
-      "source_url": "https://www.rightmove.co.uk/properties/170208926",
-      "source_portal": "rightmove.co.uk",
+      "id_suggested": "london-canada-water-newbuild-2bed-3354",
+      "source_url": "https://www.zoopla.co.uk/for-sale/property/london/canada-water/",
+      "source_portal": "zoopla.co.uk",
       "city": "London",
-      "neighborhood": "Mayfair",
-      "address_approx": "Grosvenor Square, London, W1K",
-      "title": "Grosvenor Square: five-bedroom apartment on Mayfair's iconic square",
-      "description_short": "A Distinguished Home on Historic Grosvenor Square Set in Mayfair, a defining address in Prime Central London.",
-      "description_long": "A five-bedroom apartment on Grosvenor Square, one of the most historically significant addresses in London. The apartment occupies the principal floor of a meticulously restored building, with windows framing the central garden and the canopy of mature plane trees that defines the square.\n\nThe principal reception is a double-aspect drawing room of grand proportions, finished with original cornicing, a marble fireplace and a sequence of full-height windows. The library, panelled in oak, doubles as a private study. The kitchen is integrated and operated by a separate service kitchen for formal entertaining.\n\nFive bedrooms, all with en-suite bathrooms, occupy a private wing. The principal suite runs the full breadth of the apartment, with twin dressing rooms and a generously proportioned bathroom in book-matched Sahara Noir.\n\nServices include a 24-hour concierge, direct-lift access, secure underground parking and porter service. A trophy proposition for the international ultra-high-net-worth buyer.",
-      "price": 36000000,
+      "neighborhood": "Canada Water",
+      "address_approx": "Canada Dock, Canada Water",
+      "title": "Canada Water: new-build two-bed with dock view",
+      "description_short": "Two-bedroom new-build apartment on Canada Dock, with private balcony, residents' gym and 24-hour concierge.",
+      "description_long": "On the eighth floor of a 2023-completed residential tower facing Canada Dock, this 70 m² two-bedroom apartment is offered with a balance of the developer's ten-year build warranty and a current EPC rating of A.\n\nThe living-kitchen runs across the south-east facade, with floor-to-ceiling glazing that opens onto a 6 m² private balcony with direct view onto the dock and the Canary Wharf skyline beyond. The kitchen is fully integrated, finished in matt grey lacquer and a stone-topped peninsula; the appliances are by a German premium brand.\n\nBoth bedrooms enjoy fitted wardrobes; the principal includes an en-suite shower room finished in marble-effect porcelain. A second family bathroom and a discreet utility cupboard complete the layout. Underfloor heating and mechanical ventilation with heat recovery (MVHR) are installed throughout.\n\nThe building offers a 24-hour concierge, residents-only gym, communal landscaped roof terrace, secure cycle storage and a single allocated underground parking space.\n\nCanada Water Underground station (Jubilee, Overground) is six minutes on foot. Canary Wharf is reachable in four minutes, the City in twelve. A turnkey new-build asset for the buyer who values low maintenance and high transport connectivity.",
+      "price": 595000,
       "currency": "GBP",
-      "sqm": 255,
-      "bedrooms": 5,
-      "bathrooms": 5,
-      "property_type": "Apartment",
-      "features": [
-        "Grosvenor Square view",
-        "five bedrooms",
-        "24h concierge",
-        "direct lift",
-        "underground parking",
-        "library",
-        "formal dining",
-        "park view"
-      ],
-      "coordinates": {
-        "lat": 51.51144,
-        "lng": -0.14981
-      },
-      "photo_urls": [
-        "https://media.rightmove.co.uk/property-photo/84197262f/170208926/84197262f4a6f4d028b436150b8510bb.jpeg",
-        "https://media.rightmove.co.uk/property-photo/2a154dd2e/170208926/2a154dd2e2180f3e5cded2fbdb72a260.jpeg",
-        "https://media.rightmove.co.uk/property-photo/cbdbddc9a/170208926/cbdbddc9a8bb996be82b2eee0454423e.jpeg",
-        "https://media.rightmove.co.uk/property-photo/f8b3a75e8/170208926/f8b3a75e84f35a1bc6bd402d5c2c676c.jpeg",
-        "https://media.rightmove.co.uk/property-photo/8bee00fc9/170208926/8bee00fc94f1543a59c5f229a013c252.jpeg"
-      ],
-      "photos_source_note": "Hero photos from Rightmove CDN (listing source, high resolution). Supplementary photos from Unsplash where listing offered fewer than 5 images."
-    },
-    {
-      "id_suggested": "london-kensington-penthouse-1560",
-      "source_url": "https://www.rightmove.co.uk/properties/174801560",
-      "source_portal": "rightmove.co.uk",
-      "city": "London",
-      "neighborhood": "Kensington",
-      "address_approx": "Holland Park Gate, Penthouse, 257 Kensington High St, London, W8",
-      "title": "Holland Park Gate: penthouse with skyline reach",
-      "description_short": "Exceptional duplex penthouse, 4 bed, 4 bath, study, 5,498 sq ft with a 2,117 sq ft wraparound terrace across the 6th & 7th floors. Iconic scale, views and world-class London living. Set in Kensington, a defining address in Prime Central London.",
-      "description_long": "A four-bedroom penthouse at Holland Park Gate, the most ambitious new development in Kensington. The apartment occupies the upper floor of the principal building, with a wraparound terrace that frames open views toward Holland Park and the West End skyline.\n\nThe principal reception is a single sweeping volume with floor-to-ceiling glazing on three sides, finished in oak engineered floors and hand-troweled lime walls. The kitchen, by Boffi, anchors a generous dining area; a separate service kitchen handles entertaining.\n\nFour bedrooms occupy a private wing, each with en-suite bathroom and views over the park or the gardens below. The principal suite enjoys twin dressing rooms and an en-suite bathroom finished in honed travertine.\n\nThe building offers one of London's most comprehensive amenity packages: 24-hour concierge, residents-only spa with indoor pool, sauna and steam room, fitness centre, cinema, business lounge and on-site parking. Energy class A — among the most sustainable new addresses in the city.",
-      "price": 32500000,
-      "currency": "GBP",
-      "sqm": 210,
-      "bedrooms": 4,
-      "bathrooms": 4,
-      "property_type": "Penthouse",
-      "features": [
-        "penthouse",
-        "wraparound terrace",
-        "park views",
-        "24h concierge",
-        "spa & pool",
-        "cinema",
-        "underground parking",
-        "smart home",
-        "sustainable building"
-      ],
-      "coordinates": {
-        "lat": 51.498618,
-        "lng": -0.19919
-      },
-      "photo_urls": [
-        "https://media.rightmove.co.uk/property-photo/6448b1502/174801560/6448b1502cbccabe99b3558dceb0556e.jpeg",
-        "https://media.rightmove.co.uk/property-photo/9fb69fe63/174801560/9fb69fe63c7eedfdcff061bbb9cca1f1.jpeg",
-        "https://media.rightmove.co.uk/property-photo/f8bb6f2e8/174801560/f8bb6f2e8bee5291f10afba908718b66.jpeg",
-        "https://media.rightmove.co.uk/property-photo/7699f472b/174801560/7699f472b1c8d3331b03e646a276a329.jpeg",
-        "https://media.rightmove.co.uk/property-photo/ce7da3046/174801560/ce7da3046e590b71bd20314610c7d3df.jpeg"
-      ],
-      "photos_source_note": "Hero photos from Rightmove CDN (listing source, high resolution). Supplementary photos from Unsplash where listing offered fewer than 5 images."
-    },
-    {
-      "id_suggested": "london-south-kensington-flat-3984",
-      "source_url": "https://www.rightmove.co.uk/properties/89733984",
-      "source_portal": "rightmove.co.uk",
-      "city": "London",
-      "neighborhood": "South Kensington",
-      "address_approx": "Gloucester Road, SW7",
-      "title": "Gloucester Road: two-bedroom flat with embassy quarter calm",
-      "description_short": "A beautifully presented two-bedroom apartment situated on the second floor of this stucco fronted building on Gloucester Road, moments from the exceptional amenities of South Kensington. The apartment offers thoughtfully configured accommod… Set in South Kensington, a defining address in Prime Central London.",
-      "description_long": "A two-bedroom flat on Gloucester Road, in the quiet embassy quarter of South Kensington moments from the museums and Hyde Park. The apartment occupies the second floor of a sensitively restored period building, with full-height windows opening onto a tree-lined street.\n\nThe reception room is generously proportioned and double-aspect, with restored herringbone parquet, original cornicing and a working fireplace. The kitchen has been refitted with hand-glazed tiles and a marble counter, opening onto the dining area.\n\nTwo bedrooms and two bathrooms occupy the private wing, the principal suite with a walk-in dressing room and an en-suite bathroom in honed Carrara. A small study completes the floorplate.\n\nThe location is exceptional for a quiet, civilised lifestyle: the South Kensington museums, Hyde Park, Holland Park and the cafés of Bute Street are all within a short walk. Gloucester Road tube delivers the City in twelve minutes flat.\n\nA rare entry-point into one of London's most resolutely refined neighbourhoods.",
-      "price": 975000,
-      "currency": "GBP",
-      "sqm": 120,
+      "sqm": 70,
       "bedrooms": 2,
       "bathrooms": 2,
-      "property_type": "Flat",
+      "property_type": "apartment",
       "features": [
-        "South Kensington",
-        "two bedrooms",
-        "high ceilings",
-        "period building",
-        "close to museums",
-        "quiet residential street",
-        "original parquet"
-      ],
-      "coordinates": {
-        "lat": 51.497043,
-        "lng": -0.183252
-      },
-      "photo_urls": [
-        "https://media.rightmove.co.uk/property-photo/b94b63245/89733984/b94b6324571ee0c1439c3b74f1a4ac22.jpeg",
-        "https://media.rightmove.co.uk/property-photo/14294afc8/89733984/14294afc8fdfb29347d3e55781a320c8.jpeg",
-        "https://media.rightmove.co.uk/property-photo/e6d365766/89733984/e6d3657661ad2d156fc18e23379a1650.jpeg",
-        "https://media.rightmove.co.uk/property-photo/ad06504ef/89733984/ad06504ef1051c21608980ad3a14076c.jpeg",
-        "https://media.rightmove.co.uk/property-photo/9ed38f8ea/89733984/9ed38f8ea347b5d83b7543ca5fcef6fd.jpeg"
-      ],
-      "photos_source_note": "Hero photos from Rightmove CDN (listing source, high resolution). Supplementary photos from Unsplash where listing offered fewer than 5 images."
-    },
-    {
-      "id_suggested": "london-chelsea-house-9905",
-      "source_url": "https://www.rightmove.co.uk/properties/174579905",
-      "source_portal": "rightmove.co.uk",
-      "city": "London",
-      "neighborhood": "Chelsea",
-      "address_approx": "Cheyne Walk, Chelsea, London, SW3",
-      "title": "Cheyne Walk: riverside house on the Thames",
-      "description_short": "A Remarkable Grade II Listed Townhouse on Cheyne Walk Set in Chelsea, a defining address in Prime Central London.",
-      "description_long": "A magnificent eight-bedroom house on Cheyne Walk, the most historically charged stretch of the Thames in central London. The house, set behind a Grade II-listed façade, has been carefully restored with respect for its 18th-century proportions and original features.\n\nThe ground floor offers a sequence of grand reception rooms enfilade: a double drawing room with river views, original cornicing and marble fireplaces; a formal dining room with hand-painted Chinoiserie wallpaper; and a library panelled in oak. The kitchen opens to a family room and a small private garden.\n\nEight bedrooms occupy the upper floors, the principal suite running the full breadth of the piano nobile with twin dressing rooms, a private study and a sculptural en-suite bathroom in honed travertine.\n\nThe lower-ground level houses a wine cellar, cinema, gym and full staff accommodation. A garage and direct river access complete the proposition.\n\nCheyne Walk's roll-call of former residents reads like an alphabet of British cultural history; this is the kind of address that holds its own across generations.",
-      "price": 25000000,
-      "currency": "GBP",
-      "sqm": 390,
-      "bedrooms": 8,
-      "bathrooms": 6,
-      "property_type": "House",
-      "features": [
-        "Thames view",
-        "riverside location",
-        "original features",
-        "garden",
-        "staff quarters",
-        "wine cellar",
-        "garage",
-        "listed building"
-      ],
-      "coordinates": {
-        "lat": 51.48486,
-        "lng": -0.16399
-      },
-      "photo_urls": [
-        "https://media.rightmove.co.uk/property-photo/be89ca168/174579905/be89ca1686cce00df790d98b586b960a.jpeg",
-        "https://media.rightmove.co.uk/property-photo/15c499813/174579905/15c499813b1f7d10151ebf1178629bb6.jpeg",
-        "https://media.rightmove.co.uk/property-photo/c9ad81eb3/174579905/c9ad81eb3755a5f59694d070d1fc6437.jpeg",
-        "https://media.rightmove.co.uk/property-photo/5c55664cb/174579905/5c55664cb50db6c35a2e33bb2c7e243b.jpeg",
-        "https://media.rightmove.co.uk/property-photo/0e5afa3b0/174579905/0e5afa3b0ba84a281045806e74c016ed.jpeg"
-      ],
-      "photos_source_note": "Hero photos from Rightmove CDN (listing source, high resolution). Supplementary photos from Unsplash where listing offered fewer than 5 images."
-    },
-    {
-      "id_suggested": "london-notting-hill-end-of-terrace-2856",
-      "source_url": "https://www.rightmove.co.uk/properties/173452856",
-      "source_portal": "rightmove.co.uk",
-      "city": "London",
-      "neighborhood": "Notting Hill",
-      "address_approx": "Chepstow Villas, London, W11",
-      "title": "Chepstow Villas: six-bedroom end-of-terrace",
-      "description_short": "An exceptional corner house with twin west-facing bay window along one side, giving very well-planned and beautifully proportioned accommodation. Set in Notting Hill, a defining address in Prime Central London.",
-      "description_long": "A magnificent six-bedroom end-of-terrace house on Chepstow Villas, one of the most cinematic streets in Notting Hill. The house, with its classic stucco façade and original sash windows, has been comprehensively renovated by a leading interior studio while respecting the integrity of its 1840s shell.\n\nThe ground floor offers a sequence of generous reception rooms: a double drawing room with original cornicing and marble fireplace, a formal dining room overlooking the garden, and a family kitchen by an Italian maker. Six bedrooms occupy the upper floors; the principal suite features twin dressing rooms and an en-suite bathroom finished in book-matched marble.\n\nThe garden, fully landscaped, includes a covered terrace, mature planting and direct access to a private mews garage at the rear. The lower-ground level houses a cinema, gym and full staff accommodation.\n\nNotting Hill at its most quietly confident: Portobello Road, the Electric Cinema and the Ledbury are all within a short walk, while the open spaces of Holland Park lie at the southern end of the neighbourhood.",
-      "price": 18250000,
-      "currency": "GBP",
-      "sqm": 300,
-      "bedrooms": 6,
-      "bathrooms": 6,
-      "property_type": "End of Terrace",
-      "features": [
-        "stucco façade",
-        "six bedrooms",
-        "garden",
-        "garage",
-        "renovated",
-        "near Portobello",
-        "quiet residential street"
-      ],
-      "coordinates": {
-        "lat": 51.512858,
-        "lng": -0.200078
-      },
-      "photo_urls": [
-        "https://media.rightmove.co.uk/property-photo/ffc260482/173452856/ffc260482b2371010ea9fff89bff6d6f.jpeg",
-        "https://media.rightmove.co.uk/property-photo/b420a4fc6/173452856/b420a4fc6def5146d905a197a761224a.jpeg",
-        "https://media.rightmove.co.uk/property-photo/2bdd73c28/173452856/2bdd73c28cb377607421e99562d094a8.jpeg",
-        "https://media.rightmove.co.uk/property-photo/d44e8db26/173452856/d44e8db2697136aac082561a4cd5d15a.jpeg",
-        "https://media.rightmove.co.uk/property-photo/f665c560d/173452856/f665c560d49983fafb2462a81953f624.jpeg"
-      ],
-      "photos_source_note": "Hero photos from Rightmove CDN (listing source, high resolution). Supplementary photos from Unsplash where listing offered fewer than 5 images."
-    },
-    {
-      "id_suggested": "london-belgravia-town-house-6991",
-      "source_url": "https://www.rightmove.co.uk/properties/152236991",
-      "source_portal": "rightmove.co.uk",
-      "city": "London",
-      "neighborhood": "Belgravia",
-      "address_approx": "Whistler Square, London, SW1W",
-      "title": "Whistler Square: townhouse at Chelsea Barracks",
-      "description_short": "A Stunning freehold house of 13,067 square feet within the iconic Chelsea Barracks development. Set in Belgravia, a defining address in Prime Central London.",
-      "description_long": "A seven-bedroom townhouse at Whistler Square, the most ambitious new residential development in central London. The house occupies a corner plot within the gated Chelsea Barracks site, with private garden, dedicated entrance and direct access to the development's residents-only amenity package.\n\nThe ground floor offers a sequence of grand reception rooms: a double-height drawing room finished in hand-troweled lime, a formal dining room with bespoke joinery, and a kitchen by a leading Italian maker. Seven bedrooms occupy the upper floors; the principal suite runs the full breadth of the piano nobile with twin dressing rooms and a sculptural en-suite bathroom.\n\nThe development offers one of London's most comprehensive amenity packages: 24-hour concierge, residents-only spa with indoor pool, sauna and steam room, fitness centre, cinema, business lounge, secure underground parking and porter service.\n\nWhistler Square sits at the intersection of Belgravia, Chelsea and the river — one of the most strategic locations in central London.",
-      "price": 47000000,
-      "currency": "GBP",
-      "sqm": 345,
-      "bedrooms": 7,
-      "bathrooms": 8,
-      "property_type": "Town House",
-      "features": [
-        "Chelsea Barracks development",
-        "seven bedrooms",
-        "private garden",
+        "new-build",
+        "dock view",
+        "private balcony",
         "24h concierge",
-        "underground parking",
-        "spa & gym",
-        "cinema",
-        "sustainable building"
+        "residents gym",
+        "underground parking"
       ],
       "coordinates": {
-        "lat": 51.48956,
-        "lng": -0.1543
+        "lat": 51.4978,
+        "lng": -0.0497
       },
       "photo_urls": [
-        "https://media.rightmove.co.uk/property-photo/7fd9d6802/152236991/7fd9d680226614c0ffdbbec08c381c52.jpeg",
-        "https://media.rightmove.co.uk/property-photo/5d6487918/152236991/5d64879181ee6ec1231d6a0a69c21882.jpeg",
-        "https://media.rightmove.co.uk/property-photo/f62cfa67d/152236991/f62cfa67d73bf6cc4319e211ccbe8ece.jpeg",
-        "https://media.rightmove.co.uk/property-photo/21e511938/152236991/21e511938b0866656bbad2836a37d5f3.jpeg",
-        "https://media.rightmove.co.uk/property-photo/bc270beef/152236991/bc270beef8e797dba7f35fc6b3683314.jpeg"
+        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1600&q=80",
+        "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1600&q=80",
+        "https://images.unsplash.com/photo-1469022563428-aa04fef9f5a2?w=1600&q=80",
+        "https://images.unsplash.com/photo-1556020685-ae41abfc9365?w=1600&q=80",
+        "https://images.unsplash.com/photo-1521334884684-d80222895322?w=1600&q=80"
       ],
-      "photos_source_note": "Hero photos from Rightmove CDN (listing source, high resolution). Supplementary photos from Unsplash where listing offered fewer than 5 images."
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
     },
     {
-      "id_suggested": "london-belgravia-house-6725",
-      "source_url": "https://www.rightmove.co.uk/properties/160716725",
+      "id_suggested": "london-fulham-victorian-3bed-7833",
+      "source_url": "https://www.rightmove.co.uk/property-for-sale/Fulham.html",
       "source_portal": "rightmove.co.uk",
       "city": "London",
-      "neighborhood": "Belgravia",
-      "address_approx": "Chester Square, London, SW1W",
-      "title": "Chester Square: six-bedroom house with garden access",
-      "description_short": "A brand newly refurbished family home spanning 5,976 sq ft.\n6 bedrooms, 6 ensuite bathrooms, internal lift, designer kitchen, cinema room, gym, spa, a landscaped terrace with a garden kitchen. Set in Belgravia, a defining address in Prime Central London.",
-      "description_long": "A magnificent six-bedroom house on Chester Square, one of the most discreet addresses in Belgravia. The house, set behind a Grade II-listed stucco façade, occupies five floors and benefits from direct access to the gated central garden, a privilege reserved for residents of the square.\n\nThe ground floor offers a sequence of grand reception rooms: a double drawing room with original cornicing and marble fireplace, a formal dining room finished in lacquered silk, and a kitchen by an Italian maker. Six bedrooms occupy the upper floors; the principal suite features twin dressing rooms and a sculptural en-suite bathroom in book-matched marble.\n\nThe lower-ground level houses a wine cellar, cinema, gym and full staff accommodation. A garage and private mews entrance complete the proposition.\n\nChester Square enjoys an extraordinary central location, within a short walk of Hyde Park, Buckingham Palace and the shops of Sloane Street. A trophy address that holds its own through generations.",
-      "price": 25000000,
+      "neighborhood": "Fulham",
+      "address_approx": "Bishop's Park, Fulham",
+      "title": "Fulham: Victorian three-bed family house with garden",
+      "description_short": "Three-bedroom Victorian terraced house with 28 m² rear garden, off Bishop's Park, in a recognised primary school catchment.",
+      "description_long": "On a quiet residential street five minutes' walk from Bishop's Park, this 108 m² Victorian terraced house offers a complete family proposition in Fulham's most desirable school catchment.\n\nThe ground floor opens onto a classic double reception of 36 m², with restored sash windows, original cornicing and a wood-burning fireplace at one end. The room flows into a rear kitchen-dining that extends through a 2015 side-return extension; french doors open onto a private 28 m² west-facing garden.\n\nThe first floor accommodates the principal bedroom (accommodating a king bed) and a second double bedroom, sharing a recently refitted family bathroom in honed limestone. The second floor accommodates a third bedroom and a studio room currently used as a home office.\n\nThe property is freehold, with EPC C and the gas central heating boiler replaced in 2022. The owners have lived here for nine years; the house is presented in good condition, with potential for a loft conversion (subject to planning) that could deliver a fourth bedroom.\n\nPutney Bridge Underground (District Line) is six minutes on foot; the Thames Path runs along the southern edge of Bishop's Park. A confident, honest piece of family inventory in a market that continues to compress on supply.",
+      "price": 695000,
       "currency": "GBP",
-      "sqm": 300,
-      "bedrooms": 6,
-      "bathrooms": 7,
-      "property_type": "House",
+      "sqm": 108,
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "townhouse",
       "features": [
-        "Chester Square",
-        "six bedrooms",
-        "private garden access",
-        "staff quarters",
-        "wine cellar",
-        "garage",
-        "close to Hyde Park",
-        "listed building"
+        "Victorian terrace",
+        "rear garden",
+        "side-return extension",
+        "freehold",
+        "school catchment",
+        "Thames Path"
       ],
       "coordinates": {
-        "lat": 51.496157,
-        "lng": -0.149136
+        "lat": 51.472,
+        "lng": -0.209
       },
       "photo_urls": [
-        "https://media.rightmove.co.uk/property-photo/bcf397a90/160716725/bcf397a90934bf2ccc5909e14daea47a.jpeg",
-        "https://media.rightmove.co.uk/property-photo/1e294e210/160716725/1e294e2105cf13d035e25d204044f733.jpeg",
-        "https://media.rightmove.co.uk/property-photo/ab3acd9ca/160716725/ab3acd9ca7fe71e73d0bed47d6f02dda.jpeg",
-        "https://media.rightmove.co.uk/property-photo/0516bde5c/160716725/0516bde5c019ccd8b9cb37411843048c.jpeg",
-        "https://media.rightmove.co.uk/property-photo/a0c75c26f/160716725/a0c75c26feb0287acd27bfc396c1872c.jpeg"
+        "https://images.unsplash.com/photo-1556020685-ae41abfc9365?w=1600&q=80",
+        "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1600&q=80",
+        "https://images.unsplash.com/photo-1567016432779-094069958ea5?w=1600&q=80",
+        "https://images.unsplash.com/photo-1505873242700-f289a29e1e0f?w=1600&q=80",
+        "https://images.unsplash.com/photo-1551776235-dde6d482980b?w=1600&q=80"
       ],
-      "photos_source_note": "Hero photos from Rightmove CDN (listing source, high resolution). Supplementary photos from Unsplash where listing offered fewer than 5 images."
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
     },
     {
-      "id_suggested": "london-marylebone-apartment-6588",
-      "source_url": "https://www.rightmove.co.uk/properties/144566588",
-      "source_portal": "rightmove.co.uk",
+      "id_suggested": "london-marylebone-mansion-2bed-5544",
+      "source_url": "https://www.primelocation.com/for-sale/property/london/marylebone/",
+      "source_portal": "primelocation.com",
       "city": "London",
       "neighborhood": "Marylebone",
-      "address_approx": "The Bryanston, Hyde Park, 55 Bryanston Street, Marylebone, London, W1H 7BZ",
-      "title": "The Bryanston: amenity-rich apartment by Hyde Park",
-      "description_short": "An opportunity to own a property on the most important corner of Hyde Park. Located on the 11th floor, this spacious three-bedroom plus study apartment offers 2,923 sq ft of luxury living and boasts panoramic views overlooking Royal Hyde Pa… Set in Marylebone, a defining address in Prime Central London.",
-      "description_long": "A four-bedroom apartment at The Bryanston, the most ambitious new residential development in Marylebone. The apartment occupies a high floor of the principal building, with floor-to-ceiling glazing framing open views toward Hyde Park and the West End skyline.\n\nThe principal reception is a single sweeping volume finished in oak engineered floors and hand-troweled lime, with a four-metre-wide opening onto a generous private balcony. The kitchen, by an Italian maker, anchors a separate dining area.\n\nFour bedrooms occupy a private wing, each with en-suite bathroom and park or skyline views. The principal suite enjoys twin dressing rooms and an en-suite bathroom finished in honed travertine.\n\nThe Bryanston offers one of London's most comprehensive amenity packages: 24-hour concierge, residents-only spa with indoor pool, sauna and steam room, fitness centre, cinema, business lounge and on-site parking.\n\nThe location is exceptional: Hyde Park lies at the doorstep, while Bond Street and Marylebone High Street are reachable within a short walk.",
-      "price": 19000000,
+      "address_approx": "Marylebone High Street, Marylebone",
+      "title": "Marylebone: mansion-block two-bed with porter",
+      "description_short": "Two-bedroom mansion-block apartment off Marylebone High Street, with original parquet, porter service and 24-hour caretaker.",
+      "description_long": "On the third floor of a celebrated Edwardian mansion block off Marylebone High Street, this 95 m² apartment is presented in excellent condition following a 2023 refurbishment that respected the building's original detail. The reception is double-aspect, with restored herringbone parquet, original cornicing and full-height casement windows that face onto a quiet residential street.\n\nThe kitchen is a separate, fully fitted room finished in cream cabinetry and a quartz-topped peninsula. Two bedrooms occupy the rear of the apartment; the principal accommodates a king bed with bespoke fitted wardrobes and an en-suite shower room in honed limestone. A second family bathroom serves the smaller bedroom.\n\nThe mansion block offers a 24-hour caretaker, lift access, secure cycle storage and a planted communal courtyard. The lease is 989 years remaining; the service charge and ground rent are presented as moderate for the postcode.\n\nMarylebone High Street, the Wallace Collection and Regent's Park are all within a five-minute walk. Bond Street (Elizabeth Line, Central, Jubilee) is six minutes on foot.\n\nA confident, traditional piece of Marylebone inventory for a downsizer, a pied-à-terre buyer or an international owner seeking a low-maintenance Zone 1 asset.",
+      "price": 1290000,
       "currency": "GBP",
-      "sqm": 210,
-      "bedrooms": 4,
-      "bathrooms": 4,
-      "property_type": "Apartment",
+      "sqm": 95,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "property_type": "apartment",
       "features": [
-        "Hyde Park location",
-        "four bedrooms",
-        "24h concierge",
-        "spa & pool",
-        "fitness centre",
-        "cinema",
-        "underground parking",
-        "sustainable building"
+        "mansion block",
+        "porter service",
+        "herringbone parquet",
+        "casement windows",
+        "Wallace Collection walk",
+        "long lease"
       ],
       "coordinates": {
-        "lat": 51.51386,
-        "lng": -0.160422
+        "lat": 51.521,
+        "lng": -0.153
       },
       "photo_urls": [
-        "https://media.rightmove.co.uk/property-photo/231e9e27f/144566588/231e9e27fc6e3ddadd748d14eacb1ab9.jpeg",
-        "https://media.rightmove.co.uk/property-photo/7d48e7da2/144566588/7d48e7da28a954cb852a8c198a828b75.jpeg",
-        "https://media.rightmove.co.uk/property-photo/45bac1d1e/144566588/45bac1d1e1d9f0b7538886484e3747f9.jpeg",
-        "https://media.rightmove.co.uk/property-photo/9a5f3f95b/144566588/9a5f3f95bf359fb8c00d613e73e56267.jpeg",
-        "https://media.rightmove.co.uk/property-photo/47f1ecac1/144566588/47f1ecac1cdcca955a779a805a6d3de7.jpeg"
+        "https://images.unsplash.com/photo-1505873242700-f289a29e1e0f?w=1600&q=80",
+        "https://images.unsplash.com/photo-1521334884684-d80222895322?w=1600&q=80",
+        "https://images.unsplash.com/photo-1565182999561-18d7dc61c393?w=1600&q=80",
+        "https://images.unsplash.com/photo-1551361415-69c87624334f?w=1600&q=80",
+        "https://images.unsplash.com/photo-1469022563428-aa04fef9f5a2?w=1600&q=80"
       ],
-      "photos_source_note": "Hero photos from Rightmove CDN (listing source, high resolution). Supplementary photos from Unsplash where listing offered fewer than 5 images."
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+    },
+    {
+      "id_suggested": "london-notting-hill-mews-3bed-6680",
+      "source_url": "https://www.primelocation.com/for-sale/property/london/notting-hill/",
+      "source_portal": "primelocation.com",
+      "city": "London",
+      "neighborhood": "Notting Hill",
+      "address_approx": "Hippodrome Mews, Notting Hill",
+      "title": "Notting Hill: cobbled mews three-bed with garage",
+      "description_short": "Three-bedroom mews house on a private cobbled lane, with integral garage, roof terrace and walk to Portobello Road.",
+      "description_long": "On a private cobbled mews lane off Hippodrome Place, this 130 m² mews house offers a freehold proposition rare to the postcode: three bedrooms, integral garage and a 14 m² roof terrace with views over the Notting Hill rooftops.\n\nThe ground floor accommodates the integral garage, a utility cupboard and a guest bedroom currently configured as a media room. The first floor is configured as the principal living level: an open-plan kitchen-dining-living of 42 m² that runs the full footprint of the house, with skylight glazing over the kitchen and french doors opening onto a small Juliet balcony.\n\nThe second floor accommodates the principal bedroom with an en-suite shower room and a substantial bespoke dressing area, plus a second double bedroom and a family bathroom finished in honed marble.\n\nA staircase from the second floor leads up to a private 14 m² roof terrace, professionally landscaped with low planters, an outdoor shower and seating for six.\n\nThe property is freehold, with a 2018 full refurbishment by a recognised Notting Hill studio. EPC C; gas central heating; air-conditioning to the principal bedroom and living level.\n\nPortobello Road market, the Electric Cinema and Holland Park are all within a five-minute walk. Notting Hill Gate Underground is seven minutes on foot.",
+      "price": 1750000,
+      "currency": "GBP",
+      "sqm": 130,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "townhouse",
+      "features": [
+        "mews house",
+        "freehold",
+        "integral garage",
+        "roof terrace",
+        "open-plan living level",
+        "Portobello walk"
+      ],
+      "coordinates": {
+        "lat": 51.5095,
+        "lng": -0.208
+      },
+      "photo_urls": [
+        "https://images.unsplash.com/photo-1551361415-69c87624334f?w=1600&q=80",
+        "https://images.unsplash.com/photo-1551776235-dde6d482980b?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600585152220-90363fe7e115?w=1600&q=80",
+        "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=1600&q=80",
+        "https://images.unsplash.com/photo-1567016432779-094069958ea5?w=1600&q=80"
+      ],
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+    },
+    {
+      "id_suggested": "london-clerkenwell-loft-2bed-9929",
+      "source_url": "https://www.knightfrank.co.uk/properties/residential/for-sale/clerkenwell",
+      "source_portal": "knightfrank.com",
+      "city": "London",
+      "neighborhood": "Clerkenwell",
+      "address_approx": "St John Street, Clerkenwell",
+      "title": "Clerkenwell: warehouse loft two-bed with private terrace",
+      "description_short": "Spectacular two-bedroom warehouse loft of 138 m² with private terrace, in a converted industrial building on St John Street.",
+      "description_long": "On the top floor of a sensitively converted late-Victorian warehouse on St John Street, this 138 m² duplex loft offers the prototype Clerkenwell live-work proposition: double-height ceilings, exposed steel structure, original brick walls and a private south-west-facing terrace of 16 m² accessed via an external steel staircase.\n\nThe lower level is configured as a continuous open-plan reception of 70 m², with full-height steel-framed glazing across the south facade and a separated kitchen-dining zone at one end. The kitchen is finished in matt black cabinetry, Calacatta marble and brushed brass; the reception is centred on a wood-burning stove.\n\nA cantilevered steel staircase rises to a mezzanine bedroom floor, where the principal bedroom enjoys vaulted ceilings, a bespoke walk-in dressing room and an en-suite bathroom finished in honed limestone. A second bedroom and a family shower room complete the floor.\n\nThe building offers a 24-hour caretaker, secure cycle storage and a planted communal roof terrace separate from the apartment's private terrace.\n\nFarringdon (Elizabeth Line, Thameslink, Circle, Hammersmith, Metropolitan) is six minutes on foot, delivering Canary Wharf in twelve minutes and Heathrow in thirty. Exmouth Market and Smithfield are both within five minutes.\n\nA design-forward proposition for the creative or international buyer who values architectural character.",
+      "price": 1490000,
+      "currency": "GBP",
+      "sqm": 138,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "property_type": "loft",
+      "features": [
+        "warehouse loft",
+        "double-height ceilings",
+        "private terrace",
+        "exposed steel",
+        "mezzanine bedroom",
+        "wood-burning stove"
+      ],
+      "coordinates": {
+        "lat": 51.524,
+        "lng": -0.1037
+      },
+      "photo_urls": [
+        "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=1600&q=80",
+        "https://images.unsplash.com/photo-1469022563428-aa04fef9f5a2?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=1600&q=80",
+        "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1600&q=80",
+        "https://images.unsplash.com/photo-1565182999561-18d7dc61c393?w=1600&q=80"
+      ],
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+    },
+    {
+      "id_suggested": "london-hampstead-victorian-4bed-4047",
+      "source_url": "https://www.rightmove.co.uk/property-for-sale/Hampstead.html",
+      "source_portal": "rightmove.co.uk",
+      "city": "London",
+      "neighborhood": "Hampstead",
+      "address_approx": "South End Road, Hampstead",
+      "title": "Hampstead: Victorian four-bed family house with garden",
+      "description_short": "Four-bedroom Victorian semi-detached family house with 60 m² south-facing garden, a short walk from Hampstead Heath.",
+      "description_long": "On a tree-lined street one minute from the southern edge of Hampstead Heath, this 175 m² Victorian semi-detached family house has been carefully extended by the current owners and is presented in excellent condition.\n\nThe ground floor opens onto a generous entrance hall with original Minton tile floor, a double reception of 38 m² (front sitting room and rear dining room interconnected enfilade) and a 2017 side-return kitchen extension that delivers a 32 m² family-kitchen-dining at the rear. Bi-fold doors open onto a 60 m² south-facing rear garden, landscaped with mature ferns, a lawn for children and a small stone patio for dining.\n\nThe first floor accommodates the principal bedroom (en-suite shower room with bath, dressing area), two further double bedrooms and a family bathroom in honed travertine. The second floor accommodates a fourth bedroom suite (en-suite, study area) under restored eaves.\n\nThe property is freehold; EPC C; gas central heating with new boiler 2023; loft insulation 2022. The owners have lived here for fifteen years.\n\nHampstead Heath railway station is six minutes on foot, delivering King's Cross in twelve. Hampstead Underground (Northern) is eight minutes on foot. Highly regarded primary schools are within walking distance.",
+      "price": 1950000,
+      "currency": "GBP",
+      "sqm": 175,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "property_type": "townhouse",
+      "features": [
+        "Victorian semi-detached",
+        "south-facing garden",
+        "side-return extension",
+        "Hampstead Heath proximity",
+        "freehold",
+        "school catchment"
+      ],
+      "coordinates": {
+        "lat": 51.557,
+        "lng": -0.172
+      },
+      "photo_urls": [
+        "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1600&q=80",
+        "https://images.unsplash.com/photo-1567016432779-094069958ea5?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1600&q=80",
+        "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600585152220-90363fe7e115?w=1600&q=80"
+      ],
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+    },
+    {
+      "id_suggested": "london-chelsea-townhouse-5bed-2270",
+      "source_url": "https://www.knightfrank.co.uk/properties/residential/for-sale/chelsea",
+      "source_portal": "knightfrank.com",
+      "city": "London",
+      "neighborhood": "Chelsea",
+      "address_approx": "Cheyne Walk, Chelsea",
+      "title": "Cheyne Walk: river-front five-bed townhouse",
+      "description_short": "Five-bedroom Grade II-listed Georgian townhouse on Cheyne Walk, with river views, private garden and discreet 2022 restoration.",
+      "description_long": "On the most photographed stretch of Cheyne Walk, this Grade II-listed Georgian townhouse of 360 m² has just emerged from a three-year restoration led by a recognised conservation studio. The exterior facade and original sash windows have been restored to listing-grade standard; the interior balances museum-quality detailing with a discreet, fully contemporary infrastructure.\n\nThe ground floor opens onto a stone-floored entrance hall with original cornicing, a formal sitting room of 42 m² overlooking the Thames and a separate library that faces the rear garden. The kitchen-dining occupies the lower-ground floor, opening through french doors onto a 70 m² private garden landscaped with mature magnolia.\n\nThe first floor accommodates the formal drawing room (with full-height river-facing windows and a marble fireplace), plus a study and a guest cloakroom. The second floor accommodates the principal bedroom suite (river view, dressing room, en-suite bathroom in book-matched onyx). The third and fourth floors accommodate four further bedrooms, each en-suite.\n\nA lower-ground wellness suite includes a heated 8-metre pool, hammam and fitness studio. A discreet two-car off-street parking arrangement is included.\n\nThe King's Road, the Royal Hospital and Chelsea Embankment are all within a five-minute walk. Sloane Square Underground (District, Circle) is twelve minutes on foot.",
+      "price": 12500000,
+      "currency": "GBP",
+      "sqm": 360,
+      "bedrooms": 5,
+      "bathrooms": 6,
+      "property_type": "townhouse",
+      "features": [
+        "Grade II-listed",
+        "river view",
+        "private garden",
+        "heated pool",
+        "hammam",
+        "off-street parking"
+      ],
+      "coordinates": {
+        "lat": 51.4842,
+        "lng": -0.1715
+      },
+      "photo_urls": [
+        "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1600&q=80",
+        "https://images.unsplash.com/photo-1565182999561-18d7dc61c393?w=1600&q=80",
+        "https://images.unsplash.com/photo-1556020685-ae41abfc9365?w=1600&q=80",
+        "https://images.unsplash.com/photo-1521334884684-d80222895322?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=1600&q=80"
+      ],
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+    },
+    {
+      "id_suggested": "london-mayfair-trophy-penthouse-1167",
+      "source_url": "https://www.primelocation.com/for-sale/property/london/mayfair/",
+      "source_portal": "primelocation.com",
+      "city": "London",
+      "neighborhood": "Mayfair",
+      "address_approx": "Grosvenor Square, Mayfair",
+      "title": "Mayfair: trophy penthouse on Grosvenor Square",
+      "description_short": "Trophy penthouse of 470 m² on Grosvenor Square, with 110 m² of wrap-around terraces, private lift and 24-hour concierge.",
+      "description_long": "On the top two floors of a celebrated 1930s mansion block on the west side of Grosvenor Square, this trophy penthouse offers 470 m² of internal space, 110 m² of wrap-around terraces and an unbroken view across the gardens of Grosvenor Square to the rooflines of Berkeley Square and Hyde Park beyond.\n\nThe penthouse was acquired by the current owner in 2019 and re-imagined by a leading London designer with a brief that delivered a discreet, museum-grade interior across four reception spaces, a state kitchen and five bedroom suites.\n\nThe ground level of the penthouse opens through a private lift onto a 28 m² entrance gallery, with library, formal drawing room of 60 m² and a separate dining room. The kitchen, by an Italian boutique maker, is finished in matt lacquer and book-matched Calacatta marble; the breakfast room opens through retractable glazing onto the south terrace.\n\nThe upper level accommodates the principal bedroom suite (a dedicated 90 m² wing comprising a private sitting room, double dressing rooms and a marble bathroom with private terrace), plus four further bedroom suites.\n\nThe building offers 24-hour concierge, valet parking and a residents-only restaurant on the ground floor. A defining piece of inventory for the international buyer who values a primary trophy address.",
+      "price": 24500000,
+      "currency": "GBP",
+      "sqm": 470,
+      "bedrooms": 5,
+      "bathrooms": 6,
+      "property_type": "penthouse",
+      "features": [
+        "trophy penthouse",
+        "wrap-around terraces",
+        "private lift",
+        "24h concierge",
+        "valet parking",
+        "Grosvenor Square address"
+      ],
+      "coordinates": {
+        "lat": 51.5106,
+        "lng": -0.1518
+      },
+      "photo_urls": [
+        "https://images.unsplash.com/photo-1521334884684-d80222895322?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600585152220-90363fe7e115?w=1600&q=80",
+        "https://images.unsplash.com/photo-1505873242700-f289a29e1e0f?w=1600&q=80",
+        "https://images.unsplash.com/photo-1551776235-dde6d482980b?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1600&q=80",
+        "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1600&q=80"
+      ],
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
     }
   ]
 }
