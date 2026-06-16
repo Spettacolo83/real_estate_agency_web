@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "CasAI — Propiedades selectas. Concierge AI.",
+    "description": "Casas boutique en Milán, Mallorca y Londres — descubiertas, visitadas y reservadas con un concierge AI que nunca duerme."
+  },
+  "nav": {
+    "listings": "Propiedades",
+    "neighborhoods": "Barrios",
+    "story": "Quiénes somos",
+    "contact": "Contacto",
+    "switchLocale": "Idioma"
+  },
+  "home": {
+    "heroEyebrow": "Inmobiliaria boutique · Powered by AI",
+    "heroTitle": "Propiedades selectas. Concierge AI.",
+    "heroSubtitle": "Desde un ático en Brera hasta una finca mallorquina o una townhouse de Mayfair — descubre casas que merecen el viaje y reserva una visita en segundos.",
+    "heroPrimaryCta": "Explora la colección",
+    "heroSecondaryCta": "Habla con el concierge",
+    "featuredEyebrow": "Selección de la semana",
+    "featuredTitle": "Tres ciudades, una selección privada",
+    "featuredSubtitle": "Cada propiedad de nuestro portfolio es visitada en persona por nuestro equipo y verificada por el concierge AI.",
+    "neighborhoodEyebrow": "Editorial",
+    "neighborhoodTitle": "Donde el mundo vive bien",
+    "neighborhoodBody": "Milán, Mallorca y Londres Prime Central — tres lugares que conocemos calle por calle. Lee lo que nuestro concierge sabe de tu futura dirección.",
+    "neighborhoodMilanTag": "Milán",
+    "neighborhoodMallorcaTag": "Mallorca",
+    "neighborhoodLondonTag": "Londres",
+    "conciergeEyebrow": "Siempre activo",
+    "conciergeTitle": "Un concierge que responde a las 3 de la madrugada",
+    "conciergeBody": "Pregunta metros cuadrados, orientación al sol, si el ascensor llega al sótano — nuestro concierge AI conoce cada detalle de cada propiedad, en tu idioma.",
+    "conciergeCta": "Inicia una conversación"
+  },
+  "footer": {
+    "tagline": "Casas boutique, concierge AI.",
+    "navHeading": "Explora",
+    "legalHeading": "Legal",
+    "legalImprint": "Aviso legal",
+    "legalPrivacy": "Privacidad",
+    "legalTerms": "Términos",
+    "credit": "Un escaparate de Follow The Flow AI.",
+    "creditLinkLabel": "Descubre la tecnología"
+  }
+}

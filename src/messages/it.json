@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "CasAI — Dimore selezionate. Concierge AI.",
+    "description": "Case boutique a Milano, Maiorca e Londra — scoperte, visitate e prenotate con un concierge AI che non dorme mai."
+  },
+  "nav": {
+    "listings": "Immobili",
+    "neighborhoods": "Quartieri",
+    "story": "Chi siamo",
+    "contact": "Contatti",
+    "switchLocale": "Lingua"
+  },
+  "home": {
+    "heroEyebrow": "Immobiliare boutique · Powered by AI",
+    "heroTitle": "Dimore selezionate. Concierge AI.",
+    "heroSubtitle": "Da un attico in Brera a una finca maiorchina a una townhouse di Mayfair — scopri case che valgono il viaggio e prenota una visita in pochi secondi.",
+    "heroPrimaryCta": "Esplora la collezione",
+    "heroSecondaryCta": "Parla con il concierge",
+    "featuredEyebrow": "Selezione della settimana",
+    "featuredTitle": "Tre città, una selezione privata",
+    "featuredSubtitle": "Ogni immobile del nostro portfolio è visionato di persona dal nostro team e verificato dal concierge AI.",
+    "neighborhoodEyebrow": "Editoriale",
+    "neighborhoodTitle": "Dove si vive bene nel mondo",
+    "neighborhoodBody": "Milano, Maiorca, Londra Prime Central — tre luoghi che conosciamo strada per strada. Leggi cosa sa il nostro concierge del tuo futuro indirizzo.",
+    "neighborhoodMilanTag": "Milano",
+    "neighborhoodMallorcaTag": "Maiorca",
+    "neighborhoodLondonTag": "Londra",
+    "conciergeEyebrow": "Sempre attivo",
+    "conciergeTitle": "Un concierge che risponde alle 3 di notte",
+    "conciergeBody": "Chiedi metri quadri, esposizione al sole, se l'ascensore arriva in cantina — il nostro concierge AI conosce ogni dettaglio di ogni immobile, nella tua lingua.",
+    "conciergeCta": "Inizia una conversazione"
+  },
+  "footer": {
+    "tagline": "Case boutique, concierge AI.",
+    "navHeading": "Esplora",
+    "legalHeading": "Legale",
+    "legalImprint": "Note legali",
+    "legalPrivacy": "Privacy",
+    "legalTerms": "Termini",
+    "credit": "Una vetrina di Follow The Flow AI.",
+    "creditLinkLabel": "Scopri la tecnologia"
+  }
+}
