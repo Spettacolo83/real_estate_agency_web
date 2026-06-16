@@ -157,13 +157,13 @@ function Content({ slug }: { slug: string }) {
                   <Spec label={t("bathroomsLabel")} value={String(listing.bathrooms)} />
                   <Spec label={t("typeLabel")} value={listing.property_type} />
                 </dl>
-                <div className="mt-8 space-y-3">
+                <div className="mt-8">
                   <Button href="#book" size="lg" className="w-full">
                     {t("bookCta")}
                   </Button>
-                  <Button href="#concierge" variant="secondary" size="lg" className="w-full">
-                    {t("askCta")}
-                  </Button>
+                  <p className="mt-3 text-xs text-[color:var(--color-muted)]">
+                    {t("askHint")}
+                  </p>
                 </div>
               </div>
             </aside>

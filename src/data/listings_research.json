@@ -37,7 +37,24 @@
         "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1600&q=80",
         "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Navigli canal-side loft with private terrace",
+          "description_short": "Designer one-bed loft on the Naviglio Grande, with private terrace and exposed brick walls. The most cinematic stretch of Milan's waterway.",
+          "description_long": "On a quiet stretch of the Naviglio Grande, this one-bedroom loft occupies the upper floor of a sensitively restored 19th-century warehouse. The original masonry has been brought back, paired with a black steel staircase that signals the building's industrial provenance.\n\nThe living area runs the full width of the property, opening onto a south-facing terrace of 12 m² where the canal lies just beyond the parapet. A compact eat-in kitchen in dark oak and concrete sits at one end of the room; an integrated reading nook at the other.\n\nUpstairs, a mezzanine bedroom enjoys vaulted ceilings and a clean en-suite bathroom finished in micro-cement. Storage has been thought through with care, including bespoke wardrobes and a service cupboard for laundry.\n\nNavigli requires no introduction: aperitivo on the canal, the Saturday antique market and direct tram access to Duomo in twelve minutes. Porta Genova FS station is six minutes on foot.\n\nA strong, characterful piece of inventory for a young professional, a pied-à-terre buyer or an investor targeting Milan's most photographed neighbourhood."
+        },
+        "it": {
+          "title": "Loft sul Naviglio Grande con terrazza privata",
+          "description_short": "Loft monocamera di design sul Naviglio Grande, con terrazza privata e pareti in mattoni a vista. Il tratto più cinematografico delle vie d'acqua milanesi.",
+          "description_long": "In un tratto silenzioso del Naviglio Grande, questo loft con una camera occupa il piano superiore di un magazzino ottocentesco oggetto di un restauro filologico. Le murature originali sono state riportate alla luce e dialogano con una scala in acciaio nero che richiama l'anima industriale dell'edificio.\n\nLa zona giorno si sviluppa per tutta la larghezza dell'appartamento e si apre su una terrazza esposta a sud di 12 m², dove il canale scorre appena oltre il parapetto. A un'estremità della stanza, una cucina compatta con tavolo in rovere scuro e cemento; all'altra, un angolo lettura integrato.\n\nAl piano superiore, una camera da letto a soppalco gode di soffitti a volta e di un bagno en-suite finito in microcemento dalle linee pulite. Lo spazio contenitivo è stato curato nel dettaglio, con armadi su misura e un vano servizi dedicato alla lavanderia.\n\nI Navigli non hanno bisogno di presentazioni: l'aperitivo lungo il canale, il mercato dell'antiquariato del sabato e il tram diretto al Duomo in dodici minuti. La stazione di Porta Genova FS è a sei minuti a piedi.\n\nUna proposta forte e ricca di carattere per un giovane professionista, per un acquirente in cerca di un pied-à-terre o per un investitore interessato al quartiere più fotografato di Milano."
+        },
+        "es": {
+          "title": "Loft a orillas del Naviglio Grande con terraza privada",
+          "description_short": "Loft de diseño de un dormitorio en el Naviglio Grande, con terraza privada y paredes de ladrillo visto. El tramo más cinematográfico de los canales de Milán.",
+          "description_long": "En un tramo tranquilo del Naviglio Grande, este loft de un dormitorio ocupa la planta superior de un almacén decimonónico rehabilitado con sensibilidad. La mampostería original ha sido recuperada y dialoga con una escalera de acero negro que recuerda el pasado industrial del edificio.\n\nLa zona de estar recorre todo el ancho de la vivienda y se abre a una terraza orientada al sur de 12 m², desde la que el canal queda apenas más allá del pretil. En un extremo de la sala, una cocina office compacta en roble oscuro y hormigón; en el otro, un rincón de lectura integrado.\n\nArriba, un dormitorio en altillo disfruta de techos abovedados y de un baño en suite acabado en microcemento, de líneas limpias. El almacenamiento se ha cuidado con detalle, con armarios a medida y un cuarto técnico dedicado a la lavandería.\n\nLos Navigli no necesitan presentación: aperitivo junto al canal, mercado de antigüedades los sábados y tranvía directo al Duomo en doce minutos. La estación de Porta Genova FS está a seis minutos andando.\n\nUn activo sólido y con carácter para un joven profesional, un comprador de pied-à-terre o un inversor centrado en el barrio más fotografiado de Milán."
+        }
+      }
     },
     {
       "id_suggested": "milano-isola-2bed-studio-3712",
@@ -74,7 +91,24 @@
         "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=1600&q=80",
         "https://images.unsplash.com/photo-1556909172-54557c7e4fb7?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Isola: bright two-bed steps from Bosco Verticale",
+          "description_short": "Recently refurbished two-bedroom apartment a short walk from Bosco Verticale and Gae Aulenti. The new face of Milanese urban living.",
+          "description_long": "On a leafy street in Isola, this 78 m² apartment has just emerged from a full refurbishment and is offered turnkey. Floors are pale European oak; walls are smooth lime plaster in a warm neutral; ceiling heights of 3.05 m bring real volume to the space.\n\nThe living-kitchen runs across the south facade, opening through three full-height casement windows onto a private Juliet balcony. The kitchen is from an Italian boutique manufacturer, with quartzite tops and recessed handles. Both bedrooms enjoy quiet courtyard views; the principal accommodates a king bed with built-in storage.\n\nA single full bathroom is clad in zellige tiles with a walk-in shower; a separate laundry room doubles as utility. Air-conditioning has been installed on all three exposures.\n\nIsola has reinvented itself as a destination neighbourhood for Milan's creative class: Bosco Verticale, Piazza Gae Aulenti and the Saturday farmers' market on Via Borsieri are all within five minutes on foot. The M5 metro at Isola delivers Garibaldi in a single stop.\n\nA confident entry into one of the city's most desirable neighbourhoods."
+        },
+        "it": {
+          "title": "Isola: trilocale luminoso a pochi passi dal Bosco Verticale",
+          "description_short": "Trilocale recentemente ristrutturato a breve distanza dal Bosco Verticale e da Gae Aulenti. Il nuovo volto del vivere urbano milanese.",
+          "description_long": "In una via alberata di Isola, questo appartamento di 78 m² è appena uscito da una ristrutturazione integrale e viene proposto chiavi in mano. I pavimenti sono in rovere europeo chiaro; le pareti sono in calce liscia in tonalità neutra calda; l'altezza del soffitto di 3,05 m restituisce una volumetria importante agli ambienti.\n\nLa zona living-cucina corre lungo la facciata a sud, aprendosi attraverso tre finestre a tutta altezza su un balconcino alla francese privato. La cucina è di un produttore boutique italiano, con piani in quarzite e maniglie a gola. Entrambe le camere si affacciano sul cortile silenzioso; la principale accoglie un letto king-size con armadiatura integrata.\n\nUn unico bagno completo è rivestito in piastrelle zellige con doccia walk-in; una lavanderia separata funge anche da vano tecnico. L'aria condizionata è installata su tutte e tre le esposizioni.\n\nIsola si è reinventata come quartiere di destinazione per la classe creativa milanese: Bosco Verticale, Piazza Gae Aulenti e il mercato contadino del sabato in Via Borsieri si raggiungono in cinque minuti a piedi. La M5 di Isola porta a Garibaldi in una sola fermata.\n\nUn ingresso sicuro in uno dei quartieri più desiderati della città."
+        },
+        "es": {
+          "title": "Isola: luminoso piso de dos dormitorios junto a Bosco Verticale",
+          "description_short": "Apartamento de dos dormitorios recién reformado a pocos pasos de Bosco Verticale y Gae Aulenti. La nueva cara de la vida urbana milanesa.",
+          "description_long": "En una calle arbolada de Isola, este apartamento de 78 m² acaba de salir de una reforma integral y se entrega llave en mano. Los suelos son de roble europeo claro; las paredes están terminadas en estuco de cal en un neutro cálido; los 3,05 m de altura libre aportan un volumen real al espacio.\n\nEl salón-cocina recorre toda la fachada sur y se abre, a través de tres ventanas de altura completa, a un balcón francés privado. La cocina, de un fabricante boutique italiano, presenta encimeras de cuarcita y tiradores embutidos. Ambos dormitorios disfrutan de vistas tranquilas al patio interior; el principal admite cama king-size con armarios empotrados.\n\nUn único baño completo está revestido en azulejos zellige con ducha walk-in; una lavandería independiente funciona también como cuarto técnico. El aire acondicionado está instalado en las tres orientaciones.\n\nIsola se ha reinventado como barrio de referencia para la clase creativa milanesa: Bosco Verticale, Piazza Gae Aulenti y el mercado de productores de los sábados en Via Borsieri quedan a cinco minutos a pie. El metro M5 de Isola conecta con Garibaldi en una sola parada.\n\nUna entrada segura en uno de los barrios más codiciados de la ciudad."
+        }
+      }
     },
     {
       "id_suggested": "milano-porta-romana-bilocale-8855",
@@ -111,7 +145,24 @@
         "https://images.unsplash.com/photo-1560185009-5bf9f2849488?w=1600&q=80",
         "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Porta Romana: refurbished one-bed near the new Olympic Village",
+          "description_short": "Compact one-bedroom flat in a 1930s building, fully renovated, six minutes from Porta Romana M3 and the new Olympic Village development.",
+          "description_long": "Set in a well-kept 1930s building with porter service, this 55 m² apartment has been redesigned around clarity and light. The architect has consolidated services into a single block, releasing a generous open-plan reception that captures the south-east light through original casements.\n\nThe kitchen is concealed within a sequence of full-height oak cabinetry; a stone-topped peninsula serves as informal dining. The bedroom, which sits on the quiet courtyard, can comfortably accommodate a king bed with bedside storage. A walk-in wardrobe links to the bathroom, finished in tadelakt and brushed nickel.\n\nThe building is one block from the new Olympic Village construction site (delivering late 2026): a clear catalyst for rental yield and resale value. Porta Romana M3 is six minutes on foot, with Duomo reachable in nine minutes.\n\nIdeal entry point for an investor or a first-time premium buyer who values position, build quality and a recent renovation that does not need to be redone."
+        },
+        "it": {
+          "title": "Porta Romana: bilocale ristrutturato vicino al Villaggio Olimpico",
+          "description_short": "Bilocale compatto in un edificio anni '30, completamente ristrutturato, a sei minuti dalla M3 Porta Romana e dal nuovo Villaggio Olimpico.",
+          "description_long": "In un edificio anni '30 ben tenuto e con servizio di portineria, questo appartamento di 55 m² è stato ripensato all'insegna della chiarezza e della luce. L'architetto ha concentrato i servizi in un unico blocco, liberando una generosa zona giorno open space che cattura la luce di sud-est attraverso le finestre originali.\n\nLa cucina è celata in una sequenza di mobili in rovere a tutta altezza; un'isola con piano in pietra funge da zona pranzo informale. La camera, affacciata sul cortile silenzioso, accoglie comodamente un letto matrimoniale king-size con vani contenitivi. Una cabina armadio collega al bagno, finito in tadelakt e nichel spazzolato.\n\nL'edificio si trova a un isolato dal cantiere del nuovo Villaggio Olimpico (consegna fine 2026): un catalizzatore evidente per la rendita locativa e per il valore di rivendita. La M3 di Porta Romana è a sei minuti a piedi, con il Duomo raggiungibile in nove minuti.\n\nIngresso ideale per un investitore o per un primo acquirente premium che dia valore alla posizione, alla qualità costruttiva e a una ristrutturazione recente che non necessita di interventi."
+        },
+        "es": {
+          "title": "Porta Romana: piso reformado cerca de la nueva Villa Olímpica",
+          "description_short": "Piso compacto de un dormitorio en un edificio de los años 30, completamente reformado, a seis minutos de Porta Romana M3 y de la nueva Villa Olímpica.",
+          "description_long": "En un edificio bien conservado de los años 30 con servicio de portería, este piso de 55 m² ha sido rediseñado en torno a la claridad y la luz. El arquitecto ha concentrado los servicios en un único bloque, liberando un amplio salón en planta abierta que capta la luz del sureste a través de las ventanas originales.\n\nLa cocina queda integrada en una secuencia de mobiliario de roble a doble altura; una península con encimera de piedra hace las veces de comedor informal. El dormitorio, que da al tranquilo patio interior, acomoda cómodamente una cama king con almacenamiento. Un vestidor conecta con el baño, acabado en tadelakt y níquel cepillado.\n\nEl edificio queda a una manzana de las obras de la nueva Villa Olímpica (entrega prevista a finales de 2026): un claro catalizador para la rentabilidad de alquiler y la revalorización. Porta Romana M3 está a seis minutos a pie, con el Duomo en nueve.\n\nPunto de entrada ideal para un inversor o un primer comprador premium que valore ubicación, calidad constructiva y una reforma reciente que no necesita rehacerse."
+        }
+      }
     },
     {
       "id_suggested": "milano-citta-studi-family-3bed-4429",
@@ -148,7 +199,24 @@
         "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?w=1600&q=80",
         "https://images.unsplash.com/photo-1567496898669-ee935f5f647a?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Città Studi: three-bed family flat with courtyard garden",
+          "description_short": "Spacious three-bedroom apartment with private cellar in a 1950s building, steps from Politecnico and the Città Studi tram network.",
+          "description_long": "On a quiet residential street in Città Studi, this 105 m² family apartment offers exactly what the market most lacks: real bedroom volume, a working eat-in kitchen and a sensible price per square metre for the postcode. The current owners have lived here for fifteen years; the apartment has been maintained carefully but invites a cosmetic refresh.\n\nThe entrance hall opens onto a double reception running north-south, with original parquet and a marble fireplace. The eat-in kitchen sits on the courtyard side; three bedrooms are arranged along the night corridor, the principal with a recently refitted en-suite shower room. A second family bathroom and a service balcony complete the floorplan.\n\nThe building is fitted with a passenger lift, a 24-hour porter and a planted internal courtyard. A private cellar of 6 m² is included in the sale.\n\nCittà Studi is Milan's quietest university village: tree-lined streets, the Politecnico and Bicocca campuses within walking distance and direct tram access to Duomo via the historic Line 9. Strong fundamentals for a family buyer or a buy-and-hold investor."
+        },
+        "it": {
+          "title": "Città Studi: quadrilocale famiglia con cortile interno",
+          "description_short": "Ampio quadrilocale con cantina privata in un edificio anni '50, a due passi dal Politecnico e dalla rete tranviaria di Città Studi.",
+          "description_long": "In una via residenziale silenziosa di Città Studi, questo appartamento famiglia di 105 m² offre esattamente ciò che il mercato fatica a proporre: camere di volume reale, una cucina abitabile funzionale e un prezzo al metro quadro ragionevole per la zona. Gli attuali proprietari vivono qui da quindici anni; l'appartamento è stato curato con attenzione ma invita a un rinfresco estetico.\n\nL'ingresso si apre su un doppio salone con sviluppo nord-sud, con parquet originale e camino in marmo. La cucina abitabile si affaccia sul cortile; tre camere si dispongono lungo il corridoio della zona notte, la principale con un bagno en-suite con doccia recentemente rifatto. Un secondo bagno familiare e un balcone di servizio completano la planimetria.\n\nL'edificio dispone di ascensore, di un portierato attivo 24 ore e di un cortile interno piantumato. Una cantina privata di 6 m² è inclusa nella vendita.\n\nCittà Studi è il villaggio universitario più tranquillo di Milano: vie alberate, i campus del Politecnico e di Bicocca a distanza pedonale e tram diretto al Duomo lungo la storica Linea 9. Fondamentali solidi per un acquirente famiglia o per un investitore buy-and-hold."
+        },
+        "es": {
+          "title": "Città Studi: piso familiar de tres dormitorios con patio",
+          "description_short": "Amplio piso de tres dormitorios con trastero privado en un edificio de los años 50, a pocos pasos del Politecnico y de la red de tranvías de Città Studi.",
+          "description_long": "En una tranquila calle residencial de Città Studi, este piso familiar de 105 m² ofrece precisamente lo que más escasea en el mercado: volumen real en los dormitorios, una cocina office funcional y un precio por metro cuadrado razonable para la zona. Los actuales propietarios viven aquí desde hace quince años; el piso se ha mantenido con esmero pero invita a un lavado de cara estético.\n\nEl recibidor da paso a un doble salón con orientación norte-sur, con parquet original y chimenea de mármol. La cocina office da al patio interior; tres dormitorios se distribuyen a lo largo del pasillo de la zona de noche, el principal con un baño en suite con ducha recientemente reformado. Un segundo baño familiar y un balcón de servicio completan la planta.\n\nEl edificio cuenta con ascensor, portería de 24 horas y un patio interior ajardinado. La venta incluye un trastero privado de 6 m².\n\nCittà Studi es el barrio universitario más tranquilo de Milán: calles arboladas, los campus del Politecnico y de Bicocca a distancia caminable y tranvía directo al Duomo por la histórica Línea 9. Fundamentales sólidos para una familia compradora o un inversor de buy-and-hold."
+        }
+      }
     },
     {
       "id_suggested": "milano-brera-2bed-period-1188",
@@ -185,7 +253,24 @@
         "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1600&q=80",
         "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Brera: piano nobile two-bed with frescoed ceilings",
+          "description_short": "Piano nobile two-bedroom in a Brera palazzo, with frescoed ceilings, herringbone parquet and views over the Pinacoteca rooftops.",
+          "description_long": "On the piano nobile of a 19th-century palazzo a minute from the Pinacoteca, this 110 m² apartment is a textbook expression of Brera's gentle grandeur. Three bays of windows face Via Solferino; the rooflines of the Pinacoteca and the Botanical Garden are visible from the reception sofas.\n\nFrescoed ceilings, restored in 2018, run across the principal reception and the formal dining room; both rooms are connected enfilade and finished with original herringbone parquet. The kitchen is a separate room, fitted by a Milanese maker in oak and Verde Alpi marble.\n\nTwo bedrooms occupy the quiet courtyard wing. The principal suite includes a fitted dressing room and an en-suite bathroom in honed travertine; the second bedroom shares the family bathroom finished in Vicenza stone.\n\nThe building is grand but discreet: gated entrance, a single resident per floor, lift and porter from 7am to 8pm. A private cellar is included in the sale; a single garage space is available separately by negotiation.\n\nBrera at its most authentic: the Pinacoteca, the Botanical Garden, Antica Trattoria della Pesa and the Saturday market on Via San Marco are all within a five-minute radius."
+        },
+        "it": {
+          "title": "Brera: piano nobile trilocale con soffitti affrescati",
+          "description_short": "Trilocale piano nobile in un palazzo di Brera, con soffitti affrescati, parquet a spina di pesce e vista sui tetti della Pinacoteca.",
+          "description_long": "Al piano nobile di un palazzo ottocentesco a un minuto dalla Pinacoteca, questo appartamento di 110 m² è una sintesi esemplare della grandeur misurata di Brera. Tre campate di finestre si affacciano su Via Solferino; le coperture della Pinacoteca e dell'Orto Botanico si scorgono dai divani del salotto.\n\nI soffitti affrescati, restaurati nel 2018, attraversano il salone principale e la sala da pranzo formale; le due stanze sono collegate in enfilade e finite con il parquet originale a spina di pesce. La cucina è una stanza separata, realizzata da un artigiano milanese in rovere e marmo Verde Alpi.\n\nDue camere occupano l'ala silenziosa sul cortile. La suite principale comprende una cabina armadio attrezzata e un bagno en-suite in travertino levigato; la seconda camera condivide il bagno di famiglia rivestito in pietra di Vicenza.\n\nL'edificio è imponente ma discreto: ingresso controllato, un solo residente per piano, ascensore e portineria dalle 7 alle 20. Una cantina privata è inclusa nella vendita; un box auto è disponibile separatamente su trattativa.\n\nBrera nella sua espressione più autentica: la Pinacoteca, l'Orto Botanico, l'Antica Trattoria della Pesa e il mercato del sabato in Via San Marco sono tutti nel raggio di cinque minuti."
+        },
+        "es": {
+          "title": "Brera: piano nobile de dos dormitorios con techos al fresco",
+          "description_short": "Piano nobile de dos dormitorios en un palazzo de Brera, con techos al fresco, parquet en espiga y vistas a los tejados de la Pinacoteca.",
+          "description_long": "En el piano nobile de un palazzo del siglo XIX, a un minuto de la Pinacoteca, este piso de 110 m² es un manual de la grandeza serena de Brera. Tres vanos de ventanas se asoman a Via Solferino; las cubiertas de la Pinacoteca y del Jardín Botánico se distinguen desde los sofás del salón.\n\nLos techos al fresco, restaurados en 2018, recorren el salón principal y el comedor formal; ambas estancias se conectan en enfilade y mantienen el parquet original en espiga. La cocina, en sala independiente, ha sido ejecutada por un artesano milanés en roble y mármol Verde Alpi.\n\nDos dormitorios ocupan el ala tranquila del patio. La suite principal incluye vestidor a medida y baño en suite en travertino abujardado; el segundo dormitorio comparte el baño familiar revestido en piedra de Vicenza.\n\nEl edificio es señorial pero discreto: entrada controlada, un único residente por planta, ascensor y portería de 7 a 20 horas. La venta incluye trastero privado; existe una plaza de garaje disponible por negociación.\n\nBrera en su versión más auténtica: la Pinacoteca, el Jardín Botánico, la Antica Trattoria della Pesa y el mercado de los sábados en Via San Marco quedan todos en un radio de cinco minutos."
+        }
+      }
     },
     {
       "id_suggested": "milano-cinque-vie-3bed-design-7720",
@@ -222,7 +307,24 @@
         "https://images.unsplash.com/photo-1556909172-54557c7e4fb7?w=1600&q=80",
         "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Cinque Vie: designer three-bed in a restored palazzo",
+          "description_short": "Recently restored three-bed apartment in Milan's design district, with double-aspect reception and walking distance to Duomo.",
+          "description_long": "On a cobbled side street in the heart of the Cinque Vie design district, this 138 m² apartment occupies the second floor of a restored 17th-century palazzo. The renovation, completed by a Milanese studio in 2023, balances the building's historic shell with a contemporary, gallery-grade interior.\n\nThe entrance opens onto a double-aspect reception of generous proportions, with original wood beams overhead and wide-plank oak underfoot. A discrete open kitchen in matt black and Bianco Statuario marble is integrated into one end of the room, leaving the seating area uninterrupted by services.\n\nThree bedrooms arranged in a private wing, the principal with a dressing area and en-suite bathroom in book-matched onyx. Two further bedrooms share a second bathroom finished in micro-cement. A guest cloakroom and a separate laundry complete the layout.\n\nThe Cinque Vie has emerged as the city's most concentrated cluster of design galleries, anchored by the annual Salone del Mobile fringe events. Piazza Affari, Duomo and the Sforza Castle are all within five minutes on foot.\n\nA confident, design-forward proposition for a creative or international buyer."
+        },
+        "it": {
+          "title": "Cinque Vie: quadrilocale di design in palazzo restaurato",
+          "description_short": "Quadrilocale recentemente restaurato nel design district di Milano, con doppia esposizione del salone e Duomo a distanza pedonale.",
+          "description_long": "In una via acciottolata nel cuore del design district delle Cinque Vie, questo appartamento di 138 m² occupa il secondo piano di un palazzo seicentesco restaurato. L'intervento, completato da uno studio milanese nel 2023, equilibra l'involucro storico dell'edificio con un interno contemporaneo da galleria d'arte.\n\nL'ingresso si apre su un salone doppia esposizione di proporzioni generose, con travi in legno originali a vista e ampie tavole di rovere a pavimento. Una cucina open space discreta, in laccato nero opaco e marmo Bianco Statuario, è integrata a un'estremità della stanza, lasciando la zona conversazione libera da elementi di servizio.\n\nTre camere disposte in un'ala riservata, la principale con zona spogliatoio e bagno en-suite in onice book-matched. Le altre due camere condividono un secondo bagno finito in microcemento. Un guardaroba ospiti e una lavanderia separata completano la planimetria.\n\nLe Cinque Vie si sono affermate come il cluster più concentrato di gallerie di design della città, sostenuto dal fuorisalone del Salone del Mobile. Piazza Affari, il Duomo e il Castello Sforzesco si raggiungono in cinque minuti a piedi.\n\nUna proposta sicura e con forte identità progettuale per un acquirente creativo o internazionale."
+        },
+        "es": {
+          "title": "Cinque Vie: piso de diseño de tres dormitorios en palazzo restaurado",
+          "description_short": "Piso de tres dormitorios recientemente restaurado en el design district de Milán, con salón de doble orientación y Duomo a distancia caminable.",
+          "description_long": "En una callejuela empedrada en el corazón del design district de las Cinque Vie, este piso de 138 m² ocupa la segunda planta de un palazzo del siglo XVII rehabilitado. La intervención, finalizada en 2023 por un estudio milanés, equilibra la envolvente histórica del edificio con un interior contemporáneo de calidad de galería.\n\nLa entrada da paso a un salón de doble orientación de proporciones generosas, con vigas de madera originales a la vista y tarima ancha de roble en suelo. Una cocina abierta discreta, en lacado negro mate y mármol Bianco Statuario, se integra en un extremo de la sala, dejando la zona de estar libre de servicios.\n\nTres dormitorios distribuidos en un ala privada; el principal con zona de vestidor y baño en suite en ónice book-matched. Los otros dos dormitorios comparten un segundo baño acabado en microcemento. Un aseo de cortesía y una lavandería independiente completan la distribución.\n\nLas Cinque Vie se han consolidado como el clúster más concentrado de galerías de diseño de la ciudad, impulsado por los eventos paralelos al Salone del Mobile. Piazza Affari, el Duomo y el Castello Sforzesco quedan a cinco minutos a pie.\n\nUna propuesta segura, con fuerte identidad de diseño, para un comprador creativo o internacional."
+        }
+      }
     },
     {
       "id_suggested": "milano-sempione-arco-pace-2200",
@@ -259,7 +361,24 @@
         "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?w=1600&q=80",
         "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Sempione: park-facing three-bed with private balcony",
+          "description_short": "Three-bedroom park-facing apartment with private balcony, in a stately period building on Corso Sempione.",
+          "description_long": "Set on the third floor of an elegant 1920s building, this 150 m² apartment enjoys a direct view onto Corso Sempione and, beyond, the Arco della Pace and Parco Sempione. The owners have lived here for two decades; the apartment is presented in excellent condition with a recent cosmetic refresh.\n\nThe living-dining room runs across the front facade, opening through three french windows onto a 9 m² balcony. The kitchen is a separate, fully fitted room finished in lacquered cabinetry. Three bedrooms occupy the quiet rear of the apartment; two bathrooms (one en-suite to the principal) are finished in marble and limestone respectively.\n\nThe building offers porter service, lift access, a leafy internal courtyard and a private cellar. Air-conditioning is installed throughout. A garage space is available separately by negotiation.\n\nThe Sempione axis is one of Milan's most desirable family addresses, anchored by the park, the Triennale Design Museum and the historic tram lines that thread through the neighbourhood. Cadorna FS and M1 are eight minutes on foot."
+        },
+        "it": {
+          "title": "Sempione: quadrilocale fronte parco con balcone privato",
+          "description_short": "Quadrilocale fronte parco con balcone privato, in un signorile edificio d'epoca su Corso Sempione.",
+          "description_long": "Al terzo piano di un elegante edificio degli anni '20, questo appartamento di 150 m² gode di un affaccio diretto su Corso Sempione e, oltre, sull'Arco della Pace e su Parco Sempione. I proprietari vi abitano da vent'anni; l'immobile si presenta in eccellenti condizioni a seguito di un recente rinfresco estetico.\n\nIl soggiorno-pranzo corre lungo la facciata principale e si apre attraverso tre porte-finestre su un balcone di 9 m². La cucina è una stanza separata, completamente attrezzata e finita in laccato. Tre camere occupano la zona notte tranquilla; due bagni (uno en-suite della principale) sono rifiniti rispettivamente in marmo e in pietra calcarea.\n\nL'edificio dispone di portierato, ascensore, un cortile interno alberato e una cantina privata. L'aria condizionata è installata in tutte le stanze. Un box auto è disponibile separatamente su trattativa.\n\nL'asse Sempione è uno degli indirizzi familiari più desiderati di Milano, sostenuto dal parco, dalla Triennale e dalle storiche linee tranviarie che attraversano il quartiere. Cadorna FS e M1 si raggiungono in otto minuti a piedi."
+        },
+        "es": {
+          "title": "Sempione: piso de tres dormitorios frente al parque con balcón",
+          "description_short": "Piso de tres dormitorios frente al parque con balcón privado, en un señorial edificio de época sobre Corso Sempione.",
+          "description_long": "En la tercera planta de un elegante edificio de los años 20, este piso de 150 m² disfruta de vistas directas a Corso Sempione y, más allá, al Arco della Pace y al Parco Sempione. Los propietarios viven aquí desde hace dos décadas; el inmueble se presenta en excelente estado tras un reciente lavado de cara estético.\n\nEl salón-comedor recorre la fachada principal y se abre a través de tres puertas-ventana a un balcón de 9 m². La cocina es una sala independiente totalmente equipada, acabada en mobiliario lacado. Tres dormitorios ocupan la tranquila zona trasera del piso; dos baños (uno en suite del principal) están terminados respectivamente en mármol y en piedra caliza.\n\nEl edificio ofrece servicio de portería, ascensor, un patio interior ajardinado y trastero privado. El aire acondicionado está instalado en todas las estancias. Existe una plaza de garaje disponible por negociación.\n\nEl eje Sempione es una de las direcciones familiares más codiciadas de Milán, articulado por el parque, la Triennale del Diseño y las históricas líneas de tranvía que cruzan el barrio. Cadorna FS y M1 quedan a ocho minutos a pie."
+        }
+      }
     },
     {
       "id_suggested": "milano-porta-nuova-citylife-skyline-9988",
@@ -296,7 +415,24 @@
         "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=1600&q=80",
         "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Porta Nuova: contemporary three-bed with skyline views",
+          "description_short": "Three-bed contemporary apartment on a high floor near Piazza Gae Aulenti, with floor-to-ceiling glazing and concierge service.",
+          "description_long": "On the fourteenth floor of one of Porta Nuova's signature residential towers, this 145 m² apartment delivers the prototype Milanese skyline experience: floor-to-ceiling glazing, double aspect over the Bosco Verticale and Garibaldi station, and a covered terrace of 18 m² where the city lights take care of the soundtrack.\n\nThe open-plan reception accommodates a formal dining area and a sequence of seating zones. The kitchen, by an Italian boutique brand, is finished in matt lacquer and quartzite. The principal suite includes a fitted dressing room and an en-suite bathroom in book-matched marble; two further bedrooms share a family bathroom in limestone.\n\nThe building offers 24-hour concierge, a residents-only gym, a courtyard garden and underground parking. The sale includes a single secure parking space and a basement cellar.\n\nPiazza Gae Aulenti is two minutes on foot, with the Apple Store amphitheatre and the Saturday farmers' market beneath the apartment windows. M5 Isola and Garibaldi FS are within a five-minute radius.\n\nA turnkey proposition for the international buyer who wants Milan's newest skyline at street level."
+        },
+        "it": {
+          "title": "Porta Nuova: quadrilocale contemporaneo con vista skyline",
+          "description_short": "Quadrilocale contemporaneo ai piani alti vicino a Piazza Gae Aulenti, con vetrate a tutta altezza e servizio di concierge.",
+          "description_long": "Al quattordicesimo piano di una delle torri residenziali simbolo di Porta Nuova, questo appartamento di 145 m² consegna l'esperienza prototipica dello skyline milanese: vetrate a tutta altezza, doppia esposizione sul Bosco Verticale e sulla stazione Garibaldi, e una terrazza coperta di 18 m² dove le luci della città fanno da colonna sonora.\n\nIl salone open space accoglie una zona pranzo formale e una sequenza di aree conversazione. La cucina, di un marchio boutique italiano, è finita in laccato opaco e quarzite. La suite principale comprende una cabina armadio attrezzata e un bagno en-suite in marmo book-matched; altre due camere condividono un bagno di famiglia in pietra calcarea.\n\nL'edificio offre concierge 24 ore su 24, palestra riservata ai residenti, giardino interno e parcheggio sotterraneo. La vendita include un posto auto sicuro singolo e una cantina di servizio.\n\nPiazza Gae Aulenti è a due minuti a piedi, con l'anfiteatro dell'Apple Store e il mercato contadino del sabato proprio sotto le finestre dell'appartamento. M5 Isola e Garibaldi FS sono nel raggio di cinque minuti.\n\nUna proposta chiavi in mano per l'acquirente internazionale che vuole vivere il nuovo skyline di Milano dalla strada."
+        },
+        "es": {
+          "title": "Porta Nuova: piso contemporáneo con vistas al skyline",
+          "description_short": "Piso contemporáneo de tres dormitorios en planta alta junto a Piazza Gae Aulenti, con acristalamiento de suelo a techo y servicio de concierge.",
+          "description_long": "En la decimocuarta planta de una de las torres residenciales emblema de Porta Nuova, este piso de 145 m² ofrece la experiencia prototípica del skyline milanés: acristalamiento de suelo a techo, doble orientación sobre el Bosco Verticale y la estación de Garibaldi, y una terraza cubierta de 18 m² donde las luces de la ciudad ponen la banda sonora.\n\nEl salón en planta abierta acoge una zona de comedor formal y una secuencia de áreas de estar. La cocina, de una firma boutique italiana, está acabada en lacado mate y cuarcita. La suite principal incluye vestidor a medida y baño en suite en mármol book-matched; otros dos dormitorios comparten un baño familiar en piedra caliza.\n\nEl edificio cuenta con conserjería 24 horas, gimnasio para residentes, jardín interior y aparcamiento subterráneo. La venta incluye una plaza de garaje segura y un trastero.\n\nPiazza Gae Aulenti queda a dos minutos a pie, con el anfiteatro de la Apple Store y el mercado de productores de los sábados bajo las ventanas del piso. M5 Isola y Garibaldi FS están a cinco minutos.\n\nUna propuesta llave en mano para el comprador internacional que quiere vivir el nuevo skyline de Milán a pie de calle."
+        }
+      }
     },
     {
       "id_suggested": "milano-quadrilatero-piano-nobile-3300",
@@ -334,7 +470,24 @@
         "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1600&q=80",
         "https://images.unsplash.com/photo-1600121848594-d8644e57abab?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Quadrilatero: trophy piano nobile on Via Sant'Andrea",
+          "description_short": "Piano nobile trophy apartment of 380 m² with three exposures, a private garden courtyard and bespoke restoration on Via Sant'Andrea.",
+          "description_long": "An exceptionally rare offering on Via Sant'Andrea, this 380 m² piano nobile apartment occupies the principal floor of an 18th-century palazzo whose neighbours are the city's most established couture houses. The owner has just concluded a six-year restoration with a leading Milanese architect, returning the apartment to its full Belle Époque proportions while inserting a discreet, museum-grade contemporary infrastructure.\n\nThe enfilade of three reception rooms runs along the south facade, each with restored frescoed ceilings, original chevron parquet and double-doors clad in burr walnut. A formal dining room of 50 m² connects to a service kitchen finished in lacquered cabinetry and Calacatta marble.\n\nThe night wing comprises four bedroom suites, each en-suite, with the principal occupying a dedicated 80 m² volume that includes a sitting room, two dressing rooms and a bathroom in book-matched onyx with a freestanding bath at the centre of the floor.\n\nThe apartment uniquely enjoys a 90 m² private garden courtyard, planted with mature magnolia and accessed via a glazed loggia from the main reception. Building amenities include 24-hour porter, lift access from the resident garage and a dedicated cellar.\n\nA defining piece of inventory for the international buyer seeking a primary residence on Milan's most prestigious shopping street."
+        },
+        "it": {
+          "title": "Quadrilatero: piano nobile di pregio in Via Sant'Andrea",
+          "description_short": "Piano nobile di prestigio di 380 m² con tre esposizioni, cortile-giardino privato e restauro su misura in Via Sant'Andrea.",
+          "description_long": "Offerta eccezionalmente rara in Via Sant'Andrea, questo appartamento di 380 m² occupa il piano nobile di un palazzo settecentesco i cui vicini sono le più affermate maison di alta moda della città. Il proprietario ha appena concluso un restauro durato sei anni con un primario architetto milanese, restituendo all'appartamento le sue piene proporzioni Belle Époque e inserendo una discreta infrastruttura contemporanea di qualità museale.\n\nL'enfilade di tre saloni di rappresentanza corre lungo la facciata sud, ciascuno con soffitti affrescati restaurati, parquet originale a cassero e doppie porte rivestite in noce radica. Una sala da pranzo formale di 50 m² collega a una cucina di servizio rifinita in laccato e marmo Calacatta.\n\nLa zona notte comprende quattro suite, tutte en-suite, con la principale che occupa un volume dedicato di 80 m² composto da salotto, due cabine armadio e bagno in onice book-matched con vasca freestanding al centro.\n\nL'appartamento gode in via esclusiva di un cortile-giardino privato di 90 m², piantumato con magnolie mature e accessibile da una loggia vetrata che si apre sul salone principale. I servizi dell'edificio includono portineria 24 ore, accesso con ascensore dal garage condominiale e una cantina dedicata.\n\nUn pezzo di inventario identitario per l'acquirente internazionale in cerca di una residenza principale sulla via dello shopping più prestigiosa di Milano."
+        },
+        "es": {
+          "title": "Quadrilatero: piano nobile de prestigio en Via Sant'Andrea",
+          "description_short": "Piano nobile trofeo de 380 m² con tres orientaciones, patio-jardín privado y restauración a medida en Via Sant'Andrea.",
+          "description_long": "Una oferta excepcionalmente rara en Via Sant'Andrea, este piso de 380 m² ocupa el piano nobile de un palazzo del siglo XVIII cuyos vecinos son las maisons de alta costura más consolidadas de la ciudad. El propietario acaba de concluir una restauración de seis años con un destacado arquitecto milanés, devolviendo al piso sus proporciones Belle Époque íntegras e introduciendo una infraestructura contemporánea discreta de calidad museística.\n\nLa enfilade de tres salones de representación recorre la fachada sur, cada uno con techos al fresco restaurados, parquet original en chevron y dobles puertas revestidas en raíz de nogal. Un comedor formal de 50 m² conecta con una cocina de servicio acabada en lacado y mármol Calacatta.\n\nEl ala de noche comprende cuatro suites, todas en suite, con la principal ocupando un volumen propio de 80 m² que incluye saloncito, dos vestidores y baño en ónice book-matched con bañera exenta en el centro.\n\nEl piso disfruta en exclusiva de un patio-jardín privado de 90 m², plantado con magnolios maduros y accesible desde una logia acristalada que se abre al salón principal. Los servicios del edificio incluyen portería 24 horas, acceso por ascensor desde el garaje residencial y un trastero dedicado.\n\nUna pieza identitaria para el comprador internacional que busca primera residencia en la calle comercial más prestigiosa de Milán."
+        }
+      }
     },
     {
       "id_suggested": "milano-magenta-pelliccia-villa-5670",
@@ -372,7 +525,24 @@
         "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1600&q=80",
         "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Magenta: detached villa with garden, pool and garage",
+          "description_short": "A rare detached villa within the city boundary, with private garden, infinity pool and four-car underground garage near Sant'Ambrogio.",
+          "description_long": "In a city where detached residences are vanishingly rare, this 460 m² villa offers a complete proposition: full plot, private garden, infinity pool and four-car underground garage, all within a five-minute walk of Sant'Ambrogio M2 and Parco Sempione.\n\nThe villa was rebuilt to the foundations in 2019 by a leading Milanese studio. Behind the sympathetic Liberty-era facade, the interior is wholly contemporary: a triple-aspect main reception runs across the garden side, with sliding panels of two-metre-tall glass that disappear into the wall, opening the entire ground floor onto the planted garden and pool deck.\n\nThe living level includes a sculptural staircase in Carrara marble, a formal dining room and an open kitchen by an Italian boutique maker. A study, guest cloakroom and laundry complete the level.\n\nOn the first floor, four bedroom suites are arranged with absolute privacy. The principal occupies a dedicated wing with a 30 m² dressing room and a marble bathroom with private terrace overlooking the garden.\n\nA wellness level beneath includes a 12-metre infinity pool, hammam, gym and direct access to the four-car garage. A rare opportunity to acquire a freestanding asset of this calibre within the historic city perimeter."
+        },
+        "it": {
+          "title": "Magenta: villa indipendente con giardino, piscina e box",
+          "description_short": "Rara villa indipendente entro il perimetro cittadino, con giardino privato, piscina a sfioro e garage per quattro auto vicino a Sant'Ambrogio.",
+          "description_long": "In una città dove le residenze indipendenti sono ormai rarità, questa villa di 460 m² offre una proposta completa: lotto intero, giardino privato, piscina a sfioro e garage interrato per quattro auto, il tutto a cinque minuti a piedi dalla M2 Sant'Ambrogio e dal Parco Sempione.\n\nLa villa è stata ricostruita dalle fondamenta nel 2019 da uno studio milanese di primo piano. Dietro la rispettata facciata di matrice liberty, l'interno è interamente contemporaneo: un salone tripla esposizione corre lungo il lato giardino, con pannelli scorrevoli in vetro di due metri di altezza che spariscono nella muratura, aprendo tutto il piano terra sul giardino piantumato e sul deck della piscina.\n\nIl livello giorno include una scala scultorea in marmo di Carrara, una sala da pranzo formale e una cucina open space di un produttore boutique italiano. Uno studio, un guardaroba ospiti e la lavanderia completano il piano.\n\nAl primo piano, quattro suite sono organizzate con assoluta riservatezza. La principale occupa un'ala dedicata con una cabina armadio di 30 m² e un bagno in marmo con terrazza privata affacciata sul giardino.\n\nUn livello wellness al piano interrato include una piscina a sfioro di 12 metri, hammam, palestra e accesso diretto al box auto da quattro posti. Un'occasione rara per acquisire un bene indipendente di questo calibro entro il perimetro storico della città."
+        },
+        "es": {
+          "title": "Magenta: villa independiente con jardín, piscina y garaje",
+          "description_short": "Rara villa independiente dentro del perímetro urbano, con jardín privado, piscina infinity y garaje para cuatro coches cerca de Sant'Ambrogio.",
+          "description_long": "En una ciudad donde las residencias independientes son ya casi inexistentes, esta villa de 460 m² ofrece una propuesta completa: parcela íntegra, jardín privado, piscina infinity y garaje subterráneo para cuatro coches, todo a cinco minutos a pie del metro M2 Sant'Ambrogio y del Parco Sempione.\n\nLa villa fue reconstruida desde los cimientos en 2019 por un destacado estudio milanés. Tras la cuidada fachada de inspiración liberty, el interior es plenamente contemporáneo: un salón principal de triple orientación recorre el lado del jardín, con paneles correderos de vidrio de dos metros de alto que se ocultan en el muro y abren toda la planta baja al jardín ajardinado y a la zona de piscina.\n\nLa planta de día incluye una escalera escultórica de mármol de Carrara, un comedor formal y una cocina abierta de un fabricante boutique italiano. Un despacho, un aseo de cortesía y la lavandería completan la planta.\n\nEn la primera planta, cuatro suites se distribuyen con total privacidad. La principal ocupa un ala dedicada con vestidor de 30 m² y baño en mármol con terraza privada sobre el jardín.\n\nUn nivel wellness en sótano incluye piscina infinity de 12 metros, hammam, gimnasio y acceso directo al garaje de cuatro plazas. Una oportunidad infrecuente para adquirir un activo exento de este calibre dentro del perímetro histórico de la ciudad."
+        }
+      }
     }
   ],
   "mallorca": [
@@ -412,7 +582,24 @@
         "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1600&q=80",
         "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Palma Old Town: one-bed pied-à-terre with rooftop access",
+          "description_short": "A characterful one-bed apartment in a restored 18th-century building in the heart of Palma's old town, with access to a shared rooftop overlooking the cathedral.",
+          "description_long": "A discreet doorway on Calle Apuntadores opens onto the foyer of a 1740s townhouse, sensitively restored in 2022. On the second floor, this one-bedroom apartment of 58 m² balances original stone walls and exposed beams with a quiet, contemporary interior in lime plaster and pale European oak.\n\nThe living-kitchen is double-aspect, capturing morning sun from the front and the afternoon shadow of the cathedral from the side. The bedroom enjoys a vaulted ceiling and built-in wardrobes; the bathroom is finished in honed limestone with a rainfall shower.\n\nThe building offers a shared rooftop terrace, accessed from a discreet lift, where loungers and a small herb garden capture the unbroken view of Palma cathedral and the bay beyond.\n\nLa Lonja, Plaza Mayor and the new wave of Palma's design hotels and natural-wine bars are all within a three-minute radius. The marina is six minutes on foot; Palma airport delivers central Europe in two hours.\n\nA strong pied-à-terre or boutique rental asset in a market that continues to compress."
+        },
+        "it": {
+          "title": "Palma Old Town: monocamera pied-à-terre con accesso al tetto",
+          "description_short": "Appartamento con una camera, ricco di carattere, in un edificio settecentesco restaurato nel cuore del centro storico di Palma, con accesso a un rooftop condiviso affacciato sulla cattedrale.",
+          "description_long": "Un portone discreto in Calle Apuntadores apre sul foyer di una casa di città degli anni '40 del Settecento, restaurata con sensibilità nel 2022. Al secondo piano, questo appartamento con una camera di 58 m² bilancia muri in pietra originali e travi a vista con un interno contemporaneo silenzioso, in calce liscia e rovere europeo chiaro.\n\nLa zona giorno-cucina è doppia esposizione, intercettando il sole del mattino dal fronte e l'ombra pomeridiana della cattedrale dal lato. La camera gode di un soffitto a volta e di armadi a muro; il bagno è rifinito in pietra calcarea levigata con doccia a pioggia.\n\nL'edificio offre un rooftop condiviso, raggiungibile da un ascensore discreto, dove le sdraio e un piccolo orto di erbe aromatiche godono della vista ininterrotta sulla cattedrale di Palma e oltre, sulla baia.\n\nLa Lonja, Plaza Mayor e la nuova generazione di design hotel e wine bar naturali di Palma sono nel raggio di tre minuti. Il porto è a sei minuti a piedi; l'aeroporto di Palma collega l'Europa centrale in due ore.\n\nUn solido pied-à-terre o asset di affitto boutique in un mercato che continua a comprimersi."
+        },
+        "es": {
+          "title": "Casco antiguo de Palma: estudio pied-à-terre con acceso a azotea",
+          "description_short": "Apartamento de un dormitorio con carácter en un edificio del siglo XVIII restaurado en el corazón del casco antiguo de Palma, con acceso a una azotea compartida frente a la catedral.",
+          "description_long": "Una puerta discreta en la calle Apuntadores da paso al zaguán de una casa señorial de 1740, restaurada con sensibilidad en 2022. En la segunda planta, este apartamento de un dormitorio de 58 m² equilibra muros de piedra originales y vigas vistas con un interior contemporáneo y sereno, en estuco de cal y roble europeo claro.\n\nEl salón-cocina disfruta de doble orientación, captando el sol de la mañana desde el frente y la sombra vespertina de la catedral desde el lateral. El dormitorio goza de techo abovedado y armarios empotrados; el baño está acabado en piedra caliza pulida con ducha de lluvia.\n\nEl edificio cuenta con una azotea comunitaria, accesible mediante un discreto ascensor, donde las tumbonas y un pequeño huerto de aromáticas comparten la vista ininterrumpida de la catedral de Palma y de la bahía.\n\nLa Lonja, Plaza Mayor y la nueva ola de hoteles de diseño y bares de vino natural de Palma se encuentran a tres minutos. El puerto está a seis minutos a pie; el aeropuerto conecta con Europa central en dos horas.\n\nUn sólido pied-à-terre o activo de alquiler boutique en un mercado que sigue comprimiéndose."
+        }
+      }
     },
     {
       "id_suggested": "mallorca-portixol-seaview-2bed-2244",
@@ -450,7 +637,24 @@
         "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?w=1600&q=80",
         "https://images.unsplash.com/photo-1571770095004-6b61b1cf308a?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Portixol: two-bed sea-front with morning sun",
+          "description_short": "Sea-front two-bed apartment in the heart of Portixol's restaurant strip, with a sun-trap balcony and direct view onto the marina.",
+          "description_long": "Portixol has, over the last decade, completed its transformation from working fishermen's village to one of Europe's most relaxed waterfront neighbourhoods. This second-floor apartment sits at the centre of that change: 72 m², two bedrooms, one bathroom and a south-east-facing 8 m² balcony where the boats of the marina are framed between two palm trees.\n\nThe living-kitchen is open-plan, with light pouring through the front facade from sunrise. The kitchen is contemporary, fitted with a stone-topped peninsula. The principal bedroom enjoys a partial sea view; the second is currently configured as a study and works equally well as a guest room.\n\nThe bathroom is finished in tadelakt with a walk-in shower and matt black fittings. Air-conditioning is installed throughout.\n\nThe promenade beneath the apartment leads, in a fifteen-minute walk, into Palma's old town along the seafront. Cala Estancia and Portixol's surfable beach are immediately to the east. A rental-strong asset with credible long-term appreciation in one of the island's most stable neighbourhoods."
+        },
+        "it": {
+          "title": "Portixol: bilocale fronte mare con sole del mattino",
+          "description_short": "Bilocale fronte mare nel cuore della strip dei ristoranti di Portixol, con balcone soleggiato e vista diretta sul porticciolo.",
+          "description_long": "Portixol ha completato negli ultimi dieci anni la sua trasformazione da villaggio di pescatori a uno dei lungomare più rilassati d'Europa. Questo appartamento al secondo piano si trova al centro di questa evoluzione: 72 m², due camere, un bagno e un balcone di 8 m² esposto a sud-est, dove le barche del porticciolo si incorniciano tra due palme.\n\nIl salone-cucina è open space, con la luce che inonda la facciata principale dall'alba. La cucina è contemporanea, con un'isola dal piano in pietra. La camera principale gode di una vista parziale sul mare; la seconda è oggi configurata come studio e funziona altrettanto bene come camera ospiti.\n\nIl bagno è finito in tadelakt con doccia walk-in e rubinetteria in nero opaco. L'aria condizionata è installata in tutti gli ambienti.\n\nIl lungomare sotto l'appartamento conduce, in una passeggiata di quindici minuti, fino al centro storico di Palma lungo il mare. Cala Estancia e la spiaggia da surf di Portixol si trovano immediatamente a est. Un asset con forte capacità locativa e prospettive di apprezzamento credibili in uno dei quartieri più stabili dell'isola."
+        },
+        "es": {
+          "title": "Portixol: piso de dos dormitorios en primera línea con sol matinal",
+          "description_short": "Piso de dos dormitorios en primera línea de mar en plena zona gastronómica de Portixol, con balcón soleado y vista directa al puerto deportivo.",
+          "description_long": "Portixol ha completado en la última década su transformación de pueblo pesquero en uno de los frentes marítimos más relajados de Europa. Este apartamento en segunda planta se sitúa en el centro de ese cambio: 72 m², dos dormitorios, un baño y un balcón de 8 m² orientado al sureste, donde las embarcaciones del puerto se enmarcan entre dos palmeras.\n\nEl salón-cocina es diáfano y la luz entra a raudales por la fachada principal desde el amanecer. La cocina, contemporánea, se completa con una península de encimera de piedra. El dormitorio principal disfruta de vista parcial al mar; el segundo está hoy configurado como despacho y funciona igual de bien como cuarto de invitados.\n\nEl baño está acabado en tadelakt con ducha walk-in y grifería en negro mate. El aire acondicionado está instalado en todas las estancias.\n\nEl paseo marítimo bajo el apartamento lleva, en quince minutos andando, hasta el casco antiguo de Palma. Cala Estancia y la playa surfeable de Portixol quedan justo al este. Un activo con sólida capacidad de alquiler y revalorización creíble en uno de los barrios más estables de la isla."
+        }
+      }
     },
     {
       "id_suggested": "mallorca-soller-townhouse-3bed-7780",
@@ -487,7 +691,24 @@
         "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1600&q=80",
         "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Sóller: three-bed townhouse in the orange-grove valley",
+          "description_short": "A traditional Mallorcan townhouse in the centre of Sóller, with three bedrooms, original terracotta floors and a small interior courtyard.",
+          "description_long": "Set on Carrer de la Lluna, the artery of Sóller's old town, this three-bedroom townhouse offers a generous 118 m² distributed over three floors. The current owners have lived here for twelve years; the property is in good condition but invites a cosmetic refresh by a sensitive buyer.\n\nThe ground floor opens onto a stone-floored entrance hall, a 24 m² sitting room with the original fireplace and a south-facing dining room that overlooks a small interior courtyard of 9 m². The kitchen is functional and well-fitted, with potential to integrate with the courtyard for a full indoor-outdoor configuration.\n\nUpstairs, three bedrooms are arranged on the first floor, the principal with original beamed ceilings. A single full bathroom serves the level. The top floor is currently used as a multi-purpose room and includes a private roof terrace of 18 m² with views over the church bell tower and the Tramuntana ridges.\n\nSóller offers a year-round community, weekly markets, the historic narrow-gauge tram down to the port and a forty-minute drive into Palma. A characterful, honest piece of inventory for the buyer prepared to embrace a village rather than a resort."
+        },
+        "it": {
+          "title": "Sóller: casa di città di tre camere nella valle degli aranceti",
+          "description_short": "Tradizionale casa maiorchina nel centro di Sóller, con tre camere, pavimenti originali in cotto e un piccolo cortile interno.",
+          "description_long": "Affacciata su Carrer de la Lluna, l'arteria del centro storico di Sóller, questa casa di tre camere offre 118 m² generosi distribuiti su tre piani. Gli attuali proprietari vi abitano da dodici anni; l'immobile è in buone condizioni ma invita a un rinfresco estetico da parte di un acquirente sensibile.\n\nIl piano terra si apre su un ingresso con pavimento in pietra, un soggiorno di 24 m² con il camino originale e una sala da pranzo esposta a sud che si affaccia su un piccolo cortile interno di 9 m². La cucina è funzionale e ben attrezzata, con la possibilità di integrarsi con il cortile per una configurazione indoor-outdoor completa.\n\nAl piano superiore, tre camere sono organizzate al primo livello, la principale con i soffitti a travi originali. Un unico bagno completo serve il piano. L'ultimo piano è oggi utilizzato come stanza polifunzionale e include una terrazza privata sul tetto di 18 m² con vista sul campanile della chiesa e sulle creste della Tramuntana.\n\nSóller offre una comunità attiva tutto l'anno, mercati settimanali, lo storico tram a scartamento ridotto fino al porto e quaranta minuti d'auto da Palma. Un pezzo onesto e di carattere per l'acquirente disposto ad abbracciare un villaggio anziché una località turistica."
+        },
+        "es": {
+          "title": "Sóller: casa de pueblo de tres dormitorios en el valle de los naranjos",
+          "description_short": "Casa de pueblo mallorquina tradicional en el centro de Sóller, con tres dormitorios, suelos originales de barro cocido y un pequeño patio interior.",
+          "description_long": "En Carrer de la Lluna, la arteria del casco antiguo de Sóller, esta casa de pueblo de tres dormitorios ofrece unos generosos 118 m² distribuidos en tres plantas. Los actuales propietarios viven aquí desde hace doce años; la propiedad está en buen estado pero invita a un lavado de cara estético por parte de un comprador sensible.\n\nLa planta baja da paso a un recibidor con suelo de piedra, una sala de estar de 24 m² con la chimenea original y un comedor orientado al sur que se asoma a un pequeño patio interior de 9 m². La cocina es funcional y está bien equipada, con potencial para integrarse con el patio en una configuración indoor-outdoor completa.\n\nArriba, tres dormitorios se distribuyen en la primera planta, el principal con techos de vigas originales. Un único baño completo da servicio al nivel. La planta superior se utiliza hoy como sala polivalente e incluye una terraza privada de 18 m² con vistas al campanario de la iglesia y a las crestas de la Tramuntana.\n\nSóller ofrece comunidad durante todo el año, mercados semanales, el histórico tranvía de vía estrecha hasta el puerto y cuarenta minutos en coche hasta Palma. Una pieza honesta y con carácter para el comprador dispuesto a abrazar un pueblo en lugar de un resort."
+        }
+      }
     },
     {
       "id_suggested": "mallorca-santa-catalina-2bed-loft-9912",
@@ -524,7 +745,24 @@
         "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=1600&q=80",
         "https://images.unsplash.com/photo-1494526585095-c41746248156?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Santa Catalina: design two-bed with private patio",
+          "description_short": "Designer two-bedroom apartment in Santa Catalina, with private 12 m² patio and the Mercat de Santa Catalina at the doorstep.",
+          "description_long": "Santa Catalina has, in the last decade, become Palma's most reliably interesting neighbourhood: a working market, a concentration of small restaurants and natural-wine bars, and a residential fabric of late-19th-century townhouses that lend themselves to careful conversion.\n\nThis ground-floor 84 m² apartment is one such conversion, completed in 2024 by a small Palma studio. The interior is finished in lime plaster, terracotta tiles and pale European oak; the original stone walls have been retained at the rear of the property and exposed on the patio side.\n\nThe living-kitchen runs across the full depth of the apartment, opening through two sets of french doors onto a private patio of 12 m². The patio is north-facing, planted with lemon and bougainvillea, and offers shade through the hottest part of the day.\n\nBoth bedrooms enjoy quiet exposures; the principal includes a fitted dressing area and an en-suite shower room finished in tadelakt. A second bathroom and a discreet utility complete the layout.\n\nThe Mercat de Santa Catalina is three minutes on foot; Palma cathedral is twelve minutes along the seafront."
+        },
+        "it": {
+          "title": "Santa Catalina: bilocale di design con patio privato",
+          "description_short": "Bilocale di design a Santa Catalina, con patio privato di 12 m² e il Mercat de Santa Catalina sulla porta di casa.",
+          "description_long": "Santa Catalina è diventata negli ultimi dieci anni il quartiere più affidabilmente interessante di Palma: un mercato vivo, una concentrazione di piccoli ristoranti e wine bar naturali e un tessuto residenziale di case di città di fine Ottocento che si prestano a interventi di recupero attenti.\n\nQuesto appartamento di 84 m² al piano terra è uno di questi interventi, completato nel 2024 da un piccolo studio di Palma. L'interno è finito in calce liscia, piastrelle in cotto e rovere europeo chiaro; i muri in pietra originali sono stati conservati nella parte posteriore della proprietà e lasciati a vista sul lato del patio.\n\nIl salone-cucina corre per tutta la profondità dell'appartamento, aprendosi attraverso due porte-finestre su un patio privato di 12 m². Il patio è esposto a nord, piantumato con limoni e bouganville, e offre ombra nelle ore più calde della giornata.\n\nEntrambe le camere godono di esposizioni silenziose; la principale comprende una zona spogliatoio attrezzata e un bagno en-suite con doccia rifinito in tadelakt. Un secondo bagno e una lavanderia discreta completano la planimetria.\n\nIl Mercat de Santa Catalina è a tre minuti a piedi; la cattedrale di Palma a dodici minuti lungo il mare."
+        },
+        "es": {
+          "title": "Santa Catalina: piso de diseño de dos dormitorios con patio privado",
+          "description_short": "Apartamento de diseño de dos dormitorios en Santa Catalina, con patio privado de 12 m² y el Mercat de Santa Catalina a la puerta.",
+          "description_long": "Santa Catalina se ha convertido en la última década en el barrio más sólidamente interesante de Palma: mercado vivo, concentración de pequeños restaurantes y bares de vino natural y un tejido residencial de casas de finales del XIX que se prestan a reformas cuidadas.\n\nEste apartamento de 84 m² en planta baja es una de esas reformas, finalizada en 2024 por un pequeño estudio de Palma. El interior está acabado en estuco de cal, baldosas de barro cocido y roble europeo claro; los muros de piedra originales se han conservado en la parte trasera de la vivienda y se han dejado vistos en el lado del patio.\n\nEl salón-cocina recorre toda la profundidad del piso y se abre, a través de dos juegos de puertas francesas, a un patio privado de 12 m². El patio, orientado al norte, está plantado con limonero y buganvilla y ofrece sombra en las horas más cálidas.\n\nAmbos dormitorios disfrutan de orientaciones tranquilas; el principal incluye zona de vestidor y baño en suite con ducha acabado en tadelakt. Un segundo baño y un cuarto técnico discreto completan la planta.\n\nEl Mercat de Santa Catalina queda a tres minutos a pie; la catedral de Palma, a doce minutos por el paseo marítimo."
+        }
+      }
     },
     {
       "id_suggested": "mallorca-pollenca-finca-3bed-4488",
@@ -561,7 +799,24 @@
         "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=1600&q=80",
         "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Pollença: restored stone finca with pool and olive grove",
+          "description_short": "Sympathetically restored stone finca of 180 m² on a 4,000 m² olive grove plot, with private pool and Tramuntana views.",
+          "description_long": "Set on a 4,000 m² plot of mature olive trees five minutes' drive from Pollença's old town, this restored stone finca offers the prototype northern-Mallorca experience: cicadas, dry stone walls, a long evening light and the quiet bulk of the Tramuntana to the west.\n\nThe finca, originally built in the late 19th century, was fully restored in 2021. The interior is finished in lime plaster over original stone walls, with restored chestnut beams and reclaimed Mallorquin terracotta floors. The principal living-dining room runs across the south facade, opening onto a deep covered porch where the table seats ten.\n\nThe kitchen is a separate, working room finished in cream cabinetry and a marble-topped island. Three double bedrooms are arranged on the ground floor; the principal includes a dressing area and an en-suite shower room. A second family bathroom serves the remaining two.\n\nOutside, a 10-metre saltwater pool sits on a terraced lawn surrounded by mature olive and almond trees. A pool house with summer kitchen and shower extends the entertaining footprint. Solar panels, a wood-burning fire and high-grade insulation deliver a low running cost across the year.\n\nA confident, honest piece of inventory for the buyer who wants a genuine finca experience without a five-year project."
+        },
+        "it": {
+          "title": "Pollença: finca in pietra restaurata con piscina e uliveto",
+          "description_short": "Finca in pietra di 180 m² restaurata con sensibilità su un terreno di 4.000 m² con uliveto, piscina privata e vista sulla Tramuntana.",
+          "description_long": "Su un terreno di 4.000 m² di ulivi maturi a cinque minuti d'auto dal centro storico di Pollença, questa finca in pietra restaurata offre l'esperienza prototipica della Mallorca del nord: cicale, muretti a secco, una luce serale lunga e la mole silenziosa della Tramuntana a ovest.\n\nLa finca, costruita originariamente alla fine dell'Ottocento, è stata completamente restaurata nel 2021. L'interno è finito in calce liscia su muri in pietra originali, con travi in castagno restaurate e pavimenti in cotto maiorchino di recupero. Il salone-pranzo principale corre lungo la facciata sud, aprendosi su un profondo porticato dove il tavolo ospita dieci persone.\n\nLa cucina è una stanza separata e operativa, finita in laccato crema con isola dal piano in marmo. Tre camere matrimoniali si trovano al piano terra; la principale include una zona spogliatoio e un bagno en-suite con doccia. Un secondo bagno di famiglia serve le altre due.\n\nAll'esterno, una piscina in acqua salata di 10 metri si trova su un prato terrazzato circondato da ulivi e mandorli maturi. Una pool house con cucina estiva e doccia estende lo spazio conviviale. Pannelli solari, una stufa a legna e un alto livello di coibentazione mantengono bassi i costi di gestione tutto l'anno.\n\nUna proposta sicura e onesta per l'acquirente che vuole un'autentica esperienza di finca senza un cantiere di cinque anni."
+        },
+        "es": {
+          "title": "Pollença: finca de piedra restaurada con piscina y olivar",
+          "description_short": "Finca de piedra de 180 m² restaurada con sensibilidad sobre parcela de 4.000 m² con olivar, piscina privada y vistas a la Tramuntana.",
+          "description_long": "Sobre una parcela de 4.000 m² de olivos maduros, a cinco minutos en coche del casco antiguo de Pollença, esta finca de piedra restaurada ofrece la experiencia prototípica del norte de Mallorca: cigarras, muros de piedra seca, una larga luz vespertina y la quieta mole de la Tramuntana al oeste.\n\nLa finca, construida originalmente a finales del siglo XIX, fue restaurada por completo en 2021. El interior está terminado en estuco de cal sobre muros de piedra originales, con vigas de castaño restauradas y suelos de barro cocido mallorquín recuperado. El salón-comedor principal recorre la fachada sur y se abre a un profundo porche cubierto donde la mesa acoge a diez comensales.\n\nLa cocina es una sala independiente y operativa, acabada en mobiliario crema con isla de encimera de mármol. Tres dormitorios dobles se sitúan en la planta baja; el principal incluye zona de vestidor y baño en suite con ducha. Un segundo baño familiar da servicio a los otros dos.\n\nEn el exterior, una piscina de agua salada de 10 metros se asienta sobre césped aterrazado, rodeada de olivos y almendros maduros. Una pool house con cocina de verano y ducha amplía el área de recepción. Placas solares, estufa de leña y un alto nivel de aislamiento mantienen un coste de explotación bajo durante todo el año.\n\nUna propuesta sólida y honesta para el comprador que busca una experiencia auténtica de finca sin un proyecto de cinco años."
+        }
+      }
     },
     {
       "id_suggested": "mallorca-portals-nous-seaview-3bed-6612",
@@ -598,7 +853,24 @@
         "https://images.unsplash.com/photo-1571770095004-6b61b1cf308a?w=1600&q=80",
         "https://images.unsplash.com/photo-1564540586988-aa4e53c3d799?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Portals Nous: marina-front three-bed with private terrace",
+          "description_short": "Three-bedroom apartment with 40 m² terrace overlooking Puerto Portals marina, in a 24-hour security complex with pool and gym.",
+          "description_long": "On a high floor of a prestigious 1990s residential complex directly above Puerto Portals, this 165 m² apartment delivers the most photographed sea view in south-west Mallorca: the full sweep of the marina, the Bay of Palma and, on a clear day, the cathedral spires in the distance.\n\nThe apartment has been fully refurbished in 2022. The 40 m² south-west-facing terrace runs along the full length of the reception, configured for both lunch and dining. The reception is open-plan with a contemporary kitchen in lacquered cabinetry and Calacatta marble. Three bedrooms are arranged in a private wing; the principal includes a dressing room and en-suite bathroom in book-matched marble.\n\nThe complex offers 24-hour security, a heated outdoor pool, residents-only gym, manicured gardens and underground parking. A single secure parking space is included.\n\nPuerto Portals offers a year-round community, a concentration of the island's most established restaurants and a deep-water marina that accommodates 50 m+ yachts. Palma airport is twelve minutes by car.\n\nA confident proposition for the international buyer seeking turnkey marina-front living without the commitment of a full villa."
+        },
+        "it": {
+          "title": "Portals Nous: tre camere fronte marina con terrazza privata",
+          "description_short": "Trilocale con terrazza di 40 m² affacciata su Puerto Portals, in un complesso con sicurezza 24 ore, piscina e palestra.",
+          "description_long": "Ai piani alti di un prestigioso complesso residenziale degli anni '90, direttamente sopra Puerto Portals, questo appartamento di 165 m² consegna la vista mare più fotografata del sud-ovest di Mallorca: l'intera curva della marina, la Baia di Palma e, nelle giornate limpide, le guglie della cattedrale in lontananza.\n\nL'appartamento è stato integralmente ristrutturato nel 2022. La terrazza di 40 m² esposta a sud-ovest corre per tutta la lunghezza del salone, configurata sia per pranzi che per cene. Il salone è open space con cucina contemporanea in laccato e marmo Calacatta. Tre camere sono disposte in un'ala riservata; la principale comprende una cabina armadio e un bagno en-suite in marmo book-matched.\n\nIl complesso offre sicurezza 24 ore, piscina esterna riscaldata, palestra riservata ai residenti, giardini curati e parcheggio interrato. È incluso un posto auto sicuro singolo.\n\nPuerto Portals ospita una comunità attiva tutto l'anno, una concentrazione dei ristoranti più consolidati dell'isola e una marina di acque profonde che accoglie yacht oltre i 50 metri. L'aeroporto di Palma è a dodici minuti d'auto.\n\nUna proposta sicura per l'acquirente internazionale che cerca un fronte marina chiavi in mano senza l'impegno di una villa intera."
+        },
+        "es": {
+          "title": "Portals Nous: piso de tres dormitorios frente al puerto con terraza",
+          "description_short": "Piso de tres dormitorios con terraza de 40 m² sobre el puerto de Puerto Portals, en complejo con seguridad 24 horas, piscina y gimnasio.",
+          "description_long": "En una planta alta de un prestigioso complejo residencial de los años 90, justo sobre Puerto Portals, este apartamento de 165 m² ofrece la vista al mar más fotografiada del suroeste de Mallorca: el barrido completo del puerto deportivo, la Bahía de Palma y, en días despejados, las torres de la catedral en la distancia.\n\nEl piso fue reformado por completo en 2022. La terraza de 40 m² orientada al suroeste recorre todo el largo del salón, configurada tanto para almuerzo como para cena. El salón es diáfano y se completa con una cocina contemporánea en mobiliario lacado y mármol Calacatta. Tres dormitorios se distribuyen en un ala privada; el principal incluye vestidor y baño en suite en mármol book-matched.\n\nEl complejo ofrece seguridad 24 horas, piscina exterior climatizada, gimnasio para residentes, jardines cuidados y aparcamiento subterráneo. Se incluye una plaza de garaje segura.\n\nPuerto Portals reúne una comunidad activa durante todo el año, una concentración de los restaurantes más consolidados de la isla y un puerto deportivo de aguas profundas capaz de acoger yates de más de 50 metros. El aeropuerto de Palma queda a doce minutos en coche.\n\nUna propuesta sólida para el comprador internacional que busca vida frente al puerto llave en mano sin el compromiso de una villa entera."
+        }
+      }
     },
     {
       "id_suggested": "mallorca-son-vida-villa-4bed-3357",
@@ -635,7 +907,24 @@
         "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1600&q=80",
         "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Son Vida: contemporary villa with infinity pool",
+          "description_short": "Contemporary four-bedroom villa on a 1,800 m² plot in Son Vida, with infinity pool and city-and-sea panoramic views.",
+          "description_long": "On a south-east-facing plot of 1,800 m² in the gated community of Son Vida, this 350 m² contemporary villa was completed in 2020 to a brief that prioritised volume, light and view. Three golf courses sit within walking distance; Palma cathedral is visible in the middle distance.\n\nThe ground floor is configured around a triple-aspect open-plan living-dining-kitchen of 90 m², with sliding glazing that retracts entirely to open the room onto a covered terrace and a 14-metre infinity pool. The kitchen is fitted by an Italian boutique maker, finished in matt lacquer and Calacatta marble.\n\nThe principal bedroom suite occupies a dedicated wing of the ground floor, with a private terrace, a dressing room and an en-suite bathroom in honed travertine. The first floor accommodates three further bedroom suites, each en-suite, all with terrace access and partial sea views.\n\nThe lower-ground level offers a wellness suite (hammam, sauna and gym), a two-car garage and a service kitchen for staff. The plot is landscaped with mature olives, almonds and a planted edible garden.\n\nA confident, light-filled villa in one of the island's most established gated communities."
+        },
+        "it": {
+          "title": "Son Vida: villa contemporanea con piscina a sfioro",
+          "description_short": "Villa contemporanea di quattro camere su un terreno di 1.800 m² a Son Vida, con piscina a sfioro e vista panoramica città-mare.",
+          "description_long": "Su un terreno di 1.800 m² esposto a sud-est nella comunità privata di Son Vida, questa villa contemporanea di 350 m² è stata completata nel 2020 con un programma incentrato su volume, luce e vista. Tre campi da golf si trovano a distanza pedonale; la cattedrale di Palma è visibile in mezzaria.\n\nIl piano terra è organizzato attorno a una zona giorno-pranzo-cucina open space tripla esposizione di 90 m², con vetrate scorrevoli che si ritirano completamente per aprire la stanza su una terrazza coperta e una piscina a sfioro di 14 metri. La cucina è di un marchio boutique italiano, finita in laccato opaco e marmo Calacatta.\n\nLa suite della camera principale occupa un'ala dedicata del piano terra, con terrazza privata, una cabina armadio e un bagno en-suite in travertino levigato. Il primo piano ospita altre tre suite, tutte en-suite, ciascuna con accesso a terrazza e vista parziale sul mare.\n\nIl livello interrato offre una suite wellness (hammam, sauna e palestra), un garage per due auto e una cucina di servizio per il personale. Il terreno è paesaggisticamente curato con ulivi maturi, mandorli e un orto edibile.\n\nUna villa sicura e luminosa in una delle comunità private più consolidate dell'isola."
+        },
+        "es": {
+          "title": "Son Vida: villa contemporánea con piscina infinity",
+          "description_short": "Villa contemporánea de cuatro dormitorios sobre parcela de 1.800 m² en Son Vida, con piscina infinity y vistas panorámicas ciudad-mar.",
+          "description_long": "Sobre una parcela orientada al sureste de 1.800 m² en la urbanización cerrada de Son Vida, esta villa contemporánea de 350 m² se finalizó en 2020 bajo un encargo que priorizó volumen, luz y vista. Tres campos de golf quedan a distancia caminable; la catedral de Palma se distingue en el medio plano.\n\nLa planta baja se organiza en torno a un salón-comedor-cocina diáfano de triple orientación de 90 m², con acristalamiento corredero que se repliega por completo para abrir la sala a una terraza cubierta y a una piscina infinity de 14 metros. La cocina, de una firma boutique italiana, está acabada en lacado mate y mármol Calacatta.\n\nLa suite del dormitorio principal ocupa un ala dedicada de la planta baja, con terraza privada, vestidor y baño en suite en travertino abujardado. La primera planta acoge otras tres suites, todas en suite, con acceso a terraza y vistas parciales al mar.\n\nEl nivel inferior ofrece una zona wellness (hammam, sauna y gimnasio), garaje para dos coches y una cocina de servicio para el personal. La parcela está paisajísticamente diseñada con olivos maduros, almendros y un huerto comestible.\n\nUna villa sólida y luminosa en una de las urbanizaciones cerradas más consolidadas de la isla."
+        }
+      }
     },
     {
       "id_suggested": "mallorca-valldemossa-stone-house-1129",
@@ -672,7 +961,24 @@
         "https://images.unsplash.com/photo-1518733057094-95b53143d2a7?w=1600&q=80",
         "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Valldemossa: stone village house with terraced garden",
+          "description_short": "Sensitively restored 17th-century stone house in the heart of Valldemossa, with terraced garden and mountain views.",
+          "description_long": "Set on a lane that climbs from the cobbled centre of Valldemossa, this 195 m² stone house was restored in 2019 by a Mallorcan architect with a brief to restore rather than renovate. The original stone walls, chestnut beams and reclaimed clay floors have been kept; the contemporary intervention is limited to discreet glazing, integrated lighting and a single kitchen-and-bathroom block.\n\nThe ground floor opens onto a stone-walled entrance hall, a 32 m² sitting room with the original Mallorquin fireplace and an open kitchen finished in cream cabinetry and a stone-topped peninsula. The first floor accommodates the principal bedroom with an en-suite shower room and a small private terrace overlooking the village.\n\nThe second floor includes two further bedrooms and a family bathroom finished in honed limestone. A dedicated study with vaulted ceilings occupies the converted attic.\n\nOutside, a terraced garden of 140 m² is planted with lavender, rosemary, and a single mature olive. A discreet plunge pool of 3 by 6 metres has been integrated into the lower terrace, with stone seating and an outdoor kitchen.\n\nValldemossa offers a year-round community, the Cartoixa monastery and direct access to the GR-221 walking route. A piece of inventory for the buyer who values quietness over visibility."
+        },
+        "it": {
+          "title": "Valldemossa: casa di pietra con giardino terrazzato",
+          "description_short": "Casa in pietra del Seicento restaurata con sensibilità nel cuore di Valldemossa, con giardino terrazzato e vista sulle montagne.",
+          "description_long": "Su una stradina che sale dal centro acciottolato di Valldemossa, questa casa in pietra di 195 m² è stata restaurata nel 2019 da un architetto maiorchino con il mandato di restaurare anziché ristrutturare. I muri originali in pietra, le travi in castagno e i pavimenti in argilla recuperati sono stati conservati; l'intervento contemporaneo si limita a vetrate discrete, illuminazione integrata e un singolo blocco cucina-bagni.\n\nIl piano terra si apre su un ingresso con pareti in pietra, un salotto di 32 m² con il camino maiorchino originale e una cucina open space in laccato crema con isola dal piano in pietra. Il primo piano ospita la camera principale con bagno en-suite con doccia e una piccola terrazza privata affacciata sul villaggio.\n\nIl secondo piano comprende due ulteriori camere e un bagno di famiglia in pietra calcarea levigata. Uno studio dedicato con soffitti a volta occupa il sottotetto trasformato.\n\nAll'esterno, un giardino terrazzato di 140 m² è piantumato con lavanda, rosmarino e un singolo ulivo maturo. Una piscina di servizio discreta di 3 per 6 metri è stata integrata nella terrazza inferiore, con sedute in pietra e una cucina esterna.\n\nValldemossa offre una comunità attiva tutto l'anno, la Cartoixa e l'accesso diretto al sentiero GR-221. Un pezzo per l'acquirente che dà più valore alla quiete che alla visibilità."
+        },
+        "es": {
+          "title": "Valldemossa: casa de pueblo de piedra con jardín aterrazado",
+          "description_short": "Casa de piedra del siglo XVII restaurada con sensibilidad en el centro de Valldemossa, con jardín aterrazado y vistas a las montañas.",
+          "description_long": "En una calle que asciende desde el centro empedrado de Valldemossa, esta casa de piedra de 195 m² fue restaurada en 2019 por un arquitecto mallorquín con el encargo de restaurar más que reformar. Los muros originales de piedra, las vigas de castaño y los suelos de arcilla recuperados se han conservado; la intervención contemporánea se limita a acristalamientos discretos, iluminación integrada y un único bloque de cocina y baños.\n\nLa planta baja da paso a un recibidor con muros de piedra, una sala de estar de 32 m² con la chimenea mallorquina original y una cocina abierta acabada en mobiliario crema con península de encimera de piedra. La primera planta acoge el dormitorio principal con baño en suite con ducha y una pequeña terraza privada que mira al pueblo.\n\nLa segunda planta incluye dos dormitorios más y un baño familiar acabado en piedra caliza pulida. Un despacho con techos abovedados ocupa el ático rehabilitado.\n\nEn el exterior, un jardín aterrazado de 140 m² está plantado con lavanda, romero y un olivo maduro. Una discreta piscina de baño de 3 por 6 metros se ha integrado en la terraza inferior, con asientos de piedra y cocina exterior.\n\nValldemossa ofrece comunidad durante todo el año, la Cartoixa y acceso directo a la ruta GR-221. Una pieza para el comprador que valora la quietud por encima de la visibilidad."
+        }
+      }
     },
     {
       "id_suggested": "mallorca-port-andratx-cliff-villa-9009",
@@ -710,7 +1016,24 @@
         "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1600&q=80",
         "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Port d'Andratx: cliff villa with infinity edge over the bay",
+          "description_short": "Contemporary cliff villa of 520 m² above Port d'Andratx, with infinity pool, private cinema and direct sea view to the bay entrance.",
+          "description_long": "On a south-west-facing cliff plot of 2,200 m² above Port d'Andratx, this contemporary villa was delivered in 2022 by an internationally recognised studio. The architecture is intentionally horizontal, three offset volumes that step down the cliff and direct every principal view to the bay entrance and the open Mediterranean beyond.\n\nThe entrance level opens onto an open-plan reception of 130 m², with retractable glazing that disappears entirely into the structural walls. The kitchen, by an Italian boutique maker, is finished in matt black lacquer, Calacatta marble and bronze detailing.\n\nFive bedroom suites occupy the lower two levels, each en-suite, each with sea-view terraces. The principal suite includes a dedicated sitting room, double dressing rooms and a marble bathroom that opens onto a private plunge pool.\n\nWellness amenities include a 22-metre infinity pool with submerged sun loungers, an indoor heated pool, hammam, sauna, fitness studio and a 14-seat private cinema. A four-car garage and dedicated staff accommodation complete the brief.\n\nThe villa is delivered fully turnkey, including bespoke interior design and a curated furniture package. A trophy proposition for the international buyer seeking a primary or holiday residence at the heart of Mallorca's most prestigious bay."
+        },
+        "it": {
+          "title": "Port d'Andratx: villa a strapiombo con piscina infinity sulla baia",
+          "description_short": "Villa contemporanea a strapiombo di 520 m² sopra Port d'Andratx, con piscina a sfioro, cinema privato e vista mare diretta sull'imboccatura della baia.",
+          "description_long": "Su un terreno a strapiombo esposto a sud-ovest di 2.200 m² sopra Port d'Andratx, questa villa contemporanea è stata consegnata nel 2022 da uno studio di fama internazionale. L'architettura è volutamente orizzontale, tre volumi sfalsati che scendono lungo la scogliera e indirizzano ogni vista principale verso l'imboccatura della baia e il Mediterraneo aperto oltre.\n\nIl livello di ingresso si apre su un salone open space di 130 m², con vetrate retraibili che spariscono completamente nei muri strutturali. La cucina, di un marchio boutique italiano, è finita in laccato nero opaco, marmo Calacatta e dettagli in bronzo.\n\nCinque suite occupano i due livelli inferiori, tutte en-suite, ciascuna con terrazza vista mare. La suite principale comprende un salotto dedicato, due cabine armadio doppie e un bagno in marmo che si apre su una piscina di servizio privata.\n\nI servizi wellness includono una piscina a sfioro di 22 metri con sdraio sommersi, una piscina coperta riscaldata, hammam, sauna, studio fitness e un cinema privato da 14 posti. Un garage per quattro auto e un alloggio dedicato al personale completano il programma.\n\nLa villa è consegnata chiavi in mano, inclusi interior design su misura e un pacchetto di arredi curato. Una proposta trofeo per l'acquirente internazionale in cerca di una residenza principale o estiva nel cuore della baia più prestigiosa di Mallorca."
+        },
+        "es": {
+          "title": "Port d'Andratx: villa en acantilado con infinity sobre la bahía",
+          "description_short": "Villa contemporánea en acantilado de 520 m² sobre Port d'Andratx, con piscina infinity, cine privado y vista directa al mar y a la bocana de la bahía.",
+          "description_long": "Sobre una parcela en acantilado orientada al suroeste de 2.200 m² por encima de Port d'Andratx, esta villa contemporánea fue entregada en 2022 por un estudio de reconocimiento internacional. La arquitectura es deliberadamente horizontal, tres volúmenes desplazados que descienden por el acantilado y orientan cada vista principal hacia la bocana de la bahía y el Mediterráneo abierto.\n\nEl nivel de entrada se abre a un salón diáfano de 130 m², con acristalamiento retráctil que se oculta por completo en los muros estructurales. La cocina, de un fabricante boutique italiano, está acabada en lacado negro mate, mármol Calacatta y detalles en bronce.\n\nCinco suites ocupan los dos niveles inferiores, todas en suite, cada una con terraza con vistas al mar. La suite principal incluye un saloncito propio, doble vestidor y baño de mármol que se abre a una piscina de baño privada.\n\nLos servicios wellness incluyen piscina infinity de 22 metros con tumbonas sumergidas, piscina cubierta climatizada, hammam, sauna, estudio de fitness y un cine privado de 14 plazas. Un garaje de cuatro plazas y alojamiento dedicado para el personal completan el programa.\n\nLa villa se entrega totalmente llave en mano, con interiorismo a medida y un paquete de mobiliario seleccionado. Una propuesta trofeo para el comprador internacional que busca primera o segunda residencia en el corazón de la bahía más prestigiosa de Mallorca."
+        }
+      }
     },
     {
       "id_suggested": "mallorca-deia-waterfront-villa-7745",
@@ -748,7 +1071,24 @@
         "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=1600&q=80",
         "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Deià: stone waterfront villa with private cove access",
+          "description_short": "Restored stone villa of 410 m² on a 3,500 m² plot above Cala Deià, with private path to the cove and panoramic Tramuntana views.",
+          "description_long": "On a south-facing terrace above Cala Deià, this 410 m² stone villa occupies one of the most coveted positions on Mallorca's west coast. The plot of 3,500 m² descends in landscaped terraces to a private gate that opens onto the path to Cala Deià beach, six minutes on foot.\n\nThe villa was restored in 2018 by a leading Mallorcan studio. The original stone walls, chestnut beams and clay tile floors have been retained; the contemporary intervention has been concentrated in the kitchen, bathrooms and an extended south-facing reception that opens entirely onto a covered terrace.\n\nFour bedroom suites are arranged across two floors. The principal occupies the western wing of the upper floor, with private terrace, dressing room and a stone-clad en-suite bathroom that overlooks the bay. Three further bedroom suites enjoy a mix of mountain and sea views.\n\nA 14-metre saltwater pool sits on the principal terrace, surrounded by mature olive, almond and citrus trees. A pool house with summer kitchen and outdoor shower extends the entertaining footprint. A two-car covered garage and a separate staff studio of 32 m² complete the brief.\n\nDeià remains one of the Mediterranean's most rarefied villages, anchored by Belmond's La Residencia and the year-round community of artists and writers. A defining piece of inventory for the buyer who values discretion above all."
+        },
+        "it": {
+          "title": "Deià: villa in pietra fronte mare con accesso a cala privata",
+          "description_short": "Villa in pietra restaurata di 410 m² su un terreno di 3.500 m² sopra Cala Deià, con sentiero privato per la cala e vista panoramica sulla Tramuntana.",
+          "description_long": "Su una terrazza esposta a sud sopra Cala Deià, questa villa in pietra di 410 m² occupa una delle posizioni più ambite della costa occidentale di Mallorca. Il terreno di 3.500 m² scende in terrazze paesaggistiche fino a un cancello privato che si apre sul sentiero per Cala Deià, a sei minuti a piedi.\n\nLa villa è stata restaurata nel 2018 da uno studio maiorchino di primo piano. I muri originali in pietra, le travi in castagno e i pavimenti in cotto sono stati conservati; l'intervento contemporaneo si è concentrato sulla cucina, sui bagni e su un salone esteso esposto a sud che si apre interamente su una terrazza coperta.\n\nQuattro suite sono disposte su due piani. La principale occupa l'ala ovest del piano superiore, con terrazza privata, cabina armadio e bagno en-suite rivestito in pietra affacciato sulla baia. Le altre tre suite godono di un mix di vista montagna e vista mare.\n\nUna piscina in acqua salata di 14 metri occupa la terrazza principale, circondata da ulivi, mandorli e agrumi maturi. Una pool house con cucina estiva e doccia esterna estende lo spazio conviviale. Un garage coperto a due posti e uno studio per il personale separato di 32 m² completano il programma.\n\nDeià resta uno dei villaggi più rarefatti del Mediterraneo, sostenuto da La Residencia di Belmond e dalla comunità tutto l'anno di artisti e scrittori. Un pezzo identitario per l'acquirente che mette la discrezione al primo posto."
+        },
+        "es": {
+          "title": "Deià: villa de piedra frente al mar con acceso a cala privada",
+          "description_short": "Villa de piedra restaurada de 410 m² sobre parcela de 3.500 m² por encima de Cala Deià, con sendero privado a la cala y vistas panorámicas a la Tramuntana.",
+          "description_long": "Sobre una terraza orientada al sur por encima de Cala Deià, esta villa de piedra de 410 m² ocupa una de las posiciones más codiciadas de la costa oeste de Mallorca. La parcela de 3.500 m² desciende en terrazas paisajísticas hasta una cancela privada que se abre al sendero hacia Cala Deià, a seis minutos a pie.\n\nLa villa fue restaurada en 2018 por un destacado estudio mallorquín. Los muros originales de piedra, las vigas de castaño y los suelos de barro cocido se han conservado; la intervención contemporánea se ha concentrado en la cocina, los baños y un salón ampliado orientado al sur que se abre por completo a una terraza cubierta.\n\nCuatro suites se distribuyen en dos plantas. La principal ocupa el ala oeste de la planta superior, con terraza privada, vestidor y baño en suite revestido en piedra asomado a la bahía. Las otras tres suites disfrutan de una mezcla de vistas a la montaña y al mar.\n\nUna piscina de agua salada de 14 metros se sitúa en la terraza principal, rodeada de olivos, almendros y cítricos maduros. Una pool house con cocina de verano y ducha exterior amplía la zona de recepción. Un garaje cubierto para dos coches y un estudio independiente para el personal de 32 m² completan el programa.\n\nDeià sigue siendo uno de los pueblos más rarificados del Mediterráneo, articulado por La Residencia de Belmond y por su comunidad activa todo el año de artistas y escritores. Una pieza identitaria para el comprador que coloca la discreción por encima de todo."
+        }
+      }
     }
   ],
   "london": [
@@ -787,7 +1127,24 @@
         "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=1600&q=80",
         "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Shad Thames: warehouse one-bed with river view",
+          "description_short": "Converted warehouse one-bedroom apartment in Shad Thames, with Thames-facing window and direct walk to Tower Bridge.",
+          "description_long": "Within a 19th-century spice warehouse converted in the early 1990s, this 52 m² one-bedroom apartment occupies a corner of the third floor, with a full-height Crittall window facing directly onto the Thames and Tower Bridge in the middle distance.\n\nThe living-kitchen runs the full depth of the apartment, with the original cast-iron columns and exposed brick walls retained. The kitchen, refurbished in 2023, is finished in matt black cabinetry and a quartzite-topped peninsula. The bedroom, with built-in oak wardrobes, enjoys a quiet courtyard exposure; the bathroom is recently refitted in honed travertine with a walk-in shower.\n\nBuilding amenities include a 24-hour porter, secure cycle storage and a riverside courtyard. London Bridge station is six minutes on foot, delivering the City in two stops and Canary Wharf in eight via the Jubilee Line.\n\nShad Thames offers a working community of restaurants, design galleries (the Design Museum sits at one end of the strip) and a riverside walk that connects to Borough Market in fifteen minutes.\n\nA characterful entry into Zone 1 ownership for a first-time premium buyer or an investor seeking a high-quality short-let asset."
+        },
+        "it": {
+          "title": "Shad Thames: monocamera in warehouse con vista sul fiume",
+          "description_short": "Monocamera ricavato da un warehouse di Shad Thames, con finestra affacciata sul Tamigi e Tower Bridge a pochi passi.",
+          "description_long": "All'interno di un magazzino ottocentesco delle spezie, riconvertito nei primi anni '90, questo monocamera di 52 m² occupa un angolo del terzo piano, con un'ampia finestra Crittall a tutta altezza che si affaccia direttamente sul Tamigi e su Tower Bridge in lontananza.\n\nIl salone-cucina corre per tutta la profondità dell'appartamento, conservando le colonne originali in ghisa e i muri in mattoni a vista. La cucina, rinnovata nel 2023, è finita in laccato nero opaco con un'isola dal piano in quarzite. La camera, con armadi a muro in rovere, gode di un'esposizione tranquilla sul cortile; il bagno è stato recentemente rifatto in travertino levigato con doccia walk-in.\n\nI servizi dell'edificio includono portineria 24 ore, deposito biciclette sicuro e un cortile fronte fiume. La stazione di London Bridge è a sei minuti a piedi, raggiungendo la City in due fermate e Canary Wharf in otto via Jubilee Line.\n\nShad Thames offre una comunità viva di ristoranti, gallerie di design (il Design Museum si trova a un'estremità del lungofiume) e una passeggiata fluviale che porta a Borough Market in quindici minuti.\n\nUn ingresso ricco di carattere nella proprietà in Zone 1 per un primo acquirente premium o per un investitore in cerca di un asset short-let di alta qualità."
+        },
+        "es": {
+          "title": "Shad Thames: estudio en warehouse con vistas al Támesis",
+          "description_short": "Apartamento de un dormitorio en warehouse reconvertida en Shad Thames, con ventana al Támesis y paseo directo hasta Tower Bridge.",
+          "description_long": "Dentro de un almacén de especias del siglo XIX, reconvertido a principios de los noventa, este apartamento de un dormitorio de 52 m² ocupa una esquina de la tercera planta, con una ventana Crittall a doble altura que mira directamente al Támesis y a Tower Bridge en el plano medio.\n\nEl salón-cocina recorre toda la profundidad de la vivienda, conservando las columnas originales de hierro fundido y los muros de ladrillo visto. La cocina, renovada en 2023, está acabada en lacado negro mate con península de encimera de cuarcita. El dormitorio, con armarios empotrados de roble, disfruta de orientación tranquila al patio; el baño se ha reformado recientemente en travertino pulido con ducha walk-in.\n\nLos servicios del edificio incluyen portería 24 horas, aparcamiento seguro para bicicletas y un patio frente al río. La estación de London Bridge queda a seis minutos a pie, alcanzando la City en dos paradas y Canary Wharf en ocho por la Jubilee Line.\n\nShad Thames ofrece una comunidad viva de restaurantes, galerías de diseño (el Design Museum se encuentra en un extremo del paseo) y una ruta fluvial que conecta con Borough Market en quince minutos.\n\nUna entrada con carácter en una vivienda en Zone 1 para un primer comprador premium o un inversor que busque un activo short-let de alta calidad."
+        }
+      }
     },
     {
       "id_suggested": "london-islington-georgian-2bed-1184",
@@ -824,7 +1181,24 @@
         "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1600&q=80",
         "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Islington: Georgian garden-flat with private patio",
+          "description_short": "Garden-floor two-bedroom apartment in a Georgian terrace off Upper Street, with private 8 m² patio and original cornicing.",
+          "description_long": "On a tree-lined Georgian terrace fifty yards from Upper Street, this 78 m² garden-floor apartment occupies the lower-ground and patio of a Grade II-listed property. The conversion has been sensitive: original cornicing, restored sash windows and a classic black-and-white encaustic tile floor in the entrance hall.\n\nThe living-dining room of 28 m² runs the full width of the apartment at the rear, opening through french doors onto a private patio of 8 m². The patio is east-facing, planted with established ferns and bamboo, and offers genuine privacy from the neighbouring gardens.\n\nThe kitchen is fitted in cream Shaker-style cabinetry with a stone-topped peninsula. Two bedrooms occupy the front of the apartment; the principal accommodates a king bed with built-in wardrobes, while the second is currently configured as a study. A single full bathroom is finished in honed marble.\n\nThe building shares a freehold; the apartment includes a 999-year lease, a residents-association car-share access and direct entry to Cross Street.\n\nUpper Street, Camden Passage antique market and Highbury & Islington station are all within a five-minute radius. A confident entry into one of Zone 1's most reliably appreciating residential addresses."
+        },
+        "it": {
+          "title": "Islington: garden-flat georgiano con patio privato",
+          "description_short": "Bilocale al piano giardino in una schiera georgiana a due passi da Upper Street, con patio privato di 8 m² e cornici originali.",
+          "description_long": "Su una schiera georgiana alberata a cinquanta metri da Upper Street, questo appartamento di 78 m² al piano giardino occupa il livello rialzato e il patio di un immobile Grade II-listed. La riconversione è stata sensibile: cornici originali, finestre a ghigliottina restaurate e un classico pavimento in piastrelle encaustiche bianco e nero nell'ingresso.\n\nIl salone-pranzo di 28 m² corre per tutta la larghezza dell'appartamento sul retro, aprendosi attraverso porte-finestre su un patio privato di 8 m². Il patio è esposto a est, piantumato con felci e bambù maturi, e offre una privacy reale rispetto ai giardini confinanti.\n\nLa cucina è realizzata in mobili Shaker color crema con isola dal piano in pietra. Due camere occupano la parte anteriore dell'appartamento; la principale accoglie un letto king con armadi a muro, mentre la seconda è oggi configurata come studio. Un unico bagno completo è finito in marmo levigato.\n\nL'edificio condivide il freehold; l'appartamento include un contratto di locazione lunga (999 anni), l'accesso al servizio di car-share dei residenti e l'ingresso diretto su Cross Street.\n\nUpper Street, il mercato dell'antiquariato di Camden Passage e la stazione di Highbury & Islington si trovano nel raggio di cinque minuti. Un ingresso sicuro in uno degli indirizzi residenziali di Zone 1 a più costante rivalutazione."
+        },
+        "es": {
+          "title": "Islington: garden flat georgiano con patio privado",
+          "description_short": "Apartamento de dos dormitorios en planta jardín en una terraza georgiana junto a Upper Street, con patio privado de 8 m² y molduras originales.",
+          "description_long": "En una terraza georgiana arbolada a cincuenta metros de Upper Street, este apartamento de 78 m² en planta jardín ocupa el lower-ground y el patio de una propiedad Grade II-listed. La rehabilitación ha sido sensible: molduras originales, ventanas de guillotina restauradas y un suelo clásico de baldosa encáustica blanco y negro en el recibidor.\n\nEl salón-comedor de 28 m² recorre todo el ancho del piso por la parte trasera, abriéndose mediante puertas francesas a un patio privado de 8 m². El patio, orientado al este, está plantado con helechos y bambú maduros y ofrece una privacidad real frente a los jardines colindantes.\n\nLa cocina está ejecutada en mobiliario Shaker color crema con península de encimera de piedra. Dos dormitorios se sitúan en el frente del piso; el principal acomoda cama king con armarios empotrados, mientras que el segundo se utiliza hoy como despacho. Un único baño completo está acabado en mármol pulido.\n\nEl edificio comparte el freehold; el piso incluye un leasehold de 999 años, acceso al servicio de coche compartido para residentes y entrada directa a Cross Street.\n\nUpper Street, el mercado de antigüedades de Camden Passage y la estación de Highbury & Islington quedan a cinco minutos. Una entrada sólida en una de las direcciones residenciales más estables y revalorizables de Zone 1."
+        }
+      }
     },
     {
       "id_suggested": "london-canada-water-newbuild-2bed-3354",
@@ -861,7 +1235,24 @@
         "https://images.unsplash.com/photo-1556020685-ae41abfc9365?w=1600&q=80",
         "https://images.unsplash.com/photo-1521334884684-d80222895322?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Canada Water: new-build two-bed with dock view",
+          "description_short": "Two-bedroom new-build apartment on Canada Dock, with private balcony, residents' gym and 24-hour concierge.",
+          "description_long": "On the eighth floor of a 2023-completed residential tower facing Canada Dock, this 70 m² two-bedroom apartment is offered with a balance of the developer's ten-year build warranty and a current EPC rating of A.\n\nThe living-kitchen runs across the south-east facade, with floor-to-ceiling glazing that opens onto a 6 m² private balcony with direct view onto the dock and the Canary Wharf skyline beyond. The kitchen is fully integrated, finished in matt grey lacquer and a stone-topped peninsula; the appliances are by a German premium brand.\n\nBoth bedrooms enjoy fitted wardrobes; the principal includes an en-suite shower room finished in marble-effect porcelain. A second family bathroom and a discreet utility cupboard complete the layout. Underfloor heating and mechanical ventilation with heat recovery (MVHR) are installed throughout.\n\nThe building offers a 24-hour concierge, residents-only gym, communal landscaped roof terrace, secure cycle storage and a single allocated underground parking space.\n\nCanada Water Underground station (Jubilee, Overground) is six minutes on foot. Canary Wharf is reachable in four minutes, the City in twelve. A turnkey new-build asset for the buyer who values low maintenance and high transport connectivity."
+        },
+        "it": {
+          "title": "Canada Water: bilocale di nuova costruzione con vista sul dock",
+          "description_short": "Appartamento di nuova costruzione con due camere su Canada Dock, con balcone privato, palestra riservata ai residenti e concierge 24 ore.",
+          "description_long": "All'ottavo piano di una torre residenziale completata nel 2023 affacciata su Canada Dock, questo appartamento di 70 m² con due camere è proposto con il residuo della garanzia di costruzione decennale dello sviluppatore e una classe energetica A.\n\nIl salone-cucina corre lungo la facciata sud-est, con vetrate a tutta altezza che si aprono su un balcone privato di 6 m² con vista diretta sul dock e sullo skyline di Canary Wharf oltre. La cucina è completamente integrata, finita in laccato grigio opaco con isola dal piano in pietra; gli elettrodomestici sono di un marchio premium tedesco.\n\nEntrambe le camere sono dotate di armadi a muro; la principale comprende un bagno en-suite con doccia rifinito in gres effetto marmo. Un secondo bagno di famiglia e un armadio tecnico discreto completano la planimetria. Riscaldamento a pavimento e ventilazione meccanica con recupero di calore (MVHR) sono installati in tutti gli ambienti.\n\nL'edificio offre concierge 24 ore, palestra riservata ai residenti, terrazza comune piantumata sul tetto, deposito biciclette sicuro e un posto auto assegnato nel parcheggio interrato.\n\nLa stazione di Canada Water (Jubilee, Overground) è a sei minuti a piedi. Canary Wharf si raggiunge in quattro minuti, la City in dodici. Un asset di nuova costruzione chiavi in mano per l'acquirente che dà valore alla bassa manutenzione e all'elevata connettività."
+        },
+        "es": {
+          "title": "Canada Water: piso de obra nueva de dos dormitorios con vistas al dock",
+          "description_short": "Apartamento de obra nueva de dos dormitorios sobre Canada Dock, con balcón privado, gimnasio para residentes y conserjería 24 horas.",
+          "description_long": "En la octava planta de una torre residencial finalizada en 2023 frente a Canada Dock, este apartamento de 70 m² con dos dormitorios se ofrece con el remanente de la garantía decenal de la promotora y una calificación energética A.\n\nEl salón-cocina recorre la fachada sureste, con acristalamiento de suelo a techo que se abre a un balcón privado de 6 m² con vista directa al dock y al skyline de Canary Wharf más allá. La cocina, totalmente integrada, está acabada en lacado gris mate con península de encimera de piedra; los electrodomésticos son de una marca premium alemana.\n\nAmbos dormitorios cuentan con armarios empotrados; el principal incluye baño en suite con ducha acabado en gres efecto mármol. Un segundo baño familiar y un cuarto técnico discreto completan la planta. Suelo radiante y ventilación mecánica con recuperación de calor (MVHR) están instalados en toda la vivienda.\n\nEl edificio ofrece conserjería 24 horas, gimnasio para residentes, terraza ajardinada comunitaria en cubierta, aparcamiento seguro para bicicletas y una plaza de garaje subterránea asignada.\n\nLa estación de Canada Water (Jubilee, Overground) queda a seis minutos a pie. Canary Wharf se alcanza en cuatro minutos y la City en doce. Un activo de obra nueva llave en mano para el comprador que valora bajo mantenimiento y alta conectividad."
+        }
+      }
     },
     {
       "id_suggested": "london-fulham-victorian-3bed-7833",
@@ -898,7 +1289,24 @@
         "https://images.unsplash.com/photo-1505873242700-f289a29e1e0f?w=1600&q=80",
         "https://images.unsplash.com/photo-1551776235-dde6d482980b?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Fulham: Victorian three-bed family house with garden",
+          "description_short": "Three-bedroom Victorian terraced house with 28 m² rear garden, off Bishop's Park, in a recognised primary school catchment.",
+          "description_long": "On a quiet residential street five minutes' walk from Bishop's Park, this 108 m² Victorian terraced house offers a complete family proposition in Fulham's most desirable school catchment.\n\nThe ground floor opens onto a classic double reception of 36 m², with restored sash windows, original cornicing and a wood-burning fireplace at one end. The room flows into a rear kitchen-dining that extends through a 2015 side-return extension; french doors open onto a private 28 m² west-facing garden.\n\nThe first floor accommodates the principal bedroom (accommodating a king bed) and a second double bedroom, sharing a recently refitted family bathroom in honed limestone. The second floor accommodates a third bedroom and a studio room currently used as a home office.\n\nThe property is freehold, with EPC C and the gas central heating boiler replaced in 2022. The owners have lived here for nine years; the house is presented in good condition, with potential for a loft conversion (subject to planning) that could deliver a fourth bedroom.\n\nPutney Bridge Underground (District Line) is six minutes on foot; the Thames Path runs along the southern edge of Bishop's Park. A confident, honest piece of family inventory in a market that continues to compress on supply."
+        },
+        "it": {
+          "title": "Fulham: casa di famiglia vittoriana di tre camere con giardino",
+          "description_short": "Casa a schiera vittoriana di tre camere con giardino di 28 m² sul retro, vicino a Bishop's Park e in un bacino scolastico primario riconosciuto.",
+          "description_long": "Su una via residenziale silenziosa a cinque minuti a piedi da Bishop's Park, questa casa a schiera vittoriana di 108 m² offre una proposta famiglia completa nel bacino scolastico più ambito di Fulham.\n\nIl piano terra si apre su un classico doppio salone di 36 m², con finestre a ghigliottina restaurate, cornici originali e un camino a legna a un'estremità. La stanza si fonde con una cucina-pranzo sul retro estesa grazie a un'aggiunta laterale del 2015; porte-finestre si aprono su un giardino privato di 28 m² esposto a ovest.\n\nIl primo piano ospita la camera principale (con letto king-size) e una seconda camera doppia, condividendo un bagno di famiglia recentemente rifatto in pietra calcarea levigata. Il secondo piano ospita una terza camera e una stanza-studio attualmente utilizzata come home office.\n\nL'immobile è freehold, con EPC C e caldaia a gas sostituita nel 2022. I proprietari vi abitano da nove anni; la casa si presenta in buone condizioni, con potenziale per la conversione del sottotetto (previa approvazione urbanistica) che potrebbe portare a una quarta camera.\n\nLa metropolitana di Putney Bridge (District Line) è a sei minuti a piedi; il Thames Path corre lungo il margine sud di Bishop's Park. Un pezzo onesto e sicuro di inventario famiglia in un mercato che continua a stringersi sull'offerta."
+        },
+        "es": {
+          "title": "Fulham: casa familiar victoriana de tres dormitorios con jardín",
+          "description_short": "Casa adosada victoriana de tres dormitorios con jardín trasero de 28 m², junto a Bishop's Park, dentro de un catchment de primaria reconocido.",
+          "description_long": "En una tranquila calle residencial a cinco minutos a pie de Bishop's Park, esta casa adosada victoriana de 108 m² ofrece una propuesta familiar completa en el catchment escolar más codiciado de Fulham.\n\nLa planta baja da paso a un clásico doble salón de 36 m², con ventanas de guillotina restauradas, molduras originales y chimenea de leña en un extremo. La sala se funde con una cocina-comedor trasera ampliada gracias a una extensión lateral de 2015; puertas francesas se abren a un jardín privado de 28 m² orientado al oeste.\n\nLa primera planta acoge el dormitorio principal (con cama king) y un segundo dormitorio doble, que comparten un baño familiar recientemente reformado en piedra caliza pulida. La segunda planta acoge un tercer dormitorio y un cuarto-estudio utilizado actualmente como home office.\n\nLa propiedad es freehold, con EPC C y caldera de gas sustituida en 2022. Los propietarios viven aquí desde hace nueve años; la casa se presenta en buen estado, con potencial para una conversión del ático (sujeta a licencia) que podría aportar un cuarto dormitorio.\n\nLa estación de metro de Putney Bridge (District Line) queda a seis minutos a pie; el Thames Path discurre por el límite sur de Bishop's Park. Una pieza honesta y sólida de inventario familiar en un mercado que sigue comprimiendo la oferta."
+        }
+      }
     },
     {
       "id_suggested": "london-marylebone-mansion-2bed-5544",
@@ -935,7 +1343,24 @@
         "https://images.unsplash.com/photo-1551361415-69c87624334f?w=1600&q=80",
         "https://images.unsplash.com/photo-1469022563428-aa04fef9f5a2?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Marylebone: mansion-block two-bed with porter",
+          "description_short": "Two-bedroom mansion-block apartment off Marylebone High Street, with original parquet, porter service and 24-hour caretaker.",
+          "description_long": "On the third floor of a celebrated Edwardian mansion block off Marylebone High Street, this 95 m² apartment is presented in excellent condition following a 2023 refurbishment that respected the building's original detail. The reception is double-aspect, with restored herringbone parquet, original cornicing and full-height casement windows that face onto a quiet residential street.\n\nThe kitchen is a separate, fully fitted room finished in cream cabinetry and a quartz-topped peninsula. Two bedrooms occupy the rear of the apartment; the principal accommodates a king bed with bespoke fitted wardrobes and an en-suite shower room in honed limestone. A second family bathroom serves the smaller bedroom.\n\nThe mansion block offers a 24-hour caretaker, lift access, secure cycle storage and a planted communal courtyard. The lease is 989 years remaining; the service charge and ground rent are presented as moderate for the postcode.\n\nMarylebone High Street, the Wallace Collection and Regent's Park are all within a five-minute walk. Bond Street (Elizabeth Line, Central, Jubilee) is six minutes on foot.\n\nA confident, traditional piece of Marylebone inventory for a downsizer, a pied-à-terre buyer or an international owner seeking a low-maintenance Zone 1 asset."
+        },
+        "it": {
+          "title": "Marylebone: bilocale in mansion-block con portineria",
+          "description_short": "Bilocale in un mansion-block a pochi passi da Marylebone High Street, con parquet originale, servizio porter e custode 24 ore.",
+          "description_long": "Al terzo piano di un celebre mansion-block edoardiano a pochi passi da Marylebone High Street, questo appartamento di 95 m² si presenta in eccellenti condizioni a seguito di una ristrutturazione del 2023 rispettosa dei dettagli originali dell'edificio. Il salone è a doppia esposizione, con parquet originale a spina di pesce restaurato, cornici originali e finestre a tutta altezza affacciate su una via residenziale silenziosa.\n\nLa cucina è una stanza separata, completamente attrezzata, finita in mobili crema con isola dal piano in quarzo. Due camere occupano il retro dell'appartamento; la principale accoglie un letto king-size con armadi a muro su misura e un bagno en-suite con doccia in pietra calcarea levigata. Un secondo bagno di famiglia serve la camera più piccola.\n\nIl mansion-block offre custode 24 ore, ascensore, deposito biciclette sicuro e un cortile comune piantumato. La durata residua del lease è di 989 anni; le spese condominiali e il ground rent sono presentati come moderati per la zona.\n\nMarylebone High Street, la Wallace Collection e Regent's Park si trovano nel raggio di cinque minuti a piedi. Bond Street (Elizabeth Line, Central, Jubilee) è a sei minuti.\n\nUn pezzo solido e tradizionale di inventario di Marylebone per chi cerca un downsize, per un acquirente di pied-à-terre o per un proprietario internazionale alla ricerca di un asset Zone 1 a bassa manutenzione."
+        },
+        "es": {
+          "title": "Marylebone: piso en mansion block de dos dormitorios con portero",
+          "description_short": "Apartamento de dos dormitorios en mansion block junto a Marylebone High Street, con parquet original, servicio de portero y conserje 24 horas.",
+          "description_long": "En la tercera planta de un célebre mansion block eduardiano a pocos pasos de Marylebone High Street, este apartamento de 95 m² se presenta en excelente estado tras una reforma de 2023 respetuosa con el detalle original del edificio. El salón es de doble orientación, con parquet original en espiga restaurado, molduras de época y ventanas de altura completa asomadas a una tranquila calle residencial.\n\nLa cocina es una sala independiente totalmente equipada, acabada en mobiliario crema con península de encimera de cuarzo. Dos dormitorios ocupan la parte trasera del piso; el principal acomoda cama king con armarios a medida y baño en suite con ducha en piedra caliza pulida. Un segundo baño familiar da servicio al dormitorio menor.\n\nEl mansion block cuenta con conserje 24 horas, ascensor, aparcamiento seguro para bicicletas y un patio comunitario ajardinado. Quedan 989 años de leasehold; el service charge y el ground rent se presentan como moderados para la zona.\n\nMarylebone High Street, la Wallace Collection y Regent's Park están a cinco minutos a pie. Bond Street (Elizabeth Line, Central, Jubilee) queda a seis minutos.\n\nUna pieza sólida y tradicional de inventario en Marylebone para un downsizer, un comprador de pied-à-terre o un propietario internacional que busque un activo de bajo mantenimiento en Zone 1."
+        }
+      }
     },
     {
       "id_suggested": "london-notting-hill-mews-3bed-6680",
@@ -972,7 +1397,24 @@
         "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=1600&q=80",
         "https://images.unsplash.com/photo-1567016432779-094069958ea5?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Notting Hill: cobbled mews three-bed with garage",
+          "description_short": "Three-bedroom mews house on a private cobbled lane, with integral garage, roof terrace and walk to Portobello Road.",
+          "description_long": "On a private cobbled mews lane off Hippodrome Place, this 130 m² mews house offers a freehold proposition rare to the postcode: three bedrooms, integral garage and a 14 m² roof terrace with views over the Notting Hill rooftops.\n\nThe ground floor accommodates the integral garage, a utility cupboard and a guest bedroom currently configured as a media room. The first floor is configured as the principal living level: an open-plan kitchen-dining-living of 42 m² that runs the full footprint of the house, with skylight glazing over the kitchen and french doors opening onto a small Juliet balcony.\n\nThe second floor accommodates the principal bedroom with an en-suite shower room and a substantial bespoke dressing area, plus a second double bedroom and a family bathroom finished in honed marble.\n\nA staircase from the second floor leads up to a private 14 m² roof terrace, professionally landscaped with low planters, an outdoor shower and seating for six.\n\nThe property is freehold, with a 2018 full refurbishment by a recognised Notting Hill studio. EPC C; gas central heating; air-conditioning to the principal bedroom and living level.\n\nPortobello Road market, the Electric Cinema and Holland Park are all within a five-minute walk. Notting Hill Gate Underground is seven minutes on foot."
+        },
+        "it": {
+          "title": "Notting Hill: mews di tre camere su strada acciottolata con garage",
+          "description_short": "Mews house di tre camere su una via acciottolata privata, con garage integrato, terrazza sul tetto e Portobello Road a distanza pedonale.",
+          "description_long": "Su una mews acciottolata privata laterale a Hippodrome Place, questa mews di 130 m² offre una proposta freehold rara per la zona: tre camere, garage integrato e una terrazza sul tetto di 14 m² affacciata sui tetti di Notting Hill.\n\nIl piano terra ospita il garage integrato, un ripostiglio tecnico e una camera ospiti oggi configurata come media room. Il primo piano è il livello giorno principale: una cucina-pranzo-salone open space di 42 m² che corre per tutta la planimetria della casa, con un lucernario sopra la cucina e porte-finestre che si aprono su un piccolo balconcino alla francese.\n\nIl secondo piano ospita la camera principale con bagno en-suite con doccia e una sostanziosa zona spogliatoio su misura, oltre a una seconda camera matrimoniale e a un bagno di famiglia rifinito in marmo levigato.\n\nUna scala dal secondo piano sale alla terrazza privata di 14 m², paesaggisticamente progettata con fioriere basse, una doccia esterna e sedute per sei persone.\n\nL'immobile è freehold, con una ristrutturazione integrale del 2018 a cura di uno studio riconosciuto di Notting Hill. EPC C; riscaldamento centralizzato a gas; aria condizionata nella camera principale e nel piano giorno.\n\nIl mercato di Portobello Road, l'Electric Cinema e Holland Park si trovano nel raggio di cinque minuti a piedi. Notting Hill Gate Underground è a sette minuti."
+        },
+        "es": {
+          "title": "Notting Hill: mews de tres dormitorios en calle adoquinada con garaje",
+          "description_short": "Mews house de tres dormitorios en callejuela adoquinada privada, con garaje integrado, terraza en cubierta y a un paseo de Portobello Road.",
+          "description_long": "En una mews adoquinada privada que parte de Hippodrome Place, esta mews house de 130 m² ofrece una propuesta freehold poco habitual en el código postal: tres dormitorios, garaje integrado y una terraza en cubierta de 14 m² con vistas a los tejados de Notting Hill.\n\nLa planta baja acoge el garaje integrado, un cuarto técnico y un dormitorio de invitados utilizado actualmente como sala multimedia. La primera planta es el nivel principal de día: una cocina-comedor-salón en planta abierta de 42 m² que recorre toda la huella de la casa, con lucernario sobre la cocina y puertas francesas que se abren a un pequeño balcón francés.\n\nLa segunda planta acoge el dormitorio principal con baño en suite con ducha y un amplio vestidor a medida, además de un segundo dormitorio doble y un baño familiar acabado en mármol pulido.\n\nUna escalera desde la segunda planta asciende a la terraza privada de 14 m², paisajísticamente diseñada con jardineras bajas, ducha exterior y asientos para seis.\n\nLa propiedad es freehold, con reforma integral en 2018 a cargo de un reconocido estudio de Notting Hill. EPC C; calefacción central de gas; aire acondicionado en el dormitorio principal y en el nivel de día.\n\nEl mercado de Portobello Road, el Electric Cinema y Holland Park están a cinco minutos a pie. Notting Hill Gate Underground queda a siete minutos a pie."
+        }
+      }
     },
     {
       "id_suggested": "london-clerkenwell-loft-2bed-9929",
@@ -1009,7 +1451,24 @@
         "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1600&q=80",
         "https://images.unsplash.com/photo-1565182999561-18d7dc61c393?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Clerkenwell: warehouse loft two-bed with private terrace",
+          "description_short": "Spectacular two-bedroom warehouse loft of 138 m² with private terrace, in a converted industrial building on St John Street.",
+          "description_long": "On the top floor of a sensitively converted late-Victorian warehouse on St John Street, this 138 m² duplex loft offers the prototype Clerkenwell live-work proposition: double-height ceilings, exposed steel structure, original brick walls and a private south-west-facing terrace of 16 m² accessed via an external steel staircase.\n\nThe lower level is configured as a continuous open-plan reception of 70 m², with full-height steel-framed glazing across the south facade and a separated kitchen-dining zone at one end. The kitchen is finished in matt black cabinetry, Calacatta marble and brushed brass; the reception is centred on a wood-burning stove.\n\nA cantilevered steel staircase rises to a mezzanine bedroom floor, where the principal bedroom enjoys vaulted ceilings, a bespoke walk-in dressing room and an en-suite bathroom finished in honed limestone. A second bedroom and a family shower room complete the floor.\n\nThe building offers a 24-hour caretaker, secure cycle storage and a planted communal roof terrace separate from the apartment's private terrace.\n\nFarringdon (Elizabeth Line, Thameslink, Circle, Hammersmith, Metropolitan) is six minutes on foot, delivering Canary Wharf in twelve minutes and Heathrow in thirty. Exmouth Market and Smithfield are both within five minutes.\n\nA design-forward proposition for the creative or international buyer who values architectural character."
+        },
+        "it": {
+          "title": "Clerkenwell: loft warehouse di due camere con terrazza privata",
+          "description_short": "Spettacolare loft warehouse di due camere di 138 m² con terrazza privata, in un edificio industriale riconvertito su St John Street.",
+          "description_long": "All'ultimo piano di un warehouse tardo-vittoriano sensibilmente riconvertito su St John Street, questo duplex loft di 138 m² incarna la proposta prototipica live-work di Clerkenwell: soffitti a doppia altezza, struttura in acciaio a vista, muri originali in mattoni e una terrazza privata di 16 m² esposta a sud-ovest, raggiungibile attraverso una scala in acciaio esterna.\n\nIl livello inferiore è organizzato come un salone open space continuo di 70 m², con vetrate in profilato d'acciaio a tutta altezza sulla facciata sud e una zona cucina-pranzo separata a un'estremità. La cucina è finita in laccato nero opaco, marmo Calacatta e ottone spazzolato; il salotto è incentrato su una stufa a legna.\n\nUna scala a sbalzo in acciaio sale al piano notte a soppalco, dove la camera principale gode di soffitti a volta, una cabina armadio walk-in su misura e un bagno en-suite finito in pietra calcarea levigata. Una seconda camera e un bagno di famiglia con doccia completano il piano.\n\nL'edificio offre custode 24 ore, deposito biciclette sicuro e una terrazza comune piantumata sul tetto separata da quella privata dell'appartamento.\n\nFarringdon (Elizabeth Line, Thameslink, Circle, Hammersmith, Metropolitan) è a sei minuti a piedi, raggiungendo Canary Wharf in dodici minuti e Heathrow in trenta. Exmouth Market e Smithfield sono entrambi nel raggio di cinque minuti.\n\nUna proposta design-forward per l'acquirente creativo o internazionale che dà valore al carattere architettonico."
+        },
+        "es": {
+          "title": "Clerkenwell: loft warehouse de dos dormitorios con terraza privada",
+          "description_short": "Espectacular loft warehouse de dos dormitorios de 138 m² con terraza privada, en edificio industrial reconvertido en St John Street.",
+          "description_long": "En la planta superior de un warehouse de finales del periodo victoriano cuidadosamente reconvertido en St John Street, este loft dúplex de 138 m² encarna la propuesta live-work prototípica de Clerkenwell: techos a doble altura, estructura de acero vista, muros originales de ladrillo y una terraza privada de 16 m² orientada al suroeste, accesible mediante una escalera exterior de acero.\n\nEl nivel inferior se configura como un salón en planta abierta continua de 70 m², con acristalamiento de altura completa con perfilería de acero en la fachada sur y una zona de cocina-comedor separada en un extremo. La cocina está acabada en lacado negro mate, mármol Calacatta y latón cepillado; el salón se articula en torno a una estufa de leña.\n\nUna escalera de acero en voladizo sube al altillo de noche, donde el dormitorio principal disfruta de techos abovedados, vestidor walk-in a medida y baño en suite acabado en piedra caliza pulida. Un segundo dormitorio y un baño familiar con ducha completan la planta.\n\nEl edificio cuenta con conserje 24 horas, aparcamiento seguro para bicicletas y una terraza ajardinada comunitaria en cubierta independiente de la terraza privada del piso.\n\nFarringdon (Elizabeth Line, Thameslink, Circle, Hammersmith, Metropolitan) queda a seis minutos a pie, alcanzando Canary Wharf en doce minutos y Heathrow en treinta. Exmouth Market y Smithfield están a cinco minutos.\n\nUna propuesta de fuerte impronta de diseño para el comprador creativo o internacional que valora el carácter arquitectónico."
+        }
+      }
     },
     {
       "id_suggested": "london-hampstead-victorian-4bed-4047",
@@ -1046,7 +1505,24 @@
         "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1600&q=80",
         "https://images.unsplash.com/photo-1600585152220-90363fe7e115?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Hampstead: Victorian four-bed family house with garden",
+          "description_short": "Four-bedroom Victorian semi-detached family house with 60 m² south-facing garden, a short walk from Hampstead Heath.",
+          "description_long": "On a tree-lined street one minute from the southern edge of Hampstead Heath, this 175 m² Victorian semi-detached family house has been carefully extended by the current owners and is presented in excellent condition.\n\nThe ground floor opens onto a generous entrance hall with original Minton tile floor, a double reception of 38 m² (front sitting room and rear dining room interconnected enfilade) and a 2017 side-return kitchen extension that delivers a 32 m² family-kitchen-dining at the rear. Bi-fold doors open onto a 60 m² south-facing rear garden, landscaped with mature ferns, a lawn for children and a small stone patio for dining.\n\nThe first floor accommodates the principal bedroom (en-suite shower room with bath, dressing area), two further double bedrooms and a family bathroom in honed travertine. The second floor accommodates a fourth bedroom suite (en-suite, study area) under restored eaves.\n\nThe property is freehold; EPC C; gas central heating with new boiler 2023; loft insulation 2022. The owners have lived here for fifteen years.\n\nHampstead Heath railway station is six minutes on foot, delivering King's Cross in twelve. Hampstead Underground (Northern) is eight minutes on foot. Highly regarded primary schools are within walking distance."
+        },
+        "it": {
+          "title": "Hampstead: casa di famiglia vittoriana di quattro camere con giardino",
+          "description_short": "Casa di famiglia vittoriana semi-detached di quattro camere con giardino di 60 m² esposto a sud, a pochi minuti da Hampstead Heath.",
+          "description_long": "Su una via alberata a un minuto dal margine sud di Hampstead Heath, questa casa di famiglia vittoriana semi-detached di 175 m² è stata accuratamente ampliata dagli attuali proprietari e si presenta in eccellenti condizioni.\n\nIl piano terra si apre su un generoso ingresso con pavimento originale in piastrelle Minton, un doppio salone di 38 m² (salotto frontale e sala da pranzo posteriore collegati in enfilade) e un'aggiunta laterale del 2017 che consegna una cucina-pranzo di famiglia di 32 m² sul retro. Porte a soffietto si aprono su un giardino posteriore di 60 m² esposto a sud, paesaggisticamente curato con felci mature, un prato per i bambini e un piccolo patio in pietra per la zona pranzo.\n\nIl primo piano ospita la camera principale (bagno en-suite con doccia e vasca, zona spogliatoio), altre due camere matrimoniali e un bagno di famiglia in travertino levigato. Il secondo piano ospita una quarta suite (en-suite, zona studio) sotto la copertura restaurata.\n\nL'immobile è freehold; EPC C; riscaldamento centralizzato a gas con nuova caldaia 2023; coibentazione del sottotetto 2022. I proprietari vi abitano da quindici anni.\n\nLa stazione ferroviaria di Hampstead Heath è a sei minuti a piedi, raggiungendo King's Cross in dodici. La metropolitana di Hampstead (Northern) è a otto minuti a piedi. Scuole primarie di alto livello sono a distanza pedonale."
+        },
+        "es": {
+          "title": "Hampstead: casa familiar victoriana de cuatro dormitorios con jardín",
+          "description_short": "Casa familiar victoriana semi-detached de cuatro dormitorios con jardín de 60 m² orientado al sur, a un breve paseo de Hampstead Heath.",
+          "description_long": "En una calle arbolada a un minuto del borde sur de Hampstead Heath, esta casa familiar victoriana semi-detached de 175 m² ha sido cuidadosamente ampliada por los actuales propietarios y se presenta en excelente estado.\n\nLa planta baja da paso a un generoso recibidor con suelo original de baldosa Minton, un doble salón de 38 m² (sala de estar delantera y comedor trasero conectados en enfilade) y una extensión lateral de 2017 que aporta una cocina-comedor familiar de 32 m² en la parte trasera. Puertas plegables se abren a un jardín trasero de 60 m² orientado al sur, paisajístico con helechos maduros, césped para los niños y un pequeño patio de piedra para comedor exterior.\n\nLa primera planta acoge el dormitorio principal (baño en suite con ducha y bañera, zona de vestidor), otros dos dormitorios dobles y un baño familiar en travertino pulido. La segunda planta acoge una cuarta suite (en suite, zona de estudio) bajo aleros restaurados.\n\nLa propiedad es freehold; EPC C; calefacción central de gas con caldera nueva en 2023; aislamiento del ático en 2022. Los propietarios viven aquí desde hace quince años.\n\nLa estación de Hampstead Heath queda a seis minutos a pie, alcanzando King's Cross en doce. Hampstead Underground (Northern) está a ocho minutos a pie. Colegios de primaria de alta reputación quedan a distancia caminable."
+        }
+      }
     },
     {
       "id_suggested": "london-chelsea-townhouse-5bed-2270",
@@ -1083,7 +1559,24 @@
         "https://images.unsplash.com/photo-1521334884684-d80222895322?w=1600&q=80",
         "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Cheyne Walk: river-front five-bed townhouse",
+          "description_short": "Five-bedroom Grade II-listed Georgian townhouse on Cheyne Walk, with river views, private garden and discreet 2022 restoration.",
+          "description_long": "On the most photographed stretch of Cheyne Walk, this Grade II-listed Georgian townhouse of 360 m² has just emerged from a three-year restoration led by a recognised conservation studio. The exterior facade and original sash windows have been restored to listing-grade standard; the interior balances museum-quality detailing with a discreet, fully contemporary infrastructure.\n\nThe ground floor opens onto a stone-floored entrance hall with original cornicing, a formal sitting room of 42 m² overlooking the Thames and a separate library that faces the rear garden. The kitchen-dining occupies the lower-ground floor, opening through french doors onto a 70 m² private garden landscaped with mature magnolia.\n\nThe first floor accommodates the formal drawing room (with full-height river-facing windows and a marble fireplace), plus a study and a guest cloakroom. The second floor accommodates the principal bedroom suite (river view, dressing room, en-suite bathroom in book-matched onyx). The third and fourth floors accommodate four further bedrooms, each en-suite.\n\nA lower-ground wellness suite includes a heated 8-metre pool, hammam and fitness studio. A discreet two-car off-street parking arrangement is included.\n\nThe King's Road, the Royal Hospital and Chelsea Embankment are all within a five-minute walk. Sloane Square Underground (District, Circle) is twelve minutes on foot."
+        },
+        "it": {
+          "title": "Cheyne Walk: townhouse di cinque camere fronte fiume",
+          "description_short": "Townhouse georgiano Grade II-listed di cinque camere su Cheyne Walk, con vista sul fiume, giardino privato e discreto restauro del 2022.",
+          "description_long": "Sul tratto più fotografato di Cheyne Walk, questo townhouse georgiano Grade II-listed di 360 m² è appena uscito da un restauro durato tre anni a guida di uno studio di conservazione riconosciuto. La facciata esterna e le finestre a ghigliottina originali sono state restaurate secondo gli standard del vincolo; l'interno bilancia dettagli di qualità museale con un'infrastruttura contemporanea discreta e integrale.\n\nIl piano terra si apre su un ingresso con pavimento in pietra e cornici originali, un salotto formale di 42 m² affacciato sul Tamigi e una biblioteca separata che dà sul giardino sul retro. La cucina-pranzo occupa il piano semi-interrato, aprendosi attraverso porte-finestre su un giardino privato di 70 m² piantumato con magnolie mature.\n\nIl primo piano ospita il drawing room formale (con finestre a tutta altezza affacciate sul fiume e camino in marmo), oltre a uno studio e a un guardaroba ospiti. Il secondo piano ospita la suite della camera principale (vista fiume, cabina armadio, bagno en-suite in onice book-matched). Il terzo e il quarto piano ospitano altre quattro camere, tutte en-suite.\n\nUna suite wellness al piano semi-interrato include una piscina riscaldata di 8 metri, hammam e studio fitness. È inclusa una discreta soluzione di parcheggio fuori strada per due auto.\n\nLa King's Road, il Royal Hospital e il Chelsea Embankment si trovano nel raggio di cinque minuti a piedi. Sloane Square Underground (District, Circle) è a dodici minuti a piedi."
+        },
+        "es": {
+          "title": "Cheyne Walk: townhouse de cinco dormitorios frente al río",
+          "description_short": "Townhouse georgiano Grade II-listed de cinco dormitorios en Cheyne Walk, con vistas al río, jardín privado y discreta restauración de 2022.",
+          "description_long": "En el tramo más fotografiado de Cheyne Walk, este townhouse georgiano Grade II-listed de 360 m² acaba de salir de una restauración de tres años dirigida por un reconocido estudio de conservación. La fachada exterior y las ventanas de guillotina originales se han restaurado al estándar listing; el interior equilibra detalle de calidad museística con una infraestructura contemporánea discreta y plenamente integrada.\n\nLa planta baja da paso a un recibidor con suelo de piedra y molduras originales, una sala de estar formal de 42 m² asomada al Támesis y una biblioteca independiente que mira al jardín trasero. La cocina-comedor ocupa el lower-ground, abriéndose mediante puertas francesas a un jardín privado de 70 m² plantado con magnolios maduros.\n\nLa primera planta acoge el drawing room formal (con ventanas de altura completa asomadas al río y chimenea de mármol), además de despacho y aseo de cortesía. La segunda planta acoge la suite principal (vistas al río, vestidor, baño en suite en ónice book-matched). Las plantas tercera y cuarta acogen otros cuatro dormitorios, todos en suite.\n\nUna zona wellness en lower-ground incluye piscina climatizada de 8 metros, hammam y estudio de fitness. Se incluye una discreta solución de aparcamiento fuera de calle para dos coches.\n\nKing's Road, el Royal Hospital y el Chelsea Embankment quedan a cinco minutos a pie. Sloane Square Underground (District, Circle) está a doce minutos a pie."
+        }
+      }
     },
     {
       "id_suggested": "london-mayfair-trophy-penthouse-1167",
@@ -1121,7 +1614,24 @@
         "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1600&q=80",
         "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1600&q=80"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)"
+      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "i18n": {
+        "en": {
+          "title": "Mayfair: trophy penthouse on Grosvenor Square",
+          "description_short": "Trophy penthouse of 470 m² on Grosvenor Square, with 110 m² of wrap-around terraces, private lift and 24-hour concierge.",
+          "description_long": "On the top two floors of a celebrated 1930s mansion block on the west side of Grosvenor Square, this trophy penthouse offers 470 m² of internal space, 110 m² of wrap-around terraces and an unbroken view across the gardens of Grosvenor Square to the rooflines of Berkeley Square and Hyde Park beyond.\n\nThe penthouse was acquired by the current owner in 2019 and re-imagined by a leading London designer with a brief that delivered a discreet, museum-grade interior across four reception spaces, a state kitchen and five bedroom suites.\n\nThe ground level of the penthouse opens through a private lift onto a 28 m² entrance gallery, with library, formal drawing room of 60 m² and a separate dining room. The kitchen, by an Italian boutique maker, is finished in matt lacquer and book-matched Calacatta marble; the breakfast room opens through retractable glazing onto the south terrace.\n\nThe upper level accommodates the principal bedroom suite (a dedicated 90 m² wing comprising a private sitting room, double dressing rooms and a marble bathroom with private terrace), plus four further bedroom suites.\n\nThe building offers 24-hour concierge, valet parking and a residents-only restaurant on the ground floor. A defining piece of inventory for the international buyer who values a primary trophy address."
+        },
+        "it": {
+          "title": "Mayfair: penthouse di pregio su Grosvenor Square",
+          "description_short": "Penthouse di pregio di 470 m² su Grosvenor Square, con 110 m² di terrazze perimetrali, ascensore privato e concierge 24 ore.",
+          "description_long": "Agli ultimi due piani di un celebre mansion-block degli anni '30 sul lato ovest di Grosvenor Square, questo penthouse di pregio offre 470 m² di spazi interni, 110 m² di terrazze perimetrali e una vista ininterrotta sui giardini di Grosvenor Square fino alle coperture di Berkeley Square e a Hyde Park oltre.\n\nIl penthouse è stato acquisito dall'attuale proprietario nel 2019 e reinterpretato da un designer londinese di primo piano con un brief che ha consegnato un interno discreto, di qualità museale, distribuito su quattro spazi di rappresentanza, una state kitchen e cinque suite.\n\nIl livello inferiore del penthouse si apre, attraverso un ascensore privato, su una galleria di ingresso di 28 m², con biblioteca, drawing room formale di 60 m² e sala da pranzo separata. La cucina, di un produttore boutique italiano, è finita in laccato opaco e marmo Calacatta book-matched; la breakfast room si apre attraverso vetrate retraibili sulla terrazza sud.\n\nIl livello superiore ospita la suite della camera principale (un'ala dedicata di 90 m² composta da salotto privato, due cabine armadio doppie e un bagno in marmo con terrazza privata), oltre ad altre quattro suite.\n\nL'edificio offre concierge 24 ore, parcheggio con valet e un ristorante riservato ai residenti al piano terra. Un pezzo identitario di inventario per l'acquirente internazionale che dà valore a un trophy address principale."
+        },
+        "es": {
+          "title": "Mayfair: penthouse trofeo en Grosvenor Square",
+          "description_short": "Penthouse trofeo de 470 m² en Grosvenor Square, con 110 m² de terrazas perimetrales, ascensor privado y conserjería 24 horas.",
+          "description_long": "En las dos plantas superiores de un célebre mansion block de los años 30 en el lado oeste de Grosvenor Square, este penthouse trofeo ofrece 470 m² de superficie interior, 110 m² de terrazas perimetrales y una vista ininterrumpida sobre los jardines de Grosvenor Square hasta los tejados de Berkeley Square y Hyde Park más allá.\n\nEl penthouse fue adquirido por su actual propietario en 2019 y reinterpretado por un destacado interiorista londinense con un encargo que entregó un interior discreto, de calidad museística, distribuido en cuatro espacios de recepción, una cocina de prestigio y cinco suites.\n\nEl nivel inferior del penthouse se abre, mediante ascensor privado, a una galería de entrada de 28 m², con biblioteca, drawing room formal de 60 m² y comedor independiente. La cocina, de un fabricante boutique italiano, está acabada en lacado mate y mármol Calacatta book-matched; la breakfast room se abre mediante acristalamiento retráctil a la terraza sur.\n\nEl nivel superior acoge la suite del dormitorio principal (un ala dedicada de 90 m² que comprende saloncito privado, doble vestidor y baño en mármol con terraza privada), además de otras cuatro suites.\n\nEl edificio cuenta con conserjería 24 horas, aparcamiento con valet y un restaurante para residentes en la planta baja. Una pieza identitaria de inventario para el comprador internacional que valora una dirección trofeo de primera residencia."
+        }
+      }
     }
   ]
 }

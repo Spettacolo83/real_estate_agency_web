@@ -7,6 +7,7 @@ import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
 import { NavBar } from "@/components/layout/NavBar";
 import { Footer } from "@/components/layout/Footer";
+import VoiceAgent from "@/components/VoiceAgent";
 
 const cormorant = Cormorant_Garamond({
   subsets: ["latin"],
@@ -74,6 +75,7 @@ export default async function LocaleLayout({ children, params }: Props) {
           <NavBar />
           <div className="flex-1">{children}</div>
           <Footer />
+          <VoiceAgent />
         </NextIntlClientProvider>
       </body>
     </html>
