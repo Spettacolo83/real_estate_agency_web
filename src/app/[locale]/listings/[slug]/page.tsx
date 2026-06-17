@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { setRequestLocale, getTranslations } from "next-intl/server";
@@ -7,6 +6,7 @@ import { useTranslations, useLocale } from "next-intl";
 import { Container } from "@/components/ui/Container";
 import { Eyebrow } from "@/components/ui/Eyebrow";
 import { Button } from "@/components/ui/Button";
+import { PhotoGallery } from "@/components/ui/PhotoGallery";
 import { getListingBySlug, getAllSlugs, formatPrice, getLocalizedListing } from "@/data/listings";
 import { routing } from "@/i18n/routing";
 import type { ListingCity } from "@/types/listing";
@@ -66,8 +66,6 @@ function Content({ slug }: { slug: string }) {
 
   const cityLabel = tHome(CITY_TAG_KEY[listing.cityKey]);
   const price = formatPrice(listing.price, listing.currency, locale);
-  const hero = listing.photo_urls[0];
-  const grid = listing.photo_urls.slice(1, 5);
   const rest = listing.photo_urls.slice(5);
   const localized = getLocalizedListing(listing, locale);
   const paragraphs = localized.description_long
@@ -90,38 +88,7 @@ function Content({ slug }: { slug: string }) {
 
       <section className="py-8">
         <Container width="wide">
-          <div className="grid gap-3 md:grid-cols-12 md:gap-4">
-            <div className="relative aspect-[4/3] overflow-hidden bg-[color:var(--color-hairline)] md:col-span-8 md:aspect-[16/10]">
-              {hero ? (
-                <Image
-                  src={hero}
-                  alt={localized.title}
-                  fill
-                  sizes="(min-width: 768px) 66vw, 100vw"
-                  className="object-cover"
-                  priority
-                  unoptimized
-                />
-              ) : null}
-            </div>
-            <div className="grid grid-cols-2 gap-3 md:col-span-4 md:grid-cols-2 md:gap-4">
-              {grid.map((url, i) => (
-                <div
-                  key={url}
-                  className="relative aspect-square overflow-hidden bg-[color:var(--color-hairline)]"
-                >
-                  <Image
-                    src={url}
-                    alt={`${localized.title} — ${i + 2}`}
-                    fill
-                    sizes="(min-width: 768px) 16vw, 50vw"
-                    className="object-cover"
-                    unoptimized
-                  />
-                </div>
-              ))}
-            </div>
-          </div>
+          <PhotoGallery photos={listing.photo_urls} alt={localized.title} variant="hero" />
         </Container>
       </section>
 
@@ -214,28 +181,17 @@ function Content({ slug }: { slug: string }) {
           <Container width="wide">
             <Eyebrow>{t("galleryHeading")}</Eyebrow>
             <h2
-              className="mt-4 text-3xl text-[color:var(--color-ink)] md:text-4xl"
+              className="mt-4 mb-10 text-3xl text-[color:var(--color-ink)] md:text-4xl"
               style={{ fontFamily: "var(--font-cormorant)" }}
             >
               {t("galleryTitle")}
             </h2>
-            <div className="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-              {rest.map((url, i) => (
-                <div
-                  key={url}
-                  className="relative aspect-[4/3] overflow-hidden bg-[color:var(--color-hairline)]"
-                >
-                  <Image
-                    src={url}
-                    alt={`${localized.title} — ${i + 6}`}
-                    fill
-                    sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
-                    className="object-cover"
-                    unoptimized
-                  />
-                </div>
-              ))}
-            </div>
+            <PhotoGallery
+              photos={listing.photo_urls}
+              alt={localized.title}
+              variant="grid"
+              startOffset={5}
+            />
           </Container>
         </section>
       ) : null}
