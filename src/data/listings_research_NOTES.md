@@ -1,6 +1,42 @@
-# listings_research.json — Note di compilazione (v2 — riequilibrato per tier e portali)
+# listings_research.json — Note di compilazione (v3 — Miakasa integration)
 
-Generato per la demo `casa.followtheflowai.com`. 30 immobili (10 per Milano / Mallorca / London), distribuiti su fasce di prezzo eterogenee e su 4 portali per città — esplicito ribilanciamento per supportare un pitch demo che funzioni con agenzie di **qualsiasi fascia**, non solo Sotheby's / Knight Frank.
+Generato per la demo `casa.followtheflowai.com`. 30 immobili (10 per Milano / Mallorca / London), distribuiti su fasce di prezzo eterogenee.
+
+> **v3 (Miakasa integration)**: l'array `milano` è stato sostituito con **10 immobili reali di Miakasa** (agenzia di Uboldo, VA — https://miakasa.it/), per il pitch verticale alla loro agenzia. Gli array `mallorca` e `london` restano invariati dalla v2.
+
+## Miakasa integration
+
+### Codici scelti (10/47)
+
+| Codice | Comune | Prezzo | Tipo | mq | Camere | Note |
+| ------ | ------ | ------ | ---- | -- | ------ | ---- |
+| 28042025 | Uboldo | €79.000 | Bilocale | 67 | 1 | Da ristrutturare, posto auto |
+| 05062026 | Origgio | €123.000 | Bilocale duplex | 50 | 1 | Doppi servizi, 2 balconi |
+| 07012026 | Rescaldina | €129.000 | Bilocale | 65 | 1 | Giardino 170 m², classe B |
+| 02052026 | Uboldo | €179.000 | Appartamento in villa | 124 | 1 | Giardino condiviso |
+| 26062025 | Uboldo | €227.000 | Trilocale | 95 | 2 | Box doppio, doppi servizi |
+| 13042026 | Saronno | €259.000 | Quadrilocale | 140 | 3 | Palazzina quadrifamiliare |
+| 29032026 | Caronno Pertusella | €305.000 | Duplex | 125 | 3 | Tripla esposizione, box doppio |
+| 17062026-1 | Origgio | €445.000 | Villa unifamiliare nuova | 142 | 3 | Classe A4, giardino 102 m² |
+| 29052026 | Uboldo | €435.000 | Villa singola nuova | 206 | 3 | Classe A4, taverna, giardino 150 m² |
+| 26032024 | Arzachena (Porto Cervo) | €3.250.000 | Attico | 165 | 3 | Residence Sa Cascada, vista baia |
+
+### Distribuzione effettiva
+
+- **Per fascia di prezzo**: 4 entry (≤200K) + 5 mid (200-500K) + 1 ultra-luxury (3.25M) — il mercato Miakasa è prevalentemente mid-tier con un unico trophy (Porto Cervo). Mancano deliberatamente listing 500K-1M perché Miakasa non ne ha nell'inventario corrente.
+- **Per tipologia**: 5 appartamenti (incl. 1 attico premium) + 2 villette nuove (classe A4) + 2 case indipendenti/duplex + 1 villa
+- **Per comune**: Uboldo ×4 (core market dell'agenzia), Origgio ×2, Saronno ×1, Caronno Pertusella ×1, Rescaldina ×1, Porto Cervo ×1 (trophy/satellite). Tutte le località principali della provincia di Milano nord-ovest sono rappresentate.
+
+### Foto e note legali
+
+- **Photos**: tutte hotlinked dalla CDN Miakasa (`static3.agimonline.com`). 8 foto per listing (cover + 7 interni/esterni). **Tutte le 10 cover HEAD-verificate 200 OK** prima del salvataggio.
+- **Note legale demo**: hotlinking dalla CDN Miakasa è accettabile per dimostrare il sito DIRETTAMENTE all'agenzia (i loro stessi immobili → loro stesso brand → loro stessa CDN). Per qualsiasi uso pubblico/produzione si dovrà ottenere consenso esplicito Miakasa o scaricare le foto e ospitarle su CDN propria (R2/Cloudflare) con accordo scritto.
+- **Descrizioni**: completamente riscritte in stile boutique editorial CasAI (i descrittivi originali Miakasa contenevano firma agenzia, numeri WhatsApp e CTA che sono stati rimossi). I dati base (m², camere, prezzo, classe energetica, indirizzo approssimativo) sono accurati e tratti dalla scheda originale.
+- **Coordinate**: centro del comune o quartiere, non geocoding preciso del civico (sufficiente per mappa demo).
+
+---
+
+## v2 baseline (Mallorca + London invariate)
 
 ## Distribuzione finale per tier × città
 

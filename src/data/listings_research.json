@@ -1,546 +1,588 @@
 {
-  "generated_at": "2026-06-16T21:46:25.612904+00:00",
+  "generated_at": "2026-06-17T22:40:11.145231+00:00",
   "milano": [
     {
-      "id_suggested": "milano-navigli-loft-1bed-2104",
-      "source_url": "https://www.immobiliare.it/vendita-case/milano/",
-      "source_portal": "immobiliare.it",
-      "city": "Milano",
-      "neighborhood": "Navigli",
-      "address_approx": "Ripa di Porta Ticinese, Navigli",
-      "title": "Navigli canal-side loft with private terrace",
-      "description_short": "Designer one-bed loft on the Naviglio Grande, with private terrace and exposed brick walls. The most cinematic stretch of Milan's waterway.",
-      "description_long": "On a quiet stretch of the Naviglio Grande, this one-bedroom loft occupies the upper floor of a sensitively restored 19th-century warehouse. The original masonry has been brought back, paired with a black steel staircase that signals the building's industrial provenance.\n\nThe living area runs the full width of the property, opening onto a south-facing terrace of 12 m² where the canal lies just beyond the parapet. A compact eat-in kitchen in dark oak and concrete sits at one end of the room; an integrated reading nook at the other.\n\nUpstairs, a mezzanine bedroom enjoys vaulted ceilings and a clean en-suite bathroom finished in micro-cement. Storage has been thought through with care, including bespoke wardrobes and a service cupboard for laundry.\n\nNavigli requires no introduction: aperitivo on the canal, the Saturday antique market and direct tram access to Duomo in twelve minutes. Porta Genova FS station is six minutes on foot.\n\nA strong, characterful piece of inventory for a young professional, a pied-à-terre buyer or an investor targeting Milan's most photographed neighbourhood.",
-      "price": 485000,
+      "id_suggested": "miakasa-uboldo-bilocale-28042025",
+      "source_url": "https://miakasa.it/SchedaImmobile.aspx?codice=28042025",
+      "source_portal": "miakasa.it",
+      "city": "Uboldo",
+      "neighborhood": "Periferia residenziale",
+      "address_approx": "Zona residenziale, Uboldo (VA)",
+      "title": "Bilocale luminoso da personalizzare con posto auto",
+      "description_short": "Bilocale di 67 m² al piano alto di una palazzina di sole cinque famiglie, in zona periferica silenziosa di Uboldo. Da ristrutturare, con posto auto privato.",
+      "description_long": "In una zona periferica e silenziosa di Uboldo, questo bilocale di 67 m² occupa il primo e ultimo piano di una palazzina di sole cinque famiglie. Il contesto, raccolto e residenziale, garantisce privacy e distanza dai rumori della città.\n\nL'appartamento si compone di una zona giorno con cucina abitabile, una camera matrimoniale, un bagno e un balcone esposto a sud. Le metrature generose dei due locali principali offrono grande libertà progettuale, consentendo soluzioni distributive personalizzate.\n\nL'esposizione favorevole assicura luce naturale costante durante tutto l'arco della giornata, rendendo gli ambienti caldi e accoglienti anche nei mesi invernali. L'immobile, da ristrutturare, rappresenta un'opportunità concreta per un acquirente che voglia firmare con il proprio gusto gli interni.\n\nCompleta la proprietà un comodo posto auto di pertinenza. Le spese condominiali contenute lo rendono particolarmente interessante per giovani coppie, single professionisti e investitori in cerca di rendimento locativo.\n\nIl prezzo a corpo finito, secondo la valutazione dell'agenzia, si attesta intorno ai 127.000 €: un capitale d'ingresso accessibile per il mercato di Uboldo, comune ben collegato a Saronno, Milano e all'asse autostradale dei laghi.",
+      "price": 79000,
       "currency": "EUR",
-      "sqm": 62,
+      "sqm": 67,
       "bedrooms": 1,
       "bathrooms": 1,
-      "property_type": "loft",
+      "property_type": "Apartment",
       "features": [
-        "canal-side",
-        "private terrace",
-        "exposed brick",
-        "mezzanine bedroom",
-        "industrial restoration",
-        "tram access"
+        "posto auto privato",
+        "ultimo piano",
+        "esposizione luminosa",
+        "palazzina di sole 5 famiglie",
+        "spese condominiali contenute",
+        "riscaldamento autonomo"
       ],
       "coordinates": {
-        "lat": 45.4524,
-        "lng": 9.1722
+        "lat": 45.6019,
+        "lng": 8.9905
       },
       "photo_urls": [
-        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600210491892-03d54c0aaf87?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=1600&q=80",
-        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1600&q=80",
-        "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1600&q=80",
-        "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?w=1600&q=80"
+        "https://static3.agimonline.com/images/4Zzo1bNTA0dO2M66MTtp8ZDox1ODk41ODtl0eHQ6canBnbO3c6dMQ==6/b/0/18988.jpg",
+        "https://static3.agimonline.com/images/4Zzo13NTA0eO2M6fMTtp5ZDox3ODk51ODtlceHQ6fanBn3O3c6eMQ==f/b/0/18998.jpg",
+        "https://static3.agimonline.com/images/4Zzo10NTA09O2M60MTtpbZDoy5MDM18ODtlaeHQ61anBn0O3c69MQ==0/b/0/20358.jpg",
+        "https://static3.agimonline.com/images/4Zzo1fNTA00O2M64MTtp3ZDox2OTAw2MDtl9eHQ6canBnfO3c60MQ==4/b/0/19000.jpg",
+        "https://static3.agimonline.com/images/4Zzo11NTA0bO2M6dMTtp2ZDoxdOTAwbMjtl1eHQ6aanBn1O3c6bMQ==d/b/0/19002.jpg",
+        "https://static3.agimonline.com/images/4Zzo19NTA08O2M66MTtpaZDoxeODk4dOTtl5eHQ6aanBn9O3c68MQ==6/b/0/18989.jpg",
+        "https://static3.agimonline.com/images/4Zzo15NTA08O2M67MTtp5ZDox1ODk42Nztl6eHQ63anBn5O3c68MQ==7/b/0/18987.jpg",
+        "https://static3.agimonline.com/images/4Zzo10NTA0fO2M65MTtp6ZDox0ODk5bMDtleeHQ64anBn0O3c6fMQ==5/b/0/18990.jpg"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "photos_source_note": "Photos hotlinked from miakasa.it (demo for the actual agency)",
       "i18n": {
         "en": {
-          "title": "Navigli canal-side loft with private terrace",
-          "description_short": "Designer one-bed loft on the Naviglio Grande, with private terrace and exposed brick walls. The most cinematic stretch of Milan's waterway.",
-          "description_long": "On a quiet stretch of the Naviglio Grande, this one-bedroom loft occupies the upper floor of a sensitively restored 19th-century warehouse. The original masonry has been brought back, paired with a black steel staircase that signals the building's industrial provenance.\n\nThe living area runs the full width of the property, opening onto a south-facing terrace of 12 m² where the canal lies just beyond the parapet. A compact eat-in kitchen in dark oak and concrete sits at one end of the room; an integrated reading nook at the other.\n\nUpstairs, a mezzanine bedroom enjoys vaulted ceilings and a clean en-suite bathroom finished in micro-cement. Storage has been thought through with care, including bespoke wardrobes and a service cupboard for laundry.\n\nNavigli requires no introduction: aperitivo on the canal, the Saturday antique market and direct tram access to Duomo in twelve minutes. Porta Genova FS station is six minutes on foot.\n\nA strong, characterful piece of inventory for a young professional, a pied-à-terre buyer or an investor targeting Milan's most photographed neighbourhood."
+          "title": "Bright Two-Room Apartment with Parking Space",
+          "description_short": "A 67 sq m two-room apartment on the top floor of a five-family building in a quiet residential pocket of Uboldo. Ready to be reimagined, with a private parking space.",
+          "description_long": "Tucked into a quiet residential pocket of Uboldo, this 67 sq m two-room apartment occupies the first and uppermost floor of a small five-family building. The setting is intimate and residential, offering privacy and a clear distance from the noise of the city.\n\nThe apartment comprises a living area with an eat-in kitchen, a master bedroom, a bathroom and a south-facing balcony. The generous proportions of the two principal rooms allow real freedom in laying out the interiors and inviting a personal vision.\n\nThe favourable orientation ensures consistent natural light throughout the day, keeping the rooms warm and welcoming even in winter. The property, currently in need of refurbishment, offers a real opportunity for a buyer who wishes to leave their own signature on the design.\n\nA convenient private parking space completes the offering. Low service charges make this a particularly attractive proposition for young couples, single professionals and investors seeking rental yield.\n\nAccording to the agency's appraisal, the fully refurbished value sits around €127,000: an accessible entry point into the Uboldo market, a town very well connected to Saronno, Milan and the lakes motorway corridor."
         },
         "it": {
-          "title": "Loft sul Naviglio Grande con terrazza privata",
-          "description_short": "Loft monocamera di design sul Naviglio Grande, con terrazza privata e pareti in mattoni a vista. Il tratto più cinematografico delle vie d'acqua milanesi.",
-          "description_long": "In un tratto silenzioso del Naviglio Grande, questo loft con una camera occupa il piano superiore di un magazzino ottocentesco oggetto di un restauro filologico. Le murature originali sono state riportate alla luce e dialogano con una scala in acciaio nero che richiama l'anima industriale dell'edificio.\n\nLa zona giorno si sviluppa per tutta la larghezza dell'appartamento e si apre su una terrazza esposta a sud di 12 m², dove il canale scorre appena oltre il parapetto. A un'estremità della stanza, una cucina compatta con tavolo in rovere scuro e cemento; all'altra, un angolo lettura integrato.\n\nAl piano superiore, una camera da letto a soppalco gode di soffitti a volta e di un bagno en-suite finito in microcemento dalle linee pulite. Lo spazio contenitivo è stato curato nel dettaglio, con armadi su misura e un vano servizi dedicato alla lavanderia.\n\nI Navigli non hanno bisogno di presentazioni: l'aperitivo lungo il canale, il mercato dell'antiquariato del sabato e il tram diretto al Duomo in dodici minuti. La stazione di Porta Genova FS è a sei minuti a piedi.\n\nUna proposta forte e ricca di carattere per un giovane professionista, per un acquirente in cerca di un pied-à-terre o per un investitore interessato al quartiere più fotografato di Milano."
+          "title": "Bilocale luminoso da personalizzare con posto auto",
+          "description_short": "Bilocale di 67 m² al piano alto di una palazzina di sole cinque famiglie, in zona periferica silenziosa di Uboldo. Da ristrutturare, con posto auto privato.",
+          "description_long": "In una zona periferica e silenziosa di Uboldo, questo bilocale di 67 m² occupa il primo e ultimo piano di una palazzina di sole cinque famiglie. Il contesto, raccolto e residenziale, garantisce privacy e distanza dai rumori della città.\n\nL'appartamento si compone di una zona giorno con cucina abitabile, una camera matrimoniale, un bagno e un balcone esposto a sud. Le metrature generose dei due locali principali offrono grande libertà progettuale, consentendo soluzioni distributive personalizzate.\n\nL'esposizione favorevole assicura luce naturale costante durante tutto l'arco della giornata, rendendo gli ambienti caldi e accoglienti anche nei mesi invernali. L'immobile, da ristrutturare, rappresenta un'opportunità concreta per un acquirente che voglia firmare con il proprio gusto gli interni.\n\nCompleta la proprietà un comodo posto auto di pertinenza. Le spese condominiali contenute lo rendono particolarmente interessante per giovani coppie, single professionisti e investitori in cerca di rendimento locativo.\n\nIl prezzo a corpo finito, secondo la valutazione dell'agenzia, si attesta intorno ai 127.000 €: un capitale d'ingresso accessibile per il mercato di Uboldo, comune ben collegato a Saronno, Milano e all'asse autostradale dei laghi."
         },
         "es": {
-          "title": "Loft a orillas del Naviglio Grande con terraza privada",
-          "description_short": "Loft de diseño de un dormitorio en el Naviglio Grande, con terraza privada y paredes de ladrillo visto. El tramo más cinematográfico de los canales de Milán.",
-          "description_long": "En un tramo tranquilo del Naviglio Grande, este loft de un dormitorio ocupa la planta superior de un almacén decimonónico rehabilitado con sensibilidad. La mampostería original ha sido recuperada y dialoga con una escalera de acero negro que recuerda el pasado industrial del edificio.\n\nLa zona de estar recorre todo el ancho de la vivienda y se abre a una terraza orientada al sur de 12 m², desde la que el canal queda apenas más allá del pretil. En un extremo de la sala, una cocina office compacta en roble oscuro y hormigón; en el otro, un rincón de lectura integrado.\n\nArriba, un dormitorio en altillo disfruta de techos abovedados y de un baño en suite acabado en microcemento, de líneas limpias. El almacenamiento se ha cuidado con detalle, con armarios a medida y un cuarto técnico dedicado a la lavandería.\n\nLos Navigli no necesitan presentación: aperitivo junto al canal, mercado de antigüedades los sábados y tranvía directo al Duomo en doce minutos. La estación de Porta Genova FS está a seis minutos andando.\n\nUn activo sólido y con carácter para un joven profesional, un comprador de pied-à-terre o un inversor centrado en el barrio más fotografiado de Milán."
+          "title": "Apartamento de dos habitaciones luminoso con plaza de aparcamiento",
+          "description_short": "Apartamento de dos ambientes de 67 m² en la planta alta de un edificio de solo cinco familias, en una zona residencial tranquila de Uboldo. A reformar, con plaza de aparcamiento privada.",
+          "description_long": "En una zona residencial tranquila de Uboldo, este apartamento de dos ambientes de 67 m² ocupa la primera y última planta de un pequeño edificio de solo cinco familias. El entorno, recogido y residencial, garantiza privacidad y distancia del ruido de la ciudad.\n\nLa vivienda se compone de una zona de día con cocina office, un dormitorio principal, un baño y un balcón orientado al sur. Las generosas proporciones de las dos estancias principales ofrecen una gran libertad de diseño, permitiendo soluciones distributivas a medida.\n\nLa orientación favorable asegura una luz natural constante a lo largo del día, manteniendo los ambientes cálidos y acogedores incluso en los meses de invierno. El inmueble, a reformar, representa una oportunidad real para un comprador que desee firmar con su propio gusto los interiores.\n\nCompleta la propiedad una cómoda plaza de aparcamiento privada. Los bajos gastos de comunidad lo hacen especialmente atractivo para parejas jóvenes, profesionales independientes e inversores en busca de rentabilidad por alquiler.\n\nEl precio una vez reformado, según la valoración de la agencia, ronda los 127.000 €: un capital de entrada accesible en el mercado de Uboldo, municipio bien conectado con Saronno, Milán y el eje autopista hacia los lagos."
         }
       }
     },
     {
-      "id_suggested": "milano-isola-2bed-studio-3712",
-      "source_url": "https://www.casa.it/vendita/residenziale/milano",
-      "source_portal": "casa.it",
-      "city": "Milano",
-      "neighborhood": "Isola",
-      "address_approx": "Via Pastrengo, Isola",
-      "title": "Isola: bright two-bed steps from Bosco Verticale",
-      "description_short": "Recently refurbished two-bedroom apartment a short walk from Bosco Verticale and Gae Aulenti. The new face of Milanese urban living.",
-      "description_long": "On a leafy street in Isola, this 78 m² apartment has just emerged from a full refurbishment and is offered turnkey. Floors are pale European oak; walls are smooth lime plaster in a warm neutral; ceiling heights of 3.05 m bring real volume to the space.\n\nThe living-kitchen runs across the south facade, opening through three full-height casement windows onto a private Juliet balcony. The kitchen is from an Italian boutique manufacturer, with quartzite tops and recessed handles. Both bedrooms enjoy quiet courtyard views; the principal accommodates a king bed with built-in storage.\n\nA single full bathroom is clad in zellige tiles with a walk-in shower; a separate laundry room doubles as utility. Air-conditioning has been installed on all three exposures.\n\nIsola has reinvented itself as a destination neighbourhood for Milan's creative class: Bosco Verticale, Piazza Gae Aulenti and the Saturday farmers' market on Via Borsieri are all within five minutes on foot. The M5 metro at Isola delivers Garibaldi in a single stop.\n\nA confident entry into one of the city's most desirable neighbourhoods.",
-      "price": 595000,
+      "id_suggested": "miakasa-origgio-bilocale-duplex-05062026",
+      "source_url": "https://miakasa.it/SchedaImmobile.aspx?codice=05062026",
+      "source_portal": "miakasa.it",
+      "city": "Origgio",
+      "neighborhood": "Centro",
+      "address_approx": "Via Sant'Eustorgio 7, Origgio (VA)",
+      "title": "Bilocale su due livelli con doppia esposizione e posto auto",
+      "description_short": "Bilocale di 50 m² disposto su due livelli con doppio bagno, due balconi, esposizione su quattro lati e posto auto. In contesto silenzioso di Origgio.",
+      "description_long": "In una posizione privilegiata di Origgio, in Via Sant'Eustorgio, questo bilocale di 50 m² si distingue per una caratteristica rara: l'esposizione libera su quattro lati e l'assenza di unità abitative sovrastanti. Una combinazione che garantisce luminosità costante, privacy assoluta e silenzio.\n\nLa proprietà si sviluppa su due livelli collegati da scala interna. Al primo piano si trova la zona principale: ingresso, soggiorno con angolo cottura, bagno e due balconi affacciati su orientamenti differenti, perfetti per cogliere la luce in ogni momento della giornata.\n\nAl piano superiore, ricavato nel sottotetto, due locali ad uso ripostiglio o ambiente versatile da personalizzare, oltre a un secondo bagno. Uno spazio di servizio prezioso, che può essere riconvertito in studio, area hobby o ulteriore zona notte secondo le esigenze dell'acquirente.\n\nCompleta la proprietà un posto auto coperto al piano terreno, di comodo accesso. Le spese condominiali sono volutamente contenute, un dettaglio che rende l'immobile particolarmente interessante per chi cerca una soluzione pratica e poco onerosa nella gestione quotidiana.\n\nClasse energetica C, riscaldamento autonomo, posizione tranquilla a pochi minuti dal centro di Origgio e dai principali servizi: una proposta intelligente per coppie, professionisti o investitori che riconoscono il valore della distribuzione su due livelli.",
+      "price": 123000,
       "currency": "EUR",
-      "sqm": 78,
-      "bedrooms": 2,
-      "bathrooms": 1,
-      "property_type": "apartment",
+      "sqm": 50,
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "property_type": "Apartment",
       "features": [
-        "fully refurbished",
-        "Bosco Verticale walk",
-        "quiet courtyard",
-        "high ceilings",
-        "air-conditioning",
-        "M5 metro adjacent"
+        "duplex su due livelli",
+        "doppia esposizione su 4 lati",
+        "posto auto",
+        "due bagni",
+        "due balconi",
+        "classe energetica C",
+        "spese condominiali contenute"
       ],
       "coordinates": {
-        "lat": 45.4881,
-        "lng": 9.1912
+        "lat": 45.5736,
+        "lng": 9.0014
       },
       "photo_urls": [
-        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600573472556-e636c2acda88?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600585152915-d208bec867a1?w=1600&q=80",
-        "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=1600&q=80",
-        "https://images.unsplash.com/photo-1556909172-54557c7e4fb7?w=1600&q=80"
+        "https://static3.agimonline.com/images/4Zzo1aNTA08O2M6fMTtpfZDoy1MDg56Mztl2eHQ66anBnaO3c68MQ==f/b/0/20893.jpg",
+        "https://static3.agimonline.com/images/4Zzo1fNTA0eO2M6dMTtp3ZDoy9MDg39MTtl8eHQ65anBnfO3c6eMQ==d/b/0/20871.jpg",
+        "https://static3.agimonline.com/images/4Zzo1aNTA04O2M68MTtp6ZDoy1MDg32Mjtl8eHQ65anBnaO3c64MQ==8/b/0/20872.jpg",
+        "https://static3.agimonline.com/images/4Zzo15NTA04O2M69MTtp4ZDoycMDg5aMDtl3eHQ62anBn5O3c64MQ==9/b/0/20890.jpg",
+        "https://static3.agimonline.com/images/4Zzo1eNTA02O2M62MTtpfZDoydMDg5aMTtl9eHQ66anBneO3c62MQ==2/b/0/20891.jpg",
+        "https://static3.agimonline.com/images/4Zzo19NTA0dO2M64MTtpbZDoy0MDg3aNztl4eHQ6eanBn9O3c6dMQ==4/b/0/20877.jpg",
+        "https://static3.agimonline.com/images/4Zzo15NTA01O2M6aMTtpaZDoy2MDg34Mztl0eHQ65anBn5O3c61MQ==a/b/0/20873.jpg",
+        "https://static3.agimonline.com/images/4Zzo17NTA09O2M6dMTtp4ZDoy1MDg3cNDtlbeHQ6fanBn7O3c69MQ==d/b/0/20874.jpg"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "photos_source_note": "Photos hotlinked from miakasa.it (demo for the actual agency)",
       "i18n": {
         "en": {
-          "title": "Isola: bright two-bed steps from Bosco Verticale",
-          "description_short": "Recently refurbished two-bedroom apartment a short walk from Bosco Verticale and Gae Aulenti. The new face of Milanese urban living.",
-          "description_long": "On a leafy street in Isola, this 78 m² apartment has just emerged from a full refurbishment and is offered turnkey. Floors are pale European oak; walls are smooth lime plaster in a warm neutral; ceiling heights of 3.05 m bring real volume to the space.\n\nThe living-kitchen runs across the south facade, opening through three full-height casement windows onto a private Juliet balcony. The kitchen is from an Italian boutique manufacturer, with quartzite tops and recessed handles. Both bedrooms enjoy quiet courtyard views; the principal accommodates a king bed with built-in storage.\n\nA single full bathroom is clad in zellige tiles with a walk-in shower; a separate laundry room doubles as utility. Air-conditioning has been installed on all three exposures.\n\nIsola has reinvented itself as a destination neighbourhood for Milan's creative class: Bosco Verticale, Piazza Gae Aulenti and the Saturday farmers' market on Via Borsieri are all within five minutes on foot. The M5 metro at Isola delivers Garibaldi in a single stop.\n\nA confident entry into one of the city's most desirable neighbourhoods."
+          "title": "Split-Level Two-Room Apartment with Dual Aspect and Parking",
+          "description_short": "A 50 sq m two-room apartment over two levels with two bathrooms, two balconies, four-sided aspect and parking space. Within a quiet pocket of Origgio.",
+          "description_long": "In a privileged position on Via Sant'Eustorgio in Origgio, this 50 sq m two-room apartment stands out for a rare feature: a clear, four-sided aspect with no units above. A combination that ensures consistent natural light, complete privacy and quiet throughout.\n\nThe property unfolds across two levels connected by an internal staircase. On the first floor sits the principal area: entrance, living room with kitchen corner, a bathroom and two balconies on different orientations, ideal for catching the light at every hour of the day.\n\nOn the upper level, carved into the attic, two flexible storage rooms or versatile spaces to personalise, together with a second bathroom. A precious service zone that can be reimagined as a study, hobby area or additional sleeping quarters according to the buyer's vision.\n\nA covered parking space at ground level completes the property, with easy access. The service charges are deliberately contained, a detail that makes the apartment particularly interesting for those seeking a practical and low-running-cost solution.\n\nEnergy class C, autonomous heating, a quiet position a few minutes from the centre of Origgio and from the main services: a smart proposition for couples, professionals or investors who appreciate the value of a two-level layout."
         },
         "it": {
-          "title": "Isola: trilocale luminoso a pochi passi dal Bosco Verticale",
-          "description_short": "Trilocale recentemente ristrutturato a breve distanza dal Bosco Verticale e da Gae Aulenti. Il nuovo volto del vivere urbano milanese.",
-          "description_long": "In una via alberata di Isola, questo appartamento di 78 m² è appena uscito da una ristrutturazione integrale e viene proposto chiavi in mano. I pavimenti sono in rovere europeo chiaro; le pareti sono in calce liscia in tonalità neutra calda; l'altezza del soffitto di 3,05 m restituisce una volumetria importante agli ambienti.\n\nLa zona living-cucina corre lungo la facciata a sud, aprendosi attraverso tre finestre a tutta altezza su un balconcino alla francese privato. La cucina è di un produttore boutique italiano, con piani in quarzite e maniglie a gola. Entrambe le camere si affacciano sul cortile silenzioso; la principale accoglie un letto king-size con armadiatura integrata.\n\nUn unico bagno completo è rivestito in piastrelle zellige con doccia walk-in; una lavanderia separata funge anche da vano tecnico. L'aria condizionata è installata su tutte e tre le esposizioni.\n\nIsola si è reinventata come quartiere di destinazione per la classe creativa milanese: Bosco Verticale, Piazza Gae Aulenti e il mercato contadino del sabato in Via Borsieri si raggiungono in cinque minuti a piedi. La M5 di Isola porta a Garibaldi in una sola fermata.\n\nUn ingresso sicuro in uno dei quartieri più desiderati della città."
+          "title": "Bilocale su due livelli con doppia esposizione e posto auto",
+          "description_short": "Bilocale di 50 m² disposto su due livelli con doppio bagno, due balconi, esposizione su quattro lati e posto auto. In contesto silenzioso di Origgio.",
+          "description_long": "In una posizione privilegiata di Origgio, in Via Sant'Eustorgio, questo bilocale di 50 m² si distingue per una caratteristica rara: l'esposizione libera su quattro lati e l'assenza di unità abitative sovrastanti. Una combinazione che garantisce luminosità costante, privacy assoluta e silenzio.\n\nLa proprietà si sviluppa su due livelli collegati da scala interna. Al primo piano si trova la zona principale: ingresso, soggiorno con angolo cottura, bagno e due balconi affacciati su orientamenti differenti, perfetti per cogliere la luce in ogni momento della giornata.\n\nAl piano superiore, ricavato nel sottotetto, due locali ad uso ripostiglio o ambiente versatile da personalizzare, oltre a un secondo bagno. Uno spazio di servizio prezioso, che può essere riconvertito in studio, area hobby o ulteriore zona notte secondo le esigenze dell'acquirente.\n\nCompleta la proprietà un posto auto coperto al piano terreno, di comodo accesso. Le spese condominiali sono volutamente contenute, un dettaglio che rende l'immobile particolarmente interessante per chi cerca una soluzione pratica e poco onerosa nella gestione quotidiana.\n\nClasse energetica C, riscaldamento autonomo, posizione tranquilla a pochi minuti dal centro di Origgio e dai principali servizi: una proposta intelligente per coppie, professionisti o investitori che riconoscono il valore della distribuzione su due livelli."
         },
         "es": {
-          "title": "Isola: luminoso piso de dos dormitorios junto a Bosco Verticale",
-          "description_short": "Apartamento de dos dormitorios recién reformado a pocos pasos de Bosco Verticale y Gae Aulenti. La nueva cara de la vida urbana milanesa.",
-          "description_long": "En una calle arbolada de Isola, este apartamento de 78 m² acaba de salir de una reforma integral y se entrega llave en mano. Los suelos son de roble europeo claro; las paredes están terminadas en estuco de cal en un neutro cálido; los 3,05 m de altura libre aportan un volumen real al espacio.\n\nEl salón-cocina recorre toda la fachada sur y se abre, a través de tres ventanas de altura completa, a un balcón francés privado. La cocina, de un fabricante boutique italiano, presenta encimeras de cuarcita y tiradores embutidos. Ambos dormitorios disfrutan de vistas tranquilas al patio interior; el principal admite cama king-size con armarios empotrados.\n\nUn único baño completo está revestido en azulejos zellige con ducha walk-in; una lavandería independiente funciona también como cuarto técnico. El aire acondicionado está instalado en las tres orientaciones.\n\nIsola se ha reinventado como barrio de referencia para la clase creativa milanesa: Bosco Verticale, Piazza Gae Aulenti y el mercado de productores de los sábados en Via Borsieri quedan a cinco minutos a pie. El metro M5 de Isola conecta con Garibaldi en una sola parada.\n\nUna entrada segura en uno de los barrios más codiciados de la ciudad."
+          "title": "Apartamento dúplex con doble orientación y aparcamiento",
+          "description_short": "Apartamento de dos ambientes de 50 m² distribuido en dos plantas con dos baños, dos balcones, orientación a cuatro lados y plaza de aparcamiento. En una zona tranquila de Origgio.",
+          "description_long": "En una ubicación privilegiada de Origgio, en Via Sant'Eustorgio, este apartamento de dos ambientes de 50 m² destaca por una característica poco habitual: orientación libre a cuatro lados y ausencia de viviendas en la planta superior. Una combinación que garantiza luminosidad constante, privacidad absoluta y silencio.\n\nLa propiedad se desarrolla en dos niveles conectados por una escalera interior. En la primera planta se encuentra la zona principal: entrada, salón con cocina office, baño y dos balcones orientados a distintas direcciones, ideales para captar la luz en cualquier momento del día.\n\nEn la planta superior, recortada en la buhardilla, dos estancias de uso flexible o ambiente versátil a personalizar, además de un segundo baño. Un valioso espacio de servicio que puede reconvertirse en estudio, zona de hobbies o dormitorio adicional según las necesidades del comprador.\n\nCompleta la propiedad una plaza de aparcamiento cubierta en la planta baja, de cómodo acceso. Los gastos de comunidad son deliberadamente contenidos, un detalle que hace que el inmueble resulte especialmente interesante para quien busca una solución práctica y poco gravosa en la gestión diaria.\n\nCalificación energética C, calefacción autónoma, posición tranquila a pocos minutos del centro de Origgio y de los principales servicios: una propuesta inteligente para parejas, profesionales o inversores que reconocen el valor de una distribución en dos plantas."
         }
       }
     },
     {
-      "id_suggested": "milano-porta-romana-bilocale-8855",
-      "source_url": "https://www.idealista.it/vendita-case/milano-milano/",
-      "source_portal": "idealista.it",
-      "city": "Milano",
-      "neighborhood": "Porta Romana",
-      "address_approx": "Corso Lodi, Porta Romana",
-      "title": "Porta Romana: refurbished one-bed near the new Olympic Village",
-      "description_short": "Compact one-bedroom flat in a 1930s building, fully renovated, six minutes from Porta Romana M3 and the new Olympic Village development.",
-      "description_long": "Set in a well-kept 1930s building with porter service, this 55 m² apartment has been redesigned around clarity and light. The architect has consolidated services into a single block, releasing a generous open-plan reception that captures the south-east light through original casements.\n\nThe kitchen is concealed within a sequence of full-height oak cabinetry; a stone-topped peninsula serves as informal dining. The bedroom, which sits on the quiet courtyard, can comfortably accommodate a king bed with bedside storage. A walk-in wardrobe links to the bathroom, finished in tadelakt and brushed nickel.\n\nThe building is one block from the new Olympic Village construction site (delivering late 2026): a clear catalyst for rental yield and resale value. Porta Romana M3 is six minutes on foot, with Duomo reachable in nine minutes.\n\nIdeal entry point for an investor or a first-time premium buyer who values position, build quality and a recent renovation that does not need to be redone.",
-      "price": 395000,
+      "id_suggested": "miakasa-rescaldina-bilocale-giardino-07012026",
+      "source_url": "https://miakasa.it/SchedaImmobile.aspx?codice=07012026",
+      "source_portal": "miakasa.it",
+      "city": "Rescaldina",
+      "neighborhood": "Zona residenziale",
+      "address_approx": "Zona residenziale, Rescaldina (MI)",
+      "title": "Bilocale del 2011 con giardino privato di 170 m²",
+      "description_short": "Bilocale di 65 m² in palazzina recente del 2011 a Rescaldina, con giardino esclusivo di circa 170 m², loggia coperta e cantina. Classe energetica B.",
+      "description_long": "A Rescaldina, all'interno di un'elegante palazzina del 2011 in zona residenziale e ben servita, proponiamo in vendita questo bilocale di 65 m² con un atout che lo distingue immediatamente dalle proposte concorrenti: un giardino privato di circa 170 m², dimensione raramente disponibile su questa fascia di prezzo.\n\nL'abitazione è composta da un soggiorno con angolo cottura, una camera da letto, un disimpegno e un bagno finestrato. Tutti gli ambienti sono distribuiti con razionalità e godono di buona luce naturale grazie all'esposizione favorevole.\n\nL'elemento di pregio resta lo spazio esterno: 170 m² di giardino esclusivo, accessibili direttamente dall'appartamento, ai quali si aggiunge una loggia coperta di 15 m² perfetta per il pranzo all'aperto in ogni stagione. Un ambiente outdoor che amplia di fatto la superficie vivibile e regala un piccolo paradiso urbano.\n\nCompletano la proprietà una cantina al piano interrato e l'ascensore condominiale. L'edificio, di costruzione recente, garantisce classe energetica B e quindi consumi contenuti, accentuati da un impianto di riscaldamento centralizzato.\n\nLa posizione è strategica: tranquillità e privacy, ma con accesso rapido agli svincoli autostradali verso Milano, Varese-Laghi e Como-Chiasso, tutti raggiungibili in meno di due chilometri. Una proposta ideale per chi cerca comfort, spazi esterni e collegamenti efficaci.",
+      "price": 129000,
       "currency": "EUR",
-      "sqm": 55,
+      "sqm": 65,
       "bedrooms": 1,
       "bathrooms": 1,
-      "property_type": "apartment",
+      "property_type": "Apartment",
       "features": [
-        "1930s building",
-        "porter service",
-        "renovated",
-        "walk-in wardrobe",
-        "Olympic Village proximity",
-        "M3 metro"
+        "giardino privato 170 m²",
+        "loggia coperta 15 m²",
+        "palazzina del 2011",
+        "cantina",
+        "ascensore",
+        "classe energetica B",
+        "svincoli autostradali a 2 km"
       ],
       "coordinates": {
-        "lat": 45.4471,
-        "lng": 9.2069
+        "lat": 45.6049,
+        "lng": 8.9395
       },
       "photo_urls": [
-        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600573472550-8090b5e0745e?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1600&q=80",
-        "https://images.unsplash.com/photo-1560185009-5bf9f2849488?w=1600&q=80",
-        "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=1600&q=80"
+        "https://static3.agimonline.com/images/4Zzo1aNTA0dO2M67MTtp6ZDoy4MDg31MDtlbeHQ6eanBnaO3c6dMQ==7/b/0/20870.jpg",
+        "https://static3.agimonline.com/images/4Zzo11NTA03O2M64MTtpeZDoyeMDAx6NTtl5eHQ6eanBn1O3c63MQ==4/b/0/20015.jpg",
+        "https://static3.agimonline.com/images/4Zzo17NTA0cO2M67MTtpcZDoy2MDAx1OTtl9eHQ6aanBn7O3c6cMQ==7/b/0/20019.jpg",
+        "https://static3.agimonline.com/images/4Zzo18NTA09O2M68MTtp8ZDoyfMDM0aMTtldeHQ60anBn8O3c69MQ==8/b/0/20341.jpg",
+        "https://static3.agimonline.com/images/4Zzo17NTA02O2M6aMTtpcZDoy4MDAyaMTtl8eHQ6eanBn7O3c62MQ==a/b/0/20021.jpg",
+        "https://static3.agimonline.com/images/4Zzo12NTA07O2M68MTtp7ZDoy6MDAx8MDtl0eHQ6danBn2O3c67MQ==8/b/0/20010.jpg",
+        "https://static3.agimonline.com/images/4Zzo1cNTA0dO2M67MTtpdZDoy0MDAwaODtl6eHQ61anBncO3c6dMQ==7/b/0/20008.jpg",
+        "https://static3.agimonline.com/images/4Zzo1eNTA0fO2M60MTtp5ZDoyeMDAwfNjtlceHQ69anBneO3c6fMQ==0/b/0/20006.jpg"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "photos_source_note": "Photos hotlinked from miakasa.it (demo for the actual agency)",
       "i18n": {
         "en": {
-          "title": "Porta Romana: refurbished one-bed near the new Olympic Village",
-          "description_short": "Compact one-bedroom flat in a 1930s building, fully renovated, six minutes from Porta Romana M3 and the new Olympic Village development.",
-          "description_long": "Set in a well-kept 1930s building with porter service, this 55 m² apartment has been redesigned around clarity and light. The architect has consolidated services into a single block, releasing a generous open-plan reception that captures the south-east light through original casements.\n\nThe kitchen is concealed within a sequence of full-height oak cabinetry; a stone-topped peninsula serves as informal dining. The bedroom, which sits on the quiet courtyard, can comfortably accommodate a king bed with bedside storage. A walk-in wardrobe links to the bathroom, finished in tadelakt and brushed nickel.\n\nThe building is one block from the new Olympic Village construction site (delivering late 2026): a clear catalyst for rental yield and resale value. Porta Romana M3 is six minutes on foot, with Duomo reachable in nine minutes.\n\nIdeal entry point for an investor or a first-time premium buyer who values position, build quality and a recent renovation that does not need to be redone."
+          "title": "2011 Two-Room Apartment with 170 sq m Private Garden",
+          "description_short": "A 65 sq m two-room apartment within a 2011-built building in Rescaldina, with a 170 sq m exclusive garden, covered loggia and basement cellar. Energy class B.",
+          "description_long": "Set within an elegant 2011-built building in a residential, well-served pocket of Rescaldina, this 65 sq m two-room apartment offers a distinguishing feature that immediately sets it apart from competing listings: a 170 sq m private garden, a size rarely available in this price bracket.\n\nThe home comprises a living room with kitchen corner, one bedroom, a hallway and a bright bathroom with a window. All rooms are laid out with rational care and enjoy good natural light thanks to the favourable orientation.\n\nThe prestige element remains the outdoor space: 170 sq m of exclusive garden, accessed directly from the apartment, complemented by a covered loggia of 15 sq m, perfect for al-fresco dining year-round. An outdoor environment that effectively extends the livable surface and gifts a small urban paradise.\n\nA basement cellar and the building's lift complete the offering. The recently constructed building delivers energy class B and therefore contained running costs, supported by a centralised heating system.\n\nThe location is strategic: peace and privacy, but with quick access to motorway interchanges towards Milan, Varese-Lakes and Como-Chiasso, all reachable within less than two kilometres. A proposition tailored to those seeking comfort, outdoor space and effective connectivity."
         },
         "it": {
-          "title": "Porta Romana: bilocale ristrutturato vicino al Villaggio Olimpico",
-          "description_short": "Bilocale compatto in un edificio anni '30, completamente ristrutturato, a sei minuti dalla M3 Porta Romana e dal nuovo Villaggio Olimpico.",
-          "description_long": "In un edificio anni '30 ben tenuto e con servizio di portineria, questo appartamento di 55 m² è stato ripensato all'insegna della chiarezza e della luce. L'architetto ha concentrato i servizi in un unico blocco, liberando una generosa zona giorno open space che cattura la luce di sud-est attraverso le finestre originali.\n\nLa cucina è celata in una sequenza di mobili in rovere a tutta altezza; un'isola con piano in pietra funge da zona pranzo informale. La camera, affacciata sul cortile silenzioso, accoglie comodamente un letto matrimoniale king-size con vani contenitivi. Una cabina armadio collega al bagno, finito in tadelakt e nichel spazzolato.\n\nL'edificio si trova a un isolato dal cantiere del nuovo Villaggio Olimpico (consegna fine 2026): un catalizzatore evidente per la rendita locativa e per il valore di rivendita. La M3 di Porta Romana è a sei minuti a piedi, con il Duomo raggiungibile in nove minuti.\n\nIngresso ideale per un investitore o per un primo acquirente premium che dia valore alla posizione, alla qualità costruttiva e a una ristrutturazione recente che non necessita di interventi."
+          "title": "Bilocale del 2011 con giardino privato di 170 m²",
+          "description_short": "Bilocale di 65 m² in palazzina recente del 2011 a Rescaldina, con giardino esclusivo di circa 170 m², loggia coperta e cantina. Classe energetica B.",
+          "description_long": "A Rescaldina, all'interno di un'elegante palazzina del 2011 in zona residenziale e ben servita, proponiamo in vendita questo bilocale di 65 m² con un atout che lo distingue immediatamente dalle proposte concorrenti: un giardino privato di circa 170 m², dimensione raramente disponibile su questa fascia di prezzo.\n\nL'abitazione è composta da un soggiorno con angolo cottura, una camera da letto, un disimpegno e un bagno finestrato. Tutti gli ambienti sono distribuiti con razionalità e godono di buona luce naturale grazie all'esposizione favorevole.\n\nL'elemento di pregio resta lo spazio esterno: 170 m² di giardino esclusivo, accessibili direttamente dall'appartamento, ai quali si aggiunge una loggia coperta di 15 m² perfetta per il pranzo all'aperto in ogni stagione. Un ambiente outdoor che amplia di fatto la superficie vivibile e regala un piccolo paradiso urbano.\n\nCompletano la proprietà una cantina al piano interrato e l'ascensore condominiale. L'edificio, di costruzione recente, garantisce classe energetica B e quindi consumi contenuti, accentuati da un impianto di riscaldamento centralizzato.\n\nLa posizione è strategica: tranquillità e privacy, ma con accesso rapido agli svincoli autostradali verso Milano, Varese-Laghi e Como-Chiasso, tutti raggiungibili in meno di due chilometri. Una proposta ideale per chi cerca comfort, spazi esterni e collegamenti efficaci."
         },
         "es": {
-          "title": "Porta Romana: piso reformado cerca de la nueva Villa Olímpica",
-          "description_short": "Piso compacto de un dormitorio en un edificio de los años 30, completamente reformado, a seis minutos de Porta Romana M3 y de la nueva Villa Olímpica.",
-          "description_long": "En un edificio bien conservado de los años 30 con servicio de portería, este piso de 55 m² ha sido rediseñado en torno a la claridad y la luz. El arquitecto ha concentrado los servicios en un único bloque, liberando un amplio salón en planta abierta que capta la luz del sureste a través de las ventanas originales.\n\nLa cocina queda integrada en una secuencia de mobiliario de roble a doble altura; una península con encimera de piedra hace las veces de comedor informal. El dormitorio, que da al tranquilo patio interior, acomoda cómodamente una cama king con almacenamiento. Un vestidor conecta con el baño, acabado en tadelakt y níquel cepillado.\n\nEl edificio queda a una manzana de las obras de la nueva Villa Olímpica (entrega prevista a finales de 2026): un claro catalizador para la rentabilidad de alquiler y la revalorización. Porta Romana M3 está a seis minutos a pie, con el Duomo en nueve.\n\nPunto de entrada ideal para un inversor o un primer comprador premium que valore ubicación, calidad constructiva y una reforma reciente que no necesita rehacerse."
+          "title": "Apartamento de dos ambientes de 2011 con jardín privado de 170 m²",
+          "description_short": "Apartamento de dos ambientes de 65 m² en edificio reciente de 2011 en Rescaldina, con jardín exclusivo de unos 170 m², logia cubierta y trastero. Calificación energética B.",
+          "description_long": "En Rescaldina, dentro de un elegante edificio de 2011 ubicado en una zona residencial bien servida, proponemos en venta este apartamento de dos ambientes de 65 m² con un atributo que lo distingue inmediatamente de las propuestas competidoras: un jardín privado de unos 170 m², dimensión rara vez disponible en esta franja de precio.\n\nLa vivienda se compone de un salón con cocina office, un dormitorio, un distribuidor y un baño con ventana. Todas las estancias están distribuidas con racionalidad y disfrutan de buena luz natural gracias a la orientación favorable.\n\nEl elemento de prestigio sigue siendo el espacio exterior: 170 m² de jardín exclusivo, accesibles directamente desde el apartamento, a los que se suma una logia cubierta de 15 m² perfecta para comer al aire libre en cualquier estación. Un entorno exterior que amplía de hecho la superficie habitable y regala un pequeño paraíso urbano.\n\nCompletan la propiedad un trastero en el sótano y el ascensor de comunidad. El edificio, de construcción reciente, garantiza una calificación energética B y por tanto consumos contenidos, reforzados por un sistema de calefacción centralizado.\n\nLa ubicación es estratégica: tranquilidad y privacidad, pero con acceso rápido a los enlaces de autopista hacia Milán, Varese-Lagos y Como-Chiasso, todos alcanzables en menos de dos kilómetros. Una propuesta ideal para quien busca confort, espacios exteriores y conexiones eficaces."
         }
       }
     },
     {
-      "id_suggested": "milano-citta-studi-family-3bed-4429",
-      "source_url": "https://www.immobiliare.it/vendita-case/milano/citta-studi/",
-      "source_portal": "immobiliare.it",
-      "city": "Milano",
-      "neighborhood": "Città Studi",
-      "address_approx": "Via Pacini, Città Studi",
-      "title": "Città Studi: three-bed family flat with courtyard garden",
-      "description_short": "Spacious three-bedroom apartment with private cellar in a 1950s building, steps from Politecnico and the Città Studi tram network.",
-      "description_long": "On a quiet residential street in Città Studi, this 105 m² family apartment offers exactly what the market most lacks: real bedroom volume, a working eat-in kitchen and a sensible price per square metre for the postcode. The current owners have lived here for fifteen years; the apartment has been maintained carefully but invites a cosmetic refresh.\n\nThe entrance hall opens onto a double reception running north-south, with original parquet and a marble fireplace. The eat-in kitchen sits on the courtyard side; three bedrooms are arranged along the night corridor, the principal with a recently refitted en-suite shower room. A second family bathroom and a service balcony complete the floorplan.\n\nThe building is fitted with a passenger lift, a 24-hour porter and a planted internal courtyard. A private cellar of 6 m² is included in the sale.\n\nCittà Studi is Milan's quietest university village: tree-lined streets, the Politecnico and Bicocca campuses within walking distance and direct tram access to Duomo via the historic Line 9. Strong fundamentals for a family buyer or a buy-and-hold investor.",
-      "price": 645000,
+      "id_suggested": "miakasa-uboldo-appartamento-villa-02052026",
+      "source_url": "https://miakasa.it/SchedaImmobile.aspx?codice=02052026",
+      "source_portal": "miakasa.it",
+      "city": "Uboldo",
+      "neighborhood": "Via Lazzaretto",
+      "address_approx": "Via Lazzaretto, Uboldo (VA)",
+      "title": "Appartamento in villa con giardino e doppi ripostigli",
+      "description_short": "Trilocale di 124 m² in villa bifamiliare a Uboldo, con giardino condiviso curato e doppi ripostigli al piano interrato. Atmosfera silenziosa e immersa nel verde.",
+      "description_long": "In Via Lazzaretto, all'interno di una villa bifamiliare nel comune di Uboldo, proponiamo in vendita questo appartamento di 124 m² dal carattere riservato e silenzioso. Una soluzione ideale per chi desidera vivere in un contesto tranquillo, godendo dei comfort di un'abitazione a contatto con il verde.\n\nL'appartamento, posto al piano rialzato, si compone di tre locali con servizi. L'ingresso introduce a una zona giorno con cucina abitabile, mentre la camera da letto matrimoniale dispone di un balcone privato esclusivo, perfetto per il caffè della mattina o per una pausa di lettura immersa nel giardino.\n\nL'esterno è il vero protagonista: un ampio giardino condiviso con l'altra unità della villa, uno spazio verde curato e piacevole, perfetto per momenti di relax all'aria aperta in ogni stagione. Un valore aggiunto raro in questa fascia di mercato.\n\nA completare la proprietà, due comodi vani ad uso ripostiglio situati al piano sotterraneo, collegati all'appartamento tramite scala interna privata, e un'area esterna di proprietà dedicata al parcheggio. Una distribuzione razionale che garantisce praticità e funzionalità nella gestione quotidiana degli spazi.\n\nUna proposta di charme, ideale per famiglie o single che cercano una soluzione abitativa silenziosa, immersa nel verde, ma a pochi minuti dai servizi di Uboldo e dai principali assi di collegamento verso Saronno e Milano.",
+      "price": 179000,
       "currency": "EUR",
-      "sqm": 105,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "property_type": "apartment",
+      "sqm": 124,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "property_type": "House",
       "features": [
-        "family layout",
-        "porter service",
-        "internal courtyard",
-        "private cellar",
-        "marble fireplace",
-        "tram network"
+        "appartamento in villa",
+        "giardino condiviso curato",
+        "doppi ripostigli al piano interrato",
+        "balcone privato",
+        "posto auto esterno",
+        "riscaldamento autonomo",
+        "vista sul verde"
       ],
       "coordinates": {
-        "lat": 45.4773,
-        "lng": 9.2257
+        "lat": 45.6019,
+        "lng": 8.9905
       },
       "photo_urls": [
-        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600121848594-d8644e57abab?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?w=1600&q=80",
-        "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?w=1600&q=80",
-        "https://images.unsplash.com/photo-1567496898669-ee935f5f647a?w=1600&q=80"
+        "https://static3.agimonline.com/images/4Zzo1cNTA07O2M6bMTtpcZDoy8MDg1bMTtl3eHQ6fanBncO3c67MQ==b/b/0/20851.jpg",
+        "https://static3.agimonline.com/images/4Zzo11NTA01O2M66MTtp4ZDoy0MDg1cMjtleeHQ62anBn1O3c61MQ==6/b/0/20852.jpg",
+        "https://static3.agimonline.com/images/4Zzo1aNTA02O2M61MTtp3ZDoy6MDg19Mztl5eHQ6fanBnaO3c62MQ==1/b/0/20853.jpg",
+        "https://static3.agimonline.com/images/4Zzo19NTA0aO2M64MTtp8ZDoydMDg1fODtlbeHQ6eanBn9O3c6aMQ==4/b/0/20858.jpg",
+        "https://static3.agimonline.com/images/4Zzo17NTA03O2M6aMTtpfZDoy8MDg2aMztl0eHQ6aanBn7O3c63MQ==a/b/0/20863.jpg",
+        "https://static3.agimonline.com/images/4Zzo18NTA0bO2M62MTtp6ZDoy0MDg2eMjtl6eHQ61anBn8O3c6bMQ==2/b/0/20862.jpg",
+        "https://static3.agimonline.com/images/4Zzo1bNTA04O2M64MTtpaZDoyfMDg0eODtlceHQ64anBnbO3c64MQ==4/b/0/20848.jpg",
+        "https://static3.agimonline.com/images/4Zzo16NTA01O2M6dMTtpbZDoy1MDg0dOTtlfeHQ6eanBn6O3c61MQ==d/b/0/20849.jpg"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "photos_source_note": "Photos hotlinked from miakasa.it (demo for the actual agency)",
       "i18n": {
         "en": {
-          "title": "Città Studi: three-bed family flat with courtyard garden",
-          "description_short": "Spacious three-bedroom apartment with private cellar in a 1950s building, steps from Politecnico and the Città Studi tram network.",
-          "description_long": "On a quiet residential street in Città Studi, this 105 m² family apartment offers exactly what the market most lacks: real bedroom volume, a working eat-in kitchen and a sensible price per square metre for the postcode. The current owners have lived here for fifteen years; the apartment has been maintained carefully but invites a cosmetic refresh.\n\nThe entrance hall opens onto a double reception running north-south, with original parquet and a marble fireplace. The eat-in kitchen sits on the courtyard side; three bedrooms are arranged along the night corridor, the principal with a recently refitted en-suite shower room. A second family bathroom and a service balcony complete the floorplan.\n\nThe building is fitted with a passenger lift, a 24-hour porter and a planted internal courtyard. A private cellar of 6 m² is included in the sale.\n\nCittà Studi is Milan's quietest university village: tree-lined streets, the Politecnico and Bicocca campuses within walking distance and direct tram access to Duomo via the historic Line 9. Strong fundamentals for a family buyer or a buy-and-hold investor."
+          "title": "Villa Apartment with Garden and Double Storage",
+          "description_short": "A 124 sq m three-room villa apartment in Uboldo, with shared landscaped garden and double basement storage. Quiet, green and immersive.",
+          "description_long": "On Via Lazzaretto, within a semi-detached villa in the municipality of Uboldo, we offer this 124 sq m apartment of discreet and quiet character. An ideal solution for those who wish to live in a tranquil setting, enjoying the comforts of a home in close contact with greenery.\n\nThe apartment, set on the raised ground floor, comprises three rooms with services. The entrance opens onto a living area with an eat-in kitchen, while the master bedroom enjoys an exclusive private balcony, perfect for a morning coffee or a reading break immersed in the garden.\n\nThe outdoor space is the true protagonist: a generous garden shared with the other half of the villa, a landscaped and pleasant green area, perfect for relaxed moments outdoors in every season. A rare added value within this market segment.\n\nThe property is completed by two convenient storage rooms in the basement, connected to the apartment via a private internal staircase, and a dedicated outdoor parking area. A rational layout that ensures practical day-to-day management of the spaces.\n\nA charming proposition, ideal for families or singles seeking a quiet residence immersed in greenery, yet only a few minutes from the services of Uboldo and the main connecting routes towards Saronno and Milan."
         },
         "it": {
-          "title": "Città Studi: quadrilocale famiglia con cortile interno",
-          "description_short": "Ampio quadrilocale con cantina privata in un edificio anni '50, a due passi dal Politecnico e dalla rete tranviaria di Città Studi.",
-          "description_long": "In una via residenziale silenziosa di Città Studi, questo appartamento famiglia di 105 m² offre esattamente ciò che il mercato fatica a proporre: camere di volume reale, una cucina abitabile funzionale e un prezzo al metro quadro ragionevole per la zona. Gli attuali proprietari vivono qui da quindici anni; l'appartamento è stato curato con attenzione ma invita a un rinfresco estetico.\n\nL'ingresso si apre su un doppio salone con sviluppo nord-sud, con parquet originale e camino in marmo. La cucina abitabile si affaccia sul cortile; tre camere si dispongono lungo il corridoio della zona notte, la principale con un bagno en-suite con doccia recentemente rifatto. Un secondo bagno familiare e un balcone di servizio completano la planimetria.\n\nL'edificio dispone di ascensore, di un portierato attivo 24 ore e di un cortile interno piantumato. Una cantina privata di 6 m² è inclusa nella vendita.\n\nCittà Studi è il villaggio universitario più tranquillo di Milano: vie alberate, i campus del Politecnico e di Bicocca a distanza pedonale e tram diretto al Duomo lungo la storica Linea 9. Fondamentali solidi per un acquirente famiglia o per un investitore buy-and-hold."
+          "title": "Appartamento in villa con giardino e doppi ripostigli",
+          "description_short": "Trilocale di 124 m² in villa bifamiliare a Uboldo, con giardino condiviso curato e doppi ripostigli al piano interrato. Atmosfera silenziosa e immersa nel verde.",
+          "description_long": "In Via Lazzaretto, all'interno di una villa bifamiliare nel comune di Uboldo, proponiamo in vendita questo appartamento di 124 m² dal carattere riservato e silenzioso. Una soluzione ideale per chi desidera vivere in un contesto tranquillo, godendo dei comfort di un'abitazione a contatto con il verde.\n\nL'appartamento, posto al piano rialzato, si compone di tre locali con servizi. L'ingresso introduce a una zona giorno con cucina abitabile, mentre la camera da letto matrimoniale dispone di un balcone privato esclusivo, perfetto per il caffè della mattina o per una pausa di lettura immersa nel giardino.\n\nL'esterno è il vero protagonista: un ampio giardino condiviso con l'altra unità della villa, uno spazio verde curato e piacevole, perfetto per momenti di relax all'aria aperta in ogni stagione. Un valore aggiunto raro in questa fascia di mercato.\n\nA completare la proprietà, due comodi vani ad uso ripostiglio situati al piano sotterraneo, collegati all'appartamento tramite scala interna privata, e un'area esterna di proprietà dedicata al parcheggio. Una distribuzione razionale che garantisce praticità e funzionalità nella gestione quotidiana degli spazi.\n\nUna proposta di charme, ideale per famiglie o single che cercano una soluzione abitativa silenziosa, immersa nel verde, ma a pochi minuti dai servizi di Uboldo e dai principali assi di collegamento verso Saronno e Milano."
         },
         "es": {
-          "title": "Città Studi: piso familiar de tres dormitorios con patio",
-          "description_short": "Amplio piso de tres dormitorios con trastero privado en un edificio de los años 50, a pocos pasos del Politecnico y de la red de tranvías de Città Studi.",
-          "description_long": "En una tranquila calle residencial de Città Studi, este piso familiar de 105 m² ofrece precisamente lo que más escasea en el mercado: volumen real en los dormitorios, una cocina office funcional y un precio por metro cuadrado razonable para la zona. Los actuales propietarios viven aquí desde hace quince años; el piso se ha mantenido con esmero pero invita a un lavado de cara estético.\n\nEl recibidor da paso a un doble salón con orientación norte-sur, con parquet original y chimenea de mármol. La cocina office da al patio interior; tres dormitorios se distribuyen a lo largo del pasillo de la zona de noche, el principal con un baño en suite con ducha recientemente reformado. Un segundo baño familiar y un balcón de servicio completan la planta.\n\nEl edificio cuenta con ascensor, portería de 24 horas y un patio interior ajardinado. La venta incluye un trastero privado de 6 m².\n\nCittà Studi es el barrio universitario más tranquilo de Milán: calles arboladas, los campus del Politecnico y de Bicocca a distancia caminable y tranvía directo al Duomo por la histórica Línea 9. Fundamentales sólidos para una familia compradora o un inversor de buy-and-hold."
+          "title": "Apartamento en villa con jardín y doble trastero",
+          "description_short": "Apartamento de tres ambientes de 124 m² en villa bifamiliar en Uboldo, con jardín compartido cuidado y doble trastero en el sótano. Tranquilo y rodeado de verde.",
+          "description_long": "En Via Lazzaretto, dentro de una villa bifamiliar en el municipio de Uboldo, ofrecemos en venta este apartamento de 124 m² de carácter discreto y silencioso. Una solución ideal para quien desea vivir en un entorno tranquilo, disfrutando de los confortes de una vivienda en contacto directo con la vegetación.\n\nEl apartamento, situado en la planta baja elevada, se compone de tres estancias con servicios. La entrada introduce a una zona de día con cocina office, mientras que el dormitorio principal dispone de un balcón privado exclusivo, perfecto para el café de la mañana o para una pausa de lectura inmersa en el jardín.\n\nEl exterior es el verdadero protagonista: un amplio jardín compartido con la otra unidad de la villa, un espacio verde cuidado y agradable, perfecto para momentos de relax al aire libre en cualquier estación. Un valor añadido raro en esta franja de mercado.\n\nCompletan la propiedad dos cómodos trasteros situados en el sótano, conectados al apartamento mediante una escalera interna privada, y una zona exterior de propiedad dedicada al aparcamiento. Una distribución racional que garantiza practicidad y funcionalidad en la gestión diaria de los espacios.\n\nUna propuesta con encanto, ideal para familias o personas solas que buscan una vivienda silenciosa, inmersa en el verde, pero a pocos minutos de los servicios de Uboldo y de los principales ejes de conexión hacia Saronno y Milán."
         }
       }
     },
     {
-      "id_suggested": "milano-brera-2bed-period-1188",
-      "source_url": "https://www.engelvoelkers.com/it-it/immobili/milano/",
-      "source_portal": "engelvoelkers.com",
-      "city": "Milano",
-      "neighborhood": "Brera",
-      "address_approx": "Via Solferino, Brera",
-      "title": "Brera: piano nobile two-bed with frescoed ceilings",
-      "description_short": "Piano nobile two-bedroom in a Brera palazzo, with frescoed ceilings, herringbone parquet and views over the Pinacoteca rooftops.",
-      "description_long": "On the piano nobile of a 19th-century palazzo a minute from the Pinacoteca, this 110 m² apartment is a textbook expression of Brera's gentle grandeur. Three bays of windows face Via Solferino; the rooflines of the Pinacoteca and the Botanical Garden are visible from the reception sofas.\n\nFrescoed ceilings, restored in 2018, run across the principal reception and the formal dining room; both rooms are connected enfilade and finished with original herringbone parquet. The kitchen is a separate room, fitted by a Milanese maker in oak and Verde Alpi marble.\n\nTwo bedrooms occupy the quiet courtyard wing. The principal suite includes a fitted dressing room and an en-suite bathroom in honed travertine; the second bedroom shares the family bathroom finished in Vicenza stone.\n\nThe building is grand but discreet: gated entrance, a single resident per floor, lift and porter from 7am to 8pm. A private cellar is included in the sale; a single garage space is available separately by negotiation.\n\nBrera at its most authentic: the Pinacoteca, the Botanical Garden, Antica Trattoria della Pesa and the Saturday market on Via San Marco are all within a five-minute radius.",
-      "price": 1450000,
+      "id_suggested": "miakasa-uboldo-trilocale-26062025",
+      "source_url": "https://miakasa.it/SchedaImmobile.aspx?codice=26062025",
+      "source_portal": "miakasa.it",
+      "city": "Uboldo",
+      "neighborhood": "Centro",
+      "address_approx": "Zona centrale, Uboldo (VA)",
+      "title": "Trilocale elegante con doppi servizi e box doppio",
+      "description_short": "Raffinato trilocale di 95 m² in stato ottimo, con doppi servizi, ampi balconi, box doppio e ascensore. In contesto residenziale tranquillo di Uboldo.",
+      "description_long": "In un contesto residenziale tranquillo e ben servito di Uboldo, proponiamo in vendita questo raffinato appartamento di tre locali di 95 m², caratterizzato da spazi generosi e ambienti distribuiti con razionalità. Una soluzione pensata per chi ricerca comfort e funzionalità senza compromessi.\n\nL'immobile si compone di un ampio soggiorno luminoso, una cucina abitabile con accesso diretto a un balcone di servizio, due camere da letto e due bagni completi. Il secondo balcone, di generose dimensioni, si affaccia sulla zona giorno ed è ideale per l'aperitivo all'aperto o per organizzare un piccolo angolo verde in città.\n\nL'abitazione si presenta in ottime condizioni, completamente priva di interventi di ristrutturazione necessari. Le finiture, la doppia esposizione e la luminosità naturale garantiscono un'esperienza abitativa immediata, da vivere fin dal giorno del rogito.\n\nDotazioni tecniche di pregio: impianto di climatizzazione, riscaldamento autonomo con caldaia di recente installazione, ascensore condominiale, classe energetica D con IPE 102,46. Cantina di servizio inclusa nella proprietà.\n\nIl vero plus è il box doppio di proprietà, una dotazione rara per questa metratura e fascia di prezzo. Una proposta solida per famiglie o coppie che vogliono entrare nel mercato di Uboldo senza compromessi sulla qualità e sul comfort quotidiano.",
+      "price": 227000,
       "currency": "EUR",
-      "sqm": 110,
+      "sqm": 95,
       "bedrooms": 2,
       "bathrooms": 2,
-      "property_type": "apartment",
+      "property_type": "Apartment",
       "features": [
-        "piano nobile",
-        "frescoed ceilings",
-        "herringbone parquet",
-        "porter service",
-        "Pinacoteca proximity",
-        "private cellar"
+        "box doppio",
+        "doppia esposizione",
+        "doppi servizi",
+        "ascensore",
+        "climatizzazione",
+        "caldaia di recente installazione",
+        "cantina",
+        "classe energetica D"
       ],
       "coordinates": {
-        "lat": 45.472,
-        "lng": 9.1869
+        "lat": 45.6019,
+        "lng": 8.9905
       },
       "photo_urls": [
-        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=1600&q=80",
-        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1600&q=80",
-        "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1600&q=80",
-        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1600&q=80"
+        "https://static3.agimonline.com/images/4Zzo19NTA0bO2M6eMTtpaZDoy2MDcz0MjtlbeHQ6fanBn9O3c6bMQ==e/b/0/20732.jpg",
+        "https://static3.agimonline.com/images/4Zzo18NTA01O2M6aMTtpbZDox4OTIw9NTtl9eHQ62anBn8O3c61MQ==a/b/0/19205.jpg",
+        "https://static3.agimonline.com/images/4Zzo11NTA02O2M69MTtp1ZDox9OTIwaMTtl2eHQ6danBn1O3c62MQ==9/b/0/19201.jpg",
+        "https://static3.agimonline.com/images/4Zzo1aNTA0eO2M6aMTtpeZDoxeOTIw1Mztl6eHQ65anBnaO3c6eMQ==a/b/0/19203.jpg",
+        "https://static3.agimonline.com/images/4Zzo19NTA04O2M62MTtpdZDoy9MDM13MDtldeHQ67anBn9O3c64MQ==2/b/0/20350.jpg",
+        "https://static3.agimonline.com/images/4Zzo1dNTA06O2M63MTtpeZDoxbOTE4dNTtlbeHQ6aanBndO3c66MQ==3/b/0/19185.jpg",
+        "https://static3.agimonline.com/images/4Zzo1fNTA0aO2M6cMTtp9ZDox8MjQ53O2V42dDpq0cGc7fdzoxa/b/0/1249.jpg",
+        "https://static3.agimonline.com/images/4Zzo1eNTA03O2M69MTtpdZDox2OTIw5NDtl4eHQ61anBneO3c63MQ==9/b/0/19204.jpg"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "photos_source_note": "Photos hotlinked from miakasa.it (demo for the actual agency)",
       "i18n": {
         "en": {
-          "title": "Brera: piano nobile two-bed with frescoed ceilings",
-          "description_short": "Piano nobile two-bedroom in a Brera palazzo, with frescoed ceilings, herringbone parquet and views over the Pinacoteca rooftops.",
-          "description_long": "On the piano nobile of a 19th-century palazzo a minute from the Pinacoteca, this 110 m² apartment is a textbook expression of Brera's gentle grandeur. Three bays of windows face Via Solferino; the rooflines of the Pinacoteca and the Botanical Garden are visible from the reception sofas.\n\nFrescoed ceilings, restored in 2018, run across the principal reception and the formal dining room; both rooms are connected enfilade and finished with original herringbone parquet. The kitchen is a separate room, fitted by a Milanese maker in oak and Verde Alpi marble.\n\nTwo bedrooms occupy the quiet courtyard wing. The principal suite includes a fitted dressing room and an en-suite bathroom in honed travertine; the second bedroom shares the family bathroom finished in Vicenza stone.\n\nThe building is grand but discreet: gated entrance, a single resident per floor, lift and porter from 7am to 8pm. A private cellar is included in the sale; a single garage space is available separately by negotiation.\n\nBrera at its most authentic: the Pinacoteca, the Botanical Garden, Antica Trattoria della Pesa and the Saturday market on Via San Marco are all within a five-minute radius."
+          "title": "Elegant Three-Room Apartment with Two Bathrooms and Double Garage",
+          "description_short": "A refined 95 sq m three-room apartment in excellent condition, with two bathrooms, generous balconies, double garage and lift. Set in a peaceful residential pocket of Uboldo.",
+          "description_long": "In a calm, well-served residential pocket of Uboldo, we present this refined three-room apartment of 95 sq m, characterised by generous proportions and a rationally distributed layout. A solution designed for those who seek comfort and functionality without compromise.\n\nThe property comprises a wide, light-filled living room, an eat-in kitchen with direct access to a service balcony, two bedrooms and two complete bathrooms. The second balcony, generously sized, opens off the living area and is ideal for an outdoor aperitivo or for arranging a small green corner in town.\n\nThe home is presented in excellent condition, with no refurbishment work required. The finishes, the double aspect and the abundant natural light ensure an immediate living experience, ready to be enjoyed from the day of completion.\n\nNoteworthy technical equipment: air-conditioning system, autonomous heating with a recently installed boiler, condominium lift, energy class D with PEI 102.46. Service cellar included.\n\nThe real plus is the privately owned double garage, a rare feature for this surface and price bracket. A solid proposition for families or couples wishing to enter the Uboldo market with no compromise on quality and daily comfort."
         },
         "it": {
-          "title": "Brera: piano nobile trilocale con soffitti affrescati",
-          "description_short": "Trilocale piano nobile in un palazzo di Brera, con soffitti affrescati, parquet a spina di pesce e vista sui tetti della Pinacoteca.",
-          "description_long": "Al piano nobile di un palazzo ottocentesco a un minuto dalla Pinacoteca, questo appartamento di 110 m² è una sintesi esemplare della grandeur misurata di Brera. Tre campate di finestre si affacciano su Via Solferino; le coperture della Pinacoteca e dell'Orto Botanico si scorgono dai divani del salotto.\n\nI soffitti affrescati, restaurati nel 2018, attraversano il salone principale e la sala da pranzo formale; le due stanze sono collegate in enfilade e finite con il parquet originale a spina di pesce. La cucina è una stanza separata, realizzata da un artigiano milanese in rovere e marmo Verde Alpi.\n\nDue camere occupano l'ala silenziosa sul cortile. La suite principale comprende una cabina armadio attrezzata e un bagno en-suite in travertino levigato; la seconda camera condivide il bagno di famiglia rivestito in pietra di Vicenza.\n\nL'edificio è imponente ma discreto: ingresso controllato, un solo residente per piano, ascensore e portineria dalle 7 alle 20. Una cantina privata è inclusa nella vendita; un box auto è disponibile separatamente su trattativa.\n\nBrera nella sua espressione più autentica: la Pinacoteca, l'Orto Botanico, l'Antica Trattoria della Pesa e il mercato del sabato in Via San Marco sono tutti nel raggio di cinque minuti."
+          "title": "Trilocale elegante con doppi servizi e box doppio",
+          "description_short": "Raffinato trilocale di 95 m² in stato ottimo, con doppi servizi, ampi balconi, box doppio e ascensore. In contesto residenziale tranquillo di Uboldo.",
+          "description_long": "In un contesto residenziale tranquillo e ben servito di Uboldo, proponiamo in vendita questo raffinato appartamento di tre locali di 95 m², caratterizzato da spazi generosi e ambienti distribuiti con razionalità. Una soluzione pensata per chi ricerca comfort e funzionalità senza compromessi.\n\nL'immobile si compone di un ampio soggiorno luminoso, una cucina abitabile con accesso diretto a un balcone di servizio, due camere da letto e due bagni completi. Il secondo balcone, di generose dimensioni, si affaccia sulla zona giorno ed è ideale per l'aperitivo all'aperto o per organizzare un piccolo angolo verde in città.\n\nL'abitazione si presenta in ottime condizioni, completamente priva di interventi di ristrutturazione necessari. Le finiture, la doppia esposizione e la luminosità naturale garantiscono un'esperienza abitativa immediata, da vivere fin dal giorno del rogito.\n\nDotazioni tecniche di pregio: impianto di climatizzazione, riscaldamento autonomo con caldaia di recente installazione, ascensore condominiale, classe energetica D con IPE 102,46. Cantina di servizio inclusa nella proprietà.\n\nIl vero plus è il box doppio di proprietà, una dotazione rara per questa metratura e fascia di prezzo. Una proposta solida per famiglie o coppie che vogliono entrare nel mercato di Uboldo senza compromessi sulla qualità e sul comfort quotidiano."
         },
         "es": {
-          "title": "Brera: piano nobile de dos dormitorios con techos al fresco",
-          "description_short": "Piano nobile de dos dormitorios en un palazzo de Brera, con techos al fresco, parquet en espiga y vistas a los tejados de la Pinacoteca.",
-          "description_long": "En el piano nobile de un palazzo del siglo XIX, a un minuto de la Pinacoteca, este piso de 110 m² es un manual de la grandeza serena de Brera. Tres vanos de ventanas se asoman a Via Solferino; las cubiertas de la Pinacoteca y del Jardín Botánico se distinguen desde los sofás del salón.\n\nLos techos al fresco, restaurados en 2018, recorren el salón principal y el comedor formal; ambas estancias se conectan en enfilade y mantienen el parquet original en espiga. La cocina, en sala independiente, ha sido ejecutada por un artesano milanés en roble y mármol Verde Alpi.\n\nDos dormitorios ocupan el ala tranquila del patio. La suite principal incluye vestidor a medida y baño en suite en travertino abujardado; el segundo dormitorio comparte el baño familiar revestido en piedra de Vicenza.\n\nEl edificio es señorial pero discreto: entrada controlada, un único residente por planta, ascensor y portería de 7 a 20 horas. La venta incluye trastero privado; existe una plaza de garaje disponible por negociación.\n\nBrera en su versión más auténtica: la Pinacoteca, el Jardín Botánico, la Antica Trattoria della Pesa y el mercado de los sábados en Via San Marco quedan todos en un radio de cinco minutos."
+          "title": "Apartamento de tres ambientes elegante con dos baños y garaje doble",
+          "description_short": "Refinado apartamento de tres ambientes de 95 m² en estado óptimo, con dos baños, amplios balcones, garaje doble y ascensor. En una zona residencial tranquila de Uboldo.",
+          "description_long": "En un contexto residencial tranquilo y bien servido de Uboldo, ofrecemos en venta este refinado apartamento de tres ambientes de 95 m², caracterizado por espacios generosos y estancias distribuidas con racionalidad. Una solución pensada para quien busca confort y funcionalidad sin compromisos.\n\nEl inmueble se compone de un amplio salón luminoso, una cocina office con acceso directo a un balcón de servicio, dos dormitorios y dos baños completos. El segundo balcón, de dimensiones generosas, se asoma a la zona de día y es ideal para el aperitivo al aire libre o para organizar un pequeño rincón verde en la ciudad.\n\nLa vivienda se presenta en óptimas condiciones, sin necesidad de intervenciones de reforma. Los acabados, la doble orientación y la luminosidad natural garantizan una experiencia habitable inmediata, lista para disfrutarse desde el día de la firma.\n\nDotaciones técnicas de prestigio: sistema de climatización, calefacción autónoma con caldera de reciente instalación, ascensor de comunidad, calificación energética D con IPE 102,46. Trastero de servicio incluido en la propiedad.\n\nEl verdadero plus es el garaje doble en propiedad, una dotación rara para esta superficie y franja de precio. Una propuesta sólida para familias o parejas que desean entrar en el mercado de Uboldo sin compromisos en calidad y confort cotidiano."
         }
       }
     },
     {
-      "id_suggested": "milano-cinque-vie-3bed-design-7720",
-      "source_url": "https://www.casa.it/vendita/residenziale/milano-centro",
-      "source_portal": "casa.it",
-      "city": "Milano",
-      "neighborhood": "Cinque Vie",
-      "address_approx": "Via Bocchetto, Cinque Vie",
-      "title": "Cinque Vie: designer three-bed in a restored palazzo",
-      "description_short": "Recently restored three-bed apartment in Milan's design district, with double-aspect reception and walking distance to Duomo.",
-      "description_long": "On a cobbled side street in the heart of the Cinque Vie design district, this 138 m² apartment occupies the second floor of a restored 17th-century palazzo. The renovation, completed by a Milanese studio in 2023, balances the building's historic shell with a contemporary, gallery-grade interior.\n\nThe entrance opens onto a double-aspect reception of generous proportions, with original wood beams overhead and wide-plank oak underfoot. A discrete open kitchen in matt black and Bianco Statuario marble is integrated into one end of the room, leaving the seating area uninterrupted by services.\n\nThree bedrooms arranged in a private wing, the principal with a dressing area and en-suite bathroom in book-matched onyx. Two further bedrooms share a second bathroom finished in micro-cement. A guest cloakroom and a separate laundry complete the layout.\n\nThe Cinque Vie has emerged as the city's most concentrated cluster of design galleries, anchored by the annual Salone del Mobile fringe events. Piazza Affari, Duomo and the Sforza Castle are all within five minutes on foot.\n\nA confident, design-forward proposition for a creative or international buyer.",
-      "price": 1620000,
+      "id_suggested": "miakasa-saronno-quadrilocale-13042026",
+      "source_url": "https://miakasa.it/SchedaImmobile.aspx?codice=13042026",
+      "source_portal": "miakasa.it",
+      "city": "Saronno",
+      "neighborhood": "Quadrifamiliare residenziale",
+      "address_approx": "Zona residenziale, Saronno (VA)",
+      "title": "Quadrilocale di 140 m² in palazzina quadrifamiliare",
+      "description_short": "Spazioso quadrilocale di 140 m² in palazzina di sole quattro famiglie a Saronno, con tre camere, doppi servizi, due balconi e cantina. Parzialmente ristrutturato.",
+      "description_long": "Spazio, luce e libertà: a Saronno, in una palazzina quadrifamiliare di carattere residenziale, proponiamo in vendita questo quadrilocale di 140 m² pensato per chi cerca una casa dove vivere davvero, non solo un posto dove dormire. Tranquillità senza rinunciare alla comodità dei servizi cittadini.\n\nLa zona giorno è il cuore pulsante della casa: ampia, luminosa e altamente vivibile. Il soggiorno e la zona pranzo accolgono divani comodi, un tavolo da pranzo importante e una possibile postazione di smart working, senza che gli spazi risultino mai compressi.\n\nLe camere da letto sono tre, tra cui una matrimoniale con balcone privato dedicato. Una soluzione che permette di svegliarsi all'aria aperta e che restituisce alla camera padronale un valore quotidiano percepito. I due bagni, di cui uno cieco, sono distribuiti con razionalità per servire al meglio le tre stanze.\n\nI balconi sono due: il primo, più raccolto, dedicato alla camera matrimoniale; il secondo, di dimensioni generose, con accesso diretto dal soggiorno, ideale per l'estate e per ricevere ospiti. Completa la proprietà una cantina di servizio.\n\nLa casa è parzialmente ristrutturata, quindi già pronta per essere abitata, ma con margini di personalizzazione che permettono all'acquirente di firmare gli ultimi dettagli. Classe energetica E, riscaldamento autonomo, posizione tranquilla a pochi minuti dal centro di Saronno: una proposta solida per famiglie o coppie ambiziose.",
+      "price": 259000,
       "currency": "EUR",
-      "sqm": 138,
+      "sqm": 140,
       "bedrooms": 3,
       "bathrooms": 2,
-      "property_type": "apartment",
+      "property_type": "Apartment",
       "features": [
-        "restored palazzo",
-        "double aspect",
-        "wood beams",
-        "oak floors",
-        "designer kitchen",
-        "Duomo walk"
+        "palazzina quadrifamiliare",
+        "tre camere da letto",
+        "due balconi",
+        "cantina",
+        "parzialmente ristrutturato",
+        "riscaldamento autonomo",
+        "zona giorno ampia"
       ],
       "coordinates": {
-        "lat": 45.4637,
-        "lng": 9.1815
+        "lat": 45.6258,
+        "lng": 9.0356
       },
       "photo_urls": [
-        "https://images.unsplash.com/photo-1600585154363-67eb9e2e2099?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600585152915-d208bec867a1?w=1600&q=80",
-        "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=1600&q=80",
-        "https://images.unsplash.com/photo-1556909172-54557c7e4fb7?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1600&q=80"
+        "https://static3.agimonline.com/images/4Zzo17NTA0bO2M67MTtpaZDoy7MDU18OTtleeHQ6eanBn7O3c6bMQ==7/b/0/20559.jpg",
+        "https://static3.agimonline.com/images/4Zzo16NTA0bO2M60MTtpdZDoy2MDU16Nztl9eHQ64anBn6O3c6bMQ==0/b/0/20557.jpg",
+        "https://static3.agimonline.com/images/4Zzo15NTA0eO2M69MTtp9ZDoyeMDU21Mjtl5eHQ6danBn5O3c6eMQ==9/b/0/20562.jpg",
+        "https://static3.agimonline.com/images/4Zzo1eNTA0eO2M63MTtp9ZDoyfMDU4fMjtl1eHQ63anBneO3c6eMQ==3/b/0/20582.jpg",
+        "https://static3.agimonline.com/images/4Zzo1dNTA02O2M60MTtp4ZDoybMDU07Nztl1eHQ6eanBndO3c62MQ==0/b/0/20547.jpg",
+        "https://static3.agimonline.com/images/4Zzo13NTA02O2M61MTtpbZDoy1MDU20Nztl3eHQ62anBn3O3c62MQ==1/b/0/20567.jpg",
+        "https://static3.agimonline.com/images/4Zzo15NTA01O2M61MTtp7ZDoyaMDUz3Nztl7eHQ6aanBn5O3c61MQ==1/b/0/20537.jpg",
+        "https://static3.agimonline.com/images/4Zzo1dNTA09O2M6dMTtp9ZDoy0MDU27MTtl4eHQ6banBndO3c69MQ==d/b/0/20561.jpg"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "photos_source_note": "Photos hotlinked from miakasa.it (demo for the actual agency)",
       "i18n": {
         "en": {
-          "title": "Cinque Vie: designer three-bed in a restored palazzo",
-          "description_short": "Recently restored three-bed apartment in Milan's design district, with double-aspect reception and walking distance to Duomo.",
-          "description_long": "On a cobbled side street in the heart of the Cinque Vie design district, this 138 m² apartment occupies the second floor of a restored 17th-century palazzo. The renovation, completed by a Milanese studio in 2023, balances the building's historic shell with a contemporary, gallery-grade interior.\n\nThe entrance opens onto a double-aspect reception of generous proportions, with original wood beams overhead and wide-plank oak underfoot. A discrete open kitchen in matt black and Bianco Statuario marble is integrated into one end of the room, leaving the seating area uninterrupted by services.\n\nThree bedrooms arranged in a private wing, the principal with a dressing area and en-suite bathroom in book-matched onyx. Two further bedrooms share a second bathroom finished in micro-cement. A guest cloakroom and a separate laundry complete the layout.\n\nThe Cinque Vie has emerged as the city's most concentrated cluster of design galleries, anchored by the annual Salone del Mobile fringe events. Piazza Affari, Duomo and the Sforza Castle are all within five minutes on foot.\n\nA confident, design-forward proposition for a creative or international buyer."
+          "title": "Four-Room Apartment of 140 sq m in Four-Family Building",
+          "description_short": "A spacious 140 sq m four-room apartment within a four-family building in Saronno, with three bedrooms, two bathrooms, two balconies and cellar. Partially refurbished.",
+          "description_long": "Space, light and freedom: in Saronno, within a four-family residential building, we present this 140 sq m four-room apartment designed for those who want a home to live in, not merely a place to sleep. Tranquillity, without renouncing the convenience of urban services.\n\nThe living area is the beating heart of the home: wide, luminous and highly livable. The living room and dining area welcome comfortable sofas, a substantial dining table and a possible smart-working station, without the spaces ever feeling compressed.\n\nThere are three bedrooms, including a master with a dedicated private balcony. A solution that allows one to wake up in the open air and that gives the master suite a tangible everyday value. The two bathrooms, one internal, are rationally distributed to serve the three rooms well.\n\nThere are two balconies: the first, more intimate, dedicated to the master bedroom; the second, generously sized, with direct access from the living room, ideal for summer and for entertaining guests. The property is completed by a service cellar.\n\nThe home is partially refurbished, therefore already ready to be lived in, but with margins for personalisation that allow the buyer to sign off the final details. Energy class E, autonomous heating, a quiet position a few minutes from the centre of Saronno: a solid proposition for ambitious families or couples."
         },
         "it": {
-          "title": "Cinque Vie: quadrilocale di design in palazzo restaurato",
-          "description_short": "Quadrilocale recentemente restaurato nel design district di Milano, con doppia esposizione del salone e Duomo a distanza pedonale.",
-          "description_long": "In una via acciottolata nel cuore del design district delle Cinque Vie, questo appartamento di 138 m² occupa il secondo piano di un palazzo seicentesco restaurato. L'intervento, completato da uno studio milanese nel 2023, equilibra l'involucro storico dell'edificio con un interno contemporaneo da galleria d'arte.\n\nL'ingresso si apre su un salone doppia esposizione di proporzioni generose, con travi in legno originali a vista e ampie tavole di rovere a pavimento. Una cucina open space discreta, in laccato nero opaco e marmo Bianco Statuario, è integrata a un'estremità della stanza, lasciando la zona conversazione libera da elementi di servizio.\n\nTre camere disposte in un'ala riservata, la principale con zona spogliatoio e bagno en-suite in onice book-matched. Le altre due camere condividono un secondo bagno finito in microcemento. Un guardaroba ospiti e una lavanderia separata completano la planimetria.\n\nLe Cinque Vie si sono affermate come il cluster più concentrato di gallerie di design della città, sostenuto dal fuorisalone del Salone del Mobile. Piazza Affari, il Duomo e il Castello Sforzesco si raggiungono in cinque minuti a piedi.\n\nUna proposta sicura e con forte identità progettuale per un acquirente creativo o internazionale."
+          "title": "Quadrilocale di 140 m² in palazzina quadrifamiliare",
+          "description_short": "Spazioso quadrilocale di 140 m² in palazzina di sole quattro famiglie a Saronno, con tre camere, doppi servizi, due balconi e cantina. Parzialmente ristrutturato.",
+          "description_long": "Spazio, luce e libertà: a Saronno, in una palazzina quadrifamiliare di carattere residenziale, proponiamo in vendita questo quadrilocale di 140 m² pensato per chi cerca una casa dove vivere davvero, non solo un posto dove dormire. Tranquillità senza rinunciare alla comodità dei servizi cittadini.\n\nLa zona giorno è il cuore pulsante della casa: ampia, luminosa e altamente vivibile. Il soggiorno e la zona pranzo accolgono divani comodi, un tavolo da pranzo importante e una possibile postazione di smart working, senza che gli spazi risultino mai compressi.\n\nLe camere da letto sono tre, tra cui una matrimoniale con balcone privato dedicato. Una soluzione che permette di svegliarsi all'aria aperta e che restituisce alla camera padronale un valore quotidiano percepito. I due bagni, di cui uno cieco, sono distribuiti con razionalità per servire al meglio le tre stanze.\n\nI balconi sono due: il primo, più raccolto, dedicato alla camera matrimoniale; il secondo, di dimensioni generose, con accesso diretto dal soggiorno, ideale per l'estate e per ricevere ospiti. Completa la proprietà una cantina di servizio.\n\nLa casa è parzialmente ristrutturata, quindi già pronta per essere abitata, ma con margini di personalizzazione che permettono all'acquirente di firmare gli ultimi dettagli. Classe energetica E, riscaldamento autonomo, posizione tranquilla a pochi minuti dal centro di Saronno: una proposta solida per famiglie o coppie ambiziose."
         },
         "es": {
-          "title": "Cinque Vie: piso de diseño de tres dormitorios en palazzo restaurado",
-          "description_short": "Piso de tres dormitorios recientemente restaurado en el design district de Milán, con salón de doble orientación y Duomo a distancia caminable.",
-          "description_long": "En una callejuela empedrada en el corazón del design district de las Cinque Vie, este piso de 138 m² ocupa la segunda planta de un palazzo del siglo XVII rehabilitado. La intervención, finalizada en 2023 por un estudio milanés, equilibra la envolvente histórica del edificio con un interior contemporáneo de calidad de galería.\n\nLa entrada da paso a un salón de doble orientación de proporciones generosas, con vigas de madera originales a la vista y tarima ancha de roble en suelo. Una cocina abierta discreta, en lacado negro mate y mármol Bianco Statuario, se integra en un extremo de la sala, dejando la zona de estar libre de servicios.\n\nTres dormitorios distribuidos en un ala privada; el principal con zona de vestidor y baño en suite en ónice book-matched. Los otros dos dormitorios comparten un segundo baño acabado en microcemento. Un aseo de cortesía y una lavandería independiente completan la distribución.\n\nLas Cinque Vie se han consolidado como el clúster más concentrado de galerías de diseño de la ciudad, impulsado por los eventos paralelos al Salone del Mobile. Piazza Affari, el Duomo y el Castello Sforzesco quedan a cinco minutos a pie.\n\nUna propuesta segura, con fuerte identidad de diseño, para un comprador creativo o internacional."
+          "title": "Apartamento de cuatro ambientes de 140 m² en edificio cuatrifamiliar",
+          "description_short": "Espacioso apartamento de cuatro ambientes de 140 m² en edificio de solo cuatro familias en Saronno, con tres dormitorios, dos baños, dos balcones y trastero. Parcialmente reformado.",
+          "description_long": "Espacio, luz y libertad: en Saronno, dentro de un edificio residencial cuatrifamiliar, ofrecemos en venta este apartamento de cuatro ambientes de 140 m² pensado para quien busca una casa donde vivir de verdad, no solo un lugar donde dormir. Tranquilidad, sin renunciar a la comodidad de los servicios urbanos.\n\nLa zona de día es el corazón palpitante de la casa: amplia, luminosa y altamente habitable. El salón y la zona de comedor acogen sofás cómodos, una mesa importante y una posible estación de teletrabajo, sin que los espacios se sientan nunca comprimidos.\n\nLos dormitorios son tres, entre ellos uno principal con balcón privado dedicado. Una solución que permite despertarse al aire libre y que devuelve al dormitorio principal un valor cotidiano tangible. Los dos baños, uno interior, están distribuidos con racionalidad para servir bien las tres estancias.\n\nLos balcones son dos: el primero, más recogido, dedicado al dormitorio principal; el segundo, de dimensiones generosas, con acceso directo desde el salón, ideal para el verano y para recibir invitados. Completa la propiedad un trastero de servicio.\n\nLa casa está parcialmente reformada, por lo que ya está lista para vivirse, pero con márgenes de personalización que permiten al comprador firmar los últimos detalles. Calificación energética E, calefacción autónoma, posición tranquila a pocos minutos del centro de Saronno: una propuesta sólida para familias o parejas ambiciosas."
         }
       }
     },
     {
-      "id_suggested": "milano-sempione-arco-pace-2200",
-      "source_url": "https://www.immobiliare.it/vendita-case/milano/sempione/",
-      "source_portal": "immobiliare.it",
-      "city": "Milano",
-      "neighborhood": "Sempione",
-      "address_approx": "Corso Sempione, Arco della Pace",
-      "title": "Sempione: park-facing three-bed with private balcony",
-      "description_short": "Three-bedroom park-facing apartment with private balcony, in a stately period building on Corso Sempione.",
-      "description_long": "Set on the third floor of an elegant 1920s building, this 150 m² apartment enjoys a direct view onto Corso Sempione and, beyond, the Arco della Pace and Parco Sempione. The owners have lived here for two decades; the apartment is presented in excellent condition with a recent cosmetic refresh.\n\nThe living-dining room runs across the front facade, opening through three french windows onto a 9 m² balcony. The kitchen is a separate, fully fitted room finished in lacquered cabinetry. Three bedrooms occupy the quiet rear of the apartment; two bathrooms (one en-suite to the principal) are finished in marble and limestone respectively.\n\nThe building offers porter service, lift access, a leafy internal courtyard and a private cellar. Air-conditioning is installed throughout. A garage space is available separately by negotiation.\n\nThe Sempione axis is one of Milan's most desirable family addresses, anchored by the park, the Triennale Design Museum and the historic tram lines that thread through the neighbourhood. Cadorna FS and M1 are eight minutes on foot.",
-      "price": 1280000,
+      "id_suggested": "miakasa-caronno-pertusella-duplex-29032026",
+      "source_url": "https://miakasa.it/SchedaImmobile.aspx?codice=29032026",
+      "source_portal": "miakasa.it",
+      "city": "Caronno Pertusella",
+      "neighborhood": "Residenziale",
+      "address_approx": "Zona residenziale, Caronno Pertusella (VA)",
+      "title": "Duplex con terrazzo e tripla esposizione, box doppio incluso",
+      "description_short": "Quadrilocale duplex di 125 m² in palazzina in mattoncini a vista a Caronno Pertusella, con tre camere, terrazzo, box doppio e posto auto. Tripla esposizione.",
+      "description_long": "In un contesto tranquillo e familiare di Caronno Pertusella, proponiamo in vendita questo appartamento duplex di 125 m² che si sviluppa al primo e ultimo piano di una palazzina in mattoncini a vista, composta da sole quattro unità abitative e due ville. Una scala condivisa di pochi gradini, una densità abitativa contenuta.\n\nL'ingresso si apre su una luminosa zona giorno, dove il soggiorno e la cucina abitabile si affacciano sul terrazzo, ideale per vivere l'esterno in ogni stagione. Sullo stesso livello si trovano il ripostiglio e un bagno finestrato, servito da un balcone che garantisce luce naturale e aerazione costante.\n\nUna scala interna conduce al piano mansardato, dove si sviluppa la zona notte. Tre camere da letto, tutte ben dimensionate e con altezze utili confortevoli, accolgono famiglia e ospiti. Una delle camere dispone di un balcone privato dedicato. Completa il piano un secondo bagno, anch'esso finestrato e di generose dimensioni.\n\nL'appartamento è dotato di impianto di riscaldamento e climatizzazione autonomi, oltre a un impianto d'antifurto. Gli ambienti sono ben distribuiti e godono di una rara tripla esposizione, che garantisce luminosità durante tutto l'arco della giornata. Classe energetica D con IPE 102,75.\n\nIl plus della proprietà è il box doppio incluso, con disponibilità di configurazione singola o tripla a richiesta, e il posto auto esterno. Una proposta perfetta per famiglie esigenti.",
+      "price": 305000,
       "currency": "EUR",
-      "sqm": 150,
+      "sqm": 125,
       "bedrooms": 3,
       "bathrooms": 2,
-      "property_type": "apartment",
+      "property_type": "Apartment",
       "features": [
-        "park view",
-        "private balcony",
-        "porter service",
-        "internal courtyard",
-        "1920s building",
-        "tram lines"
+        "duplex su due piani",
+        "terrazzo abitabile",
+        "tripla esposizione",
+        "box doppio configurabile",
+        "posto auto",
+        "antifurto",
+        "climatizzazione autonoma",
+        "tre camere"
       ],
       "coordinates": {
-        "lat": 45.4775,
-        "lng": 9.1689
+        "lat": 45.5921,
+        "lng": 9.0461
       },
       "photo_urls": [
-        "https://images.unsplash.com/photo-1600210491892-03d54c0aaf87?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1600&q=80",
-        "https://images.unsplash.com/photo-1560185009-5bf9f2849488?w=1600&q=80",
-        "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1600&q=80"
+        "https://static3.agimonline.com/images/4Zzo1bNTA0cO2M60MTtpaZDoyaMDQybMTtlceHQ64anBnbO3c6cMQ==0/b/0/20421.jpg",
+        "https://static3.agimonline.com/images/4Zzo1fNTA06O2M62MTtp7ZDoycMDQ01NTtl7eHQ66anBnfO3c66MQ==2/b/0/20445.jpg",
+        "https://static3.agimonline.com/images/4Zzo14NTA0eO2M6bMTtp7ZDoy4MDQ12NTtl8eHQ65anBn4O3c6eMQ==b/b/0/20455.jpg",
+        "https://static3.agimonline.com/images/4Zzo15NTA0dO2M63MTtp9ZDoycMDQ1aOTtlfeHQ66anBn5O3c6dMQ==3/b/0/20459.jpg",
+        "https://static3.agimonline.com/images/4Zzo1cNTA03O2M65MTtpbZDoyfMDQ17Njtl3eHQ6eanBncO3c63MQ==5/b/0/20456.jpg",
+        "https://static3.agimonline.com/images/4Zzo16NTA02O2M6dMTtp4ZDoy7MDQ1dNztl3eHQ67anBn6O3c62MQ==d/b/0/20457.jpg",
+        "https://static3.agimonline.com/images/4Zzo1eNTA0eO2M65MTtpaZDoy1MDQ02MTtl5eHQ63anBneO3c6eMQ==5/b/0/20441.jpg",
+        "https://static3.agimonline.com/images/4Zzo16NTA0eO2M67MTtp3ZDoycMDQ01MjtleeHQ6aanBn6O3c6eMQ==7/b/0/20442.jpg"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "photos_source_note": "Photos hotlinked from miakasa.it (demo for the actual agency)",
       "i18n": {
         "en": {
-          "title": "Sempione: park-facing three-bed with private balcony",
-          "description_short": "Three-bedroom park-facing apartment with private balcony, in a stately period building on Corso Sempione.",
-          "description_long": "Set on the third floor of an elegant 1920s building, this 150 m² apartment enjoys a direct view onto Corso Sempione and, beyond, the Arco della Pace and Parco Sempione. The owners have lived here for two decades; the apartment is presented in excellent condition with a recent cosmetic refresh.\n\nThe living-dining room runs across the front facade, opening through three french windows onto a 9 m² balcony. The kitchen is a separate, fully fitted room finished in lacquered cabinetry. Three bedrooms occupy the quiet rear of the apartment; two bathrooms (one en-suite to the principal) are finished in marble and limestone respectively.\n\nThe building offers porter service, lift access, a leafy internal courtyard and a private cellar. Air-conditioning is installed throughout. A garage space is available separately by negotiation.\n\nThe Sempione axis is one of Milan's most desirable family addresses, anchored by the park, the Triennale Design Museum and the historic tram lines that thread through the neighbourhood. Cadorna FS and M1 are eight minutes on foot."
+          "title": "Duplex with Terrace and Triple Aspect, Double Garage Included",
+          "description_short": "A 125 sq m four-room duplex within a fair-faced brick building in Caronno Pertusella, with three bedrooms, terrace, double garage and parking space. Triple aspect.",
+          "description_long": "In a calm and family-oriented setting of Caronno Pertusella, we present this 125 sq m duplex apartment, set on the first and uppermost floor of a fair-faced brick building made up of only four apartments and two villas. A shared staircase of a few steps, a contained residential density.\n\nThe entrance opens onto a bright living area, where the living room and the eat-in kitchen face the terrace, ideal for enjoying outdoor living in every season. On the same level sit the storage room and a window-lit bathroom, served by a balcony that guarantees consistent natural light and ventilation.\n\nAn internal staircase leads up to the attic level, where the sleeping zone unfolds. Three bedrooms, all well sized and with comfortable usable heights, welcome family and guests. One of the rooms enjoys a dedicated private balcony. The floor is completed by a second bathroom, also window-lit and generously sized.\n\nThe apartment is equipped with autonomous heating and air-conditioning systems, alongside an alarm system. The rooms are well distributed and enjoy a rare triple aspect, which guarantees natural light throughout the entire day. Energy class D with PEI 102.75.\n\nThe property's plus is the included double garage, with the option of a single or triple configuration on request, plus an external parking space. A perfect proposition for demanding families."
         },
         "it": {
-          "title": "Sempione: quadrilocale fronte parco con balcone privato",
-          "description_short": "Quadrilocale fronte parco con balcone privato, in un signorile edificio d'epoca su Corso Sempione.",
-          "description_long": "Al terzo piano di un elegante edificio degli anni '20, questo appartamento di 150 m² gode di un affaccio diretto su Corso Sempione e, oltre, sull'Arco della Pace e su Parco Sempione. I proprietari vi abitano da vent'anni; l'immobile si presenta in eccellenti condizioni a seguito di un recente rinfresco estetico.\n\nIl soggiorno-pranzo corre lungo la facciata principale e si apre attraverso tre porte-finestre su un balcone di 9 m². La cucina è una stanza separata, completamente attrezzata e finita in laccato. Tre camere occupano la zona notte tranquilla; due bagni (uno en-suite della principale) sono rifiniti rispettivamente in marmo e in pietra calcarea.\n\nL'edificio dispone di portierato, ascensore, un cortile interno alberato e una cantina privata. L'aria condizionata è installata in tutte le stanze. Un box auto è disponibile separatamente su trattativa.\n\nL'asse Sempione è uno degli indirizzi familiari più desiderati di Milano, sostenuto dal parco, dalla Triennale e dalle storiche linee tranviarie che attraversano il quartiere. Cadorna FS e M1 si raggiungono in otto minuti a piedi."
+          "title": "Duplex con terrazzo e tripla esposizione, box doppio incluso",
+          "description_short": "Quadrilocale duplex di 125 m² in palazzina in mattoncini a vista a Caronno Pertusella, con tre camere, terrazzo, box doppio e posto auto. Tripla esposizione.",
+          "description_long": "In un contesto tranquillo e familiare di Caronno Pertusella, proponiamo in vendita questo appartamento duplex di 125 m² che si sviluppa al primo e ultimo piano di una palazzina in mattoncini a vista, composta da sole quattro unità abitative e due ville. Una scala condivisa di pochi gradini, una densità abitativa contenuta.\n\nL'ingresso si apre su una luminosa zona giorno, dove il soggiorno e la cucina abitabile si affacciano sul terrazzo, ideale per vivere l'esterno in ogni stagione. Sullo stesso livello si trovano il ripostiglio e un bagno finestrato, servito da un balcone che garantisce luce naturale e aerazione costante.\n\nUna scala interna conduce al piano mansardato, dove si sviluppa la zona notte. Tre camere da letto, tutte ben dimensionate e con altezze utili confortevoli, accolgono famiglia e ospiti. Una delle camere dispone di un balcone privato dedicato. Completa il piano un secondo bagno, anch'esso finestrato e di generose dimensioni.\n\nL'appartamento è dotato di impianto di riscaldamento e climatizzazione autonomi, oltre a un impianto d'antifurto. Gli ambienti sono ben distribuiti e godono di una rara tripla esposizione, che garantisce luminosità durante tutto l'arco della giornata. Classe energetica D con IPE 102,75.\n\nIl plus della proprietà è il box doppio incluso, con disponibilità di configurazione singola o tripla a richiesta, e il posto auto esterno. Una proposta perfetta per famiglie esigenti."
         },
         "es": {
-          "title": "Sempione: piso de tres dormitorios frente al parque con balcón",
-          "description_short": "Piso de tres dormitorios frente al parque con balcón privado, en un señorial edificio de época sobre Corso Sempione.",
-          "description_long": "En la tercera planta de un elegante edificio de los años 20, este piso de 150 m² disfruta de vistas directas a Corso Sempione y, más allá, al Arco della Pace y al Parco Sempione. Los propietarios viven aquí desde hace dos décadas; el inmueble se presenta en excelente estado tras un reciente lavado de cara estético.\n\nEl salón-comedor recorre la fachada principal y se abre a través de tres puertas-ventana a un balcón de 9 m². La cocina es una sala independiente totalmente equipada, acabada en mobiliario lacado. Tres dormitorios ocupan la tranquila zona trasera del piso; dos baños (uno en suite del principal) están terminados respectivamente en mármol y en piedra caliza.\n\nEl edificio ofrece servicio de portería, ascensor, un patio interior ajardinado y trastero privado. El aire acondicionado está instalado en todas las estancias. Existe una plaza de garaje disponible por negociación.\n\nEl eje Sempione es una de las direcciones familiares más codiciadas de Milán, articulado por el parque, la Triennale del Diseño y las históricas líneas de tranvía que cruzan el barrio. Cadorna FS y M1 quedan a ocho minutos a pie."
+          "title": "Dúplex con terraza y triple orientación, garaje doble incluido",
+          "description_short": "Apartamento dúplex de cuatro ambientes de 125 m² en edificio de ladrillo visto en Caronno Pertusella, con tres dormitorios, terraza, garaje doble y plaza de aparcamiento. Triple orientación.",
+          "description_long": "En un contexto tranquilo y familiar de Caronno Pertusella, ofrecemos en venta este apartamento dúplex de 125 m² que se desarrolla en la primera y última planta de un edificio de ladrillo visto, compuesto por solo cuatro unidades habitativas y dos villas. Una escalera compartida de pocos peldaños, una densidad residencial contenida.\n\nLa entrada se abre a una luminosa zona de día, donde el salón y la cocina office se asoman a la terraza, ideal para vivir el exterior en cualquier estación. En el mismo nivel se encuentran el trastero y un baño con ventana, servido por un balcón que garantiza luz natural y ventilación constante.\n\nUna escalera interna conduce a la planta abuhardillada, donde se desarrolla la zona de noche. Tres dormitorios, todos bien dimensionados y con alturas útiles cómodas, acogen familia e invitados. Una de las habitaciones dispone de un balcón privado dedicado. Completa la planta un segundo baño, también con ventana y de dimensiones generosas.\n\nEl apartamento está dotado de calefacción y climatización autónomas, además de sistema de alarma. Las estancias están bien distribuidas y disfrutan de una rara triple orientación, que garantiza luminosidad a lo largo de todo el día. Calificación energética D con IPE 102,75.\n\nEl plus de la propiedad es el garaje doble incluido, con posibilidad de configuración simple o triple bajo demanda, más una plaza de aparcamiento exterior. Una propuesta perfecta para familias exigentes."
         }
       }
     },
     {
-      "id_suggested": "milano-porta-nuova-citylife-skyline-9988",
-      "source_url": "https://www.idealista.it/vendita-case/milano-milano/porta-nuova/",
-      "source_portal": "idealista.it",
-      "city": "Milano",
-      "neighborhood": "Porta Nuova",
-      "address_approx": "Via Melchiorre Gioia, Porta Nuova",
-      "title": "Porta Nuova: contemporary three-bed with skyline views",
-      "description_short": "Three-bed contemporary apartment on a high floor near Piazza Gae Aulenti, with floor-to-ceiling glazing and concierge service.",
-      "description_long": "On the fourteenth floor of one of Porta Nuova's signature residential towers, this 145 m² apartment delivers the prototype Milanese skyline experience: floor-to-ceiling glazing, double aspect over the Bosco Verticale and Garibaldi station, and a covered terrace of 18 m² where the city lights take care of the soundtrack.\n\nThe open-plan reception accommodates a formal dining area and a sequence of seating zones. The kitchen, by an Italian boutique brand, is finished in matt lacquer and quartzite. The principal suite includes a fitted dressing room and an en-suite bathroom in book-matched marble; two further bedrooms share a family bathroom in limestone.\n\nThe building offers 24-hour concierge, a residents-only gym, a courtyard garden and underground parking. The sale includes a single secure parking space and a basement cellar.\n\nPiazza Gae Aulenti is two minutes on foot, with the Apple Store amphitheatre and the Saturday farmers' market beneath the apartment windows. M5 Isola and Garibaldi FS are within a five-minute radius.\n\nA turnkey proposition for the international buyer who wants Milan's newest skyline at street level.",
-      "price": 1750000,
+      "id_suggested": "miakasa-origgio-villa-nuova-17062026-1",
+      "source_url": "https://miakasa.it/SchedaImmobile.aspx?codice=17062026-1",
+      "source_portal": "miakasa.it",
+      "city": "Origgio",
+      "neighborhood": "Viale della Resistenza",
+      "address_approx": "Viale della Resistenza 91, Origgio (VA)",
+      "title": "Villa unifamiliare nuova in classe A4 con giardino privato",
+      "description_short": "Villa unifamiliare di 142 m² in costruzione a Origgio, classe energetica A4, con giardino privato di 102 m², portico, pompa di calore e fotovoltaico.",
+      "description_long": "In Viale della Resistenza a Origgio, presentiamo le nuove villette unifamiliari di prossima realizzazione: un progetto residenziale che traduce il concetto di vivere bene in una scelta concreta, sostenibile e di lunga durata. Quattro locali, 142 m² di superficie utile, classe energetica A4: il massimo dell'efficienza in Lombardia.\n\nAl piano terra, un luminoso soggiorno open space con cucina apre direttamente sul giardino privato di 102 m² e sul portico coperto, ideale per vivere l'esterno in ogni stagione. Un bagno di servizio completa il livello. La continuità visiva tra interno ed esterno è il dettaglio di progetto che rende ogni villa accogliente fin dal primo sopralluogo.\n\nAl piano primo si distribuiscono tre ampie camere da letto e un secondo bagno completo. È possibile aggiungere un terrazzo privato alle due camerette laterali, regalando a ogni stanza un angolo di cielo personale e una visuale aperta sul parco residenziale.\n\nLa dotazione tecnica è di livello superiore: pompa di calore aria-acqua, impianto fotovoltaico in copertura, ventilazione meccanica controllata, riscaldamento a pavimento e isolamento maggiorato. Una combinazione di tecnologie che traduce la classe A4 in bollette quasi azzerate e in una protezione del valore immobiliare nel medio-lungo periodo.\n\nIl box doppio incluso, il giardino privato e la posizione tranquilla di Origgio, comune ben collegato all'autostrada A9 e ai principali poli di servizi, rendono questa villa una scelta ideale per famiglie in cerca di una casa nuova, definitiva e priva di compromessi.",
+      "price": 445000,
       "currency": "EUR",
-      "sqm": 145,
+      "sqm": 142,
       "bedrooms": 3,
       "bathrooms": 2,
-      "property_type": "apartment",
+      "property_type": "Villa",
       "features": [
-        "skyline views",
-        "floor-to-ceiling glazing",
-        "covered terrace",
-        "24h concierge",
-        "residents gym",
-        "underground parking"
+        "villa unifamiliare nuova",
+        "classe energetica A4",
+        "pompa di calore",
+        "fotovoltaico",
+        "VMC",
+        "riscaldamento a pavimento",
+        "giardino privato 102 m²",
+        "portico coperto",
+        "box doppio"
       ],
       "coordinates": {
-        "lat": 45.4837,
-        "lng": 9.1932
+        "lat": 45.5736,
+        "lng": 9.0014
       },
       "photo_urls": [
-        "https://images.unsplash.com/photo-1600573472556-e636c2acda88?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?w=1600&q=80",
-        "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?w=1600&q=80",
-        "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1600&q=80"
+        "https://static3.agimonline.com/images/4Zzo11NTA00O2M65MTtp3ZDoycMDkzcMDtl1eHQ69anBn1O3c60MQ==5/b/0/20930.jpg",
+        "https://static3.agimonline.com/images/4Zzo14NTA0eO2M6bMTtpeZDoyfMDky7OTtl9eHQ6danBn4O3c6eMQ==b/b/0/20929.jpg",
+        "https://static3.agimonline.com/images/4Zzo13NTA0aO2M60MTtpfZDoy4MDkzbMTtl7eHQ6banBn3O3c6aMQ==0/b/0/20931.jpg",
+        "https://static3.agimonline.com/images/4Zzo17NTA0cO2M62MTtpfZDoy2MDkzeMjtlaeHQ63anBn7O3c6cMQ==2/b/0/20932.jpg",
+        "https://static3.agimonline.com/images/4Zzo1eNTA0fO2M67MTtp4ZDoy5MDkzeMztl3eHQ6aanBneO3c6fMQ==7/b/0/20933.jpg",
+        "https://static3.agimonline.com/images/4Zzo14NTA06O2M60MTtp9ZDoy8MDkz7NDtl1eHQ6canBn4O3c66MQ==0/b/0/20934.jpg",
+        "https://static3.agimonline.com/images/4Zzo19NTA09O2M63MTtp3ZDoy7MDkz2NTtlfeHQ64anBn9O3c69MQ==3/b/0/20935.jpg",
+        "https://static3.agimonline.com/images/4Zzo10NTA0eO2M6aMTtpdZDoy0MDkzcNjtlaeHQ62anBn0O3c6eMQ==a/b/0/20936.jpg"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "photos_source_note": "Photos hotlinked from miakasa.it (demo for the actual agency)",
       "i18n": {
         "en": {
-          "title": "Porta Nuova: contemporary three-bed with skyline views",
-          "description_short": "Three-bed contemporary apartment on a high floor near Piazza Gae Aulenti, with floor-to-ceiling glazing and concierge service.",
-          "description_long": "On the fourteenth floor of one of Porta Nuova's signature residential towers, this 145 m² apartment delivers the prototype Milanese skyline experience: floor-to-ceiling glazing, double aspect over the Bosco Verticale and Garibaldi station, and a covered terrace of 18 m² where the city lights take care of the soundtrack.\n\nThe open-plan reception accommodates a formal dining area and a sequence of seating zones. The kitchen, by an Italian boutique brand, is finished in matt lacquer and quartzite. The principal suite includes a fitted dressing room and an en-suite bathroom in book-matched marble; two further bedrooms share a family bathroom in limestone.\n\nThe building offers 24-hour concierge, a residents-only gym, a courtyard garden and underground parking. The sale includes a single secure parking space and a basement cellar.\n\nPiazza Gae Aulenti is two minutes on foot, with the Apple Store amphitheatre and the Saturday farmers' market beneath the apartment windows. M5 Isola and Garibaldi FS are within a five-minute radius.\n\nA turnkey proposition for the international buyer who wants Milan's newest skyline at street level."
+          "title": "New Single-Family Villa, Class A4 with Private Garden",
+          "description_short": "A 142 sq m single-family villa under construction in Origgio, energy class A4, with a 102 sq m private garden, portico, heat pump and photovoltaic system.",
+          "description_long": "On Viale della Resistenza in Origgio, we present the new single-family villas of forthcoming completion: a residential project that translates the concept of living well into a concrete, sustainable and long-lasting choice. Four rooms, 142 sq m of usable surface, energy class A4: the highest efficiency standard in Lombardy.\n\nOn the ground floor, a bright open-plan living room with kitchen opens directly onto the 102 sq m private garden and the covered portico, ideal for enjoying the outdoors in every season. A guest bathroom completes the level. The visual continuity between interior and exterior is the design detail that makes each villa welcoming from the very first visit.\n\nOn the first floor, three spacious bedrooms and a second complete bathroom are arranged. It is possible to add a private terrace to the two side bedrooms, gifting each room a personal corner of sky and an open view onto the residential park.\n\nThe technical specification is top-tier: air-water heat pump, rooftop photovoltaic system, controlled mechanical ventilation, underfloor heating and enhanced insulation. A combination of technologies that translates class A4 into nearly zeroed utility bills and into a protection of property value over the medium to long term.\n\nThe included double garage, the private garden and the quiet position of Origgio, a municipality well connected to the A9 motorway and to the main service hubs, make this villa an ideal choice for families seeking a new, definitive and uncompromised home."
         },
         "it": {
-          "title": "Porta Nuova: quadrilocale contemporaneo con vista skyline",
-          "description_short": "Quadrilocale contemporaneo ai piani alti vicino a Piazza Gae Aulenti, con vetrate a tutta altezza e servizio di concierge.",
-          "description_long": "Al quattordicesimo piano di una delle torri residenziali simbolo di Porta Nuova, questo appartamento di 145 m² consegna l'esperienza prototipica dello skyline milanese: vetrate a tutta altezza, doppia esposizione sul Bosco Verticale e sulla stazione Garibaldi, e una terrazza coperta di 18 m² dove le luci della città fanno da colonna sonora.\n\nIl salone open space accoglie una zona pranzo formale e una sequenza di aree conversazione. La cucina, di un marchio boutique italiano, è finita in laccato opaco e quarzite. La suite principale comprende una cabina armadio attrezzata e un bagno en-suite in marmo book-matched; altre due camere condividono un bagno di famiglia in pietra calcarea.\n\nL'edificio offre concierge 24 ore su 24, palestra riservata ai residenti, giardino interno e parcheggio sotterraneo. La vendita include un posto auto sicuro singolo e una cantina di servizio.\n\nPiazza Gae Aulenti è a due minuti a piedi, con l'anfiteatro dell'Apple Store e il mercato contadino del sabato proprio sotto le finestre dell'appartamento. M5 Isola e Garibaldi FS sono nel raggio di cinque minuti.\n\nUna proposta chiavi in mano per l'acquirente internazionale che vuole vivere il nuovo skyline di Milano dalla strada."
+          "title": "Villa unifamiliare nuova in classe A4 con giardino privato",
+          "description_short": "Villa unifamiliare di 142 m² in costruzione a Origgio, classe energetica A4, con giardino privato di 102 m², portico, pompa di calore e fotovoltaico.",
+          "description_long": "In Viale della Resistenza a Origgio, presentiamo le nuove villette unifamiliari di prossima realizzazione: un progetto residenziale che traduce il concetto di vivere bene in una scelta concreta, sostenibile e di lunga durata. Quattro locali, 142 m² di superficie utile, classe energetica A4: il massimo dell'efficienza in Lombardia.\n\nAl piano terra, un luminoso soggiorno open space con cucina apre direttamente sul giardino privato di 102 m² e sul portico coperto, ideale per vivere l'esterno in ogni stagione. Un bagno di servizio completa il livello. La continuità visiva tra interno ed esterno è il dettaglio di progetto che rende ogni villa accogliente fin dal primo sopralluogo.\n\nAl piano primo si distribuiscono tre ampie camere da letto e un secondo bagno completo. È possibile aggiungere un terrazzo privato alle due camerette laterali, regalando a ogni stanza un angolo di cielo personale e una visuale aperta sul parco residenziale.\n\nLa dotazione tecnica è di livello superiore: pompa di calore aria-acqua, impianto fotovoltaico in copertura, ventilazione meccanica controllata, riscaldamento a pavimento e isolamento maggiorato. Una combinazione di tecnologie che traduce la classe A4 in bollette quasi azzerate e in una protezione del valore immobiliare nel medio-lungo periodo.\n\nIl box doppio incluso, il giardino privato e la posizione tranquilla di Origgio, comune ben collegato all'autostrada A9 e ai principali poli di servizi, rendono questa villa una scelta ideale per famiglie in cerca di una casa nuova, definitiva e priva di compromessi."
         },
         "es": {
-          "title": "Porta Nuova: piso contemporáneo con vistas al skyline",
-          "description_short": "Piso contemporáneo de tres dormitorios en planta alta junto a Piazza Gae Aulenti, con acristalamiento de suelo a techo y servicio de concierge.",
-          "description_long": "En la decimocuarta planta de una de las torres residenciales emblema de Porta Nuova, este piso de 145 m² ofrece la experiencia prototípica del skyline milanés: acristalamiento de suelo a techo, doble orientación sobre el Bosco Verticale y la estación de Garibaldi, y una terraza cubierta de 18 m² donde las luces de la ciudad ponen la banda sonora.\n\nEl salón en planta abierta acoge una zona de comedor formal y una secuencia de áreas de estar. La cocina, de una firma boutique italiana, está acabada en lacado mate y cuarcita. La suite principal incluye vestidor a medida y baño en suite en mármol book-matched; otros dos dormitorios comparten un baño familiar en piedra caliza.\n\nEl edificio cuenta con conserjería 24 horas, gimnasio para residentes, jardín interior y aparcamiento subterráneo. La venta incluye una plaza de garaje segura y un trastero.\n\nPiazza Gae Aulenti queda a dos minutos a pie, con el anfiteatro de la Apple Store y el mercado de productores de los sábados bajo las ventanas del piso. M5 Isola y Garibaldi FS están a cinco minutos.\n\nUna propuesta llave en mano para el comprador internacional que quiere vivir el nuevo skyline de Milán a pie de calle."
+          "title": "Villa unifamiliar nueva en clase A4 con jardín privado",
+          "description_short": "Villa unifamiliar de 142 m² en construcción en Origgio, calificación energética A4, con jardín privado de 102 m², pórtico, bomba de calor y fotovoltaica.",
+          "description_long": "En Viale della Resistenza, en Origgio, presentamos las nuevas villas unifamiliares de próxima realización: un proyecto residencial que traduce el concepto de vivir bien en una elección concreta, sostenible y duradera. Cuatro estancias, 142 m² de superficie útil, calificación energética A4: el máximo de eficiencia en Lombardía.\n\nEn la planta baja, un luminoso salón con cocina abierta da directamente al jardín privado de 102 m² y al pórtico cubierto, ideal para vivir el exterior en cualquier estación. Un baño de servicio completa el nivel. La continuidad visual entre interior y exterior es el detalle de proyecto que hace que cada villa resulte acogedora desde la primera visita.\n\nEn la primera planta se distribuyen tres amplios dormitorios y un segundo baño completo. Es posible añadir una terraza privada a los dos dormitorios laterales, regalando a cada habitación un rincón de cielo personal y una vista abierta al parque residencial.\n\nLa dotación técnica es de nivel superior: bomba de calor aerotérmica, instalación fotovoltaica en cubierta, ventilación mecánica controlada, suelo radiante y aislamiento reforzado. Una combinación de tecnologías que traduce la clase A4 en facturas casi a cero y en una protección del valor inmobiliario a medio y largo plazo.\n\nEl garaje doble incluido, el jardín privado y la posición tranquila de Origgio, municipio bien conectado con la autopista A9 y con los principales centros de servicios, hacen que esta villa sea una elección ideal para familias que buscan una casa nueva, definitiva y sin compromisos."
         }
       }
     },
     {
-      "id_suggested": "milano-quadrilatero-piano-nobile-3300",
-      "source_url": "https://www.engelvoelkers.com/it-it/immobili/milano/centro/",
-      "source_portal": "engelvoelkers.com",
-      "city": "Milano",
-      "neighborhood": "Quadrilatero della Moda",
-      "address_approx": "Via Sant'Andrea, Quadrilatero",
-      "title": "Quadrilatero: trophy piano nobile on Via Sant'Andrea",
-      "description_short": "Piano nobile trophy apartment of 380 m² with three exposures, a private garden courtyard and bespoke restoration on Via Sant'Andrea.",
-      "description_long": "An exceptionally rare offering on Via Sant'Andrea, this 380 m² piano nobile apartment occupies the principal floor of an 18th-century palazzo whose neighbours are the city's most established couture houses. The owner has just concluded a six-year restoration with a leading Milanese architect, returning the apartment to its full Belle Époque proportions while inserting a discreet, museum-grade contemporary infrastructure.\n\nThe enfilade of three reception rooms runs along the south facade, each with restored frescoed ceilings, original chevron parquet and double-doors clad in burr walnut. A formal dining room of 50 m² connects to a service kitchen finished in lacquered cabinetry and Calacatta marble.\n\nThe night wing comprises four bedroom suites, each en-suite, with the principal occupying a dedicated 80 m² volume that includes a sitting room, two dressing rooms and a bathroom in book-matched onyx with a freestanding bath at the centre of the floor.\n\nThe apartment uniquely enjoys a 90 m² private garden courtyard, planted with mature magnolia and accessed via a glazed loggia from the main reception. Building amenities include 24-hour porter, lift access from the resident garage and a dedicated cellar.\n\nA defining piece of inventory for the international buyer seeking a primary residence on Milan's most prestigious shopping street.",
-      "price": 8950000,
+      "id_suggested": "miakasa-uboldo-villa-singola-29052026",
+      "source_url": "https://miakasa.it/SchedaImmobile.aspx?codice=29052026",
+      "source_portal": "miakasa.it",
+      "city": "Uboldo",
+      "neighborhood": "Via Ceriani",
+      "address_approx": "Via Antonio Maria Ceriani, Uboldo (VA)",
+      "title": "Villa singola nuova con taverna e giardino privato di 150 m²",
+      "description_short": "Villa singola di 206 m² in stato nuovo a Uboldo, classe A4, con tre camere, taverna semi-interrata, giardino privato di 150 m², box doppio e fotovoltaico.",
+      "description_long": "Ad Uboldo, in Via Antonio Maria Ceriani, dietro un vialetto riservato, si apre questa villa singola di 206 m² dal carattere contemporaneo: una proposta che non si limita a essere una casa, ma promette una vita nuova fatta di luce, spazi generosi e dettagli moderni.\n\nVarcata la porta, la zona giorno open space accoglie con la sua ampiezza e luminosità: un ambiente che invita a immaginare cene con amici, pomeriggi in famiglia e momenti di relax davanti a una grande vetrata. La cucina abitabile si integra senza interruzioni nel volume del soggiorno, in continuità con il giardino privato di 150 m².\n\nAl piano rialzato, tre camere da letto e due bagni moderni offrono la giusta combinazione di comfort e privacy, pensata per chi ama vivere bene ogni giorno. La camera padronale dispone di un balcone privato e di metrature generose, conformi agli standard di una villa di nuova costruzione.\n\nScendendo nella taverna semi-interrata, lo spazio si trasforma: può diventare sala hobby, angolo cinema o rifugio silenzioso per lo smart working domestico. Qui si trova anche una lavanderia pratica e funzionale, oltre a una cantina di servizio. All'esterno, oltre al box doppio, il vialetto interno permette di parcheggiare comodamente altre due auto.\n\nPrima della vendita verranno installati i nuovi pannelli fotovoltaici e completate le finiture esterne: la villa sarà così non solo bella, ma anche sostenibile ed efficiente, con una classe energetica A4 e un IPE di 17,56 che garantiscono risparmio e rispetto per l'ambiente. Libera al rogito.",
+      "price": 435000,
       "currency": "EUR",
-      "sqm": 380,
-      "bedrooms": 4,
-      "bathrooms": 5,
-      "property_type": "apartment",
+      "sqm": 206,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "Villa",
       "features": [
-        "piano nobile",
-        "private garden courtyard",
-        "frescoed ceilings",
-        "chevron parquet",
-        "24h porter",
-        "trophy address"
+        "villa singola nuova",
+        "classe energetica A4",
+        "taverna semi-interrata",
+        "giardino privato 150 m²",
+        "box doppio + 2 posti auto",
+        "fotovoltaico",
+        "lavanderia dedicata",
+        "cantina"
       ],
       "coordinates": {
-        "lat": 45.4684,
-        "lng": 9.1947
+        "lat": 45.6019,
+        "lng": 8.9905
       },
       "photo_urls": [
-        "https://images.unsplash.com/photo-1600573472550-8090b5e0745e?w=1600&q=80",
-        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1600&q=80",
-        "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1600&q=80",
-        "https://images.unsplash.com/photo-1567496898669-ee935f5f647a?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600121848594-d8644e57abab?w=1600&q=80"
+        "https://static3.agimonline.com/images/4Zzo1bNTA0fO2M67MTtpaZDoy0MDgw4ODtlbeHQ60anBnbO3c6fMQ==7/b/0/20808.jpg",
+        "https://static3.agimonline.com/images/4Zzo19NTA07O2M60MTtpeZDoy4MDc55NTtl0eHQ68anBn9O3c67MQ==0/b/0/20795.jpg",
+        "https://static3.agimonline.com/images/4Zzo18NTA06O2M6aMTtpbZDoyaMDgwcMDtl3eHQ6banBn8O3c66MQ==a/b/0/20800.jpg",
+        "https://static3.agimonline.com/images/4Zzo13NTA01O2M64MTtp3ZDoydMDgz4NDtl6eHQ62anBn3O3c61MQ==4/b/0/20834.jpg",
+        "https://static3.agimonline.com/images/4Zzo1fNTA0bO2M66MTtpfZDoy8MDc4bOTtlceHQ61anBnfO3c6bMQ==6/b/0/20789.jpg",
+        "https://static3.agimonline.com/images/4Zzo1dNTA07O2M67MTtp1ZDoy8MDgwbNTtleeHQ68anBndO3c67MQ==7/b/0/20805.jpg",
+        "https://static3.agimonline.com/images/4Zzo1eNTA0cO2M62MTtp4ZDoy0MDgw0OTtl7eHQ6danBneO3c6cMQ==2/b/0/20809.jpg",
+        "https://static3.agimonline.com/images/4Zzo14NTA0dO2M6dMTtp2ZDoy8MDc52Mjtl4eHQ62anBn4O3c6dMQ==d/b/0/20792.jpg"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "photos_source_note": "Photos hotlinked from miakasa.it (demo for the actual agency)",
       "i18n": {
         "en": {
-          "title": "Quadrilatero: trophy piano nobile on Via Sant'Andrea",
-          "description_short": "Piano nobile trophy apartment of 380 m² with three exposures, a private garden courtyard and bespoke restoration on Via Sant'Andrea.",
-          "description_long": "An exceptionally rare offering on Via Sant'Andrea, this 380 m² piano nobile apartment occupies the principal floor of an 18th-century palazzo whose neighbours are the city's most established couture houses. The owner has just concluded a six-year restoration with a leading Milanese architect, returning the apartment to its full Belle Époque proportions while inserting a discreet, museum-grade contemporary infrastructure.\n\nThe enfilade of three reception rooms runs along the south facade, each with restored frescoed ceilings, original chevron parquet and double-doors clad in burr walnut. A formal dining room of 50 m² connects to a service kitchen finished in lacquered cabinetry and Calacatta marble.\n\nThe night wing comprises four bedroom suites, each en-suite, with the principal occupying a dedicated 80 m² volume that includes a sitting room, two dressing rooms and a bathroom in book-matched onyx with a freestanding bath at the centre of the floor.\n\nThe apartment uniquely enjoys a 90 m² private garden courtyard, planted with mature magnolia and accessed via a glazed loggia from the main reception. Building amenities include 24-hour porter, lift access from the resident garage and a dedicated cellar.\n\nA defining piece of inventory for the international buyer seeking a primary residence on Milan's most prestigious shopping street."
+          "title": "New Detached Villa with Tavern and 150 sq m Private Garden",
+          "description_short": "A 206 sq m brand-new detached villa in Uboldo, class A4, with three bedrooms, semi-basement tavern, 150 sq m private garden, double garage and photovoltaic system.",
+          "description_long": "In Uboldo, on Via Antonio Maria Ceriani, beyond a private driveway, this 206 sq m detached villa unfolds in contemporary character: a proposition that does not limit itself to being a house, but promises a new life made of light, generous spaces and modern details.\n\nOnce inside, the open-plan living area welcomes with its breadth and luminosity: a space that invites one to imagine dinners with friends, afternoons with family and moments of relaxation in front of a large window. The eat-in kitchen integrates seamlessly into the living-room volume, in continuity with the 150 sq m private garden.\n\nOn the raised ground floor, three bedrooms and two modern bathrooms offer the right combination of comfort and privacy, designed for those who love to live well every day. The master bedroom enjoys a private balcony and generous proportions, aligned with the standards of a newly built villa.\n\nDescending into the semi-basement tavern, the space transforms: it can become a hobby room, a cinema corner or a quiet refuge for working from home. Here are also a practical and functional laundry, alongside a service cellar. Outside, beyond the double garage, the internal driveway allows two further cars to be parked with ease.\n\nBefore the sale, the new photovoltaic panels will be installed and the exterior finishes completed: the villa will thus be not only beautiful, but also sustainable and efficient, with energy class A4 and a PEI of 17.56 that guarantee savings and respect for the environment. Vacant on completion."
         },
         "it": {
-          "title": "Quadrilatero: piano nobile di pregio in Via Sant'Andrea",
-          "description_short": "Piano nobile di prestigio di 380 m² con tre esposizioni, cortile-giardino privato e restauro su misura in Via Sant'Andrea.",
-          "description_long": "Offerta eccezionalmente rara in Via Sant'Andrea, questo appartamento di 380 m² occupa il piano nobile di un palazzo settecentesco i cui vicini sono le più affermate maison di alta moda della città. Il proprietario ha appena concluso un restauro durato sei anni con un primario architetto milanese, restituendo all'appartamento le sue piene proporzioni Belle Époque e inserendo una discreta infrastruttura contemporanea di qualità museale.\n\nL'enfilade di tre saloni di rappresentanza corre lungo la facciata sud, ciascuno con soffitti affrescati restaurati, parquet originale a cassero e doppie porte rivestite in noce radica. Una sala da pranzo formale di 50 m² collega a una cucina di servizio rifinita in laccato e marmo Calacatta.\n\nLa zona notte comprende quattro suite, tutte en-suite, con la principale che occupa un volume dedicato di 80 m² composto da salotto, due cabine armadio e bagno in onice book-matched con vasca freestanding al centro.\n\nL'appartamento gode in via esclusiva di un cortile-giardino privato di 90 m², piantumato con magnolie mature e accessibile da una loggia vetrata che si apre sul salone principale. I servizi dell'edificio includono portineria 24 ore, accesso con ascensore dal garage condominiale e una cantina dedicata.\n\nUn pezzo di inventario identitario per l'acquirente internazionale in cerca di una residenza principale sulla via dello shopping più prestigiosa di Milano."
+          "title": "Villa singola nuova con taverna e giardino privato di 150 m²",
+          "description_short": "Villa singola di 206 m² in stato nuovo a Uboldo, classe A4, con tre camere, taverna semi-interrata, giardino privato di 150 m², box doppio e fotovoltaico.",
+          "description_long": "Ad Uboldo, in Via Antonio Maria Ceriani, dietro un vialetto riservato, si apre questa villa singola di 206 m² dal carattere contemporaneo: una proposta che non si limita a essere una casa, ma promette una vita nuova fatta di luce, spazi generosi e dettagli moderni.\n\nVarcata la porta, la zona giorno open space accoglie con la sua ampiezza e luminosità: un ambiente che invita a immaginare cene con amici, pomeriggi in famiglia e momenti di relax davanti a una grande vetrata. La cucina abitabile si integra senza interruzioni nel volume del soggiorno, in continuità con il giardino privato di 150 m².\n\nAl piano rialzato, tre camere da letto e due bagni moderni offrono la giusta combinazione di comfort e privacy, pensata per chi ama vivere bene ogni giorno. La camera padronale dispone di un balcone privato e di metrature generose, conformi agli standard di una villa di nuova costruzione.\n\nScendendo nella taverna semi-interrata, lo spazio si trasforma: può diventare sala hobby, angolo cinema o rifugio silenzioso per lo smart working domestico. Qui si trova anche una lavanderia pratica e funzionale, oltre a una cantina di servizio. All'esterno, oltre al box doppio, il vialetto interno permette di parcheggiare comodamente altre due auto.\n\nPrima della vendita verranno installati i nuovi pannelli fotovoltaici e completate le finiture esterne: la villa sarà così non solo bella, ma anche sostenibile ed efficiente, con una classe energetica A4 e un IPE di 17,56 che garantiscono risparmio e rispetto per l'ambiente. Libera al rogito."
         },
         "es": {
-          "title": "Quadrilatero: piano nobile de prestigio en Via Sant'Andrea",
-          "description_short": "Piano nobile trofeo de 380 m² con tres orientaciones, patio-jardín privado y restauración a medida en Via Sant'Andrea.",
-          "description_long": "Una oferta excepcionalmente rara en Via Sant'Andrea, este piso de 380 m² ocupa el piano nobile de un palazzo del siglo XVIII cuyos vecinos son las maisons de alta costura más consolidadas de la ciudad. El propietario acaba de concluir una restauración de seis años con un destacado arquitecto milanés, devolviendo al piso sus proporciones Belle Époque íntegras e introduciendo una infraestructura contemporánea discreta de calidad museística.\n\nLa enfilade de tres salones de representación recorre la fachada sur, cada uno con techos al fresco restaurados, parquet original en chevron y dobles puertas revestidas en raíz de nogal. Un comedor formal de 50 m² conecta con una cocina de servicio acabada en lacado y mármol Calacatta.\n\nEl ala de noche comprende cuatro suites, todas en suite, con la principal ocupando un volumen propio de 80 m² que incluye saloncito, dos vestidores y baño en ónice book-matched con bañera exenta en el centro.\n\nEl piso disfruta en exclusiva de un patio-jardín privado de 90 m², plantado con magnolios maduros y accesible desde una logia acristalada que se abre al salón principal. Los servicios del edificio incluyen portería 24 horas, acceso por ascensor desde el garaje residencial y un trastero dedicado.\n\nUna pieza identitaria para el comprador internacional que busca primera residencia en la calle comercial más prestigiosa de Milán."
+          "title": "Villa exenta nueva con bodega y jardín privado de 150 m²",
+          "description_short": "Villa exenta de 206 m² a estrenar en Uboldo, clase A4, con tres dormitorios, bodega semisótano, jardín privado de 150 m², garaje doble y fotovoltaica.",
+          "description_long": "En Uboldo, en Via Antonio Maria Ceriani, tras un acceso reservado, se abre esta villa exenta de 206 m² de carácter contemporáneo: una propuesta que no se limita a ser una casa, sino que promete una nueva vida hecha de luz, espacios generosos y detalles modernos.\n\nAl cruzar la puerta, la zona de día en planta abierta acoge con su amplitud y luminosidad: un ambiente que invita a imaginar cenas con amigos, tardes en familia y momentos de relax ante un gran ventanal. La cocina office se integra sin interrupciones en el volumen del salón, en continuidad con el jardín privado de 150 m².\n\nEn la planta baja elevada, tres dormitorios y dos baños modernos ofrecen la combinación adecuada de confort y privacidad, pensada para quien ama vivir bien cada día. El dormitorio principal cuenta con un balcón privado y unas dimensiones generosas, conformes con los estándares de una villa de nueva construcción.\n\nBajando a la bodega semisótano, el espacio se transforma: puede convertirse en sala de hobbies, rincón de cine o refugio silencioso para el teletrabajo doméstico. Aquí se encuentran también una lavandería práctica y funcional y un trastero de servicio. En el exterior, además del garaje doble, el camino interior permite aparcar cómodamente otros dos coches.\n\nAntes de la venta se instalarán los nuevos paneles fotovoltaicos y se completarán los acabados exteriores: la villa será así no solo hermosa, sino también sostenible y eficiente, con una calificación energética A4 y un IPE de 17,56 que garantizan ahorro y respeto por el medio ambiente. Libre en la firma."
         }
       }
     },
     {
-      "id_suggested": "milano-magenta-pelliccia-villa-5670",
-      "source_url": "https://www.immobiliare.it/vendita-case/milano/magenta/",
-      "source_portal": "immobiliare.it",
-      "city": "Milano",
-      "neighborhood": "Magenta",
-      "address_approx": "Via Carducci, Magenta",
-      "title": "Magenta: detached villa with garden, pool and garage",
-      "description_short": "A rare detached villa within the city boundary, with private garden, infinity pool and four-car underground garage near Sant'Ambrogio.",
-      "description_long": "In a city where detached residences are vanishingly rare, this 460 m² villa offers a complete proposition: full plot, private garden, infinity pool and four-car underground garage, all within a five-minute walk of Sant'Ambrogio M2 and Parco Sempione.\n\nThe villa was rebuilt to the foundations in 2019 by a leading Milanese studio. Behind the sympathetic Liberty-era facade, the interior is wholly contemporary: a triple-aspect main reception runs across the garden side, with sliding panels of two-metre-tall glass that disappear into the wall, opening the entire ground floor onto the planted garden and pool deck.\n\nThe living level includes a sculptural staircase in Carrara marble, a formal dining room and an open kitchen by an Italian boutique maker. A study, guest cloakroom and laundry complete the level.\n\nOn the first floor, four bedroom suites are arranged with absolute privacy. The principal occupies a dedicated wing with a 30 m² dressing room and a marble bathroom with private terrace overlooking the garden.\n\nA wellness level beneath includes a 12-metre infinity pool, hammam, gym and direct access to the four-car garage. A rare opportunity to acquire a freestanding asset of this calibre within the historic city perimeter.",
-      "price": 4250000,
+      "id_suggested": "miakasa-porto-cervo-attico-sa-cascada-26032024",
+      "source_url": "https://miakasa.it/SchedaImmobile.aspx?codice=26032024",
+      "source_portal": "miakasa.it",
+      "city": "Arzachena",
+      "neighborhood": "Porto Cervo",
+      "address_approx": "Promenade du Port, Porto Cervo (SS)",
+      "title": "Attico nel residence Sa Cascada con vista panoramica sulla baia",
+      "description_short": "Attico di 165 m² nel prestigioso residence Sa Cascada a Porto Cervo, a 100 metri dalla Promenade du Port. Due terrazzi panoramici, tre camere, due piscine e box.",
+      "description_long": "Nel cuore pulsante di Porto Cervo, a soli 100 metri dalla Promenade du Port e 200 metri dall'iconica Piazzetta, sorge il prestigioso residence Sa Cascada. All'interno, questo attico unico nel suo genere attende di accogliere chi cerca un'abitazione dal fascino raro: terrazzi privati, accesso indipendente e una vista panoramica che si apre sulla baia.\n\nLa posizione strategica di Porto Cervo, a pochi chilometri dalle spiagge più rinomate della Costa Smeralda — Liscia Ruja, Spiaggia del Principe, Grande Pevero — rende questa residenza una scelta naturale per chi vive la Sardegna come destinazione di lifestyle. La comodità è alla portata di mano: in auto, a piedi o in bicicletta, ogni servizio del polo turistico è raggiungibile in pochi minuti.\n\nL'attico si sviluppa su un unico livello abitativo, con ambienti spaziosi e ben distribuiti. Dall'ingresso si accede all'ampio soggiorno, cuore pulsante dell'abitazione, da cui due terrazzi panoramici si aprono come prolungamenti naturali della zona living: ideali per cene all'aperto con amici e familiari, o per i momenti di privacy accarezzati dalla brezza del mare. Dalla zona giorno si raggiunge la cucina semi-abitabile, dotata di un comodo ripostiglio.\n\nLa zona notte si compone di tre camere, tutte di generose metrature. Particolare attenzione è riservata alla camera padronale: armadiature a muro su misura, bagno privato finestrato, e accesso diretto al terrazzo panoramico con vista sulla baia di Porto Cervo. I tre servizi sono tutti finestrati, con sanitari sospesi e box doccia.\n\nLa proprietà include una cantina e un ampio box. Le due piscine private del residence e il solarium completano la scenografia di Sa Cascada: vivere qui significa immergersi in un'atmosfera capace di coniugare comfort, eleganza e riservatezza, in uno degli indirizzi più ambiti del Mediterraneo.",
+      "price": 3250000,
       "currency": "EUR",
-      "sqm": 460,
-      "bedrooms": 4,
-      "bathrooms": 5,
-      "property_type": "villa",
+      "sqm": 165,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "property_type": "Penthouse",
       "features": [
-        "detached villa",
-        "private garden",
-        "infinity pool",
-        "underground garage",
-        "wellness level",
-        "hammam"
+        "due terrazzi panoramici",
+        "vista baia Porto Cervo",
+        "due piscine private",
+        "solarium condominiale",
+        "accesso indipendente",
+        "camera padronale en-suite",
+        "box auto + cantina",
+        "100 m dalla Promenade du Port"
       ],
       "coordinates": {
-        "lat": 45.4658,
-        "lng": 9.1745
+        "lat": 41.1361,
+        "lng": 9.5395
       },
       "photo_urls": [
-        "https://images.unsplash.com/photo-1600121848594-d8644e57abab?w=1600&q=80",
-        "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=1600&q=80",
-        "https://images.unsplash.com/photo-1556909172-54557c7e4fb7?w=1600&q=80",
-        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=1600&q=80"
+        "https://static3.agimonline.com/images/4Zzo1aNTA08O2M62MTtp8ZDox7NjQ39NDtlaeHQ61anBnaO3c68MQ==2/b/0/16474.jpg",
+        "https://static3.agimonline.com/images/4Zzo1bNTA08O2M6fMTtp0ZDox3NjQ3cMztlbeHQ64anBnbO3c68MQ==f/b/0/16473.jpg",
+        "https://static3.agimonline.com/images/4Zzo11NTA08O2M60MTtpaZDox7NjQ3bMjtlceHQ6eanBn1O3c68MQ==0/b/0/16472.jpg",
+        "https://static3.agimonline.com/images/4Zzo11NTA01O2M6cMTtpeZDoydMDM01Mjtl1eHQ62anBn1O3c61MQ==c/b/0/20342.jpg",
+        "https://static3.agimonline.com/images/4Zzo14NTA08O2M6eMTtp8ZDox1NjUwbMDtl9eHQ62anBn4O3c68MQ==e/b/0/16500.jpg",
+        "https://static3.agimonline.com/images/4Zzo1aNTA09O2M6fMTtpaZDox1NjQ30MDtl7eHQ6danBnaO3c69MQ==f/b/0/16470.jpg",
+        "https://static3.agimonline.com/images/4Zzo1bNTA0aO2M6cMTtpaZDox1NjQ33OTtl7eHQ6aanBnbO3c6aMQ==c/b/0/16479.jpg",
+        "https://static3.agimonline.com/images/4Zzo17NTA06O2M6fMTtp3ZDoxcNjQ4cNTtlbeHQ68anBn7O3c66MQ==f/b/0/16485.jpg"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "photos_source_note": "Photos hotlinked from miakasa.it (demo for the actual agency)",
       "i18n": {
         "en": {
-          "title": "Magenta: detached villa with garden, pool and garage",
-          "description_short": "A rare detached villa within the city boundary, with private garden, infinity pool and four-car underground garage near Sant'Ambrogio.",
-          "description_long": "In a city where detached residences are vanishingly rare, this 460 m² villa offers a complete proposition: full plot, private garden, infinity pool and four-car underground garage, all within a five-minute walk of Sant'Ambrogio M2 and Parco Sempione.\n\nThe villa was rebuilt to the foundations in 2019 by a leading Milanese studio. Behind the sympathetic Liberty-era facade, the interior is wholly contemporary: a triple-aspect main reception runs across the garden side, with sliding panels of two-metre-tall glass that disappear into the wall, opening the entire ground floor onto the planted garden and pool deck.\n\nThe living level includes a sculptural staircase in Carrara marble, a formal dining room and an open kitchen by an Italian boutique maker. A study, guest cloakroom and laundry complete the level.\n\nOn the first floor, four bedroom suites are arranged with absolute privacy. The principal occupies a dedicated wing with a 30 m² dressing room and a marble bathroom with private terrace overlooking the garden.\n\nA wellness level beneath includes a 12-metre infinity pool, hammam, gym and direct access to the four-car garage. A rare opportunity to acquire a freestanding asset of this calibre within the historic city perimeter."
+          "title": "Penthouse in the Sa Cascada Residence with Panoramic Bay Views",
+          "description_short": "A 165 sq m penthouse within the prestigious Sa Cascada residence in Porto Cervo, 100 m from the Promenade du Port. Two panoramic terraces, three bedrooms, two pools and a garage.",
+          "description_long": "In the beating heart of Porto Cervo, just 100 metres from the Promenade du Port and 200 metres from the iconic Piazzetta, stands the prestigious Sa Cascada residence. Within, this one-of-a-kind penthouse awaits a buyer in search of a home of rare allure: private terraces, independent access and a panoramic view that opens onto the bay.\n\nPorto Cervo's strategic position, a few kilometres from the Costa Smeralda's most celebrated beaches — Liscia Ruja, Spiaggia del Principe, Grande Pevero — makes this residence a natural choice for those who experience Sardinia as a lifestyle destination. Convenience is within reach: by car, on foot or by bicycle, every service of the resort can be reached within minutes.\n\nThe penthouse unfolds on a single living level, with spacious and well-distributed rooms. From the entrance one accesses the wide living room, the beating heart of the home, from which two panoramic terraces open as natural extensions of the living zone: ideal for outdoor dinners with friends and family, or for private moments caressed by the sea breeze. From the living area, the semi-eat-in kitchen, equipped with a convenient storage room, can be reached.\n\nThe night zone comprises three bedrooms, all of generous proportions. Particular care is dedicated to the master suite: bespoke fitted wardrobes, a window-lit en-suite bathroom and direct access to the panoramic terrace overlooking Porto Cervo bay. All three bathrooms are window-lit, with wall-hung sanitary ware and walk-in showers.\n\nThe property includes a cellar and a generous garage. The residence's two private pools and the solarium complete the Sa Cascada stage set: to live here means to immerse oneself in an atmosphere capable of marrying comfort, elegance and discretion, in one of the Mediterranean's most coveted addresses."
         },
         "it": {
-          "title": "Magenta: villa indipendente con giardino, piscina e box",
-          "description_short": "Rara villa indipendente entro il perimetro cittadino, con giardino privato, piscina a sfioro e garage per quattro auto vicino a Sant'Ambrogio.",
-          "description_long": "In una città dove le residenze indipendenti sono ormai rarità, questa villa di 460 m² offre una proposta completa: lotto intero, giardino privato, piscina a sfioro e garage interrato per quattro auto, il tutto a cinque minuti a piedi dalla M2 Sant'Ambrogio e dal Parco Sempione.\n\nLa villa è stata ricostruita dalle fondamenta nel 2019 da uno studio milanese di primo piano. Dietro la rispettata facciata di matrice liberty, l'interno è interamente contemporaneo: un salone tripla esposizione corre lungo il lato giardino, con pannelli scorrevoli in vetro di due metri di altezza che spariscono nella muratura, aprendo tutto il piano terra sul giardino piantumato e sul deck della piscina.\n\nIl livello giorno include una scala scultorea in marmo di Carrara, una sala da pranzo formale e una cucina open space di un produttore boutique italiano. Uno studio, un guardaroba ospiti e la lavanderia completano il piano.\n\nAl primo piano, quattro suite sono organizzate con assoluta riservatezza. La principale occupa un'ala dedicata con una cabina armadio di 30 m² e un bagno in marmo con terrazza privata affacciata sul giardino.\n\nUn livello wellness al piano interrato include una piscina a sfioro di 12 metri, hammam, palestra e accesso diretto al box auto da quattro posti. Un'occasione rara per acquisire un bene indipendente di questo calibro entro il perimetro storico della città."
+          "title": "Attico nel residence Sa Cascada con vista panoramica sulla baia",
+          "description_short": "Attico di 165 m² nel prestigioso residence Sa Cascada a Porto Cervo, a 100 metri dalla Promenade du Port. Due terrazzi panoramici, tre camere, due piscine e box.",
+          "description_long": "Nel cuore pulsante di Porto Cervo, a soli 100 metri dalla Promenade du Port e 200 metri dall'iconica Piazzetta, sorge il prestigioso residence Sa Cascada. All'interno, questo attico unico nel suo genere attende di accogliere chi cerca un'abitazione dal fascino raro: terrazzi privati, accesso indipendente e una vista panoramica che si apre sulla baia.\n\nLa posizione strategica di Porto Cervo, a pochi chilometri dalle spiagge più rinomate della Costa Smeralda — Liscia Ruja, Spiaggia del Principe, Grande Pevero — rende questa residenza una scelta naturale per chi vive la Sardegna come destinazione di lifestyle. La comodità è alla portata di mano: in auto, a piedi o in bicicletta, ogni servizio del polo turistico è raggiungibile in pochi minuti.\n\nL'attico si sviluppa su un unico livello abitativo, con ambienti spaziosi e ben distribuiti. Dall'ingresso si accede all'ampio soggiorno, cuore pulsante dell'abitazione, da cui due terrazzi panoramici si aprono come prolungamenti naturali della zona living: ideali per cene all'aperto con amici e familiari, o per i momenti di privacy accarezzati dalla brezza del mare. Dalla zona giorno si raggiunge la cucina semi-abitabile, dotata di un comodo ripostiglio.\n\nLa zona notte si compone di tre camere, tutte di generose metrature. Particolare attenzione è riservata alla camera padronale: armadiature a muro su misura, bagno privato finestrato, e accesso diretto al terrazzo panoramico con vista sulla baia di Porto Cervo. I tre servizi sono tutti finestrati, con sanitari sospesi e box doccia.\n\nLa proprietà include una cantina e un ampio box. Le due piscine private del residence e il solarium completano la scenografia di Sa Cascada: vivere qui significa immergersi in un'atmosfera capace di coniugare comfort, eleganza e riservatezza, in uno degli indirizzi più ambiti del Mediterraneo."
         },
         "es": {
-          "title": "Magenta: villa independiente con jardín, piscina y garaje",
-          "description_short": "Rara villa independiente dentro del perímetro urbano, con jardín privado, piscina infinity y garaje para cuatro coches cerca de Sant'Ambrogio.",
-          "description_long": "En una ciudad donde las residencias independientes son ya casi inexistentes, esta villa de 460 m² ofrece una propuesta completa: parcela íntegra, jardín privado, piscina infinity y garaje subterráneo para cuatro coches, todo a cinco minutos a pie del metro M2 Sant'Ambrogio y del Parco Sempione.\n\nLa villa fue reconstruida desde los cimientos en 2019 por un destacado estudio milanés. Tras la cuidada fachada de inspiración liberty, el interior es plenamente contemporáneo: un salón principal de triple orientación recorre el lado del jardín, con paneles correderos de vidrio de dos metros de alto que se ocultan en el muro y abren toda la planta baja al jardín ajardinado y a la zona de piscina.\n\nLa planta de día incluye una escalera escultórica de mármol de Carrara, un comedor formal y una cocina abierta de un fabricante boutique italiano. Un despacho, un aseo de cortesía y la lavandería completan la planta.\n\nEn la primera planta, cuatro suites se distribuyen con total privacidad. La principal ocupa un ala dedicada con vestidor de 30 m² y baño en mármol con terraza privada sobre el jardín.\n\nUn nivel wellness en sótano incluye piscina infinity de 12 metros, hammam, gimnasio y acceso directo al garaje de cuatro plazas. Una oportunidad infrecuente para adquirir un activo exento de este calibre dentro del perímetro histórico de la ciudad."
+          "title": "Ático en el residencial Sa Cascada con vistas panorámicas a la bahía",
+          "description_short": "Ático de 165 m² en el prestigioso residencial Sa Cascada en Porto Cervo, a 100 metros de la Promenade du Port. Dos terrazas panorámicas, tres dormitorios, dos piscinas y garaje.",
+          "description_long": "En el corazón palpitante de Porto Cervo, a solo 100 metros de la Promenade du Port y 200 metros de la icónica Piazzetta, se levanta el prestigioso residencial Sa Cascada. En su interior, este ático único en su género espera acoger a quien busca una vivienda de encanto raro: terrazas privadas, acceso independiente y una vista panorámica que se abre a la bahía.\n\nLa posición estratégica de Porto Cervo, a pocos kilómetros de las playas más renombradas de la Costa Esmeralda — Liscia Ruja, Spiaggia del Principe, Grande Pevero — hace de esta residencia una elección natural para quien vive Cerdeña como destino de lifestyle. La comodidad está al alcance de la mano: en coche, a pie o en bicicleta, cada servicio del polo turístico se alcanza en pocos minutos.\n\nEl ático se desarrolla en un único nivel habitable, con estancias espaciosas y bien distribuidas. Desde la entrada se accede al amplio salón, corazón palpitante de la vivienda, desde el que dos terrazas panorámicas se abren como prolongaciones naturales de la zona de día: ideales para cenas al aire libre con amigos y familiares, o para momentos de intimidad acariciados por la brisa marina. Desde la zona de día se accede a la cocina semi-office, equipada con un cómodo trastero.\n\nLa zona de noche se compone de tres dormitorios, todos de dimensiones generosas. Particular atención se reserva al dormitorio principal: armarios empotrados a medida, baño privado con ventana y acceso directo a la terraza panorámica con vistas a la bahía de Porto Cervo. Los tres baños están todos con ventana, con sanitarios suspendidos y duchas de obra.\n\nLa propiedad incluye un trastero y un amplio garaje. Las dos piscinas privadas del residencial y el solarium completan la escenografía de Sa Cascada: vivir aquí significa sumergirse en una atmósfera capaz de conjugar confort, elegancia y discreción, en una de las direcciones más codiciadas del Mediterráneo."
         }
       }
     }

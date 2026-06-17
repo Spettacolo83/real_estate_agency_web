@@ -3,13 +3,6 @@ import { Container } from "@/components/ui/Container";
 import { Eyebrow } from "@/components/ui/Eyebrow";
 import { ListingCard } from "@/components/ui/ListingCard";
 import { getFeaturedListings } from "@/data/listings";
-import type { ListingCity } from "@/types/listing";
-
-const TAG_KEY_BY_CITY: Record<ListingCity, "neighborhoodMilanTag" | "neighborhoodMallorcaTag" | "neighborhoodLondonTag"> = {
-  milano: "neighborhoodMilanTag",
-  mallorca: "neighborhoodMallorcaTag",
-  london: "neighborhoodLondonTag",
-};
 
 export function FeaturedListings() {
   const t = useTranslations("home");
@@ -39,7 +32,6 @@ export function FeaturedListings() {
               key={listing.id_suggested}
               listing={listing}
               cityKey={listing.cityKey}
-              cityLabel={t(TAG_KEY_BY_CITY[listing.cityKey])}
               locale={locale}
               bedLabel={tListings("bedLabel")}
               bathLabel={tListings("bathLabel")}

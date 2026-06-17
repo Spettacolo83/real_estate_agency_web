@@ -7,13 +7,12 @@ import { formatPrice, getLocalizedListing } from "@/data/listings";
 type Props = {
   listing: Listing;
   cityKey: ListingCity;
-  cityLabel: string;
   locale: string;
   bedLabel: string;
   bathLabel: string;
 };
 
-export function ListingCard({ listing, cityLabel, locale, bedLabel, bathLabel }: Props) {
+export function ListingCard({ listing, locale, bedLabel, bathLabel }: Props) {
   const photo = listing.photo_urls[0];
   const price = formatPrice(listing.price, listing.currency, locale);
   const href = `/listings/${listing.id_suggested}`;
@@ -34,7 +33,7 @@ export function ListingCard({ listing, cityLabel, locale, bedLabel, bathLabel }:
         ) : null}
       </div>
       <div className="mt-5">
-        <Eyebrow tone="muted">{cityLabel} · {listing.neighborhood}</Eyebrow>
+        <Eyebrow tone="muted">{listing.city.toUpperCase()} · {listing.neighborhood}</Eyebrow>
         <h3
           className="mt-2 text-2xl leading-snug text-[color:var(--color-ink)] group-hover:text-[color:var(--color-gold)] transition-colors"
           style={{ fontFamily: "var(--font-cormorant)" }}

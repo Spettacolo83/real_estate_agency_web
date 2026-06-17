@@ -84,7 +84,6 @@ function ListingsContent({ locale }: { locale: string }) {
                     key={listing.id_suggested}
                     listing={listing}
                     cityKey={section.cityKey}
-                    cityLabel={cityLabel}
                     locale={locale}
                     bedLabel={t("bedLabel")}
                     bathLabel={t("bathLabel")}
