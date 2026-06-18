@@ -1,6 +1,6 @@
 # listings_research.json — Note di compilazione (v3 — Miakasa integration)
 
-Generato per la demo `casa.followtheflowai.com`. 30 immobili (10 per Milano / Mallorca / London), distribuiti su fasce di prezzo eterogenee.
+Generato per la demo `casai.followtheflowai.com`. 30 immobili (10 per Milano / Mallorca / London), distribuiti su fasce di prezzo eterogenee.
 
 > **v3 (Miakasa integration)**: l'array `milano` è stato sostituito con **10 immobili reali di Miakasa** (agenzia di Uboldo, VA — https://miakasa.it/), per il pitch verticale alla loro agenzia. Gli array `mallorca` e `london` restano invariati dalla v2.
 

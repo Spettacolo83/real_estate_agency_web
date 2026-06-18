@@ -1,6 +1,6 @@
 # Real Estate Agency — sotto-sito di Follow The Flow AI
 
-Questo è un **nuovo sito** in fase di setup, ospitato su `casa.followtheflowai.com`. È pensato come **vetrina/showcase** di un'agenzia immobiliare premium fittizia, costruito dalla stessa LLC americana **Follow The Flow AI** che gestisce il sito principale [www.followtheflowai.com](https://www.followtheflowai.com).
+Questo è un **nuovo sito** in fase di setup, ospitato su `casai.followtheflowai.com`. È pensato come **vetrina/showcase** di un'agenzia immobiliare premium fittizia, costruito dalla stessa LLC americana **Follow The Flow AI** che gestisce il sito principale [www.followtheflowai.com](https://www.followtheflowai.com).
 
 > Obiettivo del sito: dimostrare le capacità AI dell'agenzia FTFAI applicate a un caso concreto verticale (real estate), e fornire una piattaforma di "agente vocale immobiliare" che risponde a domande sugli immobili e prenota visite.
 
@@ -8,7 +8,7 @@ Questo è un **nuovo sito** in fase di setup, ospitato su `casa.followtheflowai.
 
 - **Directory locale**: `/Users/stefanorussello/Documents/Projects/FollowTheFlow/RealEstateAgency_web`
 - **Repo GitHub**: `git@github.com:Spettacolo83/real_estate_agency_web.git` (origin/main)
-- **Dominio target**: `casa.followtheflowai.com` (sottodominio del sito principale)
+- **Dominio target**: `casai.followtheflowai.com` (sottodominio del sito principale)
 - **Hosting**: VPS Contabo `161.97.125.230` via **EasyPanel** (stesso server del sito FTFAI). Auto-deploy via webhook GitHub → EasyPanel (a volte serve un trigger manuale dal pannello).
 - **DNS**: aggiungere su Hostinger un record `A` per `casa` → `161.97.125.230`.
 

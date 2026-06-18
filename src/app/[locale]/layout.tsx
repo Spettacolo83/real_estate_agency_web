@@ -39,7 +39,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: { default: t("title"), template: "%s · CasAI" },
     description: t("description"),
-    metadataBase: new URL("https://casa.followtheflowai.com"),
+    metadataBase: new URL("https://casai.followtheflowai.com"),
     openGraph: {
       type: "website",
       locale,

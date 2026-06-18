@@ -2,7 +2,7 @@
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
-**Goal:** Bootstrap a Next.js 15 + Tailwind v4 + next-intl multilingual site for `casa.followtheflowai.com` (brand: **CasAI**) with the "Maison Mediterranean" design system, layout chrome (NavBar/Footer), and a deployable homepage. Ship a presentable demo skeleton ready for listings (Plan 2) and voice agent (Plan 3).
+**Goal:** Bootstrap a Next.js 15 + Tailwind v4 + next-intl multilingual site for `casai.followtheflowai.com` (brand: **CasAI**) with the "Maison Mediterranean" design system, layout chrome (NavBar/Footer), and a deployable homepage. Ship a presentable demo skeleton ready for listings (Plan 2) and voice agent (Plan 3).
 
 **Architecture:** App Router with locale segment `[locale]` (EN default no-prefix, IT, ES). `next-intl` provides routing + per-request message loading; middleware auto-detects locale. Tailwind v4 with CSS-first `@theme` config holds the design tokens; `next/font/google` loads Cormorant Garamond (display) + Inter (body). Pure-visual components verified via dev server in browser; lint + typecheck + production build gate every commit.
 
@@ -2061,7 +2061,7 @@ export default async function OpengraphImage({ params }: Props) {
           {t("heroTitle")}
         </div>
         <div style={{ fontSize: 24, color: "#6B6660" }}>
-          casa.followtheflowai.com
+          casai.followtheflowai.com
         </div>
       </div>
     ),
@@ -2082,7 +2082,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: { default: t("title"), template: "%s · CasAI" },
     description: t("description"),
-    metadataBase: new URL("https://casa.followtheflowai.com"),
+    metadataBase: new URL("https://casai.followtheflowai.com"),
     openGraph: {
       type: "website",
       locale,
@@ -2118,9 +2118,9 @@ VISIT `http://localhost:3000`, View Source. Expected `<head>` contains:
 - `<meta name="description" content="Boutique homes in Milan...">`
 - `<meta property="og:title" content="CasAI — Curated estates. AI concierge.">`
 - `<meta property="og:image" content="...opengraph-image..."` (auto-generated path)
-- `<link rel="alternate" hrefLang="en" href="https://casa.followtheflowai.com/">`
-- `<link rel="alternate" hrefLang="it" href="https://casa.followtheflowai.com/it">`
-- `<link rel="alternate" hrefLang="es" href="https://casa.followtheflowai.com/es">`
+- `<link rel="alternate" hrefLang="en" href="https://casai.followtheflowai.com/">`
+- `<link rel="alternate" hrefLang="it" href="https://casai.followtheflowai.com/it">`
+- `<link rel="alternate" hrefLang="es" href="https://casai.followtheflowai.com/es">`
 
 - [ ] **Step 5: TYPECHECK + LINT + BUILD**
 
@@ -2243,7 +2243,7 @@ Expected: `200`, `200`, `200`, `404`.
 git push -u origin main
 ```
 
-Expected: push succeeds. GitHub Actions / EasyPanel webhook (if already configured) may pick it up; deployment to `casa.followtheflowai.com` is **deferred to Plan 3** — Plan 1 only ships the codebase.
+Expected: push succeeds. GitHub Actions / EasyPanel webhook (if already configured) may pick it up; deployment to `casai.followtheflowai.com` is **deferred to Plan 3** — Plan 1 only ships the codebase.
 
 - [ ] **Step 4: Verify push**
 

@@ -50,7 +50,7 @@ export default async function OpengraphImage({ params }: Props) {
         >
           {t("heroTitle")}
         </div>
-        <div style={{ fontSize: 24, color: "#6B6660" }}>casa.followtheflowai.com</div>
+        <div style={{ fontSize: 24, color: "#6B6660" }}>casai.followtheflowai.com</div>
       </div>
     ),
     size,
