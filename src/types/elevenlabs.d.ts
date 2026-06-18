@@ -1,12 +1,14 @@
 import type { DetailedHTMLProps, HTMLAttributes } from "react";
 
+type ElevenLabsConvaiAttrs = HTMLAttributes<HTMLElement> & {
+  "agent-id": string;
+  "dynamic-variables"?: string;
+};
+
 declare module "react" {
   namespace JSX {
     interface IntrinsicElements {
-      "elevenlabs-convai": DetailedHTMLProps<
-        HTMLAttributes<HTMLElement> & { "agent-id": string },
-        HTMLElement
-      >;
+      "elevenlabs-convai": DetailedHTMLProps<ElevenLabsConvaiAttrs, HTMLElement>;
     }
   }
 }
@@ -14,10 +16,7 @@ declare module "react" {
 declare global {
   namespace JSX {
     interface IntrinsicElements {
-      "elevenlabs-convai": DetailedHTMLProps<
-        HTMLAttributes<HTMLElement> & { "agent-id": string },
-        HTMLElement
-      >;
+      "elevenlabs-convai": DetailedHTMLProps<ElevenLabsConvaiAttrs, HTMLElement>;
     }
   }
 }
