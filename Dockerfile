@@ -2,8 +2,10 @@ FROM node:22-alpine AS base
 
 # Install dependencies only when needed
 FROM base AS deps
-RUN apk add --no-cache libc6-compat
 WORKDIR /app
+
+# libc6-compat solo se serve (Alpine repos intermittenti: || true non blocca build)
+RUN apk add --no-cache libc6-compat 2>/dev/null || true
 
 COPY package.json package-lock.json* ./
 RUN npm install --frozen-lockfile || npm install
