@@ -129,3 +129,59 @@ type Listing = {
 ## Nessun listing non completato
 
 Tutti i 30 listing sono completi su tutti i campi. Tempo totale di costruzione: ~25 minuti (build + validazione + foto check).
+
+---
+
+## Proofreading 2026-06-18
+
+Revisione integrale dei 90 campi descrittivi (30 listings × 3 lingue × `description_short`/`description_long`), con focus su anglicismi, calchi e terminologia immobiliare nativa per IT/EN/ES.
+
+### Sintesi correzioni
+
+- **Listing con almeno una correzione**: ~27/30 (3 listings — alcuni Mallorca high-end EN — non hanno richiesto modifiche sostanziali)
+- **Modifiche per lingua**: IT ~30 campi toccati, EN ~10, ES ~25
+- **Modifiche per campo**: `description_long` ~50, `description_short` ~15
+
+### Top 5 tipi di errore corretti
+
+1. **Terminologia camere/locali IT**: uso errato di "monocamera" (Bermondsey), incongruenze "Bilocale" vs "Trilocale" tra title e desc_short (Portixol, Santa Catalina), e "Trilocale" usato per 3-bed quando doveva essere "Quadrilocale" (Portals Nous). Norma applicata: 1 bed = bilocale, 2 bed = trilocale, 3 bed = quadrilocale.
+2. **Calchi sintattici "piece of inventory / honest piece / piece for the buyer"**: tradotti meccanicamente in IT come "Un pezzo onesto", "Un pezzo identitario", "Un pezzo per l'acquirente che..." → riscritti in italiano naturale ("Una proposta sincera e ricca di carattere", "Una proposta identitaria per l'acquirente che...").
+3. **Calchi "casa di famiglia" e "casa di città"**: traduzione meccanica di "family house" e "townhouse" (Fulham, Hampstead, Palma Old Town). In italiano "casa di famiglia" significa altro (casa dei genitori). Corretto in "casa vittoriana", "palazzo cittadino", ecc.
+4. **Anglicismi ES non castigliani**: "renovar" → `reformar`; mantenuto `ático` solo dove non in titolo; "abujardado" (bush-hammered) usato erroneamente per "honed" (Son Vida) → `pulido`; "lavado de cara estético" lasciato perché idiomatico in ES.
+5. **Tono "trophy/confident" anglo**: "proposta trofeo", "Una villa sicura", "address principale" → "proposta di prestigio assoluto", "Una villa decisa e luminosa", "indirizzo di assoluta rappresentanza".
+
+### Esempi prima/dopo
+
+1. **london-bermondsey-warehouse / IT desc_short**
+   - Prima: "Monocamera ricavato da un warehouse di Shad Thames, con finestra affacciata sul Tamigi…"
+   - Dopo: "Bilocale ricavato da un ex-warehouse di Shad Thames, con finestra affacciata sul Tamigi…"
+
+2. **mallorca-portixol-seaview / IT desc_short**
+   - Prima: "Bilocale fronte mare nel cuore della strip dei ristoranti di Portixol…" (incongruente: il titolo IT dice "trilocale", il listing è 2-bed)
+   - Dopo: "Trilocale fronte mare nel cuore della strip dei ristoranti di Portixol…"
+
+3. **mallorca-portals-nous / IT desc_short**
+   - Prima: "Trilocale con terrazza di 40 m² affacciata su Puerto Portals…" (errato: 3-bed = quadrilocale)
+   - Dopo: "Quadrilocale con terrazza di 40 m² affacciata su Puerto Portals…"
+
+4. **london-fulham / IT desc_short**
+   - Prima: "Casa a schiera vittoriana di tre camere con giardino di 28 m² sul retro, vicino a Bishop's Park e in un bacino scolastico primario riconosciuto." (calco "recognised primary school catchment")
+   - Dopo: "Casa a schiera vittoriana di tre camere con giardino di 28 m² sul retro, vicino a Bishop's Park e in un bacino scolastico primario di prestigio."
+
+5. **mallorca-port-andratx / IT desc_long (chiusura)**
+   - Prima: "Una proposta trofeo per l'acquirente internazionale in cerca di una residenza principale o estiva nel cuore della baia più prestigiosa di Mallorca."
+   - Dopo: "Una proposta di prestigio assoluto per l'acquirente internazionale in cerca di una residenza principale o estiva nel cuore della baia più rinomata di Mallorca."
+
+### Anomalie non sanabili senza decisione Stefano
+
+Per vincolo del task non sono stati modificati i titoli, ma due titoli ES presentano errori di terminologia che dovrebbero essere corretti:
+
+- `mallorca-palma-old-town-1bed-5571` — title ES: **"estudio pied-à-terre con acceso a azotea"**. Il listing ha 1 dormitorio → in ES standard "estudio" = monolocale (zero camere separate). Suggerimento: "apartamento de un dormitorio pied-à-terre con acceso a azotea".
+- `london-bermondsey-warehouse-1bed-2200` — title ES: **"estudio en warehouse con vistas al Támesis"**. Stesso problema (1 bedroom, non monolocale). Suggerimento: "apartamento de un dormitorio en warehouse…".
+
+Inoltre, in `london-mayfair-trophy-penthouse-1167` il titolo ES contiene "penthouse" (anglicismo); per coerenza castigliana sarebbe "ático", ma il titolo è stato mantenuto perché fuori scope.
+
+### Tempo impiegato
+
+~55 minuti (lettura completa dei 90 campi + 3 batch di correzioni Python + verifica con regex residui + aggiornamento NOTES).
+
