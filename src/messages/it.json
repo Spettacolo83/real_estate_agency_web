@@ -73,7 +73,17 @@
   "neighborhoods": {
     "eyebrow": "Editoriale",
     "title": "Tre luoghi che conosciamo a memoria",
-    "body": "Brera e Quadrilatero a Milano, Palma vecchia e Son Vida a Maiorca, Mayfair e Notting Hill a Londra. Gli approfondimenti editoriali su ogni quartiere arriveranno presto — nel frattempo il nostro assistente AI ne sa già tutto, in tre lingue."
+    "body": "Lombardia, Maiorca, Londra Prime Central. Tre territori dove ogni immobile viene visionato di persona — e dove il nostro assistente AI ha la conoscenza diretta del posto, in tre lingue. Scegli una regione per vedere cosa abbiamo in selezione adesso.",
+    "milanRegionLabel": "Lombardia",
+    "milanRegionTagline": "Da Uboldo a Porto Cervo, con Miakasa",
+    "milanRegionBody": "La nostra collezione italiana è curata insieme a Miakasa, agenzia boutique di Uboldo (provincia di Varese) che copre la fascia Saronno-Origgio-Cislago a nord-ovest di Milano. Si va dai bilocali luminosi entry-level alle ville nuove di classe A4, fino all'attico trofeo sulla baia di Sa Cascada a Porto Cervo. La selezione è volutamente ampia per coprire ogni budget premium.",
+    "mallorcaRegionLabel": "Maiorca",
+    "mallorcaRegionTagline": "Da Palma vecchia alle cale della Tramuntana",
+    "mallorcaRegionBody": "Maiorca vive su due registri: l'energia design-driven di Palma — Santa Catalina, Portixol, il casco antico — e il mediterraneo lento delle valli della Tramuntana, dove le fincas in pietra e le ville fronte mare custodiscono una luce silenziosa. La nostra selezione racconta entrambe le anime, da un pied-à-terre a Palma a una villa a strapiombo su Port d'Andratx.",
+    "londonRegionLabel": "Londra Prime Central",
+    "londonRegionTagline": "Mews, mansion-block, townhouse fronte fiume",
+    "londonRegionBody": "Da un warehouse di Shad Thames con vista sul Tamigi, ai garden-flat georgiani di Islington, alle case vittoriane di Fulham e Hampstead, fino all'attico trofeo di Mayfair su Grosvenor Square. La selezione londinese copre l'intero spettro del living Prime Central.",
+    "exploreCta": "Esplora la selezione"
   },
   "story": {
     "eyebrow": "Chi siamo",

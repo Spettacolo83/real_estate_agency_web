@@ -73,7 +73,17 @@
   "neighborhoods": {
     "eyebrow": "Editorial",
     "title": "Tres lugares que conocemos de memoria",
-    "body": "Brera y Quadrilatero en Milán, Palma vieja y Son Vida en Mallorca, Mayfair y Notting Hill en Londres. Los reportajes editoriales de cada barrio llegan pronto — mientras tanto, nuestro asistente AI ya lo sabe todo, en tres idiomas."
+    "body": "Lombardía, Mallorca, Londres Prime Central. Tres territorios donde cada propiedad la visitamos en persona — y donde nuestro asistente AI tiene el conocimiento directo del lugar, en tres idiomas. Elige una región para ver qué tenemos en cartera ahora mismo.",
+    "milanRegionLabel": "Lombardía",
+    "milanRegionTagline": "De Uboldo a Porto Cervo, con Miakasa",
+    "milanRegionBody": "Nuestra colección italiana se cura junto a Miakasa, agencia boutique de Uboldo (provincia de Varese) que cubre la franja Saronno-Origgio-Cislago al noroeste de Milán. La gama va desde apartamentos de un dormitorio entry-level hasta villas nuevas de clase A4 y un ático trofeo en la bahía de Sa Cascada en Porto Cervo. La selección es intencionalmente amplia para cubrir todo el presupuesto premium.",
+    "mallorcaRegionLabel": "Mallorca",
+    "mallorcaRegionTagline": "Del casco antiguo de Palma a las calas de la Tramuntana",
+    "mallorcaRegionBody": "Mallorca vive en dos registros: la energía design-driven de Palma — Santa Catalina, Portixol, el casco antiguo — y el Mediterráneo pausado de los valles de la Tramuntana, donde las fincas de piedra y las villas frente al mar guardan una luz silenciosa. Nuestra selección recoge ambas almas, desde un pied-à-terre en Palma hasta una villa en acantilado sobre Port d'Andratx.",
+    "londonRegionLabel": "Londres Prime Central",
+    "londonRegionTagline": "Mews, mansion blocks, townhouses frente al río",
+    "londonRegionBody": "Desde un warehouse de Shad Thames con vistas al Támesis, pasando por garden-flats georgianos en Islington y casas victorianas en Fulham y Hampstead, hasta el ático trofeo de Mayfair en Grosvenor Square. La selección londinense cubre todo el espectro del living Prime Central.",
+    "exploreCta": "Explora la selección"
   },
   "story": {
     "eyebrow": "Quiénes somos",

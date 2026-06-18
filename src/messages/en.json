@@ -73,7 +73,17 @@
   "neighborhoods": {
     "eyebrow": "Editorial",
     "title": "Three places we know by heart",
-    "body": "Brera and Quadrilatero in Milan, Palma Old Town and Son Vida in Mallorca, Mayfair and Notting Hill in London. Long-form essays on each neighborhood are in production — meanwhile, our AI assistant has the inside scoop in three languages."
+    "body": "Lombardy, Mallorca, and Prime Central London. Three places where we curate every listing personally — and where our AI assistant has the inside scoop in three languages. Pick a region to see what we have right now.",
+    "milanRegionLabel": "Lombardy",
+    "milanRegionTagline": "From Uboldo to Porto Cervo, with Miakasa",
+    "milanRegionBody": "Our Italian collection is curated with Miakasa, a boutique agency based in Uboldo (province of Varese) covering the Saronno-Origgio-Cislago belt of north-west Milan. From bright entry-tier two-room flats in town to new Class A4 villas and a trophy penthouse overlooking the Sa Cascada bay in Porto Cervo, the range is intentionally wide.",
+    "mallorcaRegionLabel": "Mallorca",
+    "mallorcaRegionTagline": "Palma Old Town to the Tramuntana coves",
+    "mallorcaRegionBody": "Mallorca lives in two registers: the design-driven energy of Palma — Santa Catalina, Portixol, the Old Town — and the slow Mediterranean of the Tramuntana valleys, where stone fincas and waterfront villas hold their own quiet light. Our selection includes both, from a Palma pied-à-terre to a cliff villa over Port d'Andratx.",
+    "londonRegionLabel": "Prime Central London",
+    "londonRegionTagline": "Mews, mansion blocks, river-front townhouses",
+    "londonRegionBody": "From a converted Shad Thames warehouse with river view, through Georgian garden-flats in Islington and Victorian family houses in Fulham and Hampstead, all the way to a trophy Mayfair penthouse on Grosvenor Square. The London selection covers the full spectrum of Prime Central living.",
+    "exploreCta": "Browse the selection"
   },
   "story": {
     "eyebrow": "About",
