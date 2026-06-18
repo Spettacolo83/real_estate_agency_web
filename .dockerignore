@@ -1,0 +1,12 @@
+Dockerfile
+.dockerignore
+node_modules
+.next
+.git
+.gitignore
+*.md
+.env*
+.DS_Store
+.secrets
+.claude
+docs/superpowers
