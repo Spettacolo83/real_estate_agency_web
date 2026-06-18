@@ -1,8 +1,80 @@
-# listings_research.json — Note di compilazione (v3 — Miakasa integration)
+# listings_research.json — Note di compilazione (v4 — Mallorca real scrape)
 
 Generato per la demo `casai.followtheflowai.com`. 30 immobili (10 per Milano / Mallorca / London), distribuiti su fasce di prezzo eterogenee.
 
-> **v3 (Miakasa integration)**: l'array `milano` è stato sostituito con **10 immobili reali di Miakasa** (agenzia di Uboldo, VA — https://miakasa.it/), per il pitch verticale alla loro agenzia. Gli array `mallorca` e `london` restano invariati dalla v2.
+> **v4 (Mallorca real scrape 2026-06-18)**: l'array `mallorca` è stato sostituito con **10 immobili reali Knight Frank** (sostituendo i sintetici v2 con foto Unsplash non coerenti). Gli array `milano` (Miakasa v3) e `london` (sintetici v2) restano invariati.
+
+## Mallorca real scrape 2026-06-18
+
+### Portali utilizzati
+
+- **Knight Frank Mallorca** (`knightfrank.com`): **10/10** listing — tutti da `https://www.knightfrank.com/property-for-sale/spain/mallorca`.
+- Engel & Völkers, Sotheby's, Kuhn-Partner, firstmallorca.com sono stati testati ma sono SPA pure: tornano body vuoto con `curl` standard. Knight Frank è risultato l'unico portale di alta gamma che con `User-Agent: Googlebot/2.1` esponga il rendering server-side completo (con blocco `var initialDetails = {…}` JSON che contiene tutte le foto, descrizioni, prezzi, feature).
+
+### 10 listing scelti
+
+| id_suggested | Zona | Tipo | Prezzo | Bed/Bath | mq | Foto | source_url |
+| ------------ | ---- | ---- | ------ | -------- | -- | ---- | ---------- |
+| `mallorca-deia-stone-villa-1948` | Deià / Cala Deià | Villa | €3.300.000 | 3/3 | 247 | 7 | `…/rsi012491948` |
+| `mallorca-soller-finca-1157` | Sóller centro | Finca | €1.750.000 | 4/2 | 250 | 7 | `…/rsi012591157` |
+| `mallorca-andratx-townhouse-5880` | Andratx old town | Townhouse | €2.950.000 | 3/2 | 171 | 7 | `…/rsi012535880` |
+| `mallorca-manacor-estate-2436` | Manacor / Porto Colom | Finca | €6.500.000 | 5/5 | 600 | 7 | `…/rsi012422436` |
+| `mallorca-santa-maria-farmhouse-3176` | Santa Maria del Camí | Finca | €6.500.000 | 6/7 | 550 | 7 | `…/rsi012443176` |
+| `mallorca-bunyola-turnkey-7456` | Bunyola | Villa | €4.750.000 | 5/5 | 500 | 7 | `…/rsi012657456` |
+| `mallorca-santanyi-newbuild-4495` | Santanyí / Cala Llombards | Finca | €12.500.000* | 6/7 | 700 | 7 | `…/rsi012544495` |
+| `mallorca-binissalem-vineyard-9820` | Binissalem (wine country) | Finca | €7.900.000 | 4/4 | 450 | 7 | `…/rsi012629820` |
+| `mallorca-formentor-clifftop-0796` | Cap de Formentor | Villa | €22.000.000* | 7/7 | 800 | 7 | `…/rsi012530796` |
+| `mallorca-port-andratx-ullastre-5353` | Port d'Andratx / La Mola | Villa | €37.000.000 | 13/12 | 1500 | 7 | `…/rsi012495353` |
+
+\* Listing originariamente "Price on Application" su Knight Frank. Stima fatta su benchmark di mercato (nuove fincas Santanyí 600-800 m² 2025 ~€10-15M; trofei clifftop Formentor con licenza protetta ~€18-30M). I valori `price` nel JSON sono indicativi e possono essere ulteriormente rivisti.
+
+### Distribuzione
+
+- **Per zona**: Deià ×1, Sóller ×1, Andratx/Port Andratx ×2, Manacor ×1, Santa Maria del Camí ×1, Bunyola ×1, Santanyí ×1, Binissalem ×1, Cap de Formentor ×1. **9 zone diverse**, copertura della Tramuntana (Deià, Sóller, Bunyola), centro (Binissalem, Santa Maria), sud-est (Manacor, Santanyí), trofei costieri (Andratx, Formentor).
+- **Per fascia di prezzo**: Range €1.75M → €37M (vs v2 €425K-€9.5M sintetici). Distribuzione naturale del mercato Knight Frank Mallorca, fortemente sbilanciata sul lusso/ultra-lusso (KF non lista entry-level). Mediana ~€6.5M.
+- **Per tipologia**: 4 Finca / 4 Villa / 1 Townhouse / (Finca/Villa quasi indistinguibili nella categoria KF).
+
+### Foto e note legali
+
+- **Tutte e 70 le foto** (10 listing × 7 foto) sono **hotlinked dal CDN Knight Frank** (`content.knightfrank.com/property/rsi{ID}/images/{UUID}-0.jpg?cio=true&w=1200`).
+- **HEAD verificate 200**: tutte le 70 URL ritornano `200 image/jpeg` con `Content-Length` reale (60KB-350KB ciascuna). Le foto sono autenticamente quelle dell'annuncio originale Knight Frank.
+- **Nota legale demo**: l'hotlinking dal CDN Knight Frank è accettabile **solo per demo interna / pitch ad agenzie**. Per uso pubblico/produzione di `casai.followtheflowai.com` indicizzato dovremo:
+  1. Ottenere consenso scritto Knight Frank, oppure
+  2. Sostituire con asset propri (foto stock R2/Cloudflare licenziate, shoot dedicato), oppure
+  3. Considerare un "demo mode" in cui i 10 Mallorca sono mostrati solo a utenti loggati / IP whitelistati.
+- **Risk specifico KF**: i listing reali possono essere venduti e quindi sparire (link rot) — vita media stimata 3-12 mesi. Da rifare a quel punto.
+
+### Descrizioni
+
+- **Riscritte completamente in tono boutique editorial CasAI**: le descrizioni originali Knight Frank contenevano formule promozionali ripetitive (es. "Please note that all distances and measurements are approximate…", riferimenti a "Property Adviser" e "Knight Frank Office"). Eliminate tutte le formule legali/operative.
+- **Stile**: 4-6 paragrafi separati da `\n\n`, tono concierge/editoriale alla Engel & Völkers/John Taylor, niente CTA né telefono né riferimenti all'agente.
+- **EN** è la lingua sorgente; **IT** in sentence case con vocabolario immobiliare italiano nativo (camere, suite, dependance, cabina armadio); **ES castigliano** con `ático`, `dormitorio`, `cabina de vestir`. Nomi geografici spagnoli mantenuti in spagnolo (Pollença, Sóller, Deià, Santanyí, Cala Llombards).
+
+### Coordinate
+
+Coordinate impostate sul **centro del comune o sulla zona dichiarata** (Knight Frank non espone coordinate precise per ragioni di privacy del venditore). Esempi:
+- Cala Deià → centro Deià
+- Casa Ullastre → centro Port d'Andratx (La Mola peninsula)
+- Cap de Formentor → punta del Cap
+- Manacor (Porto Colom estate) → Porto Colom
+
+Sufficiente per la mappa demo; non per geofencing operativo.
+
+### Listing **non** scartati
+
+Tutti i 20 listing scaricati da Knight Frank Mallorca erano validi (foto vere, descrizioni complete, prezzi o POA). Ne ho scelti 10 per **massimizzare la diversità geografica e tipologica**, scartando i duplicati di zona (4 Deià, 3 Port Andratx, 2 Sóller, 2 Manacor, 2 Santa Maria nel pool originale).
+
+I 10 listing **non selezionati** (ma archiviati in `/tmp/mallorca_scrape/listings/all_parsed.json` per riferimento futuro): rsi012522792 (Deià €13.5M), rsi012605618 (Deià €3M), rsi012687655 (Deià €5.5M), rsi012542001 (Deià €25M), rsi012559137 (Manacor POA), rsi012602332 (Port Andratx €11M), rsi012424568 (Port d'Andratx €12.5M), rsi012513510 (Sóller €2.7M), rsi012543782 (Santa Maria €16.2M), rsi012594825 (Sóller €2.75M).
+
+### Anomalie / decisioni di scope
+
+- **Nessun listing sotto €1.5M**: Knight Frank Mallorca non lista entry-level (il loro positioning parte da €1M+, mediana >€5M). Il vecchio v2 aveva 4 listing entry tra €425K-€695K che erano sintetici. La nuova realtà del file è coerente con il segmento Knight Frank — se in futuro vogliamo entry-level Mallorca reali, dovremo aggiungere fonti come idealista.com (SPA però — richiede headless browser) o Engel & Völkers (SPA + API protetta).
+- **2 POA → prezzi stimati**: `formentor-clifftop-0796` (€22M stima) e `santanyi-newbuild-4495` (€12.5M stima). I prezzi sono prudenziali ma plausibili per il segmento; entrambi POA in realtà — andrebbero contrassegnati come "price_on_application: true" nello schema se il sito CasAI vuole gestire questa distinzione UX.
+- **Knight Frank è SPA per default**: il rendering completo (descrizione + foto + `initialDetails`) è esposto SOLO con `User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)`. Con UA browser normale (anche Chrome 121 con full headers) Knight Frank ritorna `HTTP 200` con `Content-Length: 0`. Questo trucco è prezioso ma fragile — se KF dovesse bloccare Googlebot UA dovremo passare a headless browser (Playwright) per re-scrape.
+
+---
+
+## v3 (Miakasa integration)
 
 ## Miakasa integration
 

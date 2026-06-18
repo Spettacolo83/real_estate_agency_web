@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T22:40:11.145231+00:00",
+  "generated_at": "2026-06-18T10:50:09.101081+00:00",
   "milano": [
     {
       "id_suggested": "miakasa-uboldo-bilocale-28042025",
@@ -589,546 +589,562 @@
   ],
   "mallorca": [
     {
-      "id_suggested": "mallorca-palma-old-town-1bed-5571",
-      "source_url": "https://www.idealista.com/en/inmueble/palma-de-mallorca-baleares/",
-      "source_portal": "idealista.com",
-      "city": "Mallorca",
-      "neighborhood": "Palma Old Town",
-      "address_approx": "Calle Apuntadores, Palma Old Town",
-      "title": "Palma Old Town: one-bed pied-à-terre with rooftop access",
-      "description_short": "A characterful one-bed apartment in a restored 18th-century building in the heart of Palma's old town, with access to a shared rooftop overlooking the cathedral.",
-      "description_long": "A discreet doorway on Calle Apuntadores opens onto the foyer of a 1740s townhouse, sensitively restored in 2022. On the second floor, this one-bedroom apartment of 58 m² balances original stone walls and exposed beams with a quiet, contemporary interior in lime plaster and pale European oak.\n\nThe living-kitchen is double-aspect, capturing morning sun from the front and the afternoon shadow of the cathedral from the side. The bedroom enjoys a vaulted ceiling and built-in wardrobes; the bathroom is finished in honed limestone with a rainfall shower.\n\nThe building offers a shared rooftop terrace, accessed from a discreet lift, where loungers and a small herb garden capture the unbroken view of Palma cathedral and the bay beyond.\n\nLa Lonja, Plaza Mayor and the new wave of Palma's design hotels and natural-wine bars are all within a three-minute radius. The marina is six minutes on foot; Palma airport delivers central Europe in two hours.\n\nA strong pied-à-terre or boutique rental asset in a market that continues to compress.",
-      "price": 425000,
+      "id_suggested": "mallorca-deia-stone-villa-1948",
+      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/dei-mallorca-illes-balears/rsi012491948",
+      "source_portal": "knightfrank.com",
+      "city": "Deià",
+      "neighborhood": "Cala Deià",
+      "address_approx": "Cala Deià Cove, Deià, Serra de Tramuntana",
+      "title": "Deià: Renovated Stone Villa Above Cala Deià Cove",
+      "description_short": "Three-bedroom villa of 247 m2 in Deià village, terracotta floors, stone walls and a 50 m2 pool overlooking the UNESCO-protected Cala Deià cove and the Tramuntana mountains.",
+      "description_long": "Tucked into the green-shuttered, honey-coloured stone houses of Deià, this 247 m2 villa enjoys the sort of address that artists, poets and musicians have been quietly buying into for over a century. The Tramuntana mountains rise to the back; the Mediterranean falls away to the front.\n\nThe interior carries the village's restrained luxury vocabulary: terracotta floors, stone walls and stuccoed plaster finishes. Three bedrooms and three bathrooms are arranged across a single, calm volume that opens onto a series of vine-shaded terraces.\n\nOutside, the 1,790 m2 grounds are anchored by a 50 m2 swimming pool framed in cut stone. The terraces step down toward the cove, capturing the dramatic interplay between the village rooftops, the cala and the mountains beyond.\n\nThe property holds a rental licence — a rare and valuable consent in the protected Tramuntana zone. Cala Deià itself, with its single-Michelin-starred Ca's Patró March and a clutch of fishing-boat bars, is a short walk down.\n\nA discreet, immediately liveable Deià trophy in the price band where the Tramuntana coastline begins.",
+      "price": 3300000,
       "currency": "EUR",
-      "sqm": 58,
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "property_type": "apartment",
+      "sqm": 247,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "property_type": "Villa",
       "features": [
-        "restored townhouse",
-        "shared rooftop",
-        "cathedral view",
-        "vaulted ceiling",
+        "sea view",
+        "mountain view",
+        "swimming pool",
         "stone walls",
-        "old town"
+        "terrace",
+        "UNESCO area"
       ],
       "coordinates": {
-        "lat": 39.5689,
+        "lat": 39.7475,
         "lng": 2.648
       },
       "photo_urls": [
-        "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1600&q=80",
-        "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=1600&q=80",
-        "https://images.unsplash.com/photo-1518733057094-95b53143d2a7?w=1600&q=80",
-        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1600&q=80",
-        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1600&q=80",
-        "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=1600&q=80"
+        "https://content.knightfrank.com/property/rsi012491948/images/f3061ec8-5156-4698-a8e6-d98720864237-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012491948/images/bb01b5f1-bde2-4048-9f1c-aefea4d2b465-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012491948/images/f865557d-f242-4e54-80af-0f3e20cab1f7-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012491948/images/1bb2f1aa-ee7f-429e-8acc-c5a9af039196-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012491948/images/ab5df9ad-aa60-4ad8-b51d-cde1ae19bb48-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012491948/images/8ad2278c-4eca-49c3-baa6-d64b53227fa8-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012491948/images/0c8dd446-3348-4c5b-9e10-6f6aa934006c-0.jpg?cio=true&w=1200"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "photos_source_note": "Photos hotlinked from Knight Frank CDN (real listing)",
       "i18n": {
         "en": {
-          "title": "Palma Old Town: one-bed pied-à-terre with rooftop access",
-          "description_short": "A characterful one-bed apartment in a restored 18th-century building in the heart of Palma's old town, with access to a shared rooftop overlooking the cathedral.",
-          "description_long": "A discreet doorway on Calle Apuntadores opens onto the foyer of a 1740s townhouse, sensitively restored in 2022. On the second floor, this one-bedroom apartment of 58 sq m balances original stone walls and exposed beams with a quiet, contemporary interior in lime plaster and pale European oak.\n\nThe living-kitchen is double-aspect, capturing morning sun from the front and the afternoon shadow of the cathedral from the side. The bedroom enjoys a vaulted ceiling and built-in wardrobes; the bathroom is finished in honed limestone with a rainfall shower.\n\nThe building offers a shared roof terrace, accessed by a discreet lift, where loungers and a small herb garden capture the unbroken view of Palma cathedral and the bay beyond.\n\nLa Lonja, Plaza Mayor and the new wave of Palma's design hotels and natural-wine bars are all within a three-minute radius. The marina is six minutes on foot; Palma airport delivers central Europe in two hours.\n\nA strong pied-à-terre or boutique rental asset in a market that continues to tighten on supply."
+          "title": "Deià: Renovated Stone Villa Above Cala Deià Cove",
+          "description_short": "Three-bedroom villa of 247 m2 in Deià village, terracotta floors, stone walls and a 50 m2 pool overlooking the UNESCO-protected Cala Deià cove and the Tramuntana mountains.",
+          "description_long": "Tucked into the green-shuttered, honey-coloured stone houses of Deià, this 247 m2 villa enjoys the sort of address that artists, poets and musicians have been quietly buying into for over a century. The Tramuntana mountains rise to the back; the Mediterranean falls away to the front.\n\nThe interior carries the village's restrained luxury vocabulary: terracotta floors, stone walls and stuccoed plaster finishes. Three bedrooms and three bathrooms are arranged across a single, calm volume that opens onto a series of vine-shaded terraces.\n\nOutside, the 1,790 m2 grounds are anchored by a 50 m2 swimming pool framed in cut stone. The terraces step down toward the cove, capturing the dramatic interplay between the village rooftops, the cala and the mountains beyond.\n\nThe property holds a rental licence — a rare and valuable consent in the protected Tramuntana zone. Cala Deià itself, with its single-Michelin-starred Ca's Patró March and a clutch of fishing-boat bars, is a short walk down.\n\nA discreet, immediately liveable Deià trophy in the price band where the Tramuntana coastline begins."
         },
         "it": {
-          "title": "Palma Old Town: bilocale pied-à-terre con accesso al terrazzo",
-          "description_short": "Bilocale ricco di carattere in un palazzo settecentesco restaurato nel cuore del centro storico di Palma, con accesso a una terrazza condivisa sul tetto affacciata sulla cattedrale.",
-          "description_long": "Un portone discreto in Calle Apuntadores apre sul foyer di un palazzo cittadino del 1740, restaurato con sensibilità nel 2022. Al secondo piano, questo bilocale di 58 m² bilancia muri in pietra originali e travi a vista con un interno contemporaneo silenzioso, rifinito in calce e rovere europeo chiaro.\n\nLa zona giorno-cucina è a doppia esposizione e intercetta il sole del mattino dal fronte e l'ombra pomeridiana della cattedrale sul lato. La camera gode di un soffitto a volta e di armadi a muro; il bagno è rifinito in pietra calcarea levigata con doccia a soffione.\n\nL'edificio dispone di una terrazza condivisa sul tetto, raggiungibile con un ascensore discreto, dove le sdraio e un piccolo orto di erbe aromatiche godono della vista ininterrotta sulla cattedrale di Palma e, oltre, sulla baia.\n\nLa Lonja, Plaza Mayor e la nuova generazione di design hotel e wine bar naturali di Palma sono nel raggio di tre minuti. Il porto è a sei minuti a piedi; l'aeroporto di Palma collega l'Europa centrale in due ore.\n\nUn solido pied-à-terre o un asset da locazione boutique in un mercato che continua a restringersi sul lato dell'offerta."
+          "title": "Deià: villa in pietra ristrutturata sopra la cala omonima",
+          "description_short": "Villa di 247 m2 con tre camere a Deià, pavimenti in cotto, muri in pietra e piscina di 50 m2 con vista sulla cala protetta UNESCO e sui monti della Tramuntana.",
+          "description_long": "Incastonata tra le case in pietra color miele dalle persiane verdi di Deià, questa villa di 247 m2 occupa uno di quegli indirizzi che artisti, poeti e musicisti acquistano in silenzio da oltre un secolo. La Serra de Tramuntana fa da quinta alle spalle; il Mediterraneo si apre verso il fronte.\n\nGli interni adottano il vocabolario di lusso sobrio del paese: pavimenti in cotto, muri in pietra e finiture in stucco veneziano. Tre camere e tre bagni si distribuiscono in un volume unico e tranquillo che si apre su una sequenza di terrazze ombreggiate dalla vite.\n\nAll'esterno, i 1.790 m2 di giardino ruotano intorno a una piscina di 50 m2 incorniciata in pietra a vista. Le terrazze degradano verso la cala, catturando il dialogo drammatico tra i tetti del paese, la baia e i monti.\n\nL'immobile dispone di licenza turistica — un consenso raro e prezioso nella zona protetta della Tramuntana. Cala Deià, con il suo ristorante stellato Ca's Patró March e i piccoli bar in riva al mare, è a pochi minuti a piedi.\n\nUn trofeo discreto e immediatamente vivibile a Deià, nella fascia di prezzo in cui inizia la costa della Tramuntana."
         },
         "es": {
-          "title": "Casco antiguo de Palma: apartamento pied-à-terre con acceso a azotea",
-          "description_short": "Apartamento de un dormitorio con carácter en un edificio del siglo XVIII restaurado en el corazón del casco antiguo de Palma, con acceso a una azotea compartida frente a la catedral.",
-          "description_long": "Una puerta discreta en la calle Apuntadores da paso al zaguán de una casa señorial de 1740, restaurada con sensibilidad en 2022. En la segunda planta, este apartamento de un dormitorio de 58 m² equilibra muros de piedra originales y vigas vistas con un interior contemporáneo y sereno, en estuco de cal y roble europeo claro.\n\nEl salón-cocina disfruta de doble orientación, captando el sol de la mañana desde el frente y la sombra vespertina de la catedral desde el lateral. El dormitorio goza de techo abovedado y armarios empotrados; el baño está acabado en piedra caliza pulida con ducha de lluvia.\n\nEl edificio cuenta con una azotea comunitaria, accesible mediante un discreto ascensor, donde las tumbonas y un pequeño huerto de aromáticas comparten la vista ininterrumpida de la catedral de Palma y de la bahía.\n\nLa Lonja, Plaza Mayor y la nueva ola de hoteles de diseño y bares de vino natural de Palma se encuentran a tres minutos. El puerto está a seis minutos a pie; el aeropuerto conecta con Europa central en dos horas.\n\nUn sólido pied-à-terre o activo de alquiler boutique en un mercado que sigue tensionándose por el lado de la oferta."
+          "title": "Deià: villa de piedra reformada sobre la cala de Deià",
+          "description_short": "Villa de 247 m2 con tres dormitorios en Deià, suelos de barro cocido, muros de piedra y piscina de 50 m2 con vistas a la cala protegida por la UNESCO y a la sierra de Tramuntana.",
+          "description_long": "Encajada entre las casas de piedra color miel y persianas verdes de Deià, esta villa de 247 m2 ocupa uno de esos enclaves que artistas, poetas y músicos llevan comprando en silencio más de un siglo. La Serra de Tramuntana se levanta a su espalda; el Mediterráneo se abre por delante.\n\nEl interior asume el vocabulario de lujo contenido del pueblo: suelos de barro cocido, muros de piedra y revoco de estuco. Los tres dormitorios y los tres baños se distribuyen en un único volumen sereno que se abre a una sucesión de terrazas sombreadas por la parra.\n\nEn el exterior, los 1.790 m2 de jardín giran en torno a una piscina de 50 m2 enmarcada en piedra labrada. Las terrazas descienden hacia la cala, capturando el diálogo dramático entre los tejados del pueblo, la cala y las montañas.\n\nLa propiedad cuenta con licencia turística — un permiso poco frecuente y muy valioso en la zona protegida de Tramuntana. La propia Cala Deià, con su Ca's Patró March con estrella Michelin y un puñado de chiringuitos, queda a pocos minutos a pie.\n\nUna propiedad trofeo discreta y lista para habitar en Deià, en la franja de precio en la que arranca la costa de Tramuntana."
         }
       }
     },
     {
-      "id_suggested": "mallorca-portixol-seaview-2bed-2244",
-      "source_url": "https://www.fotocasa.es/es/comprar/viviendas/palma-de-mallorca/portixol/",
-      "source_portal": "fotocasa.es",
-      "city": "Mallorca",
-      "neighborhood": "Portixol",
-      "address_approx": "Calle Vicari Joaquim Fuster, Portixol",
-      "title": "Portixol: two-bed sea-front with morning sun",
-      "description_short": "Sea-front two-bed apartment in the heart of Portixol's restaurant strip, with a sun-trap balcony and direct view onto the marina.",
-      "description_long": "Portixol has, over the last decade, completed its transformation from working fishermen's village to one of Europe's most relaxed waterfront neighbourhoods. This second-floor apartment sits at the centre of that change: 72 m², two bedrooms, one bathroom and a south-east-facing 8 m² balcony where the boats of the marina are framed between two palm trees.\n\nThe living-kitchen is open-plan, with light pouring through the front facade from sunrise. The kitchen is contemporary, fitted with a stone-topped peninsula. The principal bedroom enjoys a partial sea view; the second is currently configured as a study and works equally well as a guest room.\n\nThe bathroom is finished in tadelakt with a walk-in shower and matt black fittings. Air-conditioning is installed throughout.\n\nThe promenade beneath the apartment leads, in a fifteen-minute walk, into Palma's old town along the seafront. Cala Estancia and Portixol's surfable beach are immediately to the east. A rental-strong asset with credible long-term appreciation in one of the island's most stable neighbourhoods.",
-      "price": 595000,
+      "id_suggested": "mallorca-soller-finca-1157",
+      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/soller-mallorca-illes-balears/rsi012591157",
+      "source_portal": "knightfrank.com",
+      "city": "Sóller",
+      "neighborhood": "Sóller centro",
+      "address_approx": "Five minutes from the main square, Sóller",
+      "title": "Sóller: Mallorquin Finca Five Minutes From the Main Square",
+      "description_short": "Four-bedroom traditional finca on an unusually large plot in the heart of Sóller, with a Mediterranean garden, swimming pool and direct views toward Puig Major.",
+      "description_long": "One of the rare addresses where a traditional rural finca survives inside the walls of Sóller itself. A tree-lined pathway, a stone façade with original persianas and a heavy wooden door open onto a four-bedroom home with an unusually large plot for the town centre — and complete privacy.\n\nInside, the living room keeps the warm character of an authentic Mallorquin home: high ceilings, original wooden beams, a cosy fireplace and gently imperfect textured walls. The dining area opens off the kitchen and frames the historic church of Sant Bartomeu through one window and the mountains through another.\n\nUpstairs, three bedrooms and a bathroom share the Tramuntana view; a fourth bedroom with its own entrance overlooks the pool, making it ideal for guests who want independence.\n\nThe garden is a green sanctuary of orange, lemon, fig and avocado trees, climbing plants and shaded pergolas. The pool sits in the sunniest corner; the outdoor lounge and barbecue area look directly at Puig Major.\n\nThe original elements offer scope for a sensitive renovation, while the position — five minutes on foot from the weekly market, cafés and the historic tram — is essentially impossible to replicate. A rare rented parking space sits directly beside the entrance.",
+      "price": 1750000,
       "currency": "EUR",
-      "sqm": 72,
-      "bedrooms": 2,
-      "bathrooms": 1,
-      "property_type": "apartment",
+      "sqm": 250,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "property_type": "Finca",
       "features": [
-        "sea-front",
-        "south-east balcony",
-        "marina view",
-        "walk to old town",
-        "air-conditioning",
-        "tadelakt bathroom"
-      ],
-      "coordinates": {
-        "lat": 39.5546,
-        "lng": 2.673
-      },
-      "photo_urls": [
-        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=1600&q=80",
-        "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=1600&q=80",
-        "https://images.unsplash.com/photo-1494526585095-c41746248156?w=1600&q=80",
-        "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=1600&q=80",
-        "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?w=1600&q=80",
-        "https://images.unsplash.com/photo-1571770095004-6b61b1cf308a?w=1600&q=80"
-      ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
-      "i18n": {
-        "en": {
-          "title": "Portixol: two-bed sea-front with morning sun",
-          "description_short": "Sea-front two-bed apartment in the heart of Portixol's restaurant strip, with a sun-trap balcony and direct view onto the marina.",
-          "description_long": "Portixol has, over the last decade, completed its transformation from working fishermen's village to one of Europe's most relaxed waterfront neighbourhoods. This second-floor apartment sits at the centre of that change: 72 m², two bedrooms, one bathroom and a south-east-facing 8 m² balcony where the boats of the marina are framed between two palm trees.\n\nThe living-kitchen is open-plan, with light pouring through the front facade from sunrise. The kitchen is contemporary, fitted with a stone-topped peninsula. The principal bedroom enjoys a partial sea view; the second is currently configured as a study and works equally well as a guest room.\n\nThe bathroom is finished in tadelakt with a walk-in shower and matt black fittings. Air-conditioning is installed throughout.\n\nThe promenade beneath the apartment leads, in a fifteen-minute walk, into Palma's old town along the seafront. Cala Estancia and Portixol's surfable beach are immediately to the east. A rental-strong asset with credible long-term appreciation in one of the island's most stable neighbourhoods."
-        },
-        "it": {
-          "title": "Portixol: trilocale fronte mare con sole del mattino",
-          "description_short": "Trilocale fronte mare nel cuore della strip dei ristoranti di Portixol, con balcone soleggiato e vista diretta sul porticciolo.",
-          "description_long": "Portixol ha completato negli ultimi dieci anni la sua trasformazione da villaggio di pescatori a uno dei lungomare più rilassati d'Europa. Questo appartamento al secondo piano si trova al centro di questa evoluzione: 72 m², due camere, un bagno e un balcone di 8 m² esposto a sud-est, dove le barche del porticciolo si incorniciano tra due palme.\n\nIl salone-cucina è open space, con la luce che inonda la facciata principale dall'alba. La cucina è contemporanea, con una penisola dal piano in pietra. La camera principale gode di vista parziale sul mare; la seconda è oggi configurata come studio e funziona altrettanto bene come camera ospiti.\n\nIl bagno è rifinito in tadelakt con doccia walk-in e rubinetteria in nero opaco. L'aria condizionata è installata in tutti gli ambienti.\n\nLa passeggiata sotto l'appartamento conduce, in un quarto d'ora a piedi, fino al centro storico di Palma costeggiando il mare. Cala Estancia e la spiaggia da surf di Portixol si trovano immediatamente a est. Un asset con forte capacità locativa e prospettive di rivalutazione credibili in uno dei quartieri più stabili dell'isola."
-        },
-        "es": {
-          "title": "Portixol: piso de dos dormitorios en primera línea con sol matinal",
-          "description_short": "Piso de dos dormitorios en primera línea de mar en plena zona gastronómica de Portixol, con balcón soleado y vista directa al puerto deportivo.",
-          "description_long": "Portixol ha completado en la última década su transformación de pueblo pesquero en uno de los frentes marítimos más relajados de Europa. Este apartamento en segunda planta se sitúa en el centro de ese cambio: 72 m², dos dormitorios, un baño y un balcón de 8 m² orientado al sureste, donde las embarcaciones del puerto se enmarcan entre dos palmeras.\n\nEl salón-cocina es diáfano y la luz entra a raudales por la fachada principal desde el amanecer. La cocina, contemporánea, se completa con una península de encimera de piedra. El dormitorio principal disfruta de vista parcial al mar; el segundo está hoy configurado como despacho y funciona igual de bien como cuarto de invitados.\n\nEl baño está acabado en tadelakt con ducha walk-in y grifería en negro mate. El aire acondicionado está instalado en todas las estancias.\n\nEl paseo marítimo bajo el apartamento lleva, en quince minutos andando, hasta el casco antiguo de Palma. Cala Estancia y la playa surfeable de Portixol quedan justo al este. Un activo con sólida capacidad de alquiler y revalorización creíble en uno de los barrios más estables de la isla."
-        }
-      }
-    },
-    {
-      "id_suggested": "mallorca-soller-townhouse-3bed-7780",
-      "source_url": "https://www.idealista.com/en/venta-viviendas/soller-baleares/",
-      "source_portal": "idealista.com",
-      "city": "Mallorca",
-      "neighborhood": "Sóller",
-      "address_approx": "Carrer de la Lluna, Sóller",
-      "title": "Sóller: three-bed townhouse in the orange-grove valley",
-      "description_short": "A traditional Mallorcan townhouse in the centre of Sóller, with three bedrooms, original terracotta floors and a small interior courtyard.",
-      "description_long": "Set on Carrer de la Lluna, the artery of Sóller's old town, this three-bedroom townhouse offers a generous 118 m² distributed over three floors. The current owners have lived here for twelve years; the property is in good condition but invites a cosmetic refresh by a sensitive buyer.\n\nThe ground floor opens onto a stone-floored entrance hall, a 24 m² sitting room with the original fireplace and a south-facing dining room that overlooks a small interior courtyard of 9 m². The kitchen is functional and well-fitted, with potential to integrate with the courtyard for a full indoor-outdoor configuration.\n\nUpstairs, three bedrooms are arranged on the first floor, the principal with original beamed ceilings. A single full bathroom serves the level. The top floor is currently used as a multi-purpose room and includes a private roof terrace of 18 m² with views over the church bell tower and the Tramuntana ridges.\n\nSóller offers a year-round community, weekly markets, the historic narrow-gauge tram down to the port and a forty-minute drive into Palma. A characterful, honest piece of inventory for the buyer prepared to embrace a village rather than a resort.",
-      "price": 685000,
-      "currency": "EUR",
-      "sqm": 118,
-      "bedrooms": 3,
-      "bathrooms": 1,
-      "property_type": "townhouse",
-      "features": [
-        "townhouse over three floors",
-        "interior courtyard",
-        "roof terrace",
-        "Tramuntana view",
-        "village centre",
-        "original beams"
+        "mature garden",
+        "swimming pool",
+        "mountain view",
+        "fireplace",
+        "wooden beams",
+        "parking"
       ],
       "coordinates": {
         "lat": 39.7654,
-        "lng": 2.714
+        "lng": 2.7155
       },
       "photo_urls": [
-        "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=1600&q=80",
-        "https://images.unsplash.com/photo-1571770095004-6b61b1cf308a?w=1600&q=80",
-        "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?w=1600&q=80",
-        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1600&q=80",
-        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1600&q=80"
+        "https://content.knightfrank.com/property/rsi012591157/images/c6ff46d0-d1a7-4ef0-b18c-b8731b8b40f2-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012591157/images/4b81a1c3-040f-494d-91a3-9d5bb32bab25-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012591157/images/45b4fe6c-9ccf-40c5-ba0d-42705f963247-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012591157/images/1c39742d-2a5a-4b9f-b762-a560872f6935-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012591157/images/63f2b40b-fc5a-4d78-87cf-41d5fcea1941-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012591157/images/fbf23ae8-eceb-4d2f-947a-7f9b69d4aa0a-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012591157/images/972abaa6-23e9-4cfd-94d1-17c642c30a31-0.jpg?cio=true&w=1200"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "photos_source_note": "Photos hotlinked from Knight Frank CDN (real listing)",
       "i18n": {
         "en": {
-          "title": "Sóller: three-bed townhouse in the orange-grove valley",
-          "description_short": "A traditional Mallorcan townhouse in the centre of Sóller, with three bedrooms, original terracotta floors and a small interior courtyard.",
-          "description_long": "Set on Carrer de la Lluna, the artery of Sóller's old town, this three-bedroom townhouse offers a generous 118 sq m distributed over three floors. The current owners have lived here for twelve years; the property is in good condition but invites a cosmetic refresh by a sensitive buyer.\n\nThe ground floor opens onto a stone-floored entrance hall, a 24 sq m sitting room with the original fireplace and a south-facing dining room that overlooks a small interior courtyard of 9 sq m. The kitchen is functional and well-fitted, with potential to integrate with the courtyard for a full indoor-outdoor configuration.\n\nUpstairs, three bedrooms are arranged on the first floor, the principal with original beamed ceilings. A single full bathroom serves the level. The top floor is currently used as a multi-purpose room and includes a private roof terrace of 18 sq m with views over the church bell tower and the Tramuntana ridges.\n\nSóller offers a year-round community, weekly markets, the historic narrow-gauge tram down to the port and a forty-minute drive into Palma. A characterful, honest proposition for the buyer prepared to embrace an authentic village rather than a resort destination."
+          "title": "Sóller: Mallorquin Finca Five Minutes From the Main Square",
+          "description_short": "Four-bedroom traditional finca on an unusually large plot in the heart of Sóller, with a Mediterranean garden, swimming pool and direct views toward Puig Major.",
+          "description_long": "One of the rare addresses where a traditional rural finca survives inside the walls of Sóller itself. A tree-lined pathway, a stone façade with original persianas and a heavy wooden door open onto a four-bedroom home with an unusually large plot for the town centre — and complete privacy.\n\nInside, the living room keeps the warm character of an authentic Mallorquin home: high ceilings, original wooden beams, a cosy fireplace and gently imperfect textured walls. The dining area opens off the kitchen and frames the historic church of Sant Bartomeu through one window and the mountains through another.\n\nUpstairs, three bedrooms and a bathroom share the Tramuntana view; a fourth bedroom with its own entrance overlooks the pool, making it ideal for guests who want independence.\n\nThe garden is a green sanctuary of orange, lemon, fig and avocado trees, climbing plants and shaded pergolas. The pool sits in the sunniest corner; the outdoor lounge and barbecue area look directly at Puig Major.\n\nThe original elements offer scope for a sensitive renovation, while the position — five minutes on foot from the weekly market, cafés and the historic tram — is essentially impossible to replicate. A rare rented parking space sits directly beside the entrance."
         },
         "it": {
-          "title": "Sóller: casa di paese di tre camere nella valle degli aranceti",
-          "description_short": "Tradizionale casa maiorchina nel centro di Sóller, con tre camere, pavimenti originali in cotto e un piccolo cortile interno.",
-          "description_long": "Affacciata su Carrer de la Lluna, l'arteria del centro storico di Sóller, questa casa di tre camere offre 118 m² generosi distribuiti su tre piani. Gli attuali proprietari vi abitano da dodici anni; l'immobile è in buone condizioni ma invita a un piccolo restyling estetico da parte di un acquirente sensibile.\n\nIl piano terra si apre su un ingresso con pavimento in pietra, un soggiorno di 24 m² con il camino originale e una sala da pranzo esposta a sud che si affaccia su un piccolo cortile interno di 9 m². La cucina è funzionale e ben attrezzata, con la possibilità di integrarsi con il cortile per una configurazione indoor-outdoor completa.\n\nAl piano superiore, tre camere sono organizzate al primo livello, la principale con i soffitti a travi originali. Un unico bagno completo serve il piano. L'ultimo piano è oggi utilizzato come stanza polifunzionale e include una terrazza privata sul tetto di 18 m² con vista sul campanile della chiesa e sulle creste della Tramuntana.\n\nSóller offre una comunità attiva tutto l'anno, mercati settimanali, lo storico tram a scartamento ridotto fino al porto e quaranta minuti d'auto da Palma. Una proposta sincera e ricca di carattere per l'acquirente disposto a scegliere un paese autentico anziché una località turistica."
+          "title": "Sóller: finca mallorchina a cinque minuti dalla piazza principale",
+          "description_short": "Finca tradizionale di quattro camere su un appezzamento insolitamente ampio nel cuore di Sóller, con giardino mediterraneo, piscina e vista diretta sul Puig Major.",
+          "description_long": "Uno dei rari indirizzi in cui una finca rurale tradizionale sopravvive all'interno delle mura di Sóller stessa. Un vialetto alberato, una facciata in pietra con persianas originali e un pesante portone in legno introducono a una casa di quattro camere con un appezzamento insolitamente ampio per il centro storico — e con totale privacy.\n\nAll'interno, il soggiorno conserva il carattere caldo di un'autentica casa mallorchina: soffitti alti, travi originali in legno, un camino accogliente e pareti gentilmente irregolari. La zona pranzo si apre sulla cucina e inquadra la chiesa storica di Sant Bartomeu da una finestra e le montagne dall'altra.\n\nAl piano superiore, tre camere e un bagno condividono la vista sulla Tramuntana; una quarta camera con ingresso indipendente si affaccia sulla piscina, ideale per ospiti che cercano autonomia.\n\nIl giardino è un'oasi verde di aranci, limoni, fichi e avocadi, rampicanti e pergole ombreggiate. La piscina occupa l'angolo più soleggiato; la zona lounge esterna e il barbecue guardano direttamente al Puig Major.\n\nGli elementi originali offrono spazio per una ristrutturazione rispettosa, mentre la posizione — cinque minuti a piedi dal mercato settimanale, dai caffè e dal tram storico — è di fatto impossibile da replicare. Un raro parcheggio in affitto si trova proprio accanto all'ingresso."
         },
         "es": {
-          "title": "Sóller: casa de pueblo de tres dormitorios en el valle de los naranjos",
-          "description_short": "Casa de pueblo mallorquina tradicional en el centro de Sóller, con tres dormitorios, suelos originales de barro cocido y un pequeño patio interior.",
-          "description_long": "En Carrer de la Lluna, la arteria del casco antiguo de Sóller, esta casa de pueblo de tres dormitorios ofrece unos generosos 118 m² distribuidos en tres plantas. Los actuales propietarios viven aquí desde hace doce años; la propiedad está en buen estado pero invita a un lavado de cara estético por parte de un comprador sensible.\n\nLa planta baja da paso a un recibidor con suelo de piedra, una sala de estar de 24 m² con la chimenea original y un comedor orientado al sur que se asoma a un pequeño patio interior de 9 m². La cocina es funcional y está bien equipada, con potencial para integrarse con el patio en una configuración indoor-outdoor completa.\n\nArriba, tres dormitorios se distribuyen en la primera planta, el principal con techos de vigas originales. Un único baño completo da servicio al nivel. La planta superior se utiliza hoy como sala polivalente e incluye una terraza privada de 18 m² con vistas al campanario de la iglesia y a las crestas de la Tramuntana.\n\nSóller ofrece comunidad durante todo el año, mercados semanales, el histórico tranvía de vía estrecha hasta el puerto y cuarenta minutos en coche hasta Palma. Una propuesta sincera y con carácter para el comprador dispuesto a apostar por un pueblo auténtico en lugar de un destino turístico."
+          "title": "Sóller: finca mallorquina a cinco minutos de la plaza principal",
+          "description_short": "Finca tradicional de cuatro dormitorios en una parcela inusualmente amplia en el centro de Sóller, con jardín mediterráneo, piscina y vista directa al Puig Major.",
+          "description_long": "Una de las pocas direcciones donde una finca rural tradicional sobrevive dentro del propio Sóller. Un camino bordeado de árboles, una fachada de piedra con las persianas originales y una pesada puerta de madera dan paso a una casa de cuatro dormitorios sobre una parcela inusualmente amplia para el centro del pueblo — y con privacidad absoluta.\n\nEn el interior, el salón conserva el carácter cálido de una auténtica casa mallorquina: techos altos, vigas originales de madera, una chimenea acogedora y paredes texturizadas suavemente imperfectas. El comedor se abre a la cocina y enmarca la histórica iglesia de Sant Bartomeu por una ventana y las montañas por otra.\n\nEn la planta superior, tres dormitorios y un baño comparten la vista a la Tramuntana; un cuarto dormitorio con entrada independiente da a la piscina, ideal para huéspedes que buscan autonomía.\n\nEl jardín es un refugio verde de naranjos, limoneros, higueras y aguacates, plantas trepadoras y pérgolas sombreadas. La piscina ocupa el rincón más soleado; el salón exterior y la barbacoa miran directamente al Puig Major.\n\nLos elementos originales ofrecen margen para una reforma respetuosa, mientras que la ubicación — a cinco minutos a pie del mercado semanal, las cafeterías y el tranvía histórico — resulta esencialmente imposible de replicar. Una rara plaza de aparcamiento de alquiler está justo al lado de la entrada."
         }
       }
     },
     {
-      "id_suggested": "mallorca-santa-catalina-2bed-loft-9912",
-      "source_url": "https://www.fotocasa.es/es/comprar/viviendas/palma-de-mallorca/santa-catalina/",
-      "source_portal": "fotocasa.es",
-      "city": "Mallorca",
-      "neighborhood": "Santa Catalina",
-      "address_approx": "Calle Anibal, Santa Catalina",
-      "title": "Santa Catalina: design two-bed with private patio",
-      "description_short": "Designer two-bedroom apartment in Santa Catalina, with private 12 m² patio and the Mercat de Santa Catalina at the doorstep.",
-      "description_long": "Santa Catalina has, in the last decade, become Palma's most reliably interesting neighbourhood: a working market, a concentration of small restaurants and natural-wine bars, and a residential fabric of late-19th-century townhouses that lend themselves to careful conversion.\n\nThis ground-floor 84 m² apartment is one such conversion, completed in 2024 by a small Palma studio. The interior is finished in lime plaster, terracotta tiles and pale European oak; the original stone walls have been retained at the rear of the property and exposed on the patio side.\n\nThe living-kitchen runs across the full depth of the apartment, opening through two sets of french doors onto a private patio of 12 m². The patio is north-facing, planted with lemon and bougainvillea, and offers shade through the hottest part of the day.\n\nBoth bedrooms enjoy quiet exposures; the principal includes a fitted dressing area and an en-suite shower room finished in tadelakt. A second bathroom and a discreet utility complete the layout.\n\nThe Mercat de Santa Catalina is three minutes on foot; Palma cathedral is twelve minutes along the seafront.",
-      "price": 695000,
+      "id_suggested": "mallorca-andratx-townhouse-5880",
+      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/port-andratx-mallorca-illes-balears/rsi012535880",
+      "source_portal": "knightfrank.com",
+      "city": "Port d'Andratx",
+      "neighborhood": "Andratx town centre",
+      "address_approx": "Andratx old town, walking distance to the port",
+      "title": "Andratx: New-Build Townhouse with Rooftop Pool and Summer Kitchen",
+      "description_short": "Brand-new four-storey townhouse in the centre of Andratx, with three bedrooms, an elevator, a rooftop pool and a summer kitchen overlooking the town and mountains.",
+      "description_long": "A pristine, newly-built townhouse arranged across four thoughtfully designed floors in the historic centre of Andratx, with the marina of Port d'Andratx a short drive away.\n\nThe sophisticated open-plan living room bathes in Mediterranean sunlight by day and is anchored by a warm fireplace at night. The elegant dining room flows directly onto a covered terrace, and an elevator connects every floor — a rare convenience in an old-town address.\n\nAll three bedrooms capture views of the town and the mountains. The principal suite includes a dedicated dressing room and a spa-like en suite, with picture windows opening onto a private courtyard planted with palms and native species.\n\nThe rooftop is the property's signature: a private pool, a summer kitchen and panoramic 360-degree views over Andratx and the Tramuntana foothills, ideal for sunset entertaining or for quiet morning swims.\n\nA strong proposition for buyers who want the new-build comfort of a Port Andratx villa but the walkable, restaurant-rich life of the old town.",
+      "price": 2950000,
       "currency": "EUR",
-      "sqm": 84,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "property_type": "apartment",
-      "features": [
-        "private patio",
-        "design conversion",
-        "stone walls",
-        "terracotta tiles",
-        "market proximity",
-        "lemon tree"
-      ],
-      "coordinates": {
-        "lat": 39.5715,
-        "lng": 2.6364
-      },
-      "photo_urls": [
-        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1600&q=80",
-        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1600&q=80",
-        "https://images.unsplash.com/photo-1564540586988-aa4e53c3d799?w=1600&q=80",
-        "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=1600&q=80",
-        "https://images.unsplash.com/photo-1494526585095-c41746248156?w=1600&q=80"
-      ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
-      "i18n": {
-        "en": {
-          "title": "Santa Catalina: design two-bed with private patio",
-          "description_short": "Designer two-bedroom apartment in Santa Catalina, with private 12 m² patio and the Mercat de Santa Catalina at the doorstep.",
-          "description_long": "Santa Catalina has, in the last decade, become Palma's most reliably interesting neighbourhood: a working market, a concentration of small restaurants and natural-wine bars, and a residential fabric of late-19th-century townhouses that lend themselves to careful conversion.\n\nThis ground-floor 84 m² apartment is one such conversion, completed in 2024 by a small Palma studio. The interior is finished in lime plaster, terracotta tiles and pale European oak; the original stone walls have been retained at the rear of the property and exposed on the patio side.\n\nThe living-kitchen runs across the full depth of the apartment, opening through two sets of french doors onto a private patio of 12 m². The patio is north-facing, planted with lemon and bougainvillea, and offers shade through the hottest part of the day.\n\nBoth bedrooms enjoy quiet exposures; the principal includes a fitted dressing area and an en-suite shower room finished in tadelakt. A second bathroom and a discreet utility complete the layout.\n\nThe Mercat de Santa Catalina is three minutes on foot; Palma cathedral is twelve minutes along the seafront."
-        },
-        "it": {
-          "title": "Santa Catalina: trilocale di design con patio privato",
-          "description_short": "Trilocale di design a Santa Catalina, con patio privato di 12 m² e il Mercat de Santa Catalina sulla porta di casa.",
-          "description_long": "Santa Catalina è diventata negli ultimi dieci anni il quartiere più affidabilmente interessante di Palma: un mercato vivo, una concentrazione di piccoli ristoranti e wine bar naturali e un tessuto residenziale di palazzi cittadini di fine Ottocento che si prestano a interventi di recupero attenti.\n\nQuesto appartamento di 84 m² al piano terra è uno di questi interventi, completato nel 2024 da un piccolo studio di Palma. L'interno è rifinito in calce liscia, piastrelle in cotto e rovere europeo chiaro; i muri in pietra originali sono stati conservati nella parte posteriore della proprietà e lasciati a vista sul lato del patio.\n\nIl salone-cucina corre per tutta la profondità dell'appartamento e si apre, attraverso due porte-finestre, su un patio privato di 12 m². Il patio è esposto a nord, piantumato con limoni e bouganville, e offre ombra nelle ore più calde della giornata.\n\nEntrambe le camere godono di esposizioni silenziose; la principale comprende una zona spogliatoio attrezzata e un bagno en-suite con doccia rifinito in tadelakt. Un secondo bagno e una lavanderia discreta completano la planimetria.\n\nIl Mercat de Santa Catalina è a tre minuti a piedi; la cattedrale di Palma a dodici minuti lungo il lungomare."
-        },
-        "es": {
-          "title": "Santa Catalina: piso de diseño de dos dormitorios con patio privado",
-          "description_short": "Apartamento de diseño de dos dormitorios en Santa Catalina, con patio privado de 12 m² y el Mercat de Santa Catalina a la puerta.",
-          "description_long": "Santa Catalina se ha convertido en la última década en el barrio más sólidamente interesante de Palma: mercado vivo, concentración de pequeños restaurantes y bares de vino natural y un tejido residencial de casas de finales del XIX que se prestan a reformas cuidadas.\n\nEste apartamento de 84 m² en planta baja es una de esas reformas, finalizada en 2024 por un pequeño estudio de Palma. El interior está acabado en estuco de cal, baldosas de barro cocido y roble europeo claro; los muros de piedra originales se han conservado en la parte trasera de la vivienda y se han dejado vistos en el lado del patio.\n\nEl salón-cocina recorre toda la profundidad del piso y se abre, a través de dos juegos de puertas francesas, a un patio privado de 12 m². El patio, orientado al norte, está plantado con limonero y buganvilla y ofrece sombra en las horas más cálidas.\n\nAmbos dormitorios disfrutan de orientaciones tranquilas; el principal incluye zona de vestidor y baño en suite con ducha acabado en tadelakt. Un segundo baño y un cuarto técnico discreto completan la planta.\n\nEl Mercat de Santa Catalina queda a tres minutos a pie; la catedral de Palma, a doce minutos por el paseo marítimo."
-        }
-      }
-    },
-    {
-      "id_suggested": "mallorca-pollenca-finca-3bed-4488",
-      "source_url": "https://www.kuhn-partner.com/en/mallorca-properties/pollensa/",
-      "source_portal": "kuhn-partner.com",
-      "city": "Mallorca",
-      "neighborhood": "Pollença",
-      "address_approx": "Carretera de Cala Sant Vicenç, Pollença",
-      "title": "Pollença: restored stone finca with pool and olive grove",
-      "description_short": "Sympathetically restored stone finca of 180 m² on a 4,000 m² olive grove plot, with private pool and Tramuntana views.",
-      "description_long": "Set on a 4,000 m² plot of mature olive trees five minutes' drive from Pollença's old town, this restored stone finca offers the prototype northern-Mallorca experience: cicadas, dry stone walls, a long evening light and the quiet bulk of the Tramuntana to the west.\n\nThe finca, originally built in the late 19th century, was fully restored in 2021. The interior is finished in lime plaster over original stone walls, with restored chestnut beams and reclaimed Mallorquin terracotta floors. The principal living-dining room runs across the south facade, opening onto a deep covered porch where the table seats ten.\n\nThe kitchen is a separate, working room finished in cream cabinetry and a marble-topped island. Three double bedrooms are arranged on the ground floor; the principal includes a dressing area and an en-suite shower room. A second family bathroom serves the remaining two.\n\nOutside, a 10-metre saltwater pool sits on a terraced lawn surrounded by mature olive and almond trees. A pool house with summer kitchen and shower extends the entertaining footprint. Solar panels, a wood-burning fire and high-grade insulation deliver a low running cost across the year.\n\nA confident, honest piece of inventory for the buyer who wants a genuine finca experience without a five-year project.",
-      "price": 1450000,
-      "currency": "EUR",
-      "sqm": 180,
+      "sqm": 171,
       "bedrooms": 3,
       "bathrooms": 2,
-      "property_type": "finca",
+      "property_type": "Townhouse",
       "features": [
-        "olive grove plot",
-        "stone walls",
-        "saltwater pool",
-        "pool house",
-        "Tramuntana view",
-        "solar panels"
+        "rooftop pool",
+        "summer kitchen",
+        "elevator",
+        "mountain view",
+        "new build",
+        "fireplace"
       ],
       "coordinates": {
-        "lat": 39.8755,
-        "lng": 3.0162
+        "lat": 39.5435,
+        "lng": 2.3897
       },
       "photo_urls": [
-        "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?w=1600&q=80",
-        "https://images.unsplash.com/photo-1518733057094-95b53143d2a7?w=1600&q=80",
-        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1600&q=80",
-        "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=1600&q=80",
-        "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?w=1600&q=80"
+        "https://content.knightfrank.com/property/rsi012535880/images/0fffb29f-37f0-4c7c-aab0-ab6b21264143-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012535880/images/b4d87041-140c-4a3c-be3c-9daed8d96093-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012535880/images/dbf9a835-9354-4e80-bea8-0875dcb347f4-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012535880/images/bf532a49-3954-48b5-b01c-e54b7c17d977-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012535880/images/70d60c8d-6038-4408-8ef9-84d8f171858e-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012535880/images/15e90b3f-24be-4146-887d-c0eebb94cdb4-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012535880/images/30f1d370-f04e-4868-a284-acce5b6051d5-0.jpg?cio=true&w=1200"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "photos_source_note": "Photos hotlinked from Knight Frank CDN (real listing)",
       "i18n": {
         "en": {
-          "title": "Pollença: restored stone finca with pool and olive grove",
-          "description_short": "Sympathetically restored stone finca of 180 m² on a 4,000 m² olive grove plot, with private pool and Tramuntana views.",
-          "description_long": "Set on a 4,000 m² plot of mature olive trees five minutes' drive from Pollença's old town, this restored stone finca offers the prototype northern-Mallorca experience: cicadas, dry stone walls, a long evening light and the quiet bulk of the Tramuntana to the west.\n\nThe finca, originally built in the late 19th century, was fully restored in 2021. The interior is finished in lime plaster over original stone walls, with restored chestnut beams and reclaimed Mallorquin terracotta floors. The principal living-dining room runs across the south facade, opening onto a deep covered porch where the table seats ten.\n\nThe kitchen is a separate, working room finished in cream cabinetry and a marble-topped island. Three double bedrooms are arranged on the ground floor; the principal includes a dressing area and an en-suite shower room. A second family bathroom serves the remaining two.\n\nOutside, a 10-metre saltwater pool sits on a terraced lawn surrounded by mature olive and almond trees. A pool house with summer kitchen and shower extends the entertaining footprint. Solar panels, a wood-burning fire and high-grade insulation deliver a low running cost across the year.\n\nA confident, honest piece of inventory for the buyer who wants a genuine finca experience without a five-year project."
+          "title": "Andratx: New-Build Townhouse with Rooftop Pool and Summer Kitchen",
+          "description_short": "Brand-new four-storey townhouse in the centre of Andratx, with three bedrooms, an elevator, a rooftop pool and a summer kitchen overlooking the town and mountains.",
+          "description_long": "A pristine, newly-built townhouse arranged across four thoughtfully designed floors in the historic centre of Andratx, with the marina of Port d'Andratx a short drive away.\n\nThe sophisticated open-plan living room bathes in Mediterranean sunlight by day and is anchored by a warm fireplace at night. The elegant dining room flows directly onto a covered terrace, and an elevator connects every floor — a rare convenience in an old-town address.\n\nAll three bedrooms capture views of the town and the mountains. The principal suite includes a dedicated dressing room and a spa-like en suite, with picture windows opening onto a private courtyard planted with palms and native species.\n\nThe rooftop is the property's signature: a private pool, a summer kitchen and panoramic 360-degree views over Andratx and the Tramuntana foothills, ideal for sunset entertaining or for quiet morning swims.\n\nA strong proposition for buyers who want the new-build comfort of a Port Andratx villa but the walkable, restaurant-rich life of the old town."
         },
         "it": {
-          "title": "Pollença: finca in pietra restaurata con piscina e uliveto",
-          "description_short": "Finca in pietra di 180 m² restaurata con sensibilità su un terreno di 4.000 m² con uliveto, piscina privata e vista sulla Tramuntana.",
-          "description_long": "Su un terreno di 4.000 m² di ulivi maturi a cinque minuti d'auto dal centro storico di Pollença, questa finca in pietra restaurata offre l'esperienza prototipica della Mallorca del nord: cicale, muretti a secco, una luce serale lunga e la mole silenziosa della Tramuntana a ovest.\n\nLa finca, costruita originariamente alla fine dell'Ottocento, è stata completamente restaurata nel 2021. L'interno è rifinito in calce liscia su muri in pietra originali, con travi in castagno restaurate e pavimenti in cotto maiorchino di recupero. Il salone-pranzo principale corre lungo la facciata sud, aprendosi su un profondo porticato dove il tavolo ospita dieci persone.\n\nLa cucina è una stanza separata e operativa, rifinita in laccato crema con isola dal piano in marmo. Tre camere matrimoniali si trovano al piano terra; la principale include una zona spogliatoio e un bagno en-suite con doccia. Un secondo bagno di famiglia serve le altre due.\n\nAll'esterno, una piscina in acqua salata di 10 metri si trova su un prato terrazzato circondato da ulivi e mandorli maturi. Una pool house con cucina estiva e doccia estende lo spazio conviviale. Pannelli solari, una stufa a legna e un alto livello di coibentazione mantengono bassi i costi di gestione tutto l'anno.\n\nUna proposta solida e autentica per l'acquirente che desidera una vera esperienza di finca senza affrontare un cantiere di cinque anni."
+          "title": "Andratx: casa di paese di nuova costruzione con piscina in copertura",
+          "description_short": "Casa di paese nuova su quattro piani nel centro di Andratx, con tre camere, ascensore, piscina sul tetto e cucina estiva con vista sul paese e sulle montagne.",
+          "description_long": "Casa di paese di nuova costruzione distribuita su quattro piani pensati con cura nel centro storico di Andratx, con il porto di Port d'Andratx a pochi minuti d'auto.\n\nIl raffinato soggiorno open space si riempie di luce mediterranea di giorno e si organizza intorno a un caldo camino la sera. L'elegante zona pranzo si apre direttamente su una terrazza coperta, e un ascensore collega tutti i piani — una comodità rara in un indirizzo del centro storico.\n\nTutte e tre le camere catturano la vista sul paese e sulle montagne. La suite principale comprende una cabina armadio e un bagno spa, con grandi finestre affacciate su un patio privato piantumato con palme e specie autoctone.\n\nLa copertura è la firma della proprietà: piscina privata, cucina estiva e vista panoramica a 360 gradi su Andratx e sui contrafforti della Tramuntana, ideale per gli aperitivi al tramonto o per nuotate mattutine in tranquillità.\n\nUna proposta solida per chi vuole il comfort di una villa nuova a Port d'Andratx ma la vita pedonale e gastronomica del centro storico."
         },
         "es": {
-          "title": "Pollença: finca de piedra restaurada con piscina y olivar",
-          "description_short": "Finca de piedra de 180 m² restaurada con sensibilidad sobre parcela de 4.000 m² con olivar, piscina privada y vistas a la Tramuntana.",
-          "description_long": "Sobre una parcela de 4.000 m² de olivos maduros, a cinco minutos en coche del casco antiguo de Pollença, esta finca de piedra restaurada ofrece la experiencia prototípica del norte de Mallorca: cigarras, muros de piedra seca, una larga luz vespertina y la quieta mole de la Tramuntana al oeste.\n\nLa finca, construida originalmente a finales del siglo XIX, fue restaurada por completo en 2021. El interior está acabado en estuco de cal sobre muros de piedra originales, con vigas de castaño restauradas y suelos de barro cocido mallorquín recuperado. El salón-comedor principal recorre la fachada sur y se abre a un profundo porche cubierto donde la mesa acoge a diez comensales.\n\nLa cocina es una sala independiente y operativa, acabada en mobiliario crema con isla de encimera de mármol. Tres dormitorios dobles se sitúan en la planta baja; el principal incluye zona de vestidor y baño en suite con ducha. Un segundo baño familiar da servicio a los otros dos.\n\nEn el exterior, una piscina de agua salada de 10 metros se asienta sobre césped aterrazado, rodeada de olivos y almendros maduros. Una pool house con cocina de verano y ducha amplía el área de recepción. Placas solares, estufa de leña y un alto nivel de aislamiento mantienen un coste de mantenimiento bajo durante todo el año.\n\nUna propuesta sólida y auténtica para el comprador que busca una verdadera experiencia de finca sin afrontar una obra de cinco años."
+          "title": "Andratx: casa de pueblo de obra nueva con piscina en azotea",
+          "description_short": "Casa de pueblo de obra nueva en cuatro plantas en el centro de Andratx, con tres dormitorios, ascensor, piscina en la azotea y cocina de verano con vistas al pueblo y a las montañas.",
+          "description_long": "Casa de pueblo de obra nueva organizada en cuatro plantas pensadas con cuidado en el casco histórico de Andratx, con el puerto de Port d'Andratx a pocos minutos en coche.\n\nEl sofisticado salón en planta abierta se llena de luz mediterránea de día y se articula en torno a una chimenea cálida por la noche. El elegante comedor da directamente a una terraza cubierta, y un ascensor conecta todas las plantas — una comodidad poco frecuente en una dirección del casco antiguo.\n\nLos tres dormitorios capturan vistas al pueblo y a las montañas. La suite principal incluye un vestidor propio y un baño tipo spa, con ventanales abiertos a un patio privado plantado con palmeras y especies autóctonas.\n\nLa cubierta es el rasgo distintivo de la propiedad: piscina privada, cocina de verano y vistas panorámicas de 360 grados sobre Andratx y las estribaciones de la Tramuntana, ideal para sobremesas al atardecer o baños matutinos en tranquilidad.\n\nUna propuesta sólida para quien busca el confort de obra nueva de una villa de Port d'Andratx pero la vida peatonal y gastronómica del casco antiguo."
         }
       }
     },
     {
-      "id_suggested": "mallorca-portals-nous-seaview-3bed-6612",
-      "source_url": "https://www.engelvoelkers.com/es-es/mallorca/portals-nous/",
-      "source_portal": "engelvoelkers.com",
-      "city": "Mallorca",
-      "neighborhood": "Portals Nous",
-      "address_approx": "Puerto Portals, Portals Nous",
-      "title": "Portals Nous: marina-front three-bed with private terrace",
-      "description_short": "Three-bedroom apartment with 40 m² terrace overlooking Puerto Portals marina, in a 24-hour security complex with pool and gym.",
-      "description_long": "On a high floor of a prestigious 1990s residential complex directly above Puerto Portals, this 165 m² apartment delivers the most photographed sea view in south-west Mallorca: the full sweep of the marina, the Bay of Palma and, on a clear day, the cathedral spires in the distance.\n\nThe apartment has been fully refurbished in 2022. The 40 m² south-west-facing terrace runs along the full length of the reception, configured for both lunch and dining. The reception is open-plan with a contemporary kitchen in lacquered cabinetry and Calacatta marble. Three bedrooms are arranged in a private wing; the principal includes a dressing room and en-suite bathroom in book-matched marble.\n\nThe complex offers 24-hour security, a heated outdoor pool, residents-only gym, manicured gardens and underground parking. A single secure parking space is included.\n\nPuerto Portals offers a year-round community, a concentration of the island's most established restaurants and a deep-water marina that accommodates 50 m+ yachts. Palma airport is twelve minutes by car.\n\nA confident proposition for the international buyer seeking turnkey marina-front living without the commitment of a full villa.",
-      "price": 1850000,
+      "id_suggested": "mallorca-manacor-estate-2436",
+      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/manacor-mallorca-illes-balears/rsi012422436",
+      "source_portal": "knightfrank.com",
+      "city": "Manacor",
+      "neighborhood": "Porto Colom area",
+      "address_approx": "Gated estate near Porto Colom, southeast Mallorca",
+      "title": "Manacor: Gated Six-Hectare Finca Near Porto Colom Bay",
+      "description_short": "Five-bedroom finca on a 60,248 m² gated estate near Porto Colom, with a 60 m² pool, Gaggenau kitchen and direct sea and countryside views over the southeast coast.",
+      "description_long": "Set on a 60,248 m² gated estate in the quiet hinterland of Manacor, this finca delivers the classical Mallorca brief — sea on one horizon, countryside on the other — at a scale that very few properties on the island can offer.\n\nFive en-suite bedrooms, lush gardens and a golden-stone terrace surround a 60 m² pool. Below the estate, the protected horseshoe bay of Porto Colom unfolds with its intimate beaches and chiringuitos; the Rafa Nadal Academy and international school are a few minutes' drive away.\n\nInside, authentic Mallorquin charm runs throughout. A shaded wraparound terrace leads to the gardens, barbecue area and pool. The light-filled living spaces are anchored by a feature fireplace; the kitchen carries Gaggenau appliances, a sculptural island and natural-stone countertops alongside a separate utility room.\n\nThe principal suite upstairs is a serene retreat with panoramic views, a private dressing room and a luxurious en suite featuring a stone bath and double sinks. Four additional en-suite bedrooms on the ground floor ensure comfort and privacy for guests.\n\nA proposition for the buyer who wants estate-scale privacy and direct access to the southeast coast — without the marina-front pricing of Port d'Andratx.",
+      "price": 6500000,
       "currency": "EUR",
-      "sqm": 165,
-      "bedrooms": 3,
-      "bathrooms": 3,
-      "property_type": "apartment",
-      "features": [
-        "marina view",
-        "40m terrace",
-        "24h security",
-        "heated pool",
-        "residents gym",
-        "underground parking"
-      ],
-      "coordinates": {
-        "lat": 39.529,
-        "lng": 2.5476
-      },
-      "photo_urls": [
-        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1600&q=80",
-        "https://images.unsplash.com/photo-1494526585095-c41746248156?w=1600&q=80",
-        "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=1600&q=80",
-        "https://images.unsplash.com/photo-1571770095004-6b61b1cf308a?w=1600&q=80",
-        "https://images.unsplash.com/photo-1564540586988-aa4e53c3d799?w=1600&q=80"
-      ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
-      "i18n": {
-        "en": {
-          "title": "Portals Nous: marina-front three-bed with private terrace",
-          "description_short": "Three-bedroom apartment with 40 m² terrace overlooking Puerto Portals marina, in a 24-hour security complex with pool and gym.",
-          "description_long": "On a high floor of a prestigious 1990s residential complex directly above Puerto Portals, this 165 m² apartment delivers the most photographed sea view in south-west Mallorca: the full sweep of the marina, the Bay of Palma and, on a clear day, the cathedral spires in the distance.\n\nThe apartment has been fully refurbished in 2022. The 40 m² south-west-facing terrace runs along the full length of the reception, configured for both lunch and dining. The reception is open-plan with a contemporary kitchen in lacquered cabinetry and Calacatta marble. Three bedrooms are arranged in a private wing; the principal includes a dressing room and en-suite bathroom in book-matched marble.\n\nThe complex offers 24-hour security, a heated outdoor pool, residents-only gym, manicured gardens and underground parking. A single secure parking space is included.\n\nPuerto Portals offers a year-round community, a concentration of the island's most established restaurants and a deep-water marina that accommodates 50 m+ yachts. Palma airport is twelve minutes by car.\n\nA confident proposition for the international buyer seeking turnkey marina-front living without the commitment of a full villa."
-        },
-        "it": {
-          "title": "Portals Nous: appartamento di tre camere fronte marina con terrazza",
-          "description_short": "Quadrilocale con terrazza di 40 m² affacciata su Puerto Portals, in un complesso con sicurezza 24 ore, piscina e palestra.",
-          "description_long": "Ai piani alti di un prestigioso complesso residenziale degli anni '90, direttamente sopra Puerto Portals, questo appartamento di 165 m² offre la vista mare più fotografata del sud-ovest di Mallorca: l'intera curva della marina, la Baia di Palma e, nelle giornate limpide, le guglie della cattedrale in lontananza.\n\nL'appartamento è stato integralmente ristrutturato nel 2022. La terrazza di 40 m² esposta a sud-ovest corre per tutta la lunghezza del salone, configurata sia per il pranzo che per la cena. Il salone è open space con cucina contemporanea in laccato e marmo Calacatta. Tre camere sono disposte in un'ala riservata; la principale comprende una cabina armadio e un bagno en-suite in marmo book-matched.\n\nIl complesso offre sicurezza 24 ore, piscina esterna riscaldata, palestra riservata ai residenti, giardini curati e parcheggio interrato. È incluso un posto auto sicuro singolo.\n\nPuerto Portals accoglie una comunità attiva tutto l'anno, una concentrazione dei ristoranti più consolidati dell'isola e una marina di acque profonde che ospita yacht oltre i 50 metri. L'aeroporto di Palma è a dodici minuti d'auto.\n\nUna proposta solida per l'acquirente internazionale che cerca una soluzione fronte porto chiavi in mano senza l'impegno di una villa intera."
-        },
-        "es": {
-          "title": "Portals Nous: piso de tres dormitorios frente al puerto con terraza",
-          "description_short": "Piso de tres dormitorios con terraza de 40 m² sobre el puerto de Puerto Portals, en complejo con seguridad 24 horas, piscina y gimnasio.",
-          "description_long": "En una planta alta de un prestigioso complejo residencial de los años 90, justo sobre Puerto Portals, este apartamento de 165 m² ofrece la vista al mar más fotografiada del suroeste de Mallorca: el barrido completo del puerto deportivo, la Bahía de Palma y, en días despejados, las torres de la catedral en la distancia.\n\nEl piso fue reformado por completo en 2022. La terraza de 40 m² orientada al suroeste recorre todo el largo del salón, configurada tanto para almuerzo como para cena. El salón es diáfano y se completa con una cocina contemporánea en mobiliario lacado y mármol Calacatta. Tres dormitorios se distribuyen en un ala privada; el principal incluye vestidor y baño en suite en mármol book-matched.\n\nEl complejo ofrece seguridad 24 horas, piscina exterior climatizada, gimnasio para residentes, jardines cuidados y aparcamiento subterráneo. Se incluye una plaza de garaje segura.\n\nPuerto Portals reúne una comunidad activa durante todo el año, una concentración de los restaurantes más consolidados de la isla y un puerto deportivo de aguas profundas capaz de acoger yates de más de 50 metros. El aeropuerto de Palma queda a doce minutos en coche.\n\nUna propuesta sólida para el comprador internacional que busca vida frente al puerto llave en mano sin el compromiso de una villa entera."
-        }
-      }
-    },
-    {
-      "id_suggested": "mallorca-son-vida-villa-4bed-3357",
-      "source_url": "https://www.kuhn-partner.com/en/mallorca-properties/son-vida/",
-      "source_portal": "kuhn-partner.com",
-      "city": "Mallorca",
-      "neighborhood": "Son Vida",
-      "address_approx": "Urbanización Son Vida, Palma",
-      "title": "Son Vida: contemporary villa with infinity pool",
-      "description_short": "Contemporary four-bedroom villa on a 1,800 m² plot in Son Vida, with infinity pool and city-and-sea panoramic views.",
-      "description_long": "On a south-east-facing plot of 1,800 m² in the gated community of Son Vida, this 350 m² contemporary villa was completed in 2020 to a brief that prioritised volume, light and view. Three golf courses sit within walking distance; Palma cathedral is visible in the middle distance.\n\nThe ground floor is configured around a triple-aspect open-plan living-dining-kitchen of 90 m², with sliding glazing that retracts entirely to open the room onto a covered terrace and a 14-metre infinity pool. The kitchen is fitted by an Italian boutique maker, finished in matt lacquer and Calacatta marble.\n\nThe principal bedroom suite occupies a dedicated wing of the ground floor, with a private terrace, a dressing room and an en-suite bathroom in honed travertine. The first floor accommodates three further bedroom suites, each en-suite, all with terrace access and partial sea views.\n\nThe lower-ground level offers a wellness suite (hammam, sauna and gym), a two-car garage and a service kitchen for staff. The plot is landscaped with mature olives, almonds and a planted edible garden.\n\nA confident, light-filled villa in one of the island's most established gated communities.",
-      "price": 1990000,
-      "currency": "EUR",
-      "sqm": 350,
-      "bedrooms": 4,
-      "bathrooms": 5,
-      "property_type": "villa",
-      "features": [
-        "infinity pool",
-        "gated community",
-        "sea view",
-        "hammam",
-        "two-car garage",
-        "edible garden"
-      ],
-      "coordinates": {
-        "lat": 39.6019,
-        "lng": 2.6173
-      },
-      "photo_urls": [
-        "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=1600&q=80",
-        "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?w=1600&q=80",
-        "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1600&q=80",
-        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1600&q=80",
-        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1600&q=80"
-      ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
-      "i18n": {
-        "en": {
-          "title": "Son Vida: contemporary villa with infinity pool",
-          "description_short": "Contemporary four-bedroom villa on a 1,800 m² plot in Son Vida, with infinity pool and city-and-sea panoramic views.",
-          "description_long": "On a south-east-facing plot of 1,800 m² in the gated community of Son Vida, this 350 m² contemporary villa was completed in 2020 to a brief that prioritised volume, light and view. Three golf courses sit within walking distance; Palma cathedral is visible in the middle distance.\n\nThe ground floor is configured around a triple-aspect open-plan living-dining-kitchen of 90 m², with sliding glazing that retracts entirely to open the room onto a covered terrace and a 14-metre infinity pool. The kitchen is fitted by an Italian boutique maker, finished in matt lacquer and Calacatta marble.\n\nThe principal bedroom suite occupies a dedicated wing of the ground floor, with a private terrace, a dressing room and an en-suite bathroom in honed travertine. The first floor accommodates three further bedroom suites, each en-suite, all with terrace access and partial sea views.\n\nThe lower-ground level offers a wellness suite (hammam, sauna and gym), a two-car garage and a service kitchen for staff. The plot is landscaped with mature olives, almonds and a planted edible garden.\n\nA confident, light-filled villa in one of the island's most established gated communities."
-        },
-        "it": {
-          "title": "Son Vida: villa contemporanea con piscina a sfioro",
-          "description_short": "Villa contemporanea di quattro camere su un terreno di 1.800 m² a Son Vida, con piscina a sfioro e vista panoramica città-mare.",
-          "description_long": "Su un terreno di 1.800 m² esposto a sud-est nella comunità privata di Son Vida, questa villa contemporanea di 350 m² è stata completata nel 2020 con un programma incentrato su volume, luce e vista. Tre campi da golf si trovano a distanza pedonale; la cattedrale di Palma è visibile a media distanza.\n\nIl piano terra è organizzato attorno a una zona giorno-pranzo-cucina open space a tripla esposizione di 90 m², con vetrate scorrevoli che si ritirano completamente per aprire la stanza su una terrazza coperta e su una piscina a sfioro di 14 metri. La cucina è di un marchio boutique italiano, rifinita in laccato opaco e marmo Calacatta.\n\nLa suite della camera principale occupa un'ala dedicata del piano terra, con terrazza privata, una cabina armadio e un bagno en-suite in travertino levigato. Il primo piano ospita altre tre suite, tutte en-suite, ciascuna con accesso alla terrazza e vista parziale sul mare.\n\nIl livello interrato offre una suite wellness (hammam, sauna e palestra), un garage per due auto e una cucina di servizio per il personale. Il terreno è curato dal punto di vista paesaggistico, con ulivi maturi, mandorli e un orto edibile.\n\nUna villa decisa e luminosa in una delle comunità private più consolidate dell'isola."
-        },
-        "es": {
-          "title": "Son Vida: villa contemporánea con piscina infinity",
-          "description_short": "Villa contemporánea de cuatro dormitorios sobre parcela de 1.800 m² en Son Vida, con piscina infinity y vistas panorámicas ciudad-mar.",
-          "description_long": "Sobre una parcela orientada al sureste de 1.800 m² en la urbanización cerrada de Son Vida, esta villa contemporánea de 350 m² se finalizó en 2020 bajo un encargo que priorizó volumen, luz y vista. Tres campos de golf quedan a distancia caminable; la catedral de Palma se distingue en el plano medio.\n\nLa planta baja se organiza en torno a un salón-comedor-cocina diáfano de triple orientación de 90 m², con acristalamiento corredero que se repliega por completo para abrir la sala a una terraza cubierta y a una piscina infinity de 14 metros. La cocina, de una firma boutique italiana, está acabada en lacado mate y mármol Calacatta.\n\nLa suite del dormitorio principal ocupa un ala dedicada de la planta baja, con terraza privada, vestidor y baño en suite en travertino pulido. La primera planta acoge otras tres suites, todas en suite, con acceso a terraza y vistas parciales al mar.\n\nEl nivel inferior ofrece una zona wellness (hammam, sauna y gimnasio), garaje para dos coches y una cocina de servicio para el personal. La parcela está paisajísticamente diseñada con olivos maduros, almendros y un huerto comestible.\n\nUna villa rotunda y luminosa en una de las urbanizaciones cerradas más consolidadas de la isla."
-        }
-      }
-    },
-    {
-      "id_suggested": "mallorca-valldemossa-stone-house-1129",
-      "source_url": "https://www.fotocasa.es/es/comprar/viviendas/valldemossa/",
-      "source_portal": "fotocasa.es",
-      "city": "Mallorca",
-      "neighborhood": "Valldemossa",
-      "address_approx": "Carrer de la Rectoria, Valldemossa",
-      "title": "Valldemossa: stone village house with terraced garden",
-      "description_short": "Sensitively restored 17th-century stone house in the heart of Valldemossa, with terraced garden and mountain views.",
-      "description_long": "Set on a lane that climbs from the cobbled centre of Valldemossa, this 195 m² stone house was restored in 2019 by a Mallorcan architect with a brief to restore rather than renovate. The original stone walls, chestnut beams and reclaimed clay floors have been kept; the contemporary intervention is limited to discreet glazing, integrated lighting and a single kitchen-and-bathroom block.\n\nThe ground floor opens onto a stone-walled entrance hall, a 32 m² sitting room with the original Mallorquin fireplace and an open kitchen finished in cream cabinetry and a stone-topped peninsula. The first floor accommodates the principal bedroom with an en-suite shower room and a small private terrace overlooking the village.\n\nThe second floor includes two further bedrooms and a family bathroom finished in honed limestone. A dedicated study with vaulted ceilings occupies the converted attic.\n\nOutside, a terraced garden of 140 m² is planted with lavender, rosemary, and a single mature olive. A discreet plunge pool of 3 by 6 metres has been integrated into the lower terrace, with stone seating and an outdoor kitchen.\n\nValldemossa offers a year-round community, the Cartoixa monastery and direct access to the GR-221 walking route. A piece of inventory for the buyer who values quietness over visibility.",
-      "price": 1150000,
-      "currency": "EUR",
-      "sqm": 195,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "property_type": "townhouse",
-      "features": [
-        "stone walls",
-        "terraced garden",
-        "plunge pool",
-        "chestnut beams",
-        "village centre",
-        "mountain view"
-      ],
-      "coordinates": {
-        "lat": 39.7102,
-        "lng": 2.6235
-      },
-      "photo_urls": [
-        "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=1600&q=80",
-        "https://images.unsplash.com/photo-1564540586988-aa4e53c3d799?w=1600&q=80",
-        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=1600&q=80",
-        "https://images.unsplash.com/photo-1518733057094-95b53143d2a7?w=1600&q=80",
-        "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=1600&q=80"
-      ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
-      "i18n": {
-        "en": {
-          "title": "Valldemossa: stone village house with terraced garden",
-          "description_short": "Sensitively restored 17th-century stone house in the heart of Valldemossa, with terraced garden and mountain views.",
-          "description_long": "Set on a lane that climbs from the cobbled centre of Valldemossa, this 195 m² stone house was restored in 2019 by a Mallorcan architect with a brief to restore rather than renovate. The original stone walls, chestnut beams and reclaimed clay floors have been kept; the contemporary intervention is limited to discreet glazing, integrated lighting and a single kitchen-and-bathroom block.\n\nThe ground floor opens onto a stone-walled entrance hall, a 32 m² sitting room with the original Mallorquin fireplace and an open kitchen finished in cream cabinetry and a stone-topped peninsula. The first floor accommodates the principal bedroom with an en-suite shower room and a small private terrace overlooking the village.\n\nThe second floor includes two further bedrooms and a family bathroom finished in honed limestone. A dedicated study with vaulted ceilings occupies the converted attic.\n\nOutside, a terraced garden of 140 m² is planted with lavender, rosemary, and a single mature olive. A discreet plunge pool of 3 by 6 metres has been integrated into the lower terrace, with stone seating and an outdoor kitchen.\n\nValldemossa offers a year-round community, the Cartoixa monastery and direct access to the GR-221 walking route. A piece of inventory for the buyer who values quietness over visibility."
-        },
-        "it": {
-          "title": "Valldemossa: casa di pietra con giardino terrazzato",
-          "description_short": "Casa in pietra del Seicento restaurata con sensibilità nel cuore di Valldemossa, con giardino terrazzato e vista sulle montagne.",
-          "description_long": "Su una stradina che sale dal centro acciottolato di Valldemossa, questa casa in pietra di 195 m² è stata restaurata nel 2019 da un architetto maiorchino con il mandato di restaurare anziché ristrutturare. I muri originali in pietra, le travi in castagno e i pavimenti in cotto recuperati sono stati conservati; l'intervento contemporaneo si limita a vetrate discrete, illuminazione integrata e un singolo blocco cucina-bagni.\n\nIl piano terra si apre su un ingresso con pareti in pietra, un salotto di 32 m² con il camino maiorchino originale e una cucina open space in laccato crema con isola dal piano in pietra. Il primo piano ospita la camera principale con bagno en-suite con doccia e una piccola terrazza privata affacciata sul villaggio.\n\nIl secondo piano comprende altre due camere e un bagno di famiglia in pietra calcarea levigata. Uno studio dedicato con soffitti a volta occupa il sottotetto trasformato.\n\nAll'esterno, un giardino terrazzato di 140 m² è piantumato con lavanda, rosmarino e un singolo ulivo maturo. Una discreta piscina di servizio di 3 per 6 metri è stata integrata nella terrazza inferiore, con sedute in pietra e una cucina esterna.\n\nValldemossa offre una comunità attiva tutto l'anno, la Cartoixa e l'accesso diretto al sentiero GR-221. Una proposta per l'acquirente che mette la quiete davanti alla visibilità."
-        },
-        "es": {
-          "title": "Valldemossa: casa de pueblo de piedra con jardín aterrazado",
-          "description_short": "Casa de piedra del siglo XVII restaurada con sensibilidad en el centro de Valldemossa, con jardín aterrazado y vistas a las montañas.",
-          "description_long": "En una calle que asciende desde el centro empedrado de Valldemossa, esta casa de piedra de 195 m² fue restaurada en 2019 por un arquitecto mallorquín con el encargo de restaurar más que reformar. Los muros originales de piedra, las vigas de castaño y los suelos de barro cocido recuperados se han conservado; la intervención contemporánea se limita a acristalamientos discretos, iluminación integrada y un único bloque de cocina y baños.\n\nLa planta baja da paso a un recibidor con muros de piedra, una sala de estar de 32 m² con la chimenea mallorquina original y una cocina abierta acabada en mobiliario crema con península de encimera de piedra. La primera planta acoge el dormitorio principal con baño en suite con ducha y una pequeña terraza privada que mira al pueblo.\n\nLa segunda planta incluye dos dormitorios más y un baño familiar acabado en piedra caliza pulida. Un despacho con techos abovedados ocupa el ático rehabilitado.\n\nEn el exterior, un jardín aterrazado de 140 m² está plantado con lavanda, romero y un olivo maduro. Una discreta piscina pequeña de 3 por 6 metros se ha integrado en la terraza inferior, con asientos de piedra y cocina exterior.\n\nValldemossa ofrece comunidad durante todo el año, la Cartoixa y acceso directo a la ruta GR-221. Una propuesta para el comprador que antepone la quietud a la visibilidad."
-        }
-      }
-    },
-    {
-      "id_suggested": "mallorca-port-andratx-cliff-villa-9009",
-      "source_url": "https://www.idealista.com/en/venta-viviendas/andratx-baleares/",
-      "source_portal": "idealista.com",
-      "city": "Mallorca",
-      "neighborhood": "Port d'Andratx",
-      "address_approx": "Mont Port, Port d'Andratx",
-      "title": "Port d'Andratx: cliff villa with infinity edge over the bay",
-      "description_short": "Contemporary cliff villa of 520 m² above Port d'Andratx, with infinity pool, private cinema and direct sea view to the bay entrance.",
-      "description_long": "On a south-west-facing cliff plot of 2,200 m² above Port d'Andratx, this contemporary villa was delivered in 2022 by an internationally recognised studio. The architecture is intentionally horizontal, three offset volumes that step down the cliff and direct every principal view to the bay entrance and the open Mediterranean beyond.\n\nThe entrance level opens onto an open-plan reception of 130 m², with retractable glazing that disappears entirely into the structural walls. The kitchen, by an Italian boutique maker, is finished in matt black lacquer, Calacatta marble and bronze detailing.\n\nFive bedroom suites occupy the lower two levels, each en-suite, each with sea-view terraces. The principal suite includes a dedicated sitting room, double dressing rooms and a marble bathroom that opens onto a private plunge pool.\n\nWellness amenities include a 22-metre infinity pool with submerged sun loungers, an indoor heated pool, hammam, sauna, fitness studio and a 14-seat private cinema. A four-car garage and dedicated staff accommodation complete the brief.\n\nThe villa is delivered fully turnkey, including bespoke interior design and a curated furniture package. A trophy proposition for the international buyer seeking a primary or holiday residence at the heart of Mallorca's most prestigious bay.",
-      "price": 9500000,
-      "currency": "EUR",
-      "sqm": 520,
+      "sqm": 600,
       "bedrooms": 5,
-      "bathrooms": 6,
-      "property_type": "villa",
+      "bathrooms": 5,
+      "property_type": "Finca",
       "features": [
-        "cliff position",
-        "infinity pool",
-        "private cinema",
-        "hammam",
-        "four-car garage",
-        "turnkey"
+        "sea view",
+        "gated estate",
+        "swimming pool",
+        "60,000 m² plot",
+        "wraparound terrace",
+        "Gaggenau kitchen"
       ],
       "coordinates": {
-        "lat": 39.546,
-        "lng": 2.381
+        "lat": 39.5697,
+        "lng": 3.2086
       },
       "photo_urls": [
-        "https://images.unsplash.com/photo-1571770095004-6b61b1cf308a?w=1600&q=80",
-        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1600&q=80",
-        "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=1600&q=80",
-        "https://images.unsplash.com/photo-1494526585095-c41746248156?w=1600&q=80",
-        "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1600&q=80",
-        "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=1600&q=80"
+        "https://content.knightfrank.com/property/rsi012422436/images/cda22ac2-b158-4379-9946-b69b6af9639c-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012422436/images/41d083fd-34a1-40e0-a44c-e990e7221aa7-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012422436/images/2f15a322-c21c-4764-b675-a2bd1907286f-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012422436/images/cbc8affe-eceb-48b0-8e78-ac1fbe366224-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012422436/images/c5b0ff30-832e-4ede-a928-5fd61a7a7cd8-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012422436/images/992e8201-e2ad-461e-8d6b-bec99af7de90-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012422436/images/85dd4376-0551-4e8c-a0b0-d3a8738bf539-0.jpg?cio=true&w=1200"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "photos_source_note": "Photos hotlinked from Knight Frank CDN (real listing)",
       "i18n": {
         "en": {
-          "title": "Port d'Andratx: cliff villa with infinity edge over the bay",
-          "description_short": "Contemporary cliff villa of 520 m² above Port d'Andratx, with infinity pool, private cinema and direct sea view to the bay entrance.",
-          "description_long": "On a south-west-facing cliff plot of 2,200 m² above Port d'Andratx, this contemporary villa was delivered in 2022 by an internationally recognised studio. The architecture is intentionally horizontal, three offset volumes that step down the cliff and direct every principal view to the bay entrance and the open Mediterranean beyond.\n\nThe entrance level opens onto an open-plan reception of 130 m², with retractable glazing that disappears entirely into the structural walls. The kitchen, by an Italian boutique maker, is finished in matt black lacquer, Calacatta marble and bronze detailing.\n\nFive bedroom suites occupy the lower two levels, each en-suite, each with sea-view terraces. The principal suite includes a dedicated sitting room, double dressing rooms and a marble bathroom that opens onto a private plunge pool.\n\nWellness amenities include a 22-metre infinity pool with submerged sun loungers, an indoor heated pool, hammam, sauna, fitness studio and a 14-seat private cinema. A four-car garage and dedicated staff accommodation complete the brief.\n\nThe villa is delivered fully turnkey, including bespoke interior design and a curated furniture package. A trophy proposition for the international buyer seeking a primary or holiday residence at the heart of Mallorca's most prestigious bay."
+          "title": "Manacor: Gated Six-Hectare Finca Near Porto Colom Bay",
+          "description_short": "Five-bedroom finca on a 60,248 m² gated estate near Porto Colom, with a 60 m² pool, Gaggenau kitchen and direct sea and countryside views over the southeast coast.",
+          "description_long": "Set on a 60,248 m² gated estate in the quiet hinterland of Manacor, this finca delivers the classical Mallorca brief — sea on one horizon, countryside on the other — at a scale that very few properties on the island can offer.\n\nFive en-suite bedrooms, lush gardens and a golden-stone terrace surround a 60 m² pool. Below the estate, the protected horseshoe bay of Porto Colom unfolds with its intimate beaches and chiringuitos; the Rafa Nadal Academy and international school are a few minutes' drive away.\n\nInside, authentic Mallorquin charm runs throughout. A shaded wraparound terrace leads to the gardens, barbecue area and pool. The light-filled living spaces are anchored by a feature fireplace; the kitchen carries Gaggenau appliances, a sculptural island and natural-stone countertops alongside a separate utility room.\n\nThe principal suite upstairs is a serene retreat with panoramic views, a private dressing room and a luxurious en suite featuring a stone bath and double sinks. Four additional en-suite bedrooms on the ground floor ensure comfort and privacy for guests.\n\nA proposition for the buyer who wants estate-scale privacy and direct access to the southeast coast — without the marina-front pricing of Port d'Andratx."
         },
         "it": {
-          "title": "Port d'Andratx: villa a strapiombo con piscina infinity sulla baia",
-          "description_short": "Villa contemporanea a strapiombo di 520 m² sopra Port d'Andratx, con piscina a sfioro, cinema privato e vista mare diretta sull'imboccatura della baia.",
-          "description_long": "Su un terreno a strapiombo esposto a sud-ovest di 2.200 m² sopra Port d'Andratx, questa villa contemporanea è stata consegnata nel 2022 da uno studio di fama internazionale. L'architettura è volutamente orizzontale, tre volumi sfalsati che scendono lungo la scogliera e indirizzano ogni vista principale verso l'imboccatura della baia e il Mediterraneo aperto oltre.\n\nIl livello d'ingresso si apre su un salone open space di 130 m², con vetrate retraibili che scompaiono completamente nei muri strutturali. La cucina, di un marchio boutique italiano, è rifinita in laccato nero opaco, marmo Calacatta e dettagli in bronzo.\n\nCinque suite occupano i due livelli inferiori, tutte en-suite, ciascuna con terrazza vista mare. La suite principale comprende un salotto dedicato, due cabine armadio doppie e un bagno in marmo che si apre su una piscina di servizio privata.\n\nI servizi wellness includono una piscina a sfioro di 22 metri con sdraio sommersi, una piscina coperta riscaldata, hammam, sauna, studio fitness e un cinema privato da 14 posti. Un garage per quattro auto e un alloggio dedicato al personale completano il programma.\n\nLa villa è consegnata chiavi in mano, inclusi interior design su misura e un pacchetto di arredi curato. Una proposta di prestigio assoluto per l'acquirente internazionale in cerca di una residenza principale o estiva nel cuore della baia più rinomata di Mallorca."
+          "title": "Manacor: finca recintata di sei ettari vicino alla baia di Porto Colom",
+          "description_short": "Finca di cinque camere su tenuta recintata di 60.248 m² vicino a Porto Colom, con piscina di 60 m², cucina Gaggenau e vista diretta su mare e campagna del sud-est.",
+          "description_long": "Su una tenuta recintata di 60.248 m² nel tranquillo entroterra di Manacor, questa finca incarna il brief classico di Mallorca — mare su un orizzonte, campagna sull'altro — su una scala che pochissimi immobili sull'isola possono offrire.\n\nCinque camere matrimoniali con bagno en suite, giardini rigogliosi e una terrazza in pietra dorata circondano una piscina di 60 m². Più in basso, la baia protetta a ferro di cavallo di Porto Colom si svela con le sue spiaggette intime e i chiringuiti; la Rafa Nadal Academy e la scuola internazionale sono a pochi minuti d'auto.\n\nAll'interno, l'autentico fascino mallorchino corre dappertutto. Una terrazza coperta a U conduce ai giardini, all'area barbecue e alla piscina. Gli spazi luminosi sono ancorati da un camino scenografico; la cucina porta elettrodomestici Gaggenau, un'isola scultorea e piani in pietra naturale, oltre a una zona lavanderia separata.\n\nLa suite principale al piano superiore è un ritiro sereno con vista panoramica, cabina armadio privata e bagno di lusso con vasca in pietra e doppio lavabo. Le altre quattro camere en suite al piano terra garantiscono comfort e privacy agli ospiti.\n\nUna proposta per l'acquirente che cerca privacy su scala di tenuta e accesso diretto alla costa sud-orientale — senza i prezzi fronte porto di Port d'Andratx."
         },
         "es": {
-          "title": "Port d'Andratx: villa en acantilado con infinity sobre la bahía",
-          "description_short": "Villa contemporánea en acantilado de 520 m² sobre Port d'Andratx, con piscina infinity, cine privado y vista directa al mar y a la bocana de la bahía.",
-          "description_long": "Sobre una parcela en acantilado orientada al suroeste de 2.200 m² por encima de Port d'Andratx, esta villa contemporánea fue entregada en 2022 por un estudio de reconocimiento internacional. La arquitectura es deliberadamente horizontal, tres volúmenes desplazados que descienden por el acantilado y orientan cada vista principal hacia la bocana de la bahía y el Mediterráneo abierto.\n\nEl nivel de entrada se abre a un salón diáfano de 130 m², con acristalamiento retráctil que se oculta por completo en los muros estructurales. La cocina, de un fabricante boutique italiano, está acabada en lacado negro mate, mármol Calacatta y detalles en bronce.\n\nCinco suites ocupan los dos niveles inferiores, todas en suite, cada una con terraza con vistas al mar. La suite principal incluye un saloncito propio, doble vestidor y baño de mármol que se abre a una piscina privada.\n\nLos servicios wellness incluyen piscina infinity de 22 metros con tumbonas sumergidas, piscina cubierta climatizada, hammam, sauna, estudio de fitness y un cine privado de 14 plazas. Un garaje de cuatro plazas y alojamiento dedicado para el personal completan el programa.\n\nLa villa se entrega completamente llave en mano, con interiorismo a medida y un paquete de mobiliario seleccionado. Una propuesta de máximo prestigio para el comprador internacional que busca primera o segunda residencia en el corazón de la bahía más codiciada de Mallorca."
+          "title": "Manacor: finca cerrada de seis hectáreas cerca de la cala de Porto Colom",
+          "description_short": "Finca de cinco dormitorios en una propiedad cerrada de 60.248 m² cerca de Porto Colom, con piscina de 60 m², cocina Gaggenau y vistas directas al mar y al campo del sureste.",
+          "description_long": "En una propiedad cerrada de 60.248 m² en el tranquilo interior de Manacor, esta finca encarna el encargo clásico de Mallorca — mar en un horizonte, campo en el otro — a una escala que muy pocas propiedades de la isla pueden ofrecer.\n\nCinco dormitorios con baño en suite, jardines frondosos y una terraza de piedra dorada rodean una piscina de 60 m². Más abajo, la cala protegida en herradura de Porto Colom se despliega con sus playas íntimas y chiringuitos; la Rafa Nadal Academy y la escuela internacional están a pocos minutos en coche.\n\nEn el interior, el auténtico encanto mallorquín brilla en cada estancia. Una terraza envolvente da paso a los jardines, la zona de barbacoa y la piscina. Los espacios llenos de luz se articulan en torno a una chimenea escultural; la cocina cuenta con electrodomésticos Gaggenau, una isla destacada y encimeras de piedra natural, además de un lavadero independiente.\n\nLa suite principal en la planta superior es un retiro sereno con vistas panorámicas, vestidor propio y un baño de lujo con bañera de piedra y doble lavabo. Los otros cuatro dormitorios en suite de la planta baja garantizan comodidad y privacidad a los huéspedes.\n\nUna propuesta para el comprador que busca privacidad a escala de finca y acceso directo a la costa sureste — sin los precios de primera línea de puerto de Port d'Andratx."
         }
       }
     },
     {
-      "id_suggested": "mallorca-deia-waterfront-villa-7745",
-      "source_url": "https://www.engelvoelkers.com/es-es/mallorca/deia/",
-      "source_portal": "engelvoelkers.com",
-      "city": "Mallorca",
-      "neighborhood": "Deià",
-      "address_approx": "Cala Deià, Deià",
-      "title": "Deià: stone waterfront villa with private cove access",
-      "description_short": "Restored stone villa of 410 m² on a 3,500 m² plot above Cala Deià, with private path to the cove and panoramic Tramuntana views.",
-      "description_long": "On a south-facing terrace above Cala Deià, this 410 m² stone villa occupies one of the most coveted positions on Mallorca's west coast. The plot of 3,500 m² descends in landscaped terraces to a private gate that opens onto the path to Cala Deià beach, six minutes on foot.\n\nThe villa was restored in 2018 by a leading Mallorcan studio. The original stone walls, chestnut beams and clay tile floors have been retained; the contemporary intervention has been concentrated in the kitchen, bathrooms and an extended south-facing reception that opens entirely onto a covered terrace.\n\nFour bedroom suites are arranged across two floors. The principal occupies the western wing of the upper floor, with private terrace, dressing room and a stone-clad en-suite bathroom that overlooks the bay. Three further bedroom suites enjoy a mix of mountain and sea views.\n\nA 14-metre saltwater pool sits on the principal terrace, surrounded by mature olive, almond and citrus trees. A pool house with summer kitchen and outdoor shower extends the entertaining footprint. A two-car covered garage and a separate staff studio of 32 m² complete the brief.\n\nDeià remains one of the Mediterranean's most rarefied villages, anchored by Belmond's La Residencia and the year-round community of artists and writers. A defining piece of inventory for the buyer who values discretion above all.",
-      "price": 7800000,
+      "id_suggested": "mallorca-santa-maria-farmhouse-3176",
+      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/santa-maria-del-cami-mallorca-illes-balears/rsi012443176",
+      "source_portal": "knightfrank.com",
+      "city": "Santa Maria del Camí",
+      "neighborhood": "Santa Maria countryside",
+      "address_approx": "Outside Santa Maria del Camí, central Mallorca",
+      "title": "Santa Maria del Camí: Restored 550 m2 Country Home with Guest House",
+      "description_short": "Six-bedroom farmhouse of 550 m2 in central Mallorca, contemporary restoration over rustic bones, with a 12-metre saltwater pool, independent guest house and 1.36 hectares of grounds.",
+      "description_long": "A 550 m2 country home in the gentle wine-country of central Mallorca, sensitively renovated in a contemporary register while keeping every rustic detail that earned it its character.\n\nThe main house holds six bedrooms and seven bathrooms across a generous L-shaped living area and a sizeable kitchen. Stone flooring and wide windows pull the surrounding landscape into every room; the renovation has been confident without being heavy-handed.\n\nA separate guest house comprises an open-plan living space, large kitchen and bathroom — perfect for staff, long-staying family or a writer's retreat. A second studio sits beneath the swimming pool, with a living room, bathroom and machine room.\n\nThe meticulously landscaped 1.36-hectare gardens include multiple terraces, a 12-metre saltwater pool, a lawn with mature fruit trees, a lake and a fountain. Air conditioning and central heating run throughout.\n\nSanta Maria, fifteen minutes from Palma, has become one of the most sought-after villages on the island: a Sunday market that draws Palma residents out for the morning, prestigious schools, stylish shops, and a serious offering of contemporary restaurants. A discreet inland alternative to a coastal address.",
+      "price": 6500000,
       "currency": "EUR",
-      "sqm": 410,
-      "bedrooms": 4,
-      "bathrooms": 5,
-      "property_type": "villa",
+      "sqm": 550,
+      "bedrooms": 6,
+      "bathrooms": 7,
+      "property_type": "Finca",
       "features": [
-        "waterfront position",
-        "private cove access",
         "saltwater pool",
-        "pool house",
-        "Tramuntana view",
-        "stone walls"
+        "guest house",
+        "1.36 hectares",
+        "mountain view",
+        "fully renovated",
+        "central heating"
       ],
       "coordinates": {
-        "lat": 39.7488,
-        "lng": 2.6489
+        "lat": 39.6531,
+        "lng": 2.7715
       },
       "photo_urls": [
-        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1600&q=80",
-        "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=1600&q=80",
-        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1600&q=80",
-        "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?w=1600&q=80",
-        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=1600&q=80",
-        "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=1600&q=80"
+        "https://content.knightfrank.com/property/rsi012443176/images/aaae6863-4e40-4006-b22b-bdb970d6151b-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012443176/images/4ea687ce-92c4-4e5f-8464-0d76d8bb6ce5-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012443176/images/730040b6-888d-49d1-b0e1-8bd27e1e1e51-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012443176/images/238a1a96-aa80-48b2-b968-028ca4f66940-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012443176/images/a35e64ec-fe98-4166-8420-503a83bd65f8-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012443176/images/bfd775a2-1c4b-4fdc-a84e-9c184426e08e-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012443176/images/79c0aef2-92fb-4f1c-9c0a-af8ea344829f-0.jpg?cio=true&w=1200"
       ],
-      "photos_source_note": "Unsplash CC0 (synthetic listing for demo)",
+      "photos_source_note": "Photos hotlinked from Knight Frank CDN (real listing)",
       "i18n": {
         "en": {
-          "title": "Deià: stone waterfront villa with private cove access",
-          "description_short": "Restored stone villa of 410 m² on a 3,500 m² plot above Cala Deià, with private path to the cove and panoramic Tramuntana views.",
-          "description_long": "On a south-facing terrace above Cala Deià, this 410 m² stone villa occupies one of the most coveted positions on Mallorca's west coast. The plot of 3,500 m² descends in landscaped terraces to a private gate that opens onto the path to Cala Deià beach, six minutes on foot.\n\nThe villa was restored in 2018 by a leading Mallorcan studio. The original stone walls, chestnut beams and clay tile floors have been retained; the contemporary intervention has been concentrated in the kitchen, bathrooms and an extended south-facing reception that opens entirely onto a covered terrace.\n\nFour bedroom suites are arranged across two floors. The principal occupies the western wing of the upper floor, with private terrace, dressing room and a stone-clad en-suite bathroom that overlooks the bay. Three further bedroom suites enjoy a mix of mountain and sea views.\n\nA 14-metre saltwater pool sits on the principal terrace, surrounded by mature olive, almond and citrus trees. A pool house with summer kitchen and outdoor shower extends the entertaining footprint. A two-car covered garage and a separate staff studio of 32 m² complete the brief.\n\nDeià remains one of the Mediterranean's most rarefied villages, anchored by Belmond's La Residencia and the year-round community of artists and writers. A defining piece of inventory for the buyer who values discretion above all."
+          "title": "Santa Maria del Camí: Restored 550 m2 Country Home with Guest House",
+          "description_short": "Six-bedroom farmhouse of 550 m2 in central Mallorca, contemporary restoration over rustic bones, with a 12-metre saltwater pool, independent guest house and 1.36 hectares of grounds.",
+          "description_long": "A 550 m2 country home in the gentle wine-country of central Mallorca, sensitively renovated in a contemporary register while keeping every rustic detail that earned it its character.\n\nThe main house holds six bedrooms and seven bathrooms across a generous L-shaped living area and a sizeable kitchen. Stone flooring and wide windows pull the surrounding landscape into every room; the renovation has been confident without being heavy-handed.\n\nA separate guest house comprises an open-plan living space, large kitchen and bathroom — perfect for staff, long-staying family or a writer's retreat. A second studio sits beneath the swimming pool, with a living room, bathroom and machine room.\n\nThe meticulously landscaped 1.36-hectare gardens include multiple terraces, a 12-metre saltwater pool, a lawn with mature fruit trees, a lake and a fountain. Air conditioning and central heating run throughout.\n\nSanta Maria, fifteen minutes from Palma, has become one of the most sought-after villages on the island: a Sunday market that draws Palma residents out for the morning, prestigious schools, stylish shops, and a serious offering of contemporary restaurants. A discreet inland alternative to a coastal address."
         },
         "it": {
-          "title": "Deià: villa in pietra fronte mare con accesso a cala privata",
-          "description_short": "Villa in pietra restaurata di 410 m² su un terreno di 3.500 m² sopra Cala Deià, con sentiero privato per la cala e vista panoramica sulla Tramuntana.",
-          "description_long": "Su una terrazza esposta a sud sopra Cala Deià, questa villa in pietra di 410 m² occupa una delle posizioni più ambite della costa occidentale di Mallorca. Il terreno di 3.500 m² scende in terrazze paesaggistiche fino a un cancello privato che si apre sul sentiero per Cala Deià, a sei minuti a piedi.\n\nLa villa è stata restaurata nel 2018 da uno studio maiorchino di primo piano. I muri originali in pietra, le travi in castagno e i pavimenti in cotto sono stati conservati; l'intervento contemporaneo si è concentrato sulla cucina, sui bagni e su un salone esteso esposto a sud che si apre interamente su una terrazza coperta.\n\nQuattro suite sono disposte su due piani. La principale occupa l'ala ovest del piano superiore, con terrazza privata, cabina armadio e bagno en-suite rivestito in pietra affacciato sulla baia. Le altre tre suite godono di un mix di vista montagna e vista mare.\n\nUna piscina in acqua salata di 14 metri occupa la terrazza principale, circondata da ulivi, mandorli e agrumi maturi. Una pool house con cucina estiva e doccia esterna estende lo spazio conviviale. Un garage coperto a due posti auto e uno studio separato per il personale di 32 m² completano il programma.\n\nDeià resta uno dei villaggi più rarefatti del Mediterraneo, sostenuto da La Residencia di Belmond e dalla comunità tutto l'anno di artisti e scrittori. Una proposta identitaria per l'acquirente che mette la discrezione al primo posto."
+          "title": "Santa Maria del Camí: casa rurale ristrutturata di 550 m2 con dependance",
+          "description_short": "Casa rurale di sei camere e 550 m2 nel centro di Mallorca, ristrutturazione contemporanea su impianto rustico, con piscina di 12 metri ad acqua salata, dependance indipendente e 1,36 ettari di terreno.",
+          "description_long": "Casa rurale di 550 m2 nella tranquilla zona vitivinicola del centro di Mallorca, ristrutturata in chiave contemporanea con il giusto rispetto per ogni dettaglio rustico che le ha dato carattere.\n\nLa casa principale ospita sei camere e sette bagni distribuiti su una generosa zona giorno a L e una cucina di ampie dimensioni. I pavimenti in pietra e le finestre larghe portano dentro il paesaggio circostante in ogni stanza; la ristrutturazione è stata decisa senza essere invadente.\n\nUna dependance separata comprende un soggiorno open space, cucina grande e bagno — perfetta per personale, ospiti di lungo soggiorno o un ritiro creativo. Un secondo studio si trova sotto la piscina, con soggiorno, bagno e locale tecnico.\n\nIl giardino curatissimo di 1,36 ettari include più terrazze, una piscina di 12 metri ad acqua salata, un prato con alberi da frutta maturi, un laghetto e una fontana. Aria condizionata e riscaldamento centralizzato in tutta la proprietà.\n\nSanta Maria, a quindici minuti da Palma, è diventata uno dei paesi più ricercati dell'isola: un mercato la domenica che richiama i palmesani al mattino, scuole prestigiose, negozi di stile e una proposta gastronomica contemporanea di livello. Un'alternativa interna discreta a un indirizzo costiero."
         },
         "es": {
-          "title": "Deià: villa de piedra frente al mar con acceso a cala privada",
-          "description_short": "Villa de piedra restaurada de 410 m² sobre parcela de 3.500 m² por encima de Cala Deià, con sendero privado a la cala y vistas panorámicas a la Tramuntana.",
-          "description_long": "Sobre una terraza orientada al sur por encima de Cala Deià, esta villa de piedra de 410 m² ocupa una de las posiciones más codiciadas de la costa oeste de Mallorca. La parcela de 3.500 m² desciende en terrazas paisajísticas hasta una cancela privada que se abre al sendero hacia Cala Deià, a seis minutos a pie.\n\nLa villa fue restaurada en 2018 por un destacado estudio mallorquín. Los muros originales de piedra, las vigas de castaño y los suelos de barro cocido se han conservado; la intervención contemporánea se ha concentrado en la cocina, los baños y un salón ampliado orientado al sur que se abre por completo a una terraza cubierta.\n\nCuatro suites se distribuyen en dos plantas. La principal ocupa el ala oeste de la planta superior, con terraza privada, vestidor y baño en suite revestido en piedra asomado a la bahía. Las otras tres suites disfrutan de una combinación de vistas a la montaña y al mar.\n\nUna piscina de agua salada de 14 metros se sitúa en la terraza principal, rodeada de olivos, almendros y cítricos maduros. Una pool house con cocina de verano y ducha exterior amplía la zona de recepción. Un garaje cubierto para dos coches y un estudio independiente para el personal de 32 m² completan el programa.\n\nDeià sigue siendo uno de los pueblos más exclusivos del Mediterráneo, articulado por La Residencia de Belmond y por su comunidad activa todo el año de artistas y escritores. Una pieza identitaria para el comprador que coloca la discreción por encima de todo."
+          "title": "Santa Maria del Camí: casa rural reformada de 550 m2 con casa de invitados",
+          "description_short": "Casa rural de seis dormitorios y 550 m2 en el centro de Mallorca, reforma contemporánea sobre arquitectura rústica, con piscina de agua salada de 12 metros, casa de invitados independiente y 1,36 hectáreas de terreno.",
+          "description_long": "Casa rural de 550 m2 en la tranquila zona vinícola del centro de Mallorca, reformada con sensibilidad en clave contemporánea pero conservando cada detalle rústico que le da carácter.\n\nLa casa principal alberga seis dormitorios y siete baños distribuidos en una amplia zona de día en L y una cocina de grandes dimensiones. Los suelos de piedra y los amplios ventanales introducen el paisaje circundante en cada habitación; la reforma ha sido decidida sin resultar invasiva.\n\nUna casa de invitados independiente comprende salón abierto, cocina grande y baño — perfecta para personal, huéspedes de larga estancia o un refugio creativo. Un segundo estudio se sitúa bajo la piscina, con salón, baño y sala de máquinas.\n\nEl jardín meticulosamente cuidado de 1,36 hectáreas incluye varias terrazas, una piscina de 12 metros de agua salada, una pradera con árboles frutales adultos, un estanque y una fuente. Aire acondicionado y calefacción central en toda la propiedad.\n\nSanta Maria, a quince minutos de Palma, se ha convertido en uno de los pueblos más buscados de la isla: un mercado dominical que atrae a los palmesanos por la mañana, colegios prestigiosos, tiendas con estilo y una oferta gastronómica contemporánea de nivel. Una alternativa de interior discreta frente a una dirección de costa."
+        }
+      }
+    },
+    {
+      "id_suggested": "mallorca-bunyola-turnkey-7456",
+      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/bunyola-mallorca-illes-balears/rsi012657456",
+      "source_portal": "knightfrank.com",
+      "city": "Bunyola",
+      "neighborhood": "Tramuntana foothills",
+      "address_approx": "Bunyola, near Palma, foothills of the Tramuntana",
+      "title": "Bunyola: Contemporary Villa Delivered Fully Furnished",
+      "description_short": "Five-bedroom contemporary villa close to Palma in the Tramuntana foothills, fully furnished by a respected Mallorca developer, with large pool and wellness rooms.",
+      "description_long": "A tranquil position in the foothills of the Tramuntana, fifteen minutes from Palma — and a turnkey solution by a well-established Mallorca developer recognised for thoughtfully designed homes.\n\nThe villa is offered fully furnished, all the curation already done. The design creates a deliberate relationship between interior volumes and the outdoors: arrival, ground floor and gardens flow into a single Mediterranean sequence.\n\nThe ground floor is centred on an open-plan kitchen, dining and living area, complete with a fireplace and direct access onto the terraces and pool. A guest bedroom with en suite anchors this level.\n\nUpstairs sits the principal suite with a dressing room and en suite, alongside three further bedrooms, each with their own bathroom and finished to the same standard. The same architectural language — natural stone, considered finishes — continues across living, sleeping, office and wellness areas.\n\nOutside, the landscaped grounds are flat and well-established, with generous terraces, a large pool and a mature orchard. A property for the buyer who wants to land on the island and move in the same week.",
+      "price": 4750000,
+      "currency": "EUR",
+      "sqm": 500,
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "property_type": "Villa",
+      "features": [
+        "fully furnished",
+        "swimming pool",
+        "mature orchard",
+        "mountain backdrop",
+        "wellness facilities",
+        "office"
+      ],
+      "coordinates": {
+        "lat": 39.6857,
+        "lng": 2.6973
+      },
+      "photo_urls": [
+        "https://content.knightfrank.com/property/rsi012657456/images/f019cbba-52fe-4d27-a68d-1b940f61cfb8-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012657456/images/5184e25b-1dde-4239-8297-e160107a63d7-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012657456/images/bb17bef0-ab8e-4352-a643-cf6a66afa256-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012657456/images/38ab7949-c880-4206-9fdb-4c77eac3cc5f-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012657456/images/4e5bf98e-f9d8-4edf-bf46-97991c025bc6-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012657456/images/c70c90b0-8d60-416a-a296-608e22e2f902-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012657456/images/c431a831-7473-4364-bad9-9717ecc473df-0.jpg?cio=true&w=1200"
+      ],
+      "photos_source_note": "Photos hotlinked from Knight Frank CDN (real listing)",
+      "i18n": {
+        "en": {
+          "title": "Bunyola: Contemporary Villa Delivered Fully Furnished",
+          "description_short": "Five-bedroom contemporary villa close to Palma in the Tramuntana foothills, fully furnished by a respected Mallorca developer, with large pool and wellness rooms.",
+          "description_long": "A tranquil position in the foothills of the Tramuntana, fifteen minutes from Palma — and a turnkey solution by a well-established Mallorca developer recognised for thoughtfully designed homes.\n\nThe villa is offered fully furnished, all the curation already done. The design creates a deliberate relationship between interior volumes and the outdoors: arrival, ground floor and gardens flow into a single Mediterranean sequence.\n\nThe ground floor is centred on an open-plan kitchen, dining and living area, complete with a fireplace and direct access onto the terraces and pool. A guest bedroom with en suite anchors this level.\n\nUpstairs sits the principal suite with a dressing room and en suite, alongside three further bedrooms, each with their own bathroom and finished to the same standard. The same architectural language — natural stone, considered finishes — continues across living, sleeping, office and wellness areas.\n\nOutside, the landscaped grounds are flat and well-established, with generous terraces, a large pool and a mature orchard. A property for the buyer who wants to land on the island and move in the same week."
+        },
+        "it": {
+          "title": "Bunyola: villa contemporanea consegnata interamente arredata",
+          "description_short": "Villa contemporanea di cinque camere vicino a Palma alle pendici della Tramuntana, consegnata completamente arredata da un costruttore mallorchino di riferimento, con grande piscina e ambienti wellness.",
+          "description_long": "Posizione tranquilla ai piedi della Tramuntana, a quindici minuti da Palma — e una soluzione chiavi in mano firmata da un costruttore mallorchino di riferimento, noto per case progettate con cura.\n\nLa villa è consegnata completamente arredata, con la curatela già fatta. La progettazione costruisce una relazione deliberata tra i volumi interni e gli esterni: arrivo, piano terra e giardini si compongono in un'unica sequenza mediterranea.\n\nIl piano terra ruota attorno a una zona cucina/pranzo/soggiorno open space, con camino e accesso diretto su terrazze e piscina. Una camera per ospiti con bagno en suite chiude questo livello.\n\nAl piano superiore si trovano la suite principale con cabina armadio e bagno en suite, oltre ad altre tre camere — tutte con bagno proprio e finite allo stesso standard. Lo stesso linguaggio architettonico — pietra naturale, finiture meditate — prosegue tra zone giorno, notte, ufficio e wellness.\n\nAll'esterno, il giardino paesaggistico è pianeggiante e ben strutturato, con generose terrazze, una grande piscina e un frutteto maturo. Una proprietà per chi vuole atterrare sull'isola e trasferirsi nella stessa settimana."
+        },
+        "es": {
+          "title": "Bunyola: villa contemporánea entregada totalmente amueblada",
+          "description_short": "Villa contemporánea de cinco dormitorios cerca de Palma a los pies de la Tramuntana, entregada totalmente amueblada por un constructor mallorquín de referencia, con gran piscina y zonas de wellness.",
+          "description_long": "Ubicación tranquila a los pies de la Tramuntana, a quince minutos de Palma — y una solución llave en mano firmada por un constructor mallorquín de referencia, conocido por casas diseñadas con cuidado.\n\nLa villa se entrega totalmente amueblada, con toda la curaduría ya hecha. El diseño construye una relación deliberada entre los volúmenes interiores y el exterior: llegada, planta baja y jardines se componen en una única secuencia mediterránea.\n\nLa planta baja gira en torno a una cocina/comedor/salón en planta abierta, con chimenea y acceso directo a las terrazas y la piscina. Un dormitorio de invitados con baño en suite cierra este nivel.\n\nEn la planta superior se sitúan la suite principal con vestidor y baño en suite, junto a tres dormitorios más — todos con baño propio y acabados al mismo nivel. El mismo lenguaje arquitectónico — piedra natural, acabados meditados — continúa entre las zonas de día, noche, despacho y wellness.\n\nEn el exterior, el jardín paisajístico es plano y bien estructurado, con generosas terrazas, una gran piscina y un huerto maduro. Una propiedad para quien quiera aterrizar en la isla y mudarse esa misma semana."
+        }
+      }
+    },
+    {
+      "id_suggested": "mallorca-santanyi-newbuild-4495",
+      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/santanyi-mallorca-illes-balears/rsi012544495",
+      "source_portal": "knightfrank.com",
+      "city": "Santanyí",
+      "neighborhood": "Cala Llombards area",
+      "address_approx": "Near Cala Llombards, Caló del Moro coves, Santanyí",
+      "title": "Santanyí: 2025 New-Build Finca Near the Caló del Moro Coves",
+      "description_short": "Newly built 2025 finca on 18,000 m² near Cala Llombards and Caló del Moro, with infinity pool, cinema room, gym and sauna, six bedrooms and a separate staff apartment.",
+      "description_long": "Completed in 2025, this newly built finca combines Mediterranean charm with contemporary sophistication on an expansive 18,000 m² plot in the south-east of Mallorca. Elegant architecture, refined interiors and the highest-quality materials run consistently throughout.\n\nA striking double-height entrance hall leads to a formal living room with a fireplace and a magnificent kitchen with a dining area — the layout designed to allow openness and privacy in equal measure.\n\nThe upper level features a principal suite with a private sea-view terrace, a dressing room, a generous bathroom and a fireplace, complemented by three further en-suite bedrooms. A ground-floor guest suite enjoys its own patio, outdoor shower and small private pool. The lower level houses a cinema, gym and sauna, plus a self-contained apartment for guests or staff with private courtyard and independent access. An elevator connects every floor.\n\nOutdoors, a spectacular infinity pool, landscaped gardens and a sequence of terraces frame meals and entertaining. The arrival sequence — through a landscaped courtyard with a fountain — and a shaded parking pergola are both quietly considered.\n\nThe coves of Cala Llombards, Cala S'Almunia and Caló del Moro — three of the most photographed beaches on the island — sit minutes away, with Santanyí town and its weekly market a short drive inland.",
+      "price": 12500000,
+      "currency": "EUR",
+      "sqm": 700,
+      "bedrooms": 6,
+      "bathrooms": 7,
+      "property_type": "Finca",
+      "features": [
+        "infinity pool",
+        "cinema room",
+        "gym & sauna",
+        "sea view",
+        "new build 2025",
+        "elevator"
+      ],
+      "coordinates": {
+        "lat": 39.354,
+        "lng": 3.1217
+      },
+      "photo_urls": [
+        "https://content.knightfrank.com/property/rsi012544495/images/4371b8ab-5fa5-479c-9eab-53fdcc9c80b4-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012544495/images/1f7bd039-aa95-4ed8-a2db-880b0aa12152-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012544495/images/f114bccc-8c0a-43a1-987b-93eb78233120-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012544495/images/03653ed7-36a9-4d37-9587-759d8e0e49d0-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012544495/images/cee332c0-e535-42cc-b675-5798e26e4268-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012544495/images/c6e26724-d879-4504-9a07-24b4214ea118-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012544495/images/8f45cbad-39d3-45ed-8d70-b3db6d27b417-0.jpg?cio=true&w=1200"
+      ],
+      "photos_source_note": "Photos hotlinked from Knight Frank CDN (real listing)",
+      "i18n": {
+        "en": {
+          "title": "Santanyí: 2025 New-Build Finca Near the Caló del Moro Coves",
+          "description_short": "Newly built 2025 finca on 18,000 m² near Cala Llombards and Caló del Moro, with infinity pool, cinema room, gym and sauna, six bedrooms and a separate staff apartment.",
+          "description_long": "Completed in 2025, this newly built finca combines Mediterranean charm with contemporary sophistication on an expansive 18,000 m² plot in the south-east of Mallorca. Elegant architecture, refined interiors and the highest-quality materials run consistently throughout.\n\nA striking double-height entrance hall leads to a formal living room with a fireplace and a magnificent kitchen with a dining area — the layout designed to allow openness and privacy in equal measure.\n\nThe upper level features a principal suite with a private sea-view terrace, a dressing room, a generous bathroom and a fireplace, complemented by three further en-suite bedrooms. A ground-floor guest suite enjoys its own patio, outdoor shower and small private pool. The lower level houses a cinema, gym and sauna, plus a self-contained apartment for guests or staff with private courtyard and independent access. An elevator connects every floor.\n\nOutdoors, a spectacular infinity pool, landscaped gardens and a sequence of terraces frame meals and entertaining. The arrival sequence — through a landscaped courtyard with a fountain — and a shaded parking pergola are both quietly considered.\n\nThe coves of Cala Llombards, Cala S'Almunia and Caló del Moro — three of the most photographed beaches on the island — sit minutes away, with Santanyí town and its weekly market a short drive inland."
+        },
+        "it": {
+          "title": "Santanyí: finca di nuova costruzione 2025 vicino alle cale del Moro",
+          "description_short": "Finca di nuova costruzione 2025 su 18.000 m² vicino a Cala Llombards e Caló del Moro, con piscina a sfioro, sala cinema, palestra e sauna, sei camere e un appartamento di servizio indipendente.",
+          "description_long": "Completata nel 2025, questa finca di nuova costruzione combina il fascino mediterraneo con la sofisticazione contemporanea su un appezzamento di 18.000 m² nel sud-est di Mallorca. Architettura elegante, interni raffinati e materiali della più alta qualità corrono coerenti in tutta la proprietà.\n\nUna scenografica hall a doppia altezza introduce a un soggiorno formale con camino e a una magnifica cucina con zona pranzo — il layout pensato per garantire apertura e privacy in eguale misura.\n\nIl piano superiore ospita una suite principale con terrazza privata vista mare, cabina armadio, bagno generoso e camino, completata da altre tre camere en suite. Al piano terra una suite per gli ospiti gode di patio proprio, doccia esterna e piscina privata. Il piano inferiore ospita un cinema, palestra e sauna, oltre a un appartamento autonomo per ospiti o personale con cortile privato e accesso indipendente. Un ascensore collega tutti i livelli.\n\nAll'esterno, una spettacolare piscina a sfioro, giardini paesaggistici e una sequenza di terrazze incorniciano pranzi e ricevimenti. La sequenza di arrivo — attraverso un cortile paesaggistico con fontana — e la pergola d'ombra per il parcheggio sono entrambe risolte con discrezione.\n\nLe cale di Cala Llombards, Cala S'Almunia e Caló del Moro — tre delle spiagge più fotografate dell'isola — sono a pochi minuti, con il paese di Santanyí e il suo mercato settimanale a breve distanza in auto."
+        },
+        "es": {
+          "title": "Santanyí: finca de obra nueva 2025 junto a las calas del Moro",
+          "description_short": "Finca de obra nueva 2025 sobre 18.000 m² cerca de Cala Llombards y Caló del Moro, con piscina infinita, sala de cine, gimnasio y sauna, seis dormitorios y un apartamento de servicio independiente.",
+          "description_long": "Terminada en 2025, esta finca de obra nueva combina el encanto mediterráneo con la sofisticación contemporánea sobre una parcela de 18.000 m² en el sureste de Mallorca. Arquitectura elegante, interiores refinados y materiales de la máxima calidad recorren toda la propiedad.\n\nUn vestíbulo a doble altura conduce a un salón formal con chimenea y a una magnífica cocina con zona de comedor — la distribución pensada para garantizar apertura y privacidad por igual.\n\nEn la planta superior se sitúa la suite principal con terraza privada con vistas al mar, vestidor, baño amplio y chimenea, completada con otros tres dormitorios en suite. En la planta baja, una suite de invitados disfruta de patio propio, ducha exterior y piscina privada. En la planta inferior hay sala de cine, gimnasio y sauna, además de un apartamento independiente para invitados o personal con patio privado y acceso independiente. Un ascensor conecta todas las plantas.\n\nEn el exterior, una espectacular piscina infinita, jardines paisajísticos y una sucesión de terrazas enmarcan comidas y celebraciones. La secuencia de llegada — a través de un patio ajardinado con fuente — y la pérgola de aparcamiento sombreada se han resuelto con discreción.\n\nLas calas de Cala Llombards, Cala S'Almunia y Caló del Moro — tres de las playas más fotografiadas de la isla — están a pocos minutos, con el pueblo de Santanyí y su mercado semanal a corta distancia en coche."
+        }
+      }
+    },
+    {
+      "id_suggested": "mallorca-binissalem-vineyard-9820",
+      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/binissalem-mallorca-illes-balears/rsi012629820",
+      "source_portal": "knightfrank.com",
+      "city": "Binissalem",
+      "neighborhood": "Binissalem wine country",
+      "address_approx": "Binissalem wine route, central Mallorca",
+      "title": "Binissalem: New-Build Finca in Mallorca Wine Country",
+      "description_short": "Four-bedroom newly built finca in Binissalem wine country, surrounded by olive groves and a private vineyard, with a 25-metre pool and Tramuntana mountains as a backdrop.",
+      "description_long": "In the quiet countryside of Binissalem — the heart of Mallorca's small but serious wine region — this newly-built finca has been designed to echo traditional architecture while supporting genuinely contemporary living.\n\nThe property sits within its own olive groves and a private vineyard, with the Tramuntana mountains forming the backdrop. The brief was a calm, considered life, anchored to natural materials and to the rhythm of the land.\n\nArranged across two levels, the house flows seamlessly between interior volumes and the gardens. The ground floor is centred on an open-plan kitchen, dining and living area, with broad openings leading directly to the terraces and pool. A guest bedroom with en suite sits on this level, alongside a beautifully finished bathroom with a sculptural stone basin. Upstairs, three further en-suite bedrooms include a well-proportioned principal suite.\n\nMaterials have been chosen with restraint and confidence: natural stone, bespoke fittings, finely chosen details and a sculptural stone fireplace as the home's quiet centrepiece. The gardens are structured yet relaxed, with olive trees and vines anchoring the property in its place.\n\nA 25-metre pool provides a strong focal point — equally suited to laps and to long, unhurried summer afternoons. Palma is half an hour by car.",
+      "price": 7900000,
+      "currency": "EUR",
+      "sqm": 450,
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "property_type": "Finca",
+      "features": [
+        "olive grove",
+        "private vineyard",
+        "25 m pool",
+        "new build",
+        "stone fireplace",
+        "Tramuntana view"
+      ],
+      "coordinates": {
+        "lat": 39.6862,
+        "lng": 2.8333
+      },
+      "photo_urls": [
+        "https://content.knightfrank.com/property/rsi012629820/images/f5a85e85-5117-4e08-9ab3-10399ee54fd6-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012629820/images/2755444e-d3bc-41f4-b094-cb3b53d5fc5e-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012629820/images/bfdd76b8-9390-4045-ad8f-b14632f95c9a-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012629820/images/9543e664-cfa2-4c3f-bace-7a97d2261d39-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012629820/images/62241d50-1068-4d6f-beb8-1b3b4a804312-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012629820/images/8346dcf1-d21b-45d1-8b10-cd6620f826f6-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012629820/images/573e6602-9ab5-48bf-be07-2fc5a7ce2bdb-0.jpg?cio=true&w=1200"
+      ],
+      "photos_source_note": "Photos hotlinked from Knight Frank CDN (real listing)",
+      "i18n": {
+        "en": {
+          "title": "Binissalem: New-Build Finca in Mallorca Wine Country",
+          "description_short": "Four-bedroom newly built finca in Binissalem wine country, surrounded by olive groves and a private vineyard, with a 25-metre pool and Tramuntana mountains as a backdrop.",
+          "description_long": "In the quiet countryside of Binissalem — the heart of Mallorca's small but serious wine region — this newly-built finca has been designed to echo traditional architecture while supporting genuinely contemporary living.\n\nThe property sits within its own olive groves and a private vineyard, with the Tramuntana mountains forming the backdrop. The brief was a calm, considered life, anchored to natural materials and to the rhythm of the land.\n\nArranged across two levels, the house flows seamlessly between interior volumes and the gardens. The ground floor is centred on an open-plan kitchen, dining and living area, with broad openings leading directly to the terraces and pool. A guest bedroom with en suite sits on this level, alongside a beautifully finished bathroom with a sculptural stone basin. Upstairs, three further en-suite bedrooms include a well-proportioned principal suite.\n\nMaterials have been chosen with restraint and confidence: natural stone, bespoke fittings, finely chosen details and a sculptural stone fireplace as the home's quiet centrepiece. The gardens are structured yet relaxed, with olive trees and vines anchoring the property in its place.\n\nA 25-metre pool provides a strong focal point — equally suited to laps and to long, unhurried summer afternoons. Palma is half an hour by car."
+        },
+        "it": {
+          "title": "Binissalem: finca di nuova costruzione nella zona vitivinicola di Mallorca",
+          "description_short": "Finca di nuova costruzione di quattro camere a Binissalem, nel cuore della denominazione vitivinicola di Mallorca, circondata da uliveti e da un vigneto privato, con piscina di 25 metri e sfondo della Tramuntana.",
+          "description_long": "Nella campagna tranquilla di Binissalem — cuore della piccola ma seria zona vitivinicola di Mallorca — questa finca di nuova costruzione è stata progettata per richiamare l'architettura tradizionale supportando al tempo stesso una vita autenticamente contemporanea.\n\nLa proprietà sorge in mezzo ai propri uliveti e a un vigneto privato, con i monti della Tramuntana a fare da sfondo. Il brief progettuale è stato una vita calma e meditata, ancorata ai materiali naturali e al ritmo del territorio.\n\nDistribuita su due livelli, la casa fluisce senza soluzione di continuità tra i volumi interni e i giardini. Il piano terra è centrato su una zona cucina/pranzo/soggiorno open space, con grandi aperture che danno direttamente su terrazze e piscina. Una camera per ospiti con bagno en suite chiude questo livello, accanto a un bagno finemente rifinito con un lavabo scultoreo in pietra. Al piano superiore, altre tre camere en suite includono una suite principale ben proporzionata.\n\nI materiali sono stati scelti con sobrietà e sicurezza: pietra naturale, ferramenta su misura, dettagli scelti con cura e un camino scultoreo in pietra come centro silenzioso della casa. I giardini sono strutturati ma rilassati, con olivi e viti che ancorano la proprietà al suo contesto.\n\nUna piscina di 25 metri offre un punto focale forte — adatto sia alle vasche sia ai lunghi pomeriggi estivi senza fretta. Palma è a mezz'ora d'auto."
+        },
+        "es": {
+          "title": "Binissalem: finca de obra nueva en la zona vinícola de Mallorca",
+          "description_short": "Finca de obra nueva de cuatro dormitorios en Binissalem, corazón de la denominación vinícola de Mallorca, rodeada de olivares y un viñedo privado, con piscina de 25 metros y la Tramuntana al fondo.",
+          "description_long": "En el tranquilo campo de Binissalem — el corazón de la pequeña pero seria zona vinícola de Mallorca — esta finca de obra nueva ha sido diseñada para evocar la arquitectura tradicional al tiempo que sostiene una vida auténticamente contemporánea.\n\nLa propiedad se sitúa entre sus propios olivares y un viñedo privado, con la sierra de Tramuntana de telón de fondo. El encargo proyectual fue una vida sosegada y meditada, anclada a los materiales naturales y al ritmo del territorio.\n\nDistribuida en dos plantas, la casa fluye con continuidad entre los volúmenes interiores y los jardines. La planta baja se articula en torno a una cocina/comedor/salón en planta abierta, con grandes huecos que dan directamente a las terrazas y a la piscina. Un dormitorio de invitados con baño en suite cierra este nivel, junto a un baño finamente acabado con un lavabo escultórico de piedra. En la planta superior, otros tres dormitorios en suite incluyen una suite principal bien proporcionada.\n\nLos materiales se han elegido con sobriedad y seguridad: piedra natural, herrajes a medida, detalles cuidadosamente seleccionados y una chimenea escultórica de piedra como centro silencioso de la casa. Los jardines son estructurados pero relajados, con olivos y vides que anclan la propiedad a su entorno.\n\nUna piscina de 25 metros aporta un fuerte punto focal — adecuada tanto para nadar como para largas tardes de verano sin prisa. Palma está a media hora en coche."
+        }
+      }
+    },
+    {
+      "id_suggested": "mallorca-formentor-clifftop-0796",
+      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/cap-de-formentor-mallorca-illes-balears/rsi012530796",
+      "source_portal": "knightfrank.com",
+      "city": "Cap de Formentor",
+      "neighborhood": "Formentor clifftop",
+      "address_approx": "Formentor peninsula clifftop, north of Pollença",
+      "title": "Cap de Formentor: Clifftop Estate with Pollensa Bay Views",
+      "description_short": "Historic clifftop estate on Cap de Formentor, gated and entirely private, with seven bedrooms, a 20-metre main pool and panoramic views over Pollensa Bay from every room.",
+      "description_long": "A historic clifftop retreat on the Formentor peninsula, long associated with international aristocracy and now rarely available on the open market. Pollensa Bay is captured from every room.\n\nSeven bedrooms and expansive entertaining spaces are arranged across a private compound, providing complete autonomy for owners, family and staff. Formal dining sits beside casual gathering rooms; the interiors flow between elegant indoor volumes and a sequence of multi-level terraces.\n\nThe kitchen includes a dedicated preparation area for catering staff or a private chef. The elevated master suite sits beneath an elegant cupola, with panoramic outlooks and private outdoor spaces.\n\nThe principal pool runs to 20 metres, framed by a generous terrace; a secondary exercise pool is located on the upper level. The gardens lean into the cliff edge, leaving the views to do most of the talking.\n\nA discreet, trophy-tier address in one of the most protected and difficult-to-buy positions on the entire Spanish Mediterranean. Inspection by formal introduction only.",
+      "price": 22000000,
+      "currency": "EUR",
+      "sqm": 800,
+      "bedrooms": 7,
+      "bathrooms": 7,
+      "property_type": "Villa",
+      "features": [
+        "clifftop",
+        "sea view",
+        "gated",
+        "20 m pool",
+        "staff kitchen",
+        "historic estate"
+      ],
+      "coordinates": {
+        "lat": 39.9596,
+        "lng": 3.2122
+      },
+      "photo_urls": [
+        "https://content.knightfrank.com/property/rsi012530796/images/2f46a167-7af6-4aec-90cc-b547b1904091-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012530796/images/9cbdb19d-e480-400b-acbc-c8c1a21c2492-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012530796/images/da6e74c6-b1f5-4733-973d-4df91e96b578-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012530796/images/9a4fcb59-3ba3-45ea-8a00-640fed931a07-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012530796/images/9c7fd871-b4bd-4f23-a55d-a03e4f3844c9-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012530796/images/ea308e99-b1f2-45b4-801c-bdccc43c35b0-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012530796/images/89b8e9f3-717c-41a3-83f1-00b304da7313-0.jpg?cio=true&w=1200"
+      ],
+      "photos_source_note": "Photos hotlinked from Knight Frank CDN (real listing)",
+      "i18n": {
+        "en": {
+          "title": "Cap de Formentor: Clifftop Estate with Pollensa Bay Views",
+          "description_short": "Historic clifftop estate on Cap de Formentor, gated and entirely private, with seven bedrooms, a 20-metre main pool and panoramic views over Pollensa Bay from every room.",
+          "description_long": "A historic clifftop retreat on the Formentor peninsula, long associated with international aristocracy and now rarely available on the open market. Pollensa Bay is captured from every room.\n\nSeven bedrooms and expansive entertaining spaces are arranged across a private compound, providing complete autonomy for owners, family and staff. Formal dining sits beside casual gathering rooms; the interiors flow between elegant indoor volumes and a sequence of multi-level terraces.\n\nThe kitchen includes a dedicated preparation area for catering staff or a private chef. The elevated master suite sits beneath an elegant cupola, with panoramic outlooks and private outdoor spaces.\n\nThe principal pool runs to 20 metres, framed by a generous terrace; a secondary exercise pool is located on the upper level. The gardens lean into the cliff edge, leaving the views to do most of the talking.\n\nA discreet, trophy-tier address in one of the most protected and difficult-to-buy positions on the entire Spanish Mediterranean. Inspection by formal introduction only."
+        },
+        "it": {
+          "title": "Cap de Formentor: tenuta a strapiombo con vista sulla baia di Pollensa",
+          "description_short": "Tenuta storica a strapiombo a Cap de Formentor, recintata e completamente privata, con sette camere, piscina principale di 20 metri e vista panoramica sulla baia di Pollensa da ogni stanza.",
+          "description_long": "Ritiro storico a strapiombo sul promontorio di Formentor, da sempre associato all'aristocrazia internazionale e ora raramente disponibile sul mercato libero. La baia di Pollensa è inquadrata da ogni stanza.\n\nSette camere e ampi spazi conviviali si distribuiscono su un compound privato, garantendo totale autonomia per proprietari, famiglia e personale. Il pranzo formale dialoga con i salotti più informali; gli interni passano da volumi eleganti a una sequenza di terrazze su più livelli.\n\nLa cucina include una zona di preparazione dedicata al personale di servizio o a uno chef privato. La suite principale, in posizione elevata, è collocata sotto un'elegante cupola, con vista panoramica e spazi esterni privati.\n\nLa piscina principale è lunga 20 metri, incorniciata da una generosa terrazza; una seconda piscina sportiva si trova al livello superiore. I giardini si appoggiano sul ciglio della falesia, lasciando alla vista il compito di parlare.\n\nUn indirizzo trofeo discreto in una delle posizioni più protette e difficili da acquistare di tutto il Mediterraneo spagnolo. Visita su presentazione formale."
+        },
+        "es": {
+          "title": "Cap de Formentor: finca en acantilado con vistas a la bahía de Pollensa",
+          "description_short": "Finca histórica en acantilado en Cap de Formentor, cerrada y completamente privada, con siete dormitorios, piscina principal de 20 metros y vistas panorámicas a la bahía de Pollensa desde todas las estancias.",
+          "description_long": "Retiro histórico en acantilado en la península de Formentor, asociado durante décadas a la aristocracia internacional y rara vez disponible en el mercado abierto. La bahía de Pollensa se captura desde cada estancia.\n\nSiete dormitorios y amplios espacios para recibir se distribuyen en un compound privado, ofreciendo total autonomía a propietarios, familia y servicio. El comedor formal dialoga con salones más informales; los interiores transitan entre volúmenes elegantes y una secuencia de terrazas a varios niveles.\n\nLa cocina incluye una zona de preparación dedicada para el personal de catering o para un chef privado. La suite principal, en posición elevada, se sitúa bajo una elegante cúpula, con vistas panorámicas y espacios exteriores privados.\n\nLa piscina principal mide 20 metros, enmarcada por una amplia terraza; una segunda piscina deportiva se sitúa en el nivel superior. Los jardines se apoyan en el filo del acantilado, dejando que sean las vistas las que hablen.\n\nUna dirección trofeo discreta en una de las posiciones más protegidas y difíciles de comprar de todo el Mediterráneo español. Visita sólo mediante presentación formal."
+        }
+      }
+    },
+    {
+      "id_suggested": "mallorca-port-andratx-ullastre-5353",
+      "source_url": "https://www.knightfrank.com/properties/residential/for-sale/port-andratx-mallorca-illes-balears/rsi012495353",
+      "source_portal": "knightfrank.com",
+      "city": "Port d'Andratx",
+      "neighborhood": "La Mola",
+      "address_approx": "La Mola peninsula, Port d'Andratx",
+      "title": "Casa Ullastre: La Mola Estate Over the Bay of Andratx",
+      "description_short": "Trophy compound of four buildings on a 4,600 m² flat plot on La Mola, Port d'Andratx, with 13 bedrooms, 12 bathrooms and unparalleled views over Dragonera Island.",
+      "description_long": "An exclusive estate on the enchanting La Mola peninsula — the prestige spine of Port d'Andratx — comprising four distinct buildings and a total of thirteen bedrooms and twelve bathrooms across an exceptionally flat 4,600 m² plot.\n\nUpon arrival, the property delivers what it promises in the address: unbroken sea views, with Dragonera Island unfolding directly in front of the main building. This is a genuine entertaining house, configured to serve a multigenerational family or to host on a serious scale.\n\nThe main house carries two spacious open living areas, a modern kitchen with side-terrace access and a pool terrace with sea views. The upper floor houses the principal suite with en suite and three further en-suite bedrooms, all with the same view. Over 400 m² of wraparound terraces follow the sun through the day.\n\nBeneath the main house sit a fitness room and a self-contained apartment with two bedrooms, two bathrooms and an open kitchen-living-dining area. At the estate entrance, the Nanny House includes three bedrooms, two bathrooms, a generous living room and a service kitchen with cold storage and wine cellar. The guest house adds a further four bedrooms with en suites.\n\nBuilt in 1997 and continually maintained, Casa Ullastre combines tradition with state-of-the-art technology — gas heating, heat pump, underfloor heating. A fourth, 170 m² building remains available for personal customisation.\n\nA Port d'Andratx address at the very top of the market.",
+      "price": 37000000,
+      "currency": "EUR",
+      "sqm": 1500,
+      "bedrooms": 13,
+      "bathrooms": 12,
+      "property_type": "Villa",
+      "features": [
+        "sea view",
+        "four buildings",
+        "4,600 m² plot",
+        "wine cellar",
+        "staff accommodation",
+        "Dragonera Island view"
+      ],
+      "coordinates": {
+        "lat": 39.5435,
+        "lng": 2.3897
+      },
+      "photo_urls": [
+        "https://content.knightfrank.com/property/rsi012495353/images/30a99ae2-ce6a-42bc-9fc7-5b6af737a3f3-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012495353/images/dd44c01f-b541-4def-9f0c-549b3970b494-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012495353/images/68e3951a-c7a3-44a0-8633-b527e0a647f2-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012495353/images/27cca6cc-188f-438d-a9f9-6c217e182d4f-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012495353/images/43044848-a70b-415e-8968-82b6cf256790-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012495353/images/b58b2903-5ed3-4430-8ab8-6041d4aa17cf-0.jpg?cio=true&w=1200",
+        "https://content.knightfrank.com/property/rsi012495353/images/4e791bb0-0410-4e3a-a022-39a77f7ee5cb-0.jpg?cio=true&w=1200"
+      ],
+      "photos_source_note": "Photos hotlinked from Knight Frank CDN (real listing)",
+      "i18n": {
+        "en": {
+          "title": "Casa Ullastre: La Mola Estate Over the Bay of Andratx",
+          "description_short": "Trophy compound of four buildings on a 4,600 m² flat plot on La Mola, Port d'Andratx, with 13 bedrooms, 12 bathrooms and unparalleled views over Dragonera Island.",
+          "description_long": "An exclusive estate on the enchanting La Mola peninsula — the prestige spine of Port d'Andratx — comprising four distinct buildings and a total of thirteen bedrooms and twelve bathrooms across an exceptionally flat 4,600 m² plot.\n\nUpon arrival, the property delivers what it promises in the address: unbroken sea views, with Dragonera Island unfolding directly in front of the main building. This is a genuine entertaining house, configured to serve a multigenerational family or to host on a serious scale.\n\nThe main house carries two spacious open living areas, a modern kitchen with side-terrace access and a pool terrace with sea views. The upper floor houses the principal suite with en suite and three further en-suite bedrooms, all with the same view. Over 400 m² of wraparound terraces follow the sun through the day.\n\nBeneath the main house sit a fitness room and a self-contained apartment with two bedrooms, two bathrooms and an open kitchen-living-dining area. At the estate entrance, the Nanny House includes three bedrooms, two bathrooms, a generous living room and a service kitchen with cold storage and wine cellar. The guest house adds a further four bedrooms with en suites.\n\nBuilt in 1997 and continually maintained, Casa Ullastre combines tradition with state-of-the-art technology — gas heating, heat pump, underfloor heating. A fourth, 170 m² building remains available for personal customisation.\n\nA Port d'Andratx address at the very top of the market."
+        },
+        "it": {
+          "title": "Casa Ullastre: tenuta a La Mola affacciata sulla baia di Andratx",
+          "description_short": "Tenuta trofeo composta da quattro edifici su un appezzamento pianeggiante di 4.600 m² a La Mola, Port d'Andratx, con 13 camere, 12 bagni e vista impareggiabile sull'isola di Dragonera.",
+          "description_long": "Tenuta esclusiva sulla suggestiva penisola di La Mola — la dorsale di prestigio di Port d'Andratx — composta da quattro edifici distinti per un totale di tredici camere e dodici bagni su un appezzamento eccezionalmente pianeggiante di 4.600 m².\n\nAll'arrivo, la proprietà mantiene la promessa dell'indirizzo: vista mare ininterrotta, con l'isola di Dragonera che si dispiega direttamente di fronte all'edificio principale. È una vera entertaining house, configurata per servire una famiglia multigenerazionale o per ospitare su grande scala.\n\nLa casa principale porta due ampie zone giorno open space, una cucina moderna con accesso a una terrazza laterale e una pool terrace con vista mare. Il piano superiore ospita la suite principale con bagno en suite e altre tre camere en suite, tutte con la stessa vista. Oltre 400 m² di terrazze a U seguono il sole nel corso della giornata.\n\nSotto la casa principale si trovano una fitness room e un appartamento autonomo con due camere, due bagni e zona giorno open space con angolo cottura. All'ingresso della tenuta, la Nanny House offre tre camere, due bagni, un salotto generoso e una cucina di servizio con cella frigorifera e cantina. La guest house aggiunge altre quattro camere con bagni en suite.\n\nCostruita nel 1997 e costantemente mantenuta, Casa Ullastre combina tradizione e tecnologia all'avanguardia — riscaldamento a gas, pompa di calore, riscaldamento a pavimento. Un quarto edificio di 170 m² resta disponibile per una personalizzazione.\n\nUn indirizzo Port d'Andratx al vertice assoluto del mercato."
+        },
+        "es": {
+          "title": "Casa Ullastre: finca en La Mola frente a la bahía de Andratx",
+          "description_short": "Finca trofeo compuesta por cuatro edificios sobre una parcela llana de 4.600 m² en La Mola, Port d'Andratx, con 13 dormitorios, 12 baños y vistas inigualables a la isla de Dragonera.",
+          "description_long": "Finca exclusiva en la cautivadora península de La Mola — la espina dorsal de prestigio de Port d'Andratx — compuesta por cuatro edificios distintos con un total de trece dormitorios y doce baños sobre una parcela excepcionalmente llana de 4.600 m².\n\nA la llegada, la propiedad cumple lo que promete la dirección: vistas al mar sin interrupciones, con la isla de Dragonera desplegándose justo frente al edificio principal. Es una auténtica casa para recibir, configurada para una familia multigeneracional o para acoger a gran escala.\n\nLa casa principal cuenta con dos amplios salones en planta abierta, una cocina moderna con acceso a una terraza lateral y una terraza con piscina con vistas al mar. La planta superior alberga la suite principal con baño en suite y otros tres dormitorios en suite, todos con la misma vista. Más de 400 m² de terrazas envolventes siguen al sol a lo largo del día.\n\nBajo la casa principal se sitúan un gimnasio y un apartamento independiente con dos dormitorios, dos baños y zona de salón-comedor con cocina americana. A la entrada de la finca, la Nanny House incluye tres dormitorios, dos baños, un salón generoso y una cocina de servicio con cámara frigorífica y bodega. La casa de invitados añade otros cuatro dormitorios con baños en suite.\n\nConstruida en 1997 y mantenida con esmero, Casa Ullastre combina la tradición con tecnología puntera — calefacción de gas, bomba de calor, suelo radiante. Un cuarto edificio de 170 m² queda disponible para personalización.\n\nUna dirección de Port d'Andratx en el vértice absoluto del mercado."
         }
       }
     }
