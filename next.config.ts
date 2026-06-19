@@ -13,6 +13,7 @@ const nextConfig: NextConfig = {
       { protocol: "https", hostname: "content.knightfrank.com" },
       { protocol: "https", hostname: "media.rightmove.co.uk" },
       { protocol: "https", hostname: "static3.agimonline.com" },
+      { protocol: "https", hostname: "fotos.imghs.net" },
     ],
   },
 };

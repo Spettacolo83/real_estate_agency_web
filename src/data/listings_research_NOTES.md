@@ -257,3 +257,27 @@ Inoltre, in `london-mayfair-trophy-penthouse-1167` il titolo ES contiene "pentho
 
 ~55 minuti (lettura completa dei 90 campi + 3 batch di correzioni Python + verifica con regex residui + aggiornamento NOTES).
 
+
+## Mallorca v3 — Pisos.com scrape (2026-06-19)
+
+Sostituiti 7 listing Knight Frank con 7 listing reali da pisos.com per ridurre range entry. Mantenuti 3 KF luxury come anchor (Sóller €1.75M, Deià €3.3M, Casa Ullastre €37M).
+
+**7 nuovi listing Pisos.com**:
+| Slug | Prezzo | Zona |
+|---|---|---|
+| palma-el-terreno-studio | €200K | Palma El Terreno |
+| palma-jaume-iii-studio | €275K | Palma Jaume III |
+| platja-palma-2bed | €260K | Palma Platja de Palma |
+| porto-cristo-2bed | €299K | Porto Cristo |
+| palma-pere-garau-penthouse | €345K | Palma Pere Garau |
+| palma-nou-llevant-2bed | €348K | Palma Nou Llevant |
+| palma-bons-aires-penthouse | €380K | Palma Bons Aires |
+
+**Caveat onesta — Stefano**: Pisos.com per Mallorca NON ha listing genuinamente sotto €100K. I prezzi €30K-€50K visti nella search page erano garage/posti auto allegati ai listing (pattern composito spagnolo). I detail page reali mostrano €200K come prezzo entry. Idealista/fotocasa/habitaclia tutti Cloudflare-blocked. Knight Frank è solo lusso. Per scendere sotto €100K servirebbe headless browser su idealista, oppure portali agenzie locali che non hanno foto strutturate (>20 portali testati, solo Pisos.com e Knight Frank passano curl).
+
+**Foto**: TUTTE da `fotos.imghs.net/fchm-wp/` (CDN pisos.com Schibsted), formato webp, verificate HEAD 200.
+
+**Note tecniche**:
+- UA Googlebot/2.1 obbligatorio per Pisos.com search pages
+- UA Mozilla/5.0 sufficiente per fotos.imghs.net CDN
+- Detail page parsing: prezzo da `<title>`, sqm/beds/baths da meta description, foto da `data-src` con pattern `fchm-wp`
